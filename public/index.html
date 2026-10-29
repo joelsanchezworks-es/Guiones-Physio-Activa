@@ -1,0 +1,518 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Guiones Physio Activa</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%231f7a5a'/%3E%3Cpath d='M11 9h7a5 5 0 0 1 0 10h-4v4h-3z' fill='white'/%3E%3C/svg%3E">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/3.1.6/purify.min.js"></script>
+<style>
+:root{
+  --accent:#1f7a5a;--accent-ink:#fff;--accent-soft:#e6f2ec;--accent-line:#b9dccb;
+  --bg:#f5f4f0;--panel:#fff;--ink:#1b2320;--muted:#5f6a65;--line:#e2dfd7;--hover:#f0eee8;
+  --tag:#1d2622;--tag-ink:#f2f5f3;--warn:#8a5300;--warn-bg:#fff6e5;--warn-line:#f0d29a;
+  --danger:#c0392b;--ok:#1f7a5a;--shadow:0 1px 2px rgba(0,0,0,.04),0 4px 16px rgba(0,0,0,.04);
+  --sidebar:330px;--radius:14px;
+}
+@media (prefers-color-scheme:dark){
+  :root{
+    --accent:#3fb388;--accent-ink:#06140e;--accent-soft:#16291f;--accent-line:#265440;
+    --bg:#0f1311;--panel:#171c1a;--ink:#e8ecea;--muted:#9aa5a0;--line:#29312d;--hover:#1e2522;
+    --tag:#e8ecea;--tag-ink:#101412;--warn:#f0b35a;--warn-bg:#2a2112;--warn-line:#5a4520;
+    --danger:#ff7a6b;--ok:#3fb388;--shadow:none;
+  }
+}
+*{box-sizing:border-box}
+html,body{margin:0;height:100%}
+body{background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",sans-serif;-webkit-font-smoothing:antialiased}
+button,input{font:inherit;color:inherit}
+button{cursor:pointer}
+a{color:var(--accent)}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+/* ---------- layout ---------- */
+.app{display:grid;grid-template-columns:var(--sidebar) 1fr;height:100vh}
+aside{border-right:1px solid var(--line);background:var(--panel);display:flex;flex-direction:column;min-height:0}
+main{overflow-y:auto;min-width:0}
+.side-head{padding:20px 18px 12px;border-bottom:1px solid var(--line)}
+.brand{display:flex;align-items:center;gap:10px;margin:0 0 14px;font-size:17px;font-weight:700;letter-spacing:-.01em}
+.brand-mark{width:28px;height:28px;border-radius:8px;background:var(--accent);color:var(--accent-ink);display:grid;place-items:center;font-size:14px;font-weight:800;flex:none}
+.search{width:100%;padding:9px 12px;border:1px solid var(--line);border-radius:10px;background:var(--bg)}
+.filters{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}
+.filter{border:1px solid var(--line);background:transparent;border-radius:999px;padding:4px 11px;font-size:13px;color:var(--muted)}
+.filter[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink);font-weight:600}
+.list{overflow-y:auto;padding:8px 10px 24px;flex:1}
+.group{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);padding:14px 8px 6px}
+.item{display:block;width:100%;text-align:left;border:0;background:transparent;border-radius:10px;padding:9px 10px;margin:1px 0;text-decoration:none;color:inherit}
+.item:hover{background:var(--hover)}
+.item[aria-current="page"]{background:var(--accent-soft);box-shadow:inset 3px 0 0 var(--accent)}
+.item-title{font-weight:600;font-size:14px;line-height:1.3}
+.item-meta{display:flex;gap:5px;flex-wrap:wrap;margin-top:4px}
+.mini{font-size:11px;padding:1px 7px;border-radius:999px;background:var(--hover);color:var(--muted);white-space:nowrap}
+.mini.ads{background:var(--accent);color:var(--accent-ink)}
+.mini.org{background:var(--accent-soft);color:var(--accent);border:1px solid var(--accent-line)}
+.empty{color:var(--muted);padding:16px 10px;font-size:14px}
+
+/* ---------- content ---------- */
+.view{max-width:1040px;margin:0 auto;padding:28px 28px 80px}
+.back{display:none;border:0;background:transparent;color:var(--accent);font-weight:600;padding:0;margin-bottom:14px}
+.welcome{display:grid;place-items:center;min-height:70vh;text-align:center;color:var(--muted)}
+.welcome h2{color:var(--ink);margin:0 0 6px}
+h1.title{font-size:28px;line-height:1.2;letter-spacing:-.02em;margin:0 0 10px}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:16px}
+.chip{font-size:12.5px;padding:3px 10px;border-radius:999px;border:1px solid var(--line);background:var(--panel);color:var(--muted);white-space:nowrap}
+.chip.strong{background:var(--accent);border-color:var(--accent);color:var(--accent-ink);font-weight:600}
+.toolbar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:26px}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:var(--panel)}
+.seg button{border:0;background:transparent;padding:7px 14px;font-weight:600;font-size:13px;color:var(--muted)}
+.seg button[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink)}
+.btn{border:1px solid var(--line);background:var(--panel);border-radius:10px;padding:7px 13px;font-size:13.5px;font-weight:600}
+.btn:hover{background:var(--hover)}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.btn.primary:hover{filter:brightness(1.05)}
+.btn.small{padding:4px 10px;font-size:12.5px}
+section{margin-bottom:34px}
+h2.sec{font-size:13px;font-weight:700;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);margin:0 0 12px}
+.grid{display:grid;gap:12px}
+.ficha{grid-template-columns:repeat(4,minmax(0,1fr))}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:16px;box-shadow:var(--shadow);min-width:0}
+.label{font-size:11.5px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin-bottom:4px}
+.ficha .card p{margin:0;font-size:14px}
+
+/* hooks */
+.hooks{grid-template-columns:repeat(2,minmax(0,1fr))}
+.hook{display:flex;flex-direction:column;gap:10px}
+.hook.rec{grid-column:1/-1;border:2px solid var(--accent)}
+.hook-head{display:flex;justify-content:space-between;gap:8px;align-items:center}
+.hook-id{font-weight:700;font-size:13px;color:var(--muted)}
+.badge{font-size:12px;font-weight:700;padding:3px 10px;border-radius:999px;background:var(--accent);color:var(--accent-ink);white-space:nowrap}
+.say{font-size:20px;line-height:1.35;font-weight:650;letter-spacing:-.01em;margin:0}
+.hook.rec .say{font-size:24px}
+.see{font-size:14px;color:var(--muted);margin:0}
+.see b{color:var(--ink);font-weight:600}
+.ost{display:inline-block;align-self:flex-start;background:var(--tag);color:var(--tag-ink);font-weight:700;font-size:13px;padding:4px 10px;border-radius:6px;max-width:100%}
+.hyp{font-size:13px;color:var(--muted);border-top:1px dashed var(--line);padding-top:8px;margin:auto 0 0}
+
+/* timeline */
+.timeline{display:flex;flex-direction:column;gap:10px}
+.row{display:grid;grid-template-columns:130px minmax(0,1fr) minmax(0,1.5fr);gap:16px;align-items:start}
+.when{display:flex;flex-direction:column;gap:6px}
+.time{font-weight:800;font-size:15px;font-variant-numeric:tabular-nums}
+.block{align-self:flex-start;font-size:12px;font-weight:700;padding:2px 9px;border-radius:999px;background:var(--accent-soft);color:var(--accent);border:1px solid var(--accent-line)}
+.block.cta{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.row .see{color:var(--ink)}
+.row .say{font-size:19px}
+.said{display:flex;flex-direction:column;gap:8px}
+
+/* copy */
+.copy{grid-template-columns:repeat(2,minmax(0,1fr))}
+.copy .wide{grid-column:1/-1}
+.copy-head{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:8px}
+.count{font-size:12px;font-variant-numeric:tabular-nums;color:var(--ok);font-weight:600}
+.count.over{color:var(--danger)}
+.copy p{margin:0;white-space:pre-wrap;overflow-wrap:anywhere}
+.tags{display:flex;gap:6px;flex-wrap:wrap}
+.tags span{font-size:13px;color:var(--accent);font-weight:600}
+
+ul.notes{margin:0;padding-left:20px}
+ul.notes li{margin:4px 0}
+.warnbox{background:var(--warn-bg);border:1px solid var(--warn-line);border-radius:var(--radius);padding:14px 18px}
+.warnbox h2.sec{color:var(--warn)}
+.warnbox ul{margin:0;padding-left:20px}
+
+/* docs */
+.doc{overflow-wrap:anywhere}
+.doc h1{font-size:26px;letter-spacing:-.02em}
+.doc table{border-collapse:collapse;width:100%;font-size:13.5px;display:block;overflow-x:auto}
+.doc th,.doc td{border:1px solid var(--line);padding:6px 9px;vertical-align:top;text-align:left}
+.doc th{background:var(--accent-soft)}
+.doc code{background:var(--hover);padding:1px 5px;border-radius:4px;font-size:.9em}
+.doc blockquote{margin:12px 0;padding:8px 14px;border-left:3px solid var(--accent);background:var(--accent-soft);border-radius:0 8px 8px 0}
+
+/* teleprompter */
+.prompter{position:fixed;inset:0;background:#000;color:#fff;z-index:50;display:none;flex-direction:column}
+.prompter.open{display:flex}
+.p-bar{display:flex;gap:8px;align-items:center;justify-content:space-between;padding:12px 16px;background:#000;border-bottom:1px solid #222}
+.p-bar .btn{background:#141414;border-color:#333;color:#fff}
+.p-bar .ctl{display:flex;gap:8px}
+.p-body{overflow-y:auto;flex:1;padding:6vh 6vw 30vh}
+.p-block{margin-bottom:7vh}
+.p-tag{font-size:16px;color:#7fd3b0;font-weight:700;letter-spacing:.06em;text-transform:uppercase;margin-bottom:10px}
+.p-say{font-size:var(--ps,48px);line-height:1.3;font-weight:700;margin:0}
+.p-alt{border-top:1px solid #333;padding-top:4vh}
+.p-alt .p-say{font-size:calc(var(--ps,48px)*.7);color:#cfcfcf;margin-bottom:3vh}
+
+.toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%) translateY(20px);background:var(--tag);color:var(--tag-ink);padding:9px 16px;border-radius:10px;font-weight:600;font-size:14px;opacity:0;transition:.2s;pointer-events:none;z-index:60}
+.toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
+.err{color:var(--danger)}
+
+/* ---------- responsive ---------- */
+@media (max-width:980px){
+  .ficha{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .row{grid-template-columns:100px minmax(0,1fr)}
+  .row .said{grid-column:2}
+}
+@media (max-width:760px){
+  .app{grid-template-columns:1fr;height:auto;min-height:100vh}
+  aside{border-right:0;min-height:100vh}
+  main{overflow:visible}
+  body.detail aside{display:none}
+  body:not(.detail) main{display:none}
+  .back{display:inline-block}
+  .view{padding:16px 16px 64px}
+  h1.title{font-size:23px}
+  .ficha,.hooks,.copy{grid-template-columns:1fr}
+  .row{grid-template-columns:1fr;gap:8px}
+  .row .said{grid-column:auto}
+  .when{flex-direction:row;align-items:center}
+  .hook.rec .say{font-size:21px}
+  .say{font-size:18px}
+}
+
+/* ---------- print ---------- */
+@media print{
+  :root{--bg:#fff;--panel:#fff;--ink:#000;--muted:#444;--line:#bbb;--accent:#1f5f47;--accent-ink:#fff;--accent-soft:#eef5f1;--tag:#000;--tag-ink:#fff;--shadow:none}
+  .app{display:block;height:auto}
+  aside,.toolbar,.back,.copy-head .btn,.prompter,.toast{display:none!important}
+  main{overflow:visible}
+  body,body.detail main,body:not(.detail) main{display:block}
+  .view{max-width:none;padding:0}
+  .card,.row,.warnbox{break-inside:avoid}
+  .ost,.badge,.chip.strong,.block{-webkit-print-color-adjust:exact;print-color-adjust:exact}
+  section{margin-bottom:18px}
+}
+</style>
+</head>
+<body>
+<div class="app">
+  <aside>
+    <div class="side-head">
+      <p class="brand"><span class="brand-mark" aria-hidden="true">P</span>Guiones · Physio Activa</p>
+      <input class="search" id="q" type="search" placeholder="Buscar por tema…" aria-label="Buscar por tema">
+      <div class="filters" role="group" aria-label="Filtrar">
+        <button class="filter" data-f="all" aria-pressed="true">Todos</button>
+        <button class="filter" data-f="ads" aria-pressed="false">Ads</button>
+        <button class="filter" data-f="organico" aria-pressed="false">Orgánico</button>
+        <button class="filter" data-f="doc" aria-pressed="false">Documentos</button>
+      </div>
+    </div>
+    <nav class="list" id="list" aria-label="Guiones y documentos"><p class="empty">Cargando…</p></nav>
+  </aside>
+  <main id="main"><div class="view" id="view"></div></main>
+</div>
+
+<div class="prompter" id="prompter" role="dialog" aria-modal="true" aria-label="Leer a cámara">
+  <div class="p-bar">
+    <strong id="p-title"></strong>
+    <div class="ctl">
+      <button class="btn" id="p-minus" aria-label="Letra más pequeña">A−</button>
+      <button class="btn" id="p-plus" aria-label="Letra más grande">A+</button>
+      <button class="btn" id="p-close">Cerrar</button>
+    </div>
+  </div>
+  <div class="p-body" id="p-body"></div>
+</div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script>
+"use strict";
+const ANGULOS = {
+  A: "A · Sin espera", B: "B · Sin tiempo (hasta 20 h)", C: "C · Dolor concreto",
+  D: "D · Más que un masaje", E: "E · A domicilio", F: "F · Seguro / MTT gratis",
+};
+const USO = { ads: "Ads", organico: "Orgánico" };
+const LANG_NAME = { fr: "FR", de: "DE" };
+
+const $ = (id) => document.getElementById(id);
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const store = {
+  get(k, d) { try { return localStorage.getItem(k) ?? d; } catch { return d; } },
+  set(k, v) { try { localStorage.setItem(k, v); } catch {} },
+};
+
+let index = [];
+let filter = "all";
+let current = null;      // guion abierto
+let lang = store.get("pa-lang", "fr");
+let pSize = Number(store.get("pa-prompter-size", "48")) || 48;
+
+function toast(msg) {
+  const t = $("toast");
+  t.textContent = msg;
+  t.classList.add("show");
+  clearTimeout(toast._t);
+  toast._t = setTimeout(() => t.classList.remove("show"), 1600);
+}
+
+async function copyText(text) {
+  try {
+    await navigator.clipboard.writeText(text);
+  } catch {
+    const ta = document.createElement("textarea");
+    ta.value = text;
+    ta.style.position = "fixed";
+    ta.style.opacity = "0";
+    document.body.appendChild(ta);
+    ta.select();
+    try { document.execCommand("copy"); } catch {}
+    ta.remove();
+  }
+  toast("Copiado");
+}
+
+const fmtDate = (d) => {
+  if (!d) return "General";
+  const [y, m, day] = d.split("-").map(Number);
+  return new Date(y, m - 1, day).toLocaleDateString("es-ES", { weekday: "short", day: "numeric", month: "long", year: "numeric" });
+};
+
+/* ---------------- lista ---------------- */
+function renderList() {
+  const q = $("q").value.trim().toLowerCase();
+  const items = index.filter((it) => {
+    if (filter === "doc" && it.kind !== "doc") return false;
+    if ((filter === "ads" || filter === "organico") && (it.kind !== "guion" || it.uso !== filter)) return false;
+    if (!q) return true;
+    return [it.titulo, it.tema, it.file].join(" ").toLowerCase().includes(q);
+  });
+  if (!items.length) {
+    $("list").innerHTML = `<p class="empty">${index.length ? "Nada coincide con la búsqueda." : "Todavía no hay guiones. Escribe /guion [tema] en Claude Code."}</p>`;
+    return;
+  }
+  const route = location.hash.replace(/^#\//, "");
+  let html = "", last;
+  for (const it of items) {
+    const g = it.fecha || "";
+    if (g !== last) { html += `<div class="group">${esc(fmtDate(it.fecha))}</div>`; last = g; }
+    const meta = it.kind === "guion"
+      ? `<span class="mini ${it.uso === "ads" ? "ads" : "org"}">${esc(USO[it.uso] || it.uso)}</span>
+         <span class="mini">Ángulo ${esc(it.angulo)}</span><span class="mini">${esc(it.duracion)}</span>
+         <span class="mini">${esc((it.idiomas || []).map((l) => LANG_NAME[l] || l).join(" + "))}</span>`
+      : `<span class="mini">Documento</span>`;
+    html += `<a class="item" href="#/${esc(it.id)}"${route === it.id ? ' aria-current="page"' : ""}>
+      <div class="item-title">${esc(it.titulo)}</div><div class="item-meta">${meta}</div></a>`;
+  }
+  $("list").innerHTML = html;
+}
+
+/* ---------------- guion ---------------- */
+const L = (obj) => (obj && (obj[lang] ?? obj[current?.idiomas?.[0]])) || "";
+
+function guionText(g) {
+  const lines = [`${g.titulo}`, `${USO[g.uso] || g.uso} · ${ANGULOS[g.angulo] || g.angulo} · ${g.duracion} · Reel 9:16 · ${LANG_NAME[lang]}`, ""];
+  lines.push("HOOKS");
+  for (const h of sortedHooks(g)) {
+    lines.push(`${h.id}${h.recomendado ? " (recomendado)" : ""} · ${h.tipo}`);
+    lines.push(`  Se dice: ${L(h.verbal)}`);
+    lines.push(`  Se ve: ${h.visual}`);
+    lines.push(`  Texto en pantalla: ${L(h.texto)}`);
+  }
+  lines.push("", "GUION");
+  for (const b of g.guion) {
+    lines.push(`${b.tiempo} · ${b.bloque}`);
+    lines.push(`  Se ve: ${b.visual}`);
+    lines.push(`  Se dice: ${L(b.dice)}`);
+    lines.push(`  Texto en pantalla: ${L(b.texto)}`);
+  }
+  const c = g.copy?.[lang];
+  if (c) {
+    lines.push("", "COPY");
+    if (g.uso === "ads") lines.push(`Corto: ${c.corto}`, `Largo:\n${c.largo}`, `Titular: ${c.titular}`, `Descripción: ${c.descripcion}`);
+    else lines.push(c.post || "", (c.hashtags || []).join(" "));
+  }
+  if (g.notas?.length) lines.push("", "NOTAS", ...g.notas.map((n) => `- ${n}`));
+  if (g.pendientes?.length) lines.push("", "PENDIENTES", ...g.pendientes.map((n) => `- ${n}`));
+  return lines.join("\n");
+}
+
+const sortedHooks = (g) => [...g.hooks].sort((a, b) => (b.recomendado === true) - (a.recomendado === true));
+
+function copyCard(label, text, limit, wide) {
+  const n = [...(text || "")].length;
+  const counter = limit ? `<span class="count${n > limit ? " over" : ""}">${n} / ${limit}</span>` : `<span class="count" style="color:var(--muted)">${n} car.</span>`;
+  return `<div class="card${wide ? " wide" : ""}">
+    <div class="copy-head"><span class="label" style="margin:0">${esc(label)}</span>
+      <span style="display:flex;gap:8px;align-items:center">${counter}<button class="btn small" data-copy="${esc(text)}">Copiar</button></span></div>
+    <p>${esc(text)}</p></div>`;
+}
+
+function renderGuion(g) {
+  current = g;
+  if (!g.idiomas.includes(lang)) lang = g.idiomas[0];
+  document.title = `${g.titulo} · Guiones Physio Activa`;
+  const two = g.idiomas.length > 1;
+  const langBtns = two
+    ? `<div class="seg" role="group" aria-label="Idioma">${g.idiomas.map((l) =>
+        `<button data-lang="${esc(l)}" aria-pressed="${l === lang}">${esc(LANG_NAME[l] || l)}</button>`).join("")}</div>`
+    : `<span class="chip">${esc(LANG_NAME[g.idiomas[0]])}</span>`;
+
+  const hooks = sortedHooks(g).map((h) => `
+    <article class="card hook${h.recomendado ? " rec" : ""}">
+      <div class="hook-head"><span class="hook-id">${esc(h.id)} · ${esc(h.tipo)}</span>${h.recomendado ? '<span class="badge">★ Recomendado</span>' : ""}</div>
+      <div><div class="label">Se dice</div><p class="say">${esc(L(h.verbal))}</p></div>
+      <p class="see"><b>Se ve:</b> ${esc(h.visual)}</p>
+      <div><div class="label">Texto en pantalla</div><span class="ost">${esc(L(h.texto))}</span></div>
+      <p class="hyp">${esc(h.hipotesis)}</p>
+    </article>`).join("");
+
+  const rows = g.guion.map((b) => `
+    <div class="card row">
+      <div class="when"><span class="time">${esc(b.tiempo)}</span><span class="block${b.bloque === "CTA" ? " cta" : ""}">${esc(b.bloque)}</span></div>
+      <div><div class="label">Se ve / se graba</div><p class="see">${esc(b.visual)}</p></div>
+      <div class="said"><div><div class="label">Se dice</div><p class="say">${esc(L(b.dice))}</p></div>
+        <div><span class="ost">${esc(L(b.texto))}</span></div></div>
+    </div>`).join("");
+
+  const c = g.copy?.[lang] || {};
+  const copy = g.uso === "ads"
+    ? copyCard("Texto principal corto", c.corto, 125) + copyCard("Titular", c.titular, 40) +
+      copyCard("Texto principal largo", c.largo, 0, true) + copyCard("Descripción", c.descripcion, 0, true)
+    : copyCard("Texto del post", c.post, 0, true) +
+      `<div class="card wide"><div class="copy-head"><span class="label" style="margin:0">Hashtags</span>
+        <button class="btn small" data-copy="${esc((c.hashtags || []).join(" "))}">Copiar</button></div>
+        <div class="tags">${(c.hashtags || []).map((t) => `<span>${esc(t)}</span>`).join("")}</div></div>`;
+
+  $("view").innerHTML = `
+    <button class="back" onclick="location.hash='#/'">← Todos</button>
+    <h1 class="title">${esc(g.titulo)}</h1>
+    <div class="chips">
+      <span class="chip strong">${esc(USO[g.uso] || g.uso)}</span>
+      <span class="chip">${esc(ANGULOS[g.angulo] || "Ángulo " + g.angulo)}</span>
+      <span class="chip">${esc(g.duracion)}</span>
+      <span class="chip">Reel 9:16</span>
+      <span class="chip">${esc(fmtDate(g.fecha))}</span>
+    </div>
+    <div class="toolbar">
+      ${langBtns}
+      <button class="btn primary" id="b-read">Leer a cámara</button>
+      <button class="btn" id="b-copy">Copiar guion</button>
+      <button class="btn" onclick="window.print()">Imprimir / PDF</button>
+    </div>
+
+    <section><h2 class="sec">Ficha</h2><div class="grid ficha">
+      <div class="card"><div class="label">Tema</div><p>${esc(g.tema)}</p></div>
+      <div class="card"><div class="label">Público</div><p>${esc(g.publico)}</p></div>
+      <div class="card"><div class="label">Localización</div><p>${esc(g.localizacion)}</p></div>
+      <div class="card"><div class="label">Quién sale</div><p>${esc(g.quien_sale)}</p></div>
+    </div></section>
+
+    <section><h2 class="sec">Hooks</h2><div class="grid hooks">${hooks}</div></section>
+    <section><h2 class="sec">Guion · ${esc(LANG_NAME[lang])}</h2><div class="timeline">${rows}</div></section>
+    <section><h2 class="sec">${g.uso === "ads" ? "Copy de Meta" : "Texto del post"} · ${esc(LANG_NAME[lang])}</h2><div class="grid copy">${copy}</div></section>
+    ${g.notas?.length ? `<section><h2 class="sec">Notas de grabación</h2><div class="card"><ul class="notes">${g.notas.map((n) => `<li>${esc(n)}</li>`).join("")}</ul></div></section>` : ""}
+    ${g.pendientes?.length ? `<section class="warnbox"><h2 class="sec">⚠ Pendientes</h2><ul>${g.pendientes.map((n) => `<li>${esc(n)}</li>`).join("")}</ul></section>` : ""}
+  `;
+  $("view").querySelectorAll("[data-lang]").forEach((b) => b.addEventListener("click", () => {
+    lang = b.dataset.lang;
+    store.set("pa-lang", lang);
+    const y = $("main").scrollTop, wy = window.scrollY;
+    renderGuion(g);
+    $("main").scrollTop = y; window.scrollTo(0, wy);
+  }));
+  $("b-read").addEventListener("click", openPrompter);
+  $("b-copy").addEventListener("click", () => copyText(guionText(g)));
+}
+
+/* ---------------- leer a cámara ---------------- */
+function openPrompter() {
+  const g = current;
+  if (!g) return;
+  $("p-title").textContent = `${g.titulo} · ${LANG_NAME[lang]}`;
+  const blocks = g.guion.map((b) => `<div class="p-block"><div class="p-tag">${esc(b.tiempo)} · ${esc(b.bloque)}</div><p class="p-say">${esc(L(b.dice))}</p></div>`).join("");
+  const alts = g.hooks.filter((h) => !h.recomendado).map((h) => `<p class="p-say">${esc(h.id)} · ${esc(L(h.verbal))}</p>`).join("");
+  $("p-body").innerHTML = blocks + `<div class="p-alt"><div class="p-tag">Hooks alternativos</div>${alts}</div>`;
+  $("prompter").style.setProperty("--ps", pSize + "px");
+  $("prompter").classList.add("open");
+  $("p-body").scrollTop = 0;
+  document.body.style.overflow = "hidden";
+  $("p-close").focus();
+}
+function closePrompter() {
+  $("prompter").classList.remove("open");
+  document.body.style.overflow = "";
+  $("b-read")?.focus();
+}
+function resizePrompter(d) {
+  pSize = Math.min(120, Math.max(24, pSize + d));
+  store.set("pa-prompter-size", String(pSize));
+  $("prompter").style.setProperty("--ps", pSize + "px");
+}
+$("p-close").addEventListener("click", closePrompter);
+$("p-plus").addEventListener("click", () => resizePrompter(6));
+$("p-minus").addEventListener("click", () => resizePrompter(-6));
+document.addEventListener("keydown", (e) => { if (e.key === "Escape" && $("prompter").classList.contains("open")) closePrompter(); });
+
+/* ---------------- documentos ---------------- */
+async function renderDoc(it) {
+  current = null;
+  document.title = `${it.titulo} · Guiones Physio Activa`;
+  $("view").innerHTML = `<button class="back" onclick="location.hash='#/'">← Todos</button><p class="empty">Cargando…</p>`;
+  try {
+    const r = await fetch("data/" + it.file.split("/").map(encodeURIComponent).join("/"));
+    if (!r.ok) throw new Error("No se pudo cargar el documento (" + r.status + ").");
+    const md = await r.text();
+    const html = window.marked && window.DOMPurify
+      ? DOMPurify.sanitize(marked.parse(md))
+      : `<pre style="white-space:pre-wrap">${esc(md)}</pre>`;
+    $("view").innerHTML = `<button class="back" onclick="location.hash='#/'">← Todos</button>
+      <div class="chips"><span class="chip strong">Documento</span><span class="chip">${esc(fmtDate(it.fecha))}</span><span class="chip">${esc(it.file)}</span></div>
+      <div class="toolbar"><button class="btn" onclick="window.print()">Imprimir / PDF</button></div>
+      <article class="doc">${html}</article>`;
+  } catch (e) {
+    $("view").innerHTML = `<button class="back" onclick="location.hash='#/'">← Todos</button><p class="err">${esc(e.message)}</p>`;
+  }
+}
+
+/* ---------------- rutas ---------------- */
+async function route() {
+  const id = decodeURIComponent(location.hash.replace(/^#\/?/, ""));
+  renderList();
+  const it = index.find((x) => x.id === id);
+  document.body.classList.toggle("detail", !!it);
+  $("main").scrollTop = 0; window.scrollTo(0, 0);
+  if (!it) {
+    current = null;
+    document.title = "Guiones Physio Activa";
+    const n = index.filter((x) => x.kind === "guion").length;
+    $("view").innerHTML = `<div class="welcome"><div><h2>Elige un guion</h2>
+      <p>${n} guion(es) y ${index.length - n} documento(s). En Claude Code escribe <code>/guion [tema]</code> para crear uno nuevo.</p></div></div>`;
+    return;
+  }
+  if (it.kind === "doc") return renderDoc(it);
+  $("view").innerHTML = `<p class="empty">Cargando…</p>`;
+  try {
+    const r = await fetch("data/" + it.file.split("/").map(encodeURIComponent).join("/"));
+    if (!r.ok) throw new Error("No se pudo cargar el guion (" + r.status + ").");
+    renderGuion(await r.json());
+  } catch (e) {
+    $("view").innerHTML = `<button class="back" onclick="location.hash='#/'">← Todos</button><p class="err">${esc(e.message)}</p>`;
+  }
+}
+
+document.querySelectorAll(".filter").forEach((b) => b.addEventListener("click", () => {
+  filter = b.dataset.f;
+  document.querySelectorAll(".filter").forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
+  renderList();
+}));
+$("q").addEventListener("input", renderList);
+$("view").addEventListener("click", (e) => {
+  const b = e.target.closest("[data-copy]");
+  if (b) copyText(b.dataset.copy);
+});
+window.addEventListener("hashchange", route);
+
+(async () => {
+  try {
+    const r = await fetch("data/index.json", { cache: "no-store" });
+    if (!r.ok) throw new Error("No se encontró data/index.json (" + r.status + "). ¿Se ejecutó npm run build?");
+    index = (await r.json()).items || [];
+  } catch (e) {
+    $("list").innerHTML = `<p class="empty err">${esc(e.message)}</p>`;
+  }
+  route();
+})();
+</script>
+</body>
+</html>

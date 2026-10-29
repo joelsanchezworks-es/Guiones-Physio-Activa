@@ -1,0 +1,189 @@
+{
+  "tipo": "guion",
+  "id": "2026-10-29-domicilio-postoperatorio",
+  "fecha": "2026-10-29",
+  "titulo": "Fisio a domicilio tras una operación",
+  "tema": "domicilio",
+  "angulo": "E",
+  "uso": "ads",
+  "duracion": "30 s",
+  "idiomas": [
+    "fr",
+    "de"
+  ],
+  "publico": "Hijos y familiares (35–65 años) de una persona que va a salir del hospital tras una operación, en la región de los Tres Lagos",
+  "localizacion": "Un domicilio: entrada, escalera y pasillo, más el coche",
+  "quien_sale": "Francisco, una figurante mayor con muletas y autorización firmada, y una persona del equipo como «hijo/a» (solo manos)",
+  "hooks": [
+    {
+      "id": "H1",
+      "tipo": "Lista o número",
+      "recomendado": true,
+      "verbal": {
+        "fr": "3 questions à poser avant la sortie d'hôpital de votre parent.",
+        "de": "3 Fragen, bevor Ihr Elternteil aus dem Spital kommt."
+      },
+      "visual": "Una mano escribe «1. 2. 3.» en una libreta junto a una bolsa de hospital preparada",
+      "texto": {
+        "fr": "Avant la sortie : 3 questions",
+        "de": "Vor dem Austritt: 3 Fragen"
+      },
+      "hipotesis": "Pilla al familiar justo antes del alta, cuando decide, y le promete una respuesta concreta"
+    },
+    {
+      "id": "H2",
+      "tipo": "Historia en primera persona del fisio",
+      "recomendado": false,
+      "verbal": {
+        "fr": "Je suis Francisco. Après une opération, je viens à vous.",
+        "de": "Ich bin Francisco. Nach einer Operation komme ich zu Ihnen."
+      },
+      "visual": "Francisco cierra la puerta del coche y camina hacia una casa con su maletín, hablando a cámara",
+      "texto": {
+        "fr": "Après l'opération, je viens",
+        "de": "Nach der OP komme ich"
+      },
+      "hipotesis": "Ver una cara da confianza en un servicio que entra en casa"
+    },
+    {
+      "id": "H3",
+      "tipo": "Llamada local",
+      "recomendado": false,
+      "verbal": {
+        "fr": "Votre père rentre à Estavayer après une opération ? On vient chez lui.",
+        "de": "Ihr Vater ist nach der OP zurück in Kerzers? Wir kommen."
+      },
+      "visual": "Pin de mapa sobre Estavayer (Kerzers en DE); corte a la puerta de una casa que se abre",
+      "texto": {
+        "fr": "Estavayer : on vient chez lui",
+        "de": "Kerzers: Wir kommen zu ihm"
+      },
+      "hipotesis": "Nombrar el pueblo confirma al instante que la zona está cubierta"
+    },
+    {
+      "id": "H4",
+      "tipo": "«Si te pasa esto…» (autoidentificación)",
+      "recomendado": false,
+      "verbal": {
+        "fr": "Si l'escalier de la maison est devenu un obstacle, regardez ça.",
+        "de": "Wenn die Treppe zu Hause zum Hindernis wird, schauen Sie hier."
+      },
+      "visual": "Plano bajo de la escalera de una casa con dos muletas apoyadas abajo, sin nadie",
+      "texto": {
+        "fr": "L'escalier, devenu un obstacle ?",
+        "de": "Treppe als Hindernis?"
+      },
+      "hipotesis": "Imagen típica de la vuelta a casa tras una operación: el familiar se reconoce en un segundo"
+    },
+    {
+      "id": "H5",
+      "tipo": "Demostración visual",
+      "recomendado": false,
+      "verbal": {
+        "fr": "Regardez : trois pas avec des béquilles, accompagnés par le physio.",
+        "de": "Schauen Sie: drei Schritte an Krücken, begleitet von der Physio."
+      },
+      "visual": "La figurante da tres pasos con muletas por el pasillo; Francisco a su lado, con la mano preparada",
+      "texto": {
+        "fr": "Reprendre ses pas, chez soi",
+        "de": "Wieder gehen, zu Hause"
+      },
+      "hipotesis": "Muestra el servicio en acción y transmite seguridad sin prometer resultados"
+    }
+  ],
+  "guion": [
+    {
+      "tiempo": "0–3 s",
+      "bloque": "Gancho",
+      "visual": "Una mano escribe «1. 2. 3.» en una libreta junto a una bolsa de hospital.",
+      "dice": {
+        "fr": "3 questions à poser avant la sortie d'hôpital de votre parent.",
+        "de": "3 Fragen, bevor Ihr Elternteil aus dem Spital kommt."
+      },
+      "texto": {
+        "fr": "Avant la sortie : 3 questions",
+        "de": "Vor dem Austritt: 3 Fragen"
+      }
+    },
+    {
+      "tiempo": "3–10 s",
+      "bloque": "Problema",
+      "visual": "Las manos del «hijo/a» cierran la bolsa; corte a la escalera de la casa con las muletas abajo.",
+      "dice": {
+        "fr": "Après une opération, le retour à la maison fait souvent peur. Qui va s'occuper de la rééducation ?",
+        "de": "Nach einer Operation macht die Rückkehr nach Hause oft Angst. Wer kümmert sich um die Reha?"
+      },
+      "texto": {
+        "fr": "Et la rééducation ?",
+        "de": "Und die Reha?"
+      }
+    },
+    {
+      "tiempo": "10–19 s",
+      "bloque": "Solución",
+      "visual": "Tarjeta «1»: Francisco llama al timbre con su maletín. Tarjeta «2»: mapa con pines (FR: Morat, Avenches, Estavayer, Neuchâtel · DE: Murten, Kerzers, Ins, Erlach).",
+      "dice": {
+        "fr": "Un : avec une prescription, la physio peut se faire à domicile. Deux : on vient dans toute la région des Trois-Lacs.",
+        "de": "Eins: Mit Verordnung geht Physio auch zu Hause. Zwei: Wir kommen in die ganze Drei-Seen-Region."
+      },
+      "texto": {
+        "fr": "1 · À domicile · 2 · Trois-Lacs",
+        "de": "1 · Zu Hause · 2 · Drei-Seen-Region"
+      }
+    },
+    {
+      "tiempo": "19–26 s",
+      "bloque": "Prueba",
+      "visual": "Tarjeta «3»: la figurante da tres pasos con muletas y Francisco a su lado; captura real de Google.",
+      "dice": {
+        "fr": "Trois : la première visite a lieu en général la même semaine. Reconnu par toutes les assurances.",
+        "de": "Drei: Der erste Besuch ist in der Regel in derselben Woche. Von allen Versicherungen anerkannt."
+      },
+      "texto": {
+        "fr": "3 · En général même semaine · ⭐ 4,9/5",
+        "de": "3 · In der Regel gleiche Woche · ⭐ 4,9/5"
+      }
+    },
+    {
+      "tiempo": "26–30 s",
+      "bloque": "CTA",
+      "visual": "Francisco en la puerta, con el chat de WhatsApp en el móvil.",
+      "dice": {
+        "fr": "Prescription prête ? Écrivez-nous sur WhatsApp.",
+        "de": "Verordnung bereit? Schreiben Sie uns auf WhatsApp."
+      },
+      "texto": {
+        "fr": "💬 WhatsApp 076 627 38 38",
+        "de": "💬 WhatsApp 076 627 38 38"
+      }
+    }
+  ],
+  "copy": {
+    "fr": {
+      "corto": "Votre parent sort bientôt de l'hôpital après une opération ? La physio peut continuer à domicile. Écrivez-nous.",
+      "largo": "Après une opération, le retour à la maison fait souvent peur. Qui va s'occuper de la rééducation ?\nPhysio Activa vient à domicile : la même physio qu'au cabinet, adaptée à la maison.\n✅ Avec prescription médicale, à domicile\n✅ Région des Trois-Lacs (Morat, Avenches, Estavayer, Neuchâtel…)\n✅ Première visite en général la même semaine\n✅ Reconnu par toutes les assurances · 4,9/5 sur Google\nLa prescription est prête ? Écrivez-nous sur WhatsApp avant la sortie.",
+      "titular": "Physio à domicile après l'opération",
+      "descripcion": "Avec prescription · Trois-Lacs"
+    },
+    "de": {
+      "corto": "Kommt Ihr Elternteil nach einer Operation bald aus dem Spital? Die Physio geht zu Hause weiter. Schreiben Sie uns.",
+      "largo": "Nach einer Operation macht die Rückkehr nach Hause oft Angst. Wer kümmert sich um die Reha?\nPhysio Activa kommt nach Hause: die gleiche Physio wie in der Praxis, angepasst an Ihr Zuhause.\n✅ Mit ärztlicher Verordnung, zu Hause\n✅ Drei-Seen-Region (Murten, Kerzers, Ins, Erlach …)\n✅ Erster Besuch in der Regel in derselben Woche\n✅ Von allen Versicherungen anerkannt · 4,9/5 auf Google\nIst die Verordnung bereit? Schreiben Sie uns auf WhatsApp – schon vor dem Austritt.",
+      "titular": "Physio zu Hause nach der Operation",
+      "descripcion": "Mit Verordnung · Drei-Seen-Region"
+    }
+  },
+  "notas": [
+    "Grabar primero los 5 hooks en bloque: 3 tomas FR + 3 tomas DE de cada uno.",
+    "Orden del cuerpo: libreta y bolsa → escalera con muletas → timbre → pasillo (tres pasos) → CTA en la puerta. El mapa con pines se hace en edición.",
+    "Material: bolsa de hospital, libreta y rotulador, dos muletas, maletín, chat de WhatsApp de la clínica, captura de Google del mismo día y autorizaciones de imagen.",
+    "Seguridad: la figurante solo camina con muletas si se siente cómoda, con Francisco siempre al lado; si no, se graba solo el plano de las muletas.",
+    "Cumplimiento: no se nombra la operación ni se diagnostica; «reprendre ses pas» describe el ejercicio, no garantiza un resultado; la primera visita va con «en général», como en la web.",
+    "Subtítulos siempre activos y grandes; tarjetas «1 · 2 · 3» con el color de la marca; cortes cada 2–3 s; número de WhatsApp en pantalla durante todo el CTA.",
+    "Música: piano y cuerdas suaves, cálida, unos 80 BPM, a volumen bajo."
+  ],
+  "pendientes": [
+    "Domicilio con escalera y figurante mayor que acepte grabar con muletas (autorización de imagen) [POR CONFIRMAR].",
+    "Se puede grabar el mismo día y en la misma casa que el guion de la caída.",
+    "Comprobar que la nota de Google sigue en 4,9/5 el día de la grabación."
+  ]
+}

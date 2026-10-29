@@ -1,0 +1,188 @@
+{
+  "tipo": "guion",
+  "id": "2026-10-29-domicilio",
+  "fecha": "2026-10-29",
+  "titulo": "Fisio a domicilio tras una caída",
+  "tema": "domicilio",
+  "angulo": "E",
+  "uso": "ads",
+  "duracion": "30 s",
+  "idiomas": [
+    "fr",
+    "de"
+  ],
+  "publico": "Hijos y familiares (35–65 años) de una persona mayor que apenas sale de casa desde una caída, en la región de los Tres Lagos",
+  "localizacion": "Un domicilio: puerta de entrada, salón y cocina, más el coche aparcado",
+  "quien_sale": "Francisco, una figurante mayor con autorización de imagen firmada y una persona del equipo como «hijo/a»",
+  "hooks": [
+    {
+      "id": "H1",
+      "tipo": "Pregunta directa al dolor",
+      "recomendado": false,
+      "verbal": {
+        "fr": "Votre mère a peur de tomber depuis son retour à la maison ?",
+        "de": "Hat Ihre Mutter seit dem Spital Angst zu stürzen?"
+      },
+      "visual": "Primer plano de una mano mayor que aprieta la barandilla; un pie duda en el escalón",
+      "texto": {
+        "fr": "Peur de tomber à la maison ?",
+        "de": "Angst vor dem Sturz zu Hause?"
+      },
+      "hipotesis": "Nombra el miedo concreto que el familiar ve cada día, sin señalar al lector"
+    },
+    {
+      "id": "H2",
+      "tipo": "Dato o contraste",
+      "recomendado": false,
+      "verbal": {
+        "fr": "Le cabinet ou le salon : la même physio, sans sortir.",
+        "de": "Praxis oder Wohnzimmer: dieselbe Physio, ohne aus dem Haus zu gehen."
+      },
+      "visual": "Pantalla partida: Francisco hace el mismo gesto en la consulta y en un salón",
+      "texto": {
+        "fr": "Cabinet = salon. Même physio.",
+        "de": "Praxis = Wohnzimmer. Gleiche Physio."
+      },
+      "hipotesis": "El contraste visual quita la duda de que a domicilio sea una versión reducida"
+    },
+    {
+      "id": "H3",
+      "tipo": "Error común",
+      "recomendado": false,
+      "verbal": {
+        "fr": "Erreur fréquente : attendre que papa puisse revenir au cabinet.",
+        "de": "Häufiger Fehler: warten, bis Papa wieder in die Praxis kann."
+      },
+      "visual": "Llaves del coche y un bastón sobre la mesa de la entrada; nadie los coge",
+      "texto": {
+        "fr": "Attendre qu'il puisse sortir ?",
+        "de": "Warten, bis er raus kann?"
+      },
+      "hipotesis": "Desmonta la excusa que retrasa la decisión del familiar"
+    },
+    {
+      "id": "H4",
+      "tipo": "Contraintuitivo o mito",
+      "recomendado": false,
+      "verbal": {
+        "fr": "Pas besoin de matériel : une chaise de cuisine suffit pour commencer.",
+        "de": "Kein Material nötig: Ein Küchenstuhl reicht für den Anfang."
+      },
+      "visual": "Francisco arrastra una silla de cocina hasta el plano y le da dos golpecitos",
+      "texto": {
+        "fr": "Le matériel ? Une chaise.",
+        "de": "Material? Ein Küchenstuhl."
+      },
+      "hipotesis": "Sorprende y elimina la objeción logística («no tenemos nada en casa»)"
+    },
+    {
+      "id": "H5",
+      "tipo": "POV o situación reconocible",
+      "recomendado": true,
+      "verbal": {
+        "fr": "POV : vous écrivez pour votre mère… et le physio passe chez elle.",
+        "de": "POV: Sie schreiben für Ihre Mutter – und die Physio kommt zu ihr."
+      },
+      "visual": "Pantalla de WhatsApp: se envía «Bonjour, c'est pour ma mère…»; corte a un dedo que toca el timbre",
+      "texto": {
+        "fr": "Un message. Le physio vient.",
+        "de": "Eine Nachricht. Die Physio kommt."
+      },
+      "hipotesis": "Enseña en 3 s la acción exacta que buscamos (escribir por WhatsApp) y atrae a quien ya ha decidido"
+    }
+  ],
+  "guion": [
+    {
+      "tiempo": "0–3 s",
+      "bloque": "Gancho",
+      "visual": "Grabación de pantalla de WhatsApp: se envía el mensaje. Corte: un dedo toca el timbre.",
+      "dice": {
+        "fr": "POV : vous écrivez pour votre mère… et le physio passe chez elle.",
+        "de": "POV: Sie schreiben für Ihre Mutter – und die Physio kommt zu ihr."
+      },
+      "texto": {
+        "fr": "Un message. Le physio vient.",
+        "de": "Eine Nachricht. Die Physio kommt."
+      }
+    },
+    {
+      "tiempo": "3–10 s",
+      "bloque": "Problema",
+      "visual": "El «hijo/a» en el coche aparcado mira una foto de su madre en el móvil; corte a la madre sentada junto a la ventana.",
+      "dice": {
+        "fr": "Depuis sa chute, elle sort à peine. Et vous ne pouvez pas toujours être là.",
+        "de": "Seit dem Sturz geht sie kaum noch raus. Und Sie können nicht immer da sein."
+      },
+      "texto": {
+        "fr": "Depuis la chute, elle sort à peine",
+        "de": "Seit dem Sturz kaum noch draussen"
+      }
+    },
+    {
+      "tiempo": "10–18 s",
+      "bloque": "Solución",
+      "visual": "Francisco entra con su maletín; trabaja con la figurante el gesto de levantarse de una silla.",
+      "dice": {
+        "fr": "Physio Activa vient à domicile dans toute la région des Trois-Lacs. La même physio qu'au cabinet.",
+        "de": "Physio Activa kommt in der ganzen Drei-Seen-Region nach Hause. Die gleiche Physio wie in der Praxis."
+      },
+      "texto": {
+        "fr": "🏠 La même physio, à la maison",
+        "de": "🏠 Die gleiche Physio, zu Hause"
+      }
+    },
+    {
+      "tiempo": "18–26 s",
+      "bloque": "Prueba",
+      "visual": "Detalle: la silla de cocina como apoyo; Francisco anota en su ficha; captura real del perfil de Google.",
+      "dice": {
+        "fr": "Première visite en général la même semaine. Reconnu par toutes les assurances, avec prescription. 4,9 sur 5 sur Google.",
+        "de": "Erster Besuch in der Regel in derselben Woche. Von allen Versicherungen anerkannt, mit Verordnung. 4,9 von 5 auf Google."
+      },
+      "texto": {
+        "fr": "En général la même semaine · ⭐ 4,9/5",
+        "de": "In der Regel gleiche Woche · ⭐ 4,9/5"
+      }
+    },
+    {
+      "tiempo": "26–30 s",
+      "bloque": "CTA",
+      "visual": "Francisco en la puerta de la casa, con el chat de WhatsApp en el móvil.",
+      "dice": {
+        "fr": "Votre proche a une prescription ? Écrivez-nous sur WhatsApp.",
+        "de": "Hat Ihr Angehöriger eine Verordnung? Schreiben Sie uns auf WhatsApp."
+      },
+      "texto": {
+        "fr": "💬 WhatsApp 076 627 38 38",
+        "de": "💬 WhatsApp 076 627 38 38"
+      }
+    }
+  ],
+  "copy": {
+    "fr": {
+      "corto": "Votre parent ne sort plus depuis sa chute ? Le physio vient à la maison, avec prescription. Écrivez-nous.",
+      "largo": "Après une chute, sortir de chez soi devient parfois le plus difficile. Et vous ne pouvez pas toujours être là.\nPhysio Activa vient à domicile : la même physio qu'au cabinet, adaptée à la maison.\n✅ Région des Trois-Lacs (Morat, Avenches, Payerne, Estavayer, Neuchâtel…)\n✅ Première visite en général la même semaine\n✅ Pas besoin de matériel à la maison\n✅ Reconnu par toutes les assurances, avec prescription médicale\nVotre proche a une prescription ? Écrivez-nous sur WhatsApp.",
+      "titular": "Le physio vient chez vos parents",
+      "descripcion": "Trois-Lacs · avec prescription"
+    },
+    "de": {
+      "corto": "Ihr Elternteil geht seit dem Sturz kaum raus? Die Physio kommt nach Hause, mit Verordnung. Schreiben Sie uns.",
+      "largo": "Nach einem Sturz ist das Rausgehen oft das Schwierigste. Und Sie können nicht immer da sein.\nPhysio Activa kommt nach Hause: die gleiche Physio wie in der Praxis, angepasst an Ihr Zuhause.\n✅ Drei-Seen-Region (Murten, Kerzers, Ins, Erlach …)\n✅ Erster Besuch in der Regel in derselben Woche\n✅ Kein Material zu Hause nötig\n✅ Von allen Versicherungen anerkannt, mit ärztlicher Verordnung\nHat Ihr Angehöriger eine Verordnung? Schreiben Sie uns auf WhatsApp.",
+      "titular": "Die Physio kommt zu Ihren Eltern",
+      "descripcion": "Drei-Seen-Region · mit Verordnung"
+    }
+  },
+  "notas": [
+    "Grabar primero los 5 hooks en bloque: 3 tomas FR + 3 tomas DE de cada uno.",
+    "Orden del cuerpo: puerta y timbre → salón (levantarse de la silla) → cocina (silla como apoyo) → coche (hijo/a) → CTA en la puerta.",
+    "Material: chat de WhatsApp de la clínica, maletín de Francisco, silla de cocina, bastón y llaves para H3, captura de Google del mismo día y autorizaciones de imagen impresas.",
+    "Cumplimiento: el copy habla del familiar, no del lector, y no hay diagnósticos. «En général la même semaine» sigue la web, sin prometerlo siempre.",
+    "Subtítulos siempre activos y algo más grandes; cortes cada 2–3 s con un ritmo algo pausado; el número de WhatsApp en pantalla durante todo el CTA.",
+    "Música: piano cálido o acústica suave, unos 80 BPM, a volumen bajo bajo la voz."
+  ],
+  "pendientes": [
+    "Domicilio para grabar y figurante mayor con autorización de imagen [POR CONFIRMAR].",
+    "Persona que hace de «hijo/a» [POR CONFIRMAR].",
+    "Comprobar que la nota de Google sigue en 4,9/5 el día de la grabación."
+  ]
+}
