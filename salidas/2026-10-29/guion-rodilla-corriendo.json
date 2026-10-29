@@ -1,0 +1,117 @@
+{
+  "tipo": "guion",
+  "id": "2026-10-29-rodilla-corriendo",
+  "fecha": "2026-10-29",
+  "titulo": "Volver a correr tras una lesión de rodilla",
+  "tema": "lesión de rodilla corriendo",
+  "angulo": "G",
+  "uso": "ads",
+  "duracion": "30 s",
+  "idiomas": ["fr", "de"],
+  "publico": "Corredores y personas que entrenan (25–55 años) que han tenido que parar por la rodilla y quieren volver a correr sin recaer",
+  "localizacion": "Un camino o una calle cerca de la clínica (hook y problema), sala de tratamiento y sala de fitness médico (InsGym, Ins)",
+  "quien_sale": "Francisco, y Paul como corredor (con autorización de imagen firmada)",
+  "hooks": [
+    {
+      "id": "H1", "tipo": "«Si te pasa esto…» (autoidentificación)", "recomendado": true,
+      "verbal": { "fr": "Si le genou vous arrête à chaque footing, regardez ça.", "de": "Wenn das Knie Sie bei jedem Lauf stoppt, schauen Sie hier.", "es": "Si la rodilla te para en cada salida a correr, mira esto." },
+      "visual": "Paul, con ropa de correr, frena en seco en un camino y se lleva las manos a la rodilla",
+      "texto": { "fr": "Le genou coupe la course ?", "de": "Knie stoppt jeden Lauf?", "es": "¿La rodilla corta la carrera?" },
+      "hipotesis": "Nombra la situación del corredor con la estructura «si…» (sin afirmar su salud) y en una imagen que se entiende sin sonido"
+    },
+    {
+      "id": "H2", "tipo": "Error común", "recomendado": false,
+      "verbal": { "fr": "Erreur : recourir dès que la douleur au genou disparaît.", "de": "Fehler: Wieder laufen, sobald das Knie nicht mehr schmerzt.", "es": "Error: volver a correr en cuanto desaparece el dolor de rodilla." },
+      "visual": "Manos que se atan las zapatillas a toda prisa; en edición aparece una X roja",
+      "texto": { "fr": "Plus de douleur ≠ prêt", "de": "Schmerzfrei ≠ bereit", "es": "Sin dolor ≠ listo" },
+      "hipotesis": "Corrige un error muy común entre corredores y abre la puerta al plan progresivo"
+    },
+    {
+      "id": "H3", "tipo": "Pregunta directa al dolor", "recomendado": false,
+      "verbal": { "fr": "Vous voulez recourir sans avoir peur que ça recommence ?", "de": "Sie wollen wieder laufen, ohne Angst vor dem Rückfall?", "es": "¿Quieres volver a correr sin miedo a que vuelva a pasar?" },
+      "visual": "Primer plano de unas zapatillas paradas en el asfalto que dudan y, por fin, dan el primer paso",
+      "texto": { "fr": "Recourir sans peur ?", "de": "Laufen ohne Angst?", "es": "¿Correr sin miedo?" },
+      "hipotesis": "Habla del deseo (volver) y del miedo (recaer) sin prometer resultados"
+    },
+    {
+      "id": "H4", "tipo": "Historia en primera persona del fisio", "recomendado": false,
+      "verbal": { "fr": "Mon plan pour les coureurs : d'abord la mobilité, ensuite la force.", "de": "Mein Plan für Läufer: zuerst Beweglichkeit, dann Kraft.", "es": "Mi plan para corredores: primero movilidad, después fuerza." },
+      "visual": "Francisco deja unas zapatillas de correr sobre la mesa, junto a una hoja de plan de ejercicios, y mira a cámara",
+      "texto": { "fr": "Mobilité d'abord, force ensuite", "de": "Erst Beweglichkeit, dann Kraft", "es": "Primero movilidad, luego fuerza" },
+      "hipotesis": "Voz en primera persona del fisio y explicación del proceso: los dos patrones que mejor funcionaron en septiembre"
+    },
+    {
+      "id": "H5", "tipo": "Demostración visual", "recomendado": false,
+      "verbal": { "fr": "Regardez : le premier exercice qu'on fait avec les coureurs.", "de": "Schauen Sie: die erste Übung, die wir mit Läufern machen.", "es": "Mira: el primer ejercicio que hacemos con los corredores." },
+      "visual": "En la sala de fitness, Paul baja despacio de un cajón con una pierna mientras Francisco le guía la rodilla",
+      "texto": { "fr": "Exercice n°1 des coureurs", "de": "Übung Nr. 1 für Läufer", "es": "Ejercicio n.º 1 de corredores" },
+      "hipotesis": "Enseña el servicio en acción en 3 s y genera curiosidad por el resto del plan"
+    }
+  ],
+  "guion": [
+    {
+      "tiempo": "0–3 s", "bloque": "Gancho",
+      "visual": "Paul, con ropa de correr, frena en seco en un camino y se lleva las manos a la rodilla.",
+      "dice": { "fr": "Si le genou vous arrête à chaque footing, regardez ça.", "de": "Wenn das Knie Sie bei jedem Lauf stoppt, schauen Sie hier.", "es": "Si la rodilla te para en cada salida a correr, mira esto." },
+      "texto": { "fr": "Le genou coupe la course ?", "de": "Knie stoppt jeden Lauf?", "es": "¿La rodilla corta la carrera?" }
+    },
+    {
+      "tiempo": "3–10 s", "bloque": "Problema",
+      "visual": "Paul sentado en un banco con las zapatillas puestas, mira el reloj de correr y luego la rodilla.",
+      "dice": { "fr": "C'est frustrant : on veut courir, mais on a peur que la douleur revienne.", "de": "Das ist frustrierend: Man will laufen, hat aber Angst, dass der Schmerz zurückkommt.", "es": "Es frustrante: quieres correr, pero te da miedo que el dolor vuelva." },
+      "texto": { "fr": "Envie de courir, peur de rechuter", "de": "Laufen wollen, Rückfall fürchten", "es": "Ganas de correr, miedo a recaer" }
+    },
+    {
+      "tiempo": "10–19 s", "bloque": "Solución",
+      "visual": "Francisco evalúa la movilidad de la rodilla de Paul en la camilla; corte a ejercicios de movilidad y después de fuerza.",
+      "dice": { "fr": "Chez Physio Activa, on fait le bilan, puis un plan progressif : d'abord la mobilité, ensuite la force.", "de": "Bei Physio Activa machen wir eine Abklärung, dann einen Stufenplan: zuerst Beweglichkeit, dann Kraft.", "es": "En Physio Activa hacemos una evaluación y después un plan progresivo: primero movilidad, después fuerza." },
+      "texto": { "fr": "Bilan → mobilité → force", "de": "Abklärung → Beweglichkeit → Kraft", "es": "Evaluación → movilidad → fuerza" }
+    },
+    {
+      "tiempo": "19–25 s", "bloque": "Prueba",
+      "visual": "Sala de fitness: Paul hace el ejercicio del cajón y una carrera suave en cinta, con Francisco al lado; corte a la captura real de Google.",
+      "dice": { "fr": "Dans notre salle de fitness médical, on prépare le retour à la course.", "de": "In unserem medizinischen Fitnessraum bereiten wir den Wiedereinstieg ins Laufen vor.", "es": "En nuestra sala de fitness médico preparamos la vuelta a correr." },
+      "texto": { "fr": "Fitness médical · Ins · ⭐ 4,9/5", "de": "Medizinisches Fitness · Ins · ⭐ 4,9/5", "es": "Fitness médico · Ins · ⭐ 4,9/5" }
+    },
+    {
+      "tiempo": "25–30 s", "bloque": "CTA",
+      "visual": "Francisco a cámara en la sala de fitness, con el chat de WhatsApp abierto en el móvil.",
+      "dice": { "fr": "Vous avez une prescription ? Écrivez-nous sur WhatsApp : rendez-vous dès cette semaine.", "de": "Sie haben eine Verordnung? Schreiben Sie uns auf WhatsApp: Termin noch diese Woche.", "es": "¿Tienes prescripción? Escríbenos por WhatsApp: cita desde esta misma semana." },
+      "texto": { "fr": "💬 WhatsApp 076 627 38 38", "de": "💬 WhatsApp 076 627 38 38", "es": "💬 WhatsApp 076 627 38 38" }
+    }
+  ],
+  "copy": {
+    "fr": {
+      "corto": "Reprendre la course après une blessure au genou : plan progressif et fitness médical à Ins. Prescription ? Écrivez-nous.",
+      "largo": "Vous voulez recourir, mais vous avez peur que la douleur revienne ? C'est normal.\nChez Physio Activa, à Ins, on prépare votre retour à la course, étape par étape :\n✅ Bilan du genou, puis un plan progressif : d'abord la mobilité, ensuite la force\n✅ Exercices dans notre salle de fitness médical\n✅ Rendez-vous dès cette semaine, jusqu'à 20 h\n✅ Remboursé avec prescription (LAMal, ou LAA en cas d'accident) · 4,9/5 sur Google\nVous avez une prescription ? Écrivez-nous sur WhatsApp et on vous donne un rendez-vous cette semaine.",
+      "titular": "Reprendre la course, étape par étape",
+      "descripcion": "Physio du sport · Ins"
+    },
+    "de": {
+      "corto": "Nach einer Knieverletzung wieder laufen: Stufenplan und medizinisches Fitness in Ins. Verordnung? Schreiben Sie uns.",
+      "largo": "Sie wollen wieder laufen, haben aber Angst, dass der Schmerz zurückkommt? Das ist normal.\nBei Physio Activa in Ins bereiten wir Ihren Wiedereinstieg ins Laufen vor, Schritt für Schritt:\n✅ Abklärung des Knies, dann ein Stufenplan: zuerst Beweglichkeit, dann Kraft\n✅ Übungen in unserem medizinischen Fitnessraum\n✅ Termin noch diese Woche, bis 20 Uhr\n✅ Mit Verordnung vergütet (KVG, bei Unfall UVG) · 4,9/5 auf Google\nSie haben eine Verordnung? Schreiben Sie uns auf WhatsApp – wir geben Ihnen noch diese Woche einen Termin.",
+      "titular": "Wieder laufen, Schritt für Schritt",
+      "descripcion": "Sportphysio · Ins"
+    },
+    "es": {
+      "corto": "Volver a correr tras una lesión de rodilla: plan progresivo y fitness médico en Ins. ¿Tienes prescripción? Escríbenos.",
+      "largo": "¿Quieres volver a correr, pero te da miedo que el dolor vuelva? Es normal.\nEn Physio Activa, en Ins, preparamos tu vuelta a correr paso a paso:\n✅ Evaluación de la rodilla y después un plan progresivo: primero movilidad, después fuerza\n✅ Ejercicios en nuestra sala de fitness médico\n✅ Cita desde esta misma semana, hasta las 20 h\n✅ Reembolsado con prescripción (LAMal, o LAA en caso de accidente) · 4,9/5 en Google\n¿Tienes prescripción? Escríbenos por WhatsApp y te damos cita esta semana.",
+      "titular": "Volver a correr, paso a paso",
+      "descripcion": "Fisio deportiva · Ins"
+    }
+  },
+  "notas": [
+    "Grabar primero los 5 hooks en bloque: 3 tomas FR + 3 tomas DE de cada uno.",
+    "Orden del cuerpo: camino (frenazo y banco) → camilla (evaluación) → sala de fitness (cajón y cinta) → CTA en la sala.",
+    "Imagen: que transmita recuperación, no lesión. Paul se ve activo y con ganas de volver; nada de muecas exageradas.",
+    "Material: ropa y zapatillas de correr, reloj deportivo, cajón o escalón, hoja de plan de ejercicios, chat de WhatsApp de la clínica y captura de Google del mismo día.",
+    "Aprendizajes aplicados: un anuncio, una idea (volver a correr, sin mencionar domicilio); hooks de 12 palabras o menos; proceso «primero movilidad, después fuerza»; empatía antes de la solución; CTA concreto con filtro de prescripción, nunca «haz clic para más información».",
+    "Cumplimiento: no se afirma la salud de quien lee (estructura «si…» y situaciones en tercera persona en el copy); no se promete no recaer; no se dice «sin coste adicional».",
+    "Subtítulos siempre activos; cortes cada 2–3 s; el número de WhatsApp en pantalla durante todo el CTA.",
+    "Música: electrónica con pulso de carrera, 120–130 BPM, a volumen bajo."
+  ],
+  "pendientes": [
+    "Confirmar un camino o una calle tranquila cerca de la clínica para grabar el hook al aire libre.",
+    "Comprobar que la nota de Google sigue en 4,9/5 el día de la grabación."
+  ]
+}
