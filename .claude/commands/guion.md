@@ -14,5 +14,5 @@ Contenido: ficha, 5 hooks de tipos distintos con tres capas y uno recomendado, g
 Pasos:
 1. Guarda el guion en salidas/AAAA-MM-DD/guion-[tema-corto].json siguiendo EXACTAMENTE prompts/formato-guion.md.
 2. Ejecuta npm run build para validar; si avisa de JSON no válido, corrígelo.
-3. Haz commit y push.
+3. Haz commit y push a la rama de trabajo y a `main` (ver «Publicar en main» en CLAUDE.md).
 4. Responde en el chat SOLO con: título, ángulo elegido, hook recomendado (FR) y el enlace VISOR_URL/#/[id]. No pegues el guion entero ni generes HTML o PDF.

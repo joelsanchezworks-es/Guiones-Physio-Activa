@@ -22,6 +22,7 @@ Se usa solo con **Claude Code**, con el plan de la persona que lo abre. No hay A
 - Guiones: JSON en `salidas/AAAA-MM-DD/guion-[tema-corto].json`, siguiendo **exactamente** `prompts/formato-guion.md`. No sobrescribas guiones anteriores. Cada texto lleva también su traducción al español en la clave `es` (solo para que el equipo lo entienda; no se graba ni se publica).
 - Otros documentos (planes, tests, notas): `.md` que empiece por `# Título`.
 - Después: `npm run build` (valida los JSON; si avisa de uno no válido, corrígelo), commit y push. **El push es obligatorio**, porque la sesión en la nube se borra al cerrarse.
+- **Publicar en `main`:** Cloudflare Pages publica la rama `main`. Después del push a la rama de trabajo, súbelo también a `main` sin pedir permiso: `git fetch origin main`; si `main` tiene commits que tu rama no tiene, `git merge origin/main` (sin reescribir historia) y vuelve a ejecutar `npm run build`; después `git push origin HEAD:main`. Si hay un conflicto que no se resuelve de forma obvia, no fuerces nada: avisa al usuario.
 
 ## Respuesta en el chat
 Breve: título, ángulo, hook recomendado (FR) y el enlace `VISOR_URL/#/[id]`. No pegues el guion entero.

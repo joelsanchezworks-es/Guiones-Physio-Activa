@@ -6,5 +6,5 @@ Cada guion: 5 hooks de tipos distintos (tres capas, uno recomendado), bloques Ga
 Pasos:
 1. Guarda cada guion como un JSON con "uso": "organico" en salidas/AAAA-MM-DD/guion-[tema-corto].json siguiendo EXACTAMENTE prompts/formato-guion.md (copy: { "fr": { "post": "…", "hashtags": ["#…"] } }).
 2. Ejecuta npm run build para validar; si avisa de JSON no válido, corrígelo.
-3. Haz commit y push.
+3. Haz commit y push a la rama de trabajo y a `main` (ver «Publicar en main» en CLAUDE.md).
 4. Responde en el chat SOLO con una línea por guion: título, ángulo, hook recomendado (FR) y el enlace VISOR_URL/#/[id].
