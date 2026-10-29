@@ -5,21 +5,21 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow">
 <title>Guiones Physio Activa</title>
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='4' fill='%23e5100a'/%3E%3Cpath d='M11 9h7a5 5 0 0 1 0 10h-4v4h-3z' fill='white'/%3E%3C/svg%3E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='16' fill='%23ff2d20'/%3E%3Cpath d='M11 9h7a5 5 0 0 1 0 10h-4v4h-3z' fill='white'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@500;600;700;800;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/3.1.6/purify.min.js"></script>
 <style>
 :root{
-  /* Estilo rojo y negro */
-  --accent:#e5100a;--accent-text:#ff453a;--accent-ink:#fff;--accent-soft:rgba(229,16,10,.13);--accent-line:rgba(229,16,10,.5);
-  --bg:#0a0a0a;--panel:#131313;--ink:#f5f5f5;--muted:#a3a3a3;--line:#262626;--hover:#1c1c1c;
-  --tag:#e5100a;--tag-ink:#fff;--warn:#ffb547;--warn-bg:#1d1508;--warn-line:#4a3410;
-  --danger:#ff4d4d;--ok:#e5e5e5;--shadow:none;
-  --display:"Anton","Bebas Neue",Impact,"Arial Narrow",sans-serif;
-  --sidebar:330px;--radius:6px;
+  /* Estilo Nova · Winter Arc: negro, crema y rojo */
+  --accent:#ff2d20;--accent-text:#ff4a3d;--accent-ink:#fff;--accent-soft:rgba(255,45,32,.12);--accent-line:rgba(255,45,32,.45);
+  --bg:#141414;--panel:#1d1d1d;--panel-2:#242424;--ink:#f6eee8;--muted:#9a948e;--line:#2c2c2c;--hover:#232323;
+  --tag:#f6eee8;--tag-ink:#141414;--warn:#ffb547;--warn-bg:#1f1a12;--warn-line:#4a3a1c;
+  --danger:#ff4a3d;--ok:#c9c2bb;--live:#3ddc84;--shadow:none;
+  --display:"Inter Tight","Inter",system-ui,sans-serif;
+  --sidebar:340px;--radius:20px;
   color-scheme:dark;
 }
 *{box-sizing:border-box}
@@ -175,47 +175,93 @@ ul.notes li{margin:4px 0}
 .toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
 .err{color:var(--danger)}
 
-/* ---------- estilo rojo y negro ---------- */
-main{background:radial-gradient(900px 420px at 100% -8%,rgba(229,16,10,.16),transparent 65%),radial-gradient(700px 360px at -10% 110%,rgba(229,16,10,.07),transparent 60%)}
-aside{background:#0e0e0e}
-.brand{font-family:var(--display);font-weight:400;font-size:21px;letter-spacing:.02em;text-transform:uppercase}
-.brand-mark{border-radius:3px;font-family:var(--display);font-weight:400;font-size:17px;box-shadow:0 0 18px rgba(229,16,10,.45)}
-h1.title,.doc h1,.welcome h2{font-family:var(--display);font-weight:400;text-transform:uppercase;letter-spacing:.01em;line-height:1.05}
-h1.title{font-size:44px}
-.doc h1{font-size:38px}
-.doc h2{font-family:var(--display);font-weight:400;text-transform:uppercase;letter-spacing:.02em;font-size:24px;color:var(--ink)}
-h2.sec{color:var(--ink);font-weight:800;letter-spacing:.14em;display:flex;align-items:center;gap:10px}
-h2.sec::before{content:"";width:18px;height:3px;background:var(--accent);flex:none}
-.warnbox h2.sec::before{background:var(--warn)}
-.search,.btn,.seg,.cmd code,.esnote{border-radius:4px}
-.filter,.mini,.chip,.badge,.block{border-radius:3px}
-.item{border-radius:4px}
-.item[aria-current="page"]{background:var(--accent-soft);box-shadow:inset 3px 0 0 var(--accent)}
-.filter,.chip,.badge,.block,.mini.ads{text-transform:uppercase;letter-spacing:.06em;font-weight:700}
-.filter{font-size:11.5px}
-.chip{font-size:11.5px}
-.chip.strong,.mini.ads,.badge{box-shadow:0 0 14px rgba(229,16,10,.35)}
-.btn{font-weight:700;letter-spacing:.02em}
-.btn.primary{box-shadow:0 6px 22px rgba(229,16,10,.35)}
-.btn.primary:hover{filter:none;background:#ff1f14;border-color:#ff1f14}
-.seg button[aria-pressed="true"]{box-shadow:inset 0 0 0 1px rgba(255,255,255,.08)}
-.card{border-color:#232323;background:linear-gradient(180deg,#161616,#121212)}
-.card:hover{border-color:#333}
-.hook.rec{border:1px solid var(--accent);background:linear-gradient(180deg,rgba(229,16,10,.12),#131313 55%);box-shadow:0 0 0 1px var(--accent),0 14px 40px rgba(229,16,10,.18)}
-.ost{border-radius:2px;text-transform:uppercase;letter-spacing:.04em;font-size:12px}
-.time{font-family:var(--display);font-weight:400;font-size:22px;letter-spacing:.02em}
-.row{border-left:3px solid #2a2a2a}
-.row:has(.block.cta){border-left-color:var(--accent)}
-.say{font-weight:700}
-.modal{background:rgba(0,0,0,.7);backdrop-filter:blur(3px)}
-.modal-box{border:1px solid #2a2a2a;border-radius:8px;border-top:3px solid var(--accent)}
-.modal-box h3{font-family:var(--display);font-weight:400;text-transform:uppercase;letter-spacing:.01em;font-size:24px}
-.opt{border-radius:6px;background:#0f0f0f}
+/* ---------- estilo Nova · Winter Arc ---------- */
+body{background-color:var(--bg);background-image:radial-gradient(rgba(255,255,255,.075) 1px,transparent 1.3px);background-size:22px 22px;background-attachment:fixed}
+aside{background:rgba(16,16,16,.92);backdrop-filter:blur(6px)}
+main{background:transparent}
+.side-head{border-bottom-color:var(--line)}
+.brand{font-family:var(--display);font-weight:900;font-size:20px;letter-spacing:-.04em;gap:10px;flex-wrap:wrap}
+.brand-mark{width:34px;height:34px;border-radius:50%;background:var(--accent);color:#fff;font-family:var(--display);font-weight:900;font-size:17px;box-shadow:0 0 0 3px #141414,0 0 0 5px var(--accent)}
+.pill-red{display:inline-flex;align-items:center;background:var(--accent);color:#fff;border-radius:999px;padding:4px 12px;font-size:11.5px;font-weight:800;letter-spacing:.02em;text-transform:uppercase;font-family:var(--display)}
+.live{display:inline-flex;align-items:center;gap:6px;font-size:12px;color:var(--muted);font-weight:600}
+.live::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--live);box-shadow:0 0 8px rgba(61,220,132,.6)}
+h1.title,.doc h1,.welcome h2{font-family:var(--display);font-weight:900;text-transform:uppercase;letter-spacing:-.045em;line-height:.92}
+h1.title{font-size:58px;margin-bottom:16px}
+h1.title .red{display:block;color:var(--accent)}
+.doc h1{font-size:44px}
+.doc h2,.doc h3{font-family:var(--display);font-weight:800;letter-spacing:-.03em;color:var(--ink)}
+.doc h2{font-size:28px;text-transform:uppercase;letter-spacing:-.04em}
+h2.sec{font-family:var(--display);font-size:30px;font-weight:900;letter-spacing:-.045em;color:var(--ink);margin-bottom:14px;line-height:1}
+.warnbox h2.sec{color:var(--warn)}
+.label{font-size:11px;letter-spacing:.08em;color:var(--muted)}
+/* píldoras */
+.search{border-radius:16px;background:var(--panel);border-color:var(--line);padding:12px 16px}
+.filters{background:var(--panel);border:1px solid var(--line);border-radius:999px;padding:4px;gap:2px}
+.filter{border:0;border-radius:999px;padding:7px 12px;font-weight:700;font-size:12.5px;color:var(--muted);font-family:var(--display);letter-spacing:-.01em}
+.filter[aria-pressed="true"]{background:var(--ink);color:var(--tag-ink)}
+.seg{border-radius:999px;padding:4px;gap:2px;background:var(--panel);border-color:var(--line)}
+.seg button{border-radius:999px;padding:7px 16px;font-family:var(--display);font-weight:800}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--tag-ink)}
+.btn{border-radius:999px;background:var(--panel-2);border-color:var(--line);color:#cfc8c1;font-family:var(--display);font-weight:700;padding:9px 16px;letter-spacing:-.01em}
+.btn:hover{background:#2c2c2c;color:var(--ink)}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+.btn.primary:hover{background:#ff4336;border-color:#ff4336;color:#fff}
+.btn.danger{background:transparent;color:var(--danger);border-color:rgba(255,74,61,.4)}
+.btn.small{padding:5px 12px}
+.chip{border-radius:999px;background:var(--panel);border-color:var(--line);color:#cfc8c1;font-weight:700;font-size:12px;padding:4px 12px}
+.chip.strong{background:var(--accent);border-color:var(--accent);color:#fff;text-transform:uppercase;font-family:var(--display);font-weight:800}
+.mini{border-radius:999px;background:var(--panel-2);color:var(--muted);font-weight:600}
+.mini.ads{background:var(--accent);color:#fff;font-weight:800}
+.mini.org{background:transparent;border:1px solid var(--line);color:var(--ink)}
+.badge{border-radius:999px;background:var(--accent);font-family:var(--display);font-weight:800;text-transform:uppercase;letter-spacing:.02em}
+.block{border-radius:999px;background:var(--panel-2);border:1px solid var(--line);color:var(--ink);font-weight:700}
+.block.cta{background:var(--accent);border-color:var(--accent);color:#fff}
+.ost{background:var(--ink);color:var(--tag-ink);border-radius:10px;font-family:var(--display);font-weight:800;letter-spacing:-.01em;padding:6px 12px}
+/* lista lateral */
+.group{color:var(--muted);letter-spacing:.08em}
+.list{counter-reset:it}
+.item{border-radius:16px;padding:11px 12px;margin:4px 0;border:1px solid transparent}
+.item:hover{background:var(--panel);border-color:var(--line)}
+.item[aria-current="page"]{background:var(--panel);border-color:#4a4a4a;box-shadow:none}
+.item-title{font-family:var(--display);font-weight:800;letter-spacing:-.015em;font-size:15px}
+/* tarjetas */
+.card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius)}
+.ficha .card p{color:#e6ded7}
+.hook{gap:12px}
+.hook.rec{border:1px solid var(--accent);box-shadow:0 0 0 1px var(--accent),0 18px 50px rgba(255,45,32,.14)}
+.hook-id{font-family:var(--display);font-weight:800;letter-spacing:-.01em}
+.say{font-family:var(--display);font-weight:800;letter-spacing:-.018em}
+.hook.rec .say{font-size:28px;line-height:1.15}
+.see{color:var(--muted)}
+.see b{color:var(--ink)}
+.hyp{border-top-color:var(--line)}
+/* línea de tiempo: filas como la lista de hábitos */
+.timeline{counter-reset:row}
+.row{position:relative;counter-increment:row;padding-left:62px}
+.row::before{content:counter(row,decimal-leading-zero);position:absolute;left:22px;top:20px;font-family:var(--display);font-weight:700;font-size:15px;color:#6f6a65}
+.time{font-family:var(--display);font-weight:900;font-size:20px;letter-spacing:-.04em}
+.row .see{color:#d9d1ca}
+/* copy, notas y avisos */
+.count{color:var(--muted)}
+.count.over{color:var(--danger)}
+.warnbox{border-radius:var(--radius)}
+.esnote{border-radius:16px;background:var(--accent-soft)}
+.es b{color:var(--accent-text)}
+.modal{background:rgba(0,0,0,.72);backdrop-filter:blur(4px)}
+.modal-box{border:1px solid var(--line);border-radius:24px;background:#1a1a1a}
+.modal-box h3{font-family:var(--display);font-weight:900;letter-spacing:-.04em;font-size:26px;text-transform:uppercase;line-height:1}
+.opt{border-radius:18px;background:var(--panel-2);border-color:var(--line)}
+.cmd code{border-radius:12px;background:#121212}
+.selbar{background:#151515}
+.item.sel.on{background:rgba(255,45,32,.1);border-color:rgba(255,45,32,.4)}
 .p-tag{color:var(--accent-text)}
-.doc th{background:#1a1a1a}
+.p-say{font-family:var(--display);font-weight:800;letter-spacing:-.015em}
+.doc th{background:var(--panel-2)}
+.doc table{border-radius:12px}
+.toast{background:var(--ink);color:var(--tag-ink);border-radius:999px}
 ::selection{background:var(--accent);color:#fff}
 .list::-webkit-scrollbar,main::-webkit-scrollbar{width:10px}
-.list::-webkit-scrollbar-thumb,main::-webkit-scrollbar-thumb{background:#2a2a2a;border-radius:10px;border:2px solid #0e0e0e}
+.list::-webkit-scrollbar-thumb,main::-webkit-scrollbar-thumb{background:#2c2c2c;border-radius:10px;border:2px solid #141414}
 
 /* ---------- responsive ---------- */
 @media (max-width:980px){
@@ -231,7 +277,10 @@ h2.sec::before{content:"";width:18px;height:3px;background:var(--accent);flex:no
   body:not(.detail) main{display:none}
   .back{display:inline-block}
   .view{padding:16px 16px 64px}
-  h1.title{font-size:32px}
+  h1.title{font-size:38px}
+  .row{padding-left:16px}
+  .row::before{display:none}
+  h2.sec{font-size:24px}
   .ficha,.hooks,.copy{grid-template-columns:1fr}
   .row{grid-template-columns:1fr;gap:8px}
   .row .said{grid-column:auto}
@@ -245,7 +294,11 @@ h2.sec::before{content:"";width:18px;height:3px;background:var(--accent);flex:no
   :root{--bg:#fff;--panel:#fff;--ink:#000;--muted:#444;--line:#bbb;--accent:#c00d08;--accent-text:#c00d08;--accent-ink:#fff;--accent-soft:#fbeaea;color-scheme:light;--tag:#000;--tag-ink:#fff;--shadow:none}
   .app{display:block;height:auto}
   main{background:none}
+  body{background-image:none}
   .card,.hook.rec{background:#fff;box-shadow:none}
+  .ost{background:#000;color:#fff}
+  .row::before{color:#777}
+  .filters,.seg{background:#fff}
   .chip.strong,.mini.ads,.badge,.btn.primary{box-shadow:none}
   aside,.toolbar,.back,.copy-head .btn,.prompter,.toast,.modal{display:none!important}
   main{overflow:visible}
@@ -261,7 +314,7 @@ h2.sec::before{content:"";width:18px;height:3px;background:var(--accent);flex:no
 <div class="app">
   <aside>
     <div class="side-head">
-      <p class="brand"><span class="brand-mark" aria-hidden="true">P</span>Guiones · Physio Activa</p>
+      <p class="brand"><span class="brand-mark" aria-hidden="true">P</span>physio activa<span class="pill-red">Guiones</span></p>
       <input class="search" id="q" type="search" placeholder="Buscar por tema…" aria-label="Buscar por tema">
       <div class="filters" role="group" aria-label="Filtrar">
         <button class="filter" data-f="all" aria-pressed="true">Todos</button>
@@ -269,7 +322,7 @@ h2.sec::before{content:"";width:18px;height:3px;background:var(--accent);flex:no
         <button class="filter" data-f="organico" aria-pressed="false">Orgánico</button>
         <button class="filter" data-f="doc" aria-pressed="false">Documentos</button>
       </div>
-      <div class="side-tools"><span class="mini" id="count"></span><button class="linkbtn" id="b-sel" aria-pressed="false">Depurar</button></div>
+      <div class="side-tools"><span class="live" id="count"></span><button class="linkbtn" id="b-sel" aria-pressed="false">Depurar</button></div>
     </div>
     <nav class="list" id="list" aria-label="Guiones y documentos"><p class="empty">Cargando…</p></nav>
     <div class="selbar" id="selbar">
@@ -484,7 +537,7 @@ function renderGuion(g) {
 
   $("view").innerHTML = `
     <button class="back" onclick="location.hash='#/'">← Todos</button>
-    <h1 class="title">${esc(g.titulo)}</h1>
+    <h1 class="title">${esc(g.titulo)}.<span class="red">${esc(USO[g.uso] || g.uso)} · ${esc((ANGULOS[g.angulo] || g.angulo).replace(/^[A-F] · /, ""))}.</span></h1>
     <div class="chips">
       <span class="chip strong">${esc(USO[g.uso] || g.uso)}</span>
       <span class="chip">${esc(ANGULOS[g.angulo] || "Ángulo " + g.angulo)}</span>
