@@ -7,77 +7,175 @@
   "angulo": "E",
   "uso": "ads",
   "duracion": "30 s",
-  "idiomas": ["fr", "de"],
+  "idiomas": [
+    "fr",
+    "de"
+  ],
   "publico": "Hijos y familiares que trabajan (35–60 años) con un padre o una madre mayor que vive solo y se mueve cada vez menos, en la región de los Tres Lagos",
   "localizacion": "Un domicilio (salón, pasillo y puerta), más una oficina o un escritorio para el plano del hijo/a",
   "quien_sale": "Francisco, una figurante mayor con autorización de imagen firmada y una persona del equipo como «hijo/a»",
   "hooks": [
     {
-      "id": "H1", "tipo": "Pregunta directa al dolor", "recomendado": true,
-      "verbal": { "fr": "Qui aide maman à rester autonome quand vous êtes au travail ?", "de": "Wer hilft Mama, selbständig zu bleiben, während Sie arbeiten?" },
+      "id": "H1",
+      "tipo": "Pregunta directa al dolor",
+      "recomendado": true,
+      "verbal": {
+        "fr": "Qui aide maman à rester autonome quand vous êtes au travail ?",
+        "de": "Wer hilft Mama, selbständig zu bleiben, während Sie arbeiten?",
+        "es": "¿Quién ayuda a mamá a seguir siendo autónoma mientras usted trabaja?"
+      },
       "visual": "Adulto en su escritorio mira en el móvil una foto de su madre; corte a la madre sola en el salón",
-      "texto": { "fr": "Et maman, quand vous travaillez ?", "de": "Und Mama, während Sie arbeiten?" },
+      "texto": {
+        "fr": "Et maman, quand vous travaillez ?",
+        "de": "Und Mama, während Sie arbeiten?",
+        "es": "¿Y mamá, mientras usted trabaja?"
+      },
       "hipotesis": "Habla al hijo o la hija que trabaja (quien decide y paga la atención) en el momento en que se siente culpable por no estar"
     },
     {
-      "id": "H2", "tipo": "Error común", "recomendado": false,
-      "verbal": { "fr": "Erreur : attendre la prochaine chute pour appeler un physio.", "de": "Fehler: Erst nach dem nächsten Sturz eine Physio anrufen." },
+      "id": "H2",
+      "tipo": "Error común",
+      "recomendado": false,
+      "verbal": {
+        "fr": "Erreur : attendre la prochaine chute pour appeler un physio.",
+        "de": "Fehler: Erst nach dem nächsten Sturz eine Physio anrufen.",
+        "es": "Error: esperar a la próxima caída para llamar a un fisio."
+      },
       "visual": "Plano que se acerca despacio a la esquina levantada de una alfombra junto a una puerta",
-      "texto": { "fr": "N'attendez pas la chute", "de": "Nicht auf den Sturz warten" },
+      "texto": {
+        "fr": "N'attendez pas la chute",
+        "de": "Nicht auf den Sturz warten",
+        "es": "No espere a la caída"
+      },
       "hipotesis": "Cambia el momento de la decisión: de después de la caída a antes, cuando el familiar todavía puede elegir con calma"
     },
     {
-      "id": "H3", "tipo": "Dato o contraste", "recomendado": false,
-      "verbal": { "fr": "En général, le même physio à chaque visite. Pas un inconnu.", "de": "Meistens derselbe Physio bei jedem Besuch. Kein Fremder." },
+      "id": "H3",
+      "tipo": "Dato o contraste",
+      "recomendado": false,
+      "verbal": {
+        "fr": "En général, le même physio à chaque visite. Pas un inconnu.",
+        "de": "Meistens derselbe Physio bei jedem Besuch. Kein Fremder.",
+        "es": "En general, el mismo fisio en cada visita. No un desconocido."
+      },
       "visual": "Tres cortes de Francisco tocando el mismo timbre con chaquetas distintas (semanas distintas), la misma cara",
-      "texto": { "fr": "Le même physio, si possible", "de": "Derselbe Physio, wenn möglich" },
+      "texto": {
+        "fr": "Le même physio, si possible",
+        "de": "Derselbe Physio, wenn möglich",
+        "es": "El mismo fisio, si es posible"
+      },
       "hipotesis": "Responde al miedo del familiar a que entre en casa un desconocido diferente cada vez"
     },
     {
-      "id": "H4", "tipo": "Demostración visual", "recomendado": false,
-      "verbal": { "fr": "Regardez ce test : se lever d'une chaise sans les mains.", "de": "Schauen Sie: aufstehen vom Stuhl, ohne die Hände." },
+      "id": "H4",
+      "tipo": "Demostración visual",
+      "recomendado": false,
+      "verbal": {
+        "fr": "Regardez ce test : se lever d'une chaise sans les mains.",
+        "de": "Schauen Sie: aufstehen vom Stuhl, ohne die Hände.",
+        "es": "Mire este test: levantarse de una silla sin las manos."
+      },
       "visual": "La figurante cruza los brazos y se levanta de una silla; Francisco a su lado, con la mano preparada",
-      "texto": { "fr": "Le test de la chaise", "de": "Der Stuhl-Test" },
+      "texto": {
+        "fr": "Le test de la chaise",
+        "de": "Der Stuhl-Test",
+        "es": "El test de la silla"
+      },
       "hipotesis": "Un gesto que el familiar puede comparar enseguida con lo que ve en casa; genera curiosidad sin diagnosticar"
     },
     {
-      "id": "H5", "tipo": "Llamada local", "recomendado": false,
-      "verbal": { "fr": "Votre parent vit seul à Avenches ou Payerne ? On passe chez lui.", "de": "Lebt Ihr Vater allein in Murten oder Kerzers? Wir kommen vorbei." },
+      "id": "H5",
+      "tipo": "Llamada local",
+      "recomendado": false,
+      "verbal": {
+        "fr": "Votre parent vit seul à Avenches ou Payerne ? On passe chez lui.",
+        "de": "Lebt Ihr Vater allein in Murten oder Kerzers? Wir kommen vorbei.",
+        "es": "¿Su padre o su madre vive solo en Avenches o Payerne? Vamos a su casa."
+      },
       "visual": "Coche que llega a una casa; en edición, mapa con pines en Avenches y Payerne (DE: Murten y Kerzers)",
-      "texto": { "fr": "Avenches, Payerne : on passe", "de": "Murten, Kerzers: Wir kommen vorbei" },
+      "texto": {
+        "fr": "Avenches, Payerne : on passe",
+        "de": "Murten, Kerzers: Wir kommen vorbei",
+        "es": "Avenches, Payerne: vamos"
+      },
       "hipotesis": "Nombrar el pueblo confirma que la zona está cubierta y hace el anuncio más cercano"
     }
   ],
   "guion": [
     {
-      "tiempo": "0–3 s", "bloque": "Gancho",
+      "tiempo": "0–3 s",
+      "bloque": "Gancho",
       "visual": "El «hijo/a» en su escritorio mira en el móvil una foto de su madre; corte a la madre sola en el salón.",
-      "dice": { "fr": "Qui aide maman à rester autonome quand vous êtes au travail ?", "de": "Wer hilft Mama, selbständig zu bleiben, während Sie arbeiten?" },
-      "texto": { "fr": "Et maman, quand vous travaillez ?", "de": "Und Mama, während Sie arbeiten?" }
+      "dice": {
+        "fr": "Qui aide maman à rester autonome quand vous êtes au travail ?",
+        "de": "Wer hilft Mama, selbständig zu bleiben, während Sie arbeiten?",
+        "es": "¿Quién ayuda a mamá a seguir siendo autónoma mientras usted trabaja?"
+      },
+      "texto": {
+        "fr": "Et maman, quand vous travaillez ?",
+        "de": "Und Mama, während Sie arbeiten?",
+        "es": "¿Y mamá, mientras usted trabaja?"
+      }
     },
     {
-      "tiempo": "3–10 s", "bloque": "Problema",
+      "tiempo": "3–10 s",
+      "bloque": "Problema",
       "visual": "La madre camina despacio por el pasillo apoyándose en los muebles; corte al «hijo/a» que deja el móvil, preocupado.",
-      "dice": { "fr": "Elle vit seule, elle bouge de moins en moins. Et vous vous inquiétez.", "de": "Sie lebt allein und bewegt sich immer weniger. Und Sie machen sich Sorgen." },
-      "texto": { "fr": "Seule, et elle bouge moins", "de": "Allein, und sie bewegt sich weniger" }
+      "dice": {
+        "fr": "Elle vit seule, elle bouge de moins en moins. Et vous vous inquiétez.",
+        "de": "Sie lebt allein und bewegt sich immer weniger. Und Sie machen sich Sorgen.",
+        "es": "Vive sola y se mueve cada vez menos. Y usted se preocupa."
+      },
+      "texto": {
+        "fr": "Seule, et elle bouge moins",
+        "de": "Allein, und sie bewegt sich weniger",
+        "es": "Sola, y se mueve menos"
+      }
     },
     {
-      "tiempo": "10–18 s", "bloque": "Solución",
+      "tiempo": "10–18 s",
+      "bloque": "Solución",
       "visual": "Francisco llama al timbre con su maletín; dentro, trabaja con la figurante el gesto de levantarse de una silla.",
-      "dice": { "fr": "Physio Activa vient chez elle, dans toute la région des Trois-Lacs. Avec des exercices adaptés à sa maison.", "de": "Physio Activa kommt zu ihr nach Hause, in der ganzen Drei-Seen-Region. Mit Übungen, die zu ihrem Zuhause passen." },
-      "texto": { "fr": "🏠 Exercices adaptés, chez elle", "de": "🏠 Passende Übungen, bei ihr" }
+      "dice": {
+        "fr": "Physio Activa vient chez elle, dans toute la région des Trois-Lacs. Avec des exercices adaptés à sa maison.",
+        "de": "Physio Activa kommt zu ihr nach Hause, in der ganzen Drei-Seen-Region. Mit Übungen, die zu ihrem Zuhause passen.",
+        "es": "Physio Activa va a su casa, en toda la región de los Tres Lagos. Con ejercicios adaptados a su casa."
+      },
+      "texto": {
+        "fr": "🏠 Exercices adaptés, chez elle",
+        "de": "🏠 Passende Übungen, bei ihr",
+        "es": "🏠 Ejercicios adaptados, en su casa"
+      }
     },
     {
-      "tiempo": "18–25 s", "bloque": "Prueba",
+      "tiempo": "18–25 s",
+      "bloque": "Prueba",
       "visual": "Francisco anota en su ficha junto a la figurante; corte a la captura real del perfil de Google.",
-      "dice": { "fr": "En général, c'est le même physio à chaque visite. Avec prescription, reconnu par toutes les assurances.", "de": "Meistens kommt derselbe Physio. Mit Verordnung, von allen Versicherungen anerkannt." },
-      "texto": { "fr": "Même physio, si possible · ⭐ 4,9/5", "de": "Derselbe Physio · ⭐ 4,9/5" }
+      "dice": {
+        "fr": "En général, c'est le même physio à chaque visite. Avec prescription, reconnu par toutes les assurances.",
+        "de": "Meistens kommt derselbe Physio. Mit Verordnung, von allen Versicherungen anerkannt.",
+        "es": "En general, es el mismo fisio en cada visita. Con prescripción, reconocido por todos los seguros."
+      },
+      "texto": {
+        "fr": "Même physio, si possible · ⭐ 4,9/5",
+        "de": "Derselbe Physio · ⭐ 4,9/5",
+        "es": "Mismo fisio, si es posible · ⭐ 4,9/5"
+      }
     },
     {
-      "tiempo": "25–30 s", "bloque": "CTA",
+      "tiempo": "25–30 s",
+      "bloque": "CTA",
       "visual": "Francisco en la puerta de la casa con el chat de WhatsApp abierto en el móvil.",
-      "dice": { "fr": "Votre parent a une prescription ? Écrivez-nous sur WhatsApp.", "de": "Hat Ihr Elternteil eine Verordnung? Schreiben Sie uns auf WhatsApp." },
-      "texto": { "fr": "💬 WhatsApp 076 627 38 38", "de": "💬 WhatsApp 076 627 38 38" }
+      "dice": {
+        "fr": "Votre parent a une prescription ? Écrivez-nous sur WhatsApp.",
+        "de": "Hat Ihr Elternteil eine Verordnung? Schreiben Sie uns auf WhatsApp.",
+        "es": "¿Su padre o su madre tiene prescripción? Escríbanos por WhatsApp."
+      },
+      "texto": {
+        "fr": "💬 WhatsApp 076 627 38 38",
+        "de": "💬 WhatsApp 076 627 38 38",
+        "es": "💬 WhatsApp 076 627 38 38"
+      }
     }
   ],
   "copy": {
@@ -92,6 +190,12 @@
       "largo": "Lebt Ihr Elternteil allein und bewegt sich immer weniger? Sie können nicht immer da sein.\nPhysio Activa kommt nach Hause: die gleiche Physio wie in der Praxis, mit Übungen, die zum Zuhause passen.\n✅ Drei-Seen-Region (Murten, Kerzers, Ins, Erlach …)\n✅ Meistens derselbe Physio bei jedem Besuch\n✅ Kein Material zu Hause nötig\n✅ Von allen Versicherungen anerkannt, mit ärztlicher Verordnung · 4,9/5 auf Google\nHat Ihr Elternteil eine Verordnung? Schreiben Sie uns auf WhatsApp.",
       "titular": "Physio zu Hause für Ihre Eltern",
       "descripcion": "Drei-Seen-Region · mit Verordnung"
+    },
+    "es": {
+      "corto": "¿Su padre o su madre vive solo y se mueve menos? El fisio va a su casa, con prescripción. Escríbanos.",
+      "largo": "¿Su padre o su madre vive solo y se mueve cada vez menos? Usted no siempre puede estar ahí.\nPhysio Activa va a domicilio: la misma fisio que en la consulta, con ejercicios adaptados a la casa.\n✅ Región de los Tres Lagos (Morat, Avenches, Payerne, Estavayer, Neuchâtel…)\n✅ En general, el mismo fisio en cada visita\n✅ No hace falta material en casa\n✅ Reconocido por todos los seguros, con prescripción médica · 4,9/5 en Google\n¿Su padre o su madre tiene prescripción? Escríbanos por WhatsApp.",
+      "titular": "Fisio a domicilio para sus padres",
+      "descripcion": "Tres Lagos · con prescripción"
     }
   },
   "notas": [

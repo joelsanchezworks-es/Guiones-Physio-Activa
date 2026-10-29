@@ -1,7 +1,7 @@
 Escribe guiones de anuncios de respuesta directa (Reels 9:16) siguiendo CLAUDE.md y prompts/sistema.md.
 Opciones del usuario: $ARGUMENTS
 Si no indica nada: 3 guiones (ángulos A, C y F), francés + alemán, partiendo de salidas/ganadores.md si existe.
-Cada guion: 5 hooks de tipos distintos (tres capas, uno recomendado), Reel de 20–30 s por bloques (Gancho, Problema, Solución, Prueba, CTA con filtro de intención), copy de Meta por idioma (corto ≤125 caracteres, largo, titular ≤40 caracteres, descripción), notas de grabación y pendientes. No repitas hooks de guiones anteriores de salidas/.
+Cada guion: 5 hooks de tipos distintos (tres capas, uno recomendado), Reel de 20–30 s por bloques (Gancho, Problema, Solución, Prueba, CTA con filtro de intención), copy de Meta por idioma (corto ≤125 caracteres, largo, titular ≤40 caracteres, descripción), notas de grabación y pendientes. No repitas hooks de guiones anteriores de salidas/. Añade en cada texto (hooks, bloques y copy) la traducción al español en la clave "es", solo como referencia para el equipo.
 
 Pasos:
 1. Guarda cada guion como un JSON con "uso": "ads" en salidas/AAAA-MM-DD/guion-[tema-corto].json siguiendo EXACTAMENTE prompts/formato-guion.md (un archivo y un id distinto por guion).

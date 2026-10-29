@@ -42,6 +42,7 @@ Pregunta directa al dolor · error común · dato o contraste · contraintuitivo
 - Alemán: Ins, Murten, Kerzers, Lyss. Biel/Bienne es bilingüe.
 - La versión alemana es una adaptación natural, no una traducción literal. Trato de "vous" en francés y "Sie" en alemán.
 - Las explicaciones, hipótesis e indicaciones de grabación van en español (para el equipo de la agencia). Lo que se dice, el texto en pantalla y el copy de Meta van en el idioma del anuncio. Nunca dejes texto en español dentro de lo que se dice a cámara.
+- Cada texto que se dice, cada texto en pantalla y el copy llevan además una traducción al español (clave `es` del JSON), solo como referencia para que el equipo entienda el guion. El español no se graba ni se publica.
 
 ## Reglas de cumplimiento (publicidad sanitaria en Suiza y políticas de Meta)
 

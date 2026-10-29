@@ -83,6 +83,14 @@ function validate(g, file) {
       need(Array.isArray(c.hashtags), `copy.${l}: "hashtags" debe ser una lista`);
     }
   }
+  // El español ("es") es una traducción de referencia para el equipo: opcional, pero recomendada.
+  const sinEs = [
+    ...hooks.flatMap((h, i) => [[h?.verbal, `hooks[${i}].verbal`], [h?.texto, `hooks[${i}].texto`]]),
+    ...(Array.isArray(g.guion) ? g.guion : []).flatMap((b, i) => [[b?.dice, `guion[${i}].dice`], [b?.texto, `guion[${i}].texto`]]),
+  ].filter(([o]) => o && typeof o === "object" && !(typeof o.es === "string" && o.es.trim())).map(([, w]) => w);
+  if (sinEs.length) warn(file, `sin traducción "es" en ${sinEs.length} texto(s) (p. ej. ${sinEs[0]})`);
+  if (g.copy && typeof g.copy === "object" && !g.copy.es) warn(file, `sin traducción "es" en "copy"`);
+
   need(Array.isArray(g.notas), `"notas" debe ser una lista`);
   need(Array.isArray(g.pendientes), `"pendientes" debe ser una lista`);
   return errors;

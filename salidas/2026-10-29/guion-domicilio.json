@@ -21,12 +21,14 @@
       "recomendado": false,
       "verbal": {
         "fr": "Votre mère a peur de tomber depuis son retour à la maison ?",
-        "de": "Hat Ihre Mutter seit dem Spital Angst zu stürzen?"
+        "de": "Hat Ihre Mutter seit dem Spital Angst zu stürzen?",
+        "es": "¿Su madre tiene miedo de caerse desde que volvió a casa?"
       },
       "visual": "Primer plano de una mano mayor que aprieta la barandilla; un pie duda en el escalón",
       "texto": {
         "fr": "Peur de tomber à la maison ?",
-        "de": "Angst vor dem Sturz zu Hause?"
+        "de": "Angst vor dem Sturz zu Hause?",
+        "es": "¿Miedo a caerse en casa?"
       },
       "hipotesis": "Nombra el miedo concreto que el familiar ve cada día, sin señalar al lector"
     },
@@ -36,12 +38,14 @@
       "recomendado": false,
       "verbal": {
         "fr": "Le cabinet ou le salon : la même physio, sans sortir.",
-        "de": "Praxis oder Wohnzimmer: dieselbe Physio, ohne aus dem Haus zu gehen."
+        "de": "Praxis oder Wohnzimmer: dieselbe Physio, ohne aus dem Haus zu gehen.",
+        "es": "La consulta o el salón: la misma fisio, sin salir de casa."
       },
       "visual": "Pantalla partida: Francisco hace el mismo gesto en la consulta y en un salón",
       "texto": {
         "fr": "Cabinet = salon. Même physio.",
-        "de": "Praxis = Wohnzimmer. Gleiche Physio."
+        "de": "Praxis = Wohnzimmer. Gleiche Physio.",
+        "es": "Consulta = salón. Misma fisio."
       },
       "hipotesis": "El contraste visual quita la duda de que a domicilio sea una versión reducida"
     },
@@ -51,12 +55,14 @@
       "recomendado": false,
       "verbal": {
         "fr": "Erreur fréquente : attendre que papa puisse revenir au cabinet.",
-        "de": "Häufiger Fehler: warten, bis Papa wieder in die Praxis kann."
+        "de": "Häufiger Fehler: warten, bis Papa wieder in die Praxis kann.",
+        "es": "Error frecuente: esperar a que papá pueda volver a la consulta."
       },
       "visual": "Llaves del coche y un bastón sobre la mesa de la entrada; nadie los coge",
       "texto": {
         "fr": "Attendre qu'il puisse sortir ?",
-        "de": "Warten, bis er raus kann?"
+        "de": "Warten, bis er raus kann?",
+        "es": "¿Esperar a que pueda salir?"
       },
       "hipotesis": "Desmonta la excusa que retrasa la decisión del familiar"
     },
@@ -66,12 +72,14 @@
       "recomendado": false,
       "verbal": {
         "fr": "Pas besoin de matériel : une chaise de cuisine suffit pour commencer.",
-        "de": "Kein Material nötig: Ein Küchenstuhl reicht für den Anfang."
+        "de": "Kein Material nötig: Ein Küchenstuhl reicht für den Anfang.",
+        "es": "No hace falta material: una silla de cocina basta para empezar."
       },
       "visual": "Francisco arrastra una silla de cocina hasta el plano y le da dos golpecitos",
       "texto": {
         "fr": "Le matériel ? Une chaise.",
-        "de": "Material? Ein Küchenstuhl."
+        "de": "Material? Ein Küchenstuhl.",
+        "es": "¿El material? Una silla."
       },
       "hipotesis": "Sorprende y elimina la objeción logística («no tenemos nada en casa»)"
     },
@@ -81,12 +89,14 @@
       "recomendado": true,
       "verbal": {
         "fr": "POV : vous écrivez pour votre mère… et le physio passe chez elle.",
-        "de": "POV: Sie schreiben für Ihre Mutter – und die Physio kommt zu ihr."
+        "de": "POV: Sie schreiben für Ihre Mutter – und die Physio kommt zu ihr.",
+        "es": "POV: escribe por su madre… y el fisio va a su casa."
       },
       "visual": "Pantalla de WhatsApp: se envía «Bonjour, c'est pour ma mère…»; corte a un dedo que toca el timbre",
       "texto": {
         "fr": "Un message. Le physio vient.",
-        "de": "Eine Nachricht. Die Physio kommt."
+        "de": "Eine Nachricht. Die Physio kommt.",
+        "es": "Un mensaje. El fisio va."
       },
       "hipotesis": "Enseña en 3 s la acción exacta que buscamos (escribir por WhatsApp) y atrae a quien ya ha decidido"
     }
@@ -98,11 +108,13 @@
       "visual": "Grabación de pantalla de WhatsApp: se envía el mensaje. Corte: un dedo toca el timbre.",
       "dice": {
         "fr": "POV : vous écrivez pour votre mère… et le physio passe chez elle.",
-        "de": "POV: Sie schreiben für Ihre Mutter – und die Physio kommt zu ihr."
+        "de": "POV: Sie schreiben für Ihre Mutter – und die Physio kommt zu ihr.",
+        "es": "POV: escribe por su madre… y el fisio va a su casa."
       },
       "texto": {
         "fr": "Un message. Le physio vient.",
-        "de": "Eine Nachricht. Die Physio kommt."
+        "de": "Eine Nachricht. Die Physio kommt.",
+        "es": "Un mensaje. El fisio va."
       }
     },
     {
@@ -111,11 +123,13 @@
       "visual": "El «hijo/a» en el coche aparcado mira una foto de su madre en el móvil; corte a la madre sentada junto a la ventana.",
       "dice": {
         "fr": "Depuis sa chute, elle sort à peine. Et vous ne pouvez pas toujours être là.",
-        "de": "Seit dem Sturz geht sie kaum noch raus. Und Sie können nicht immer da sein."
+        "de": "Seit dem Sturz geht sie kaum noch raus. Und Sie können nicht immer da sein.",
+        "es": "Desde la caída, apenas sale. Y usted no siempre puede estar ahí."
       },
       "texto": {
         "fr": "Depuis la chute, elle sort à peine",
-        "de": "Seit dem Sturz kaum noch draussen"
+        "de": "Seit dem Sturz kaum noch draussen",
+        "es": "Desde la caída, apenas sale"
       }
     },
     {
@@ -124,11 +138,13 @@
       "visual": "Francisco entra con su maletín; trabaja con la figurante el gesto de levantarse de una silla.",
       "dice": {
         "fr": "Physio Activa vient à domicile dans toute la région des Trois-Lacs. La même physio qu'au cabinet.",
-        "de": "Physio Activa kommt in der ganzen Drei-Seen-Region nach Hause. Die gleiche Physio wie in der Praxis."
+        "de": "Physio Activa kommt in der ganzen Drei-Seen-Region nach Hause. Die gleiche Physio wie in der Praxis.",
+        "es": "Physio Activa va a domicilio en toda la región de los Tres Lagos. La misma fisio que en la consulta."
       },
       "texto": {
         "fr": "🏠 La même physio, à la maison",
-        "de": "🏠 Die gleiche Physio, zu Hause"
+        "de": "🏠 Die gleiche Physio, zu Hause",
+        "es": "🏠 La misma fisio, en casa"
       }
     },
     {
@@ -137,11 +153,13 @@
       "visual": "Detalle: la silla de cocina como apoyo; Francisco anota en su ficha; captura real del perfil de Google.",
       "dice": {
         "fr": "Première visite en général la même semaine. Reconnu par toutes les assurances, avec prescription. 4,9 sur 5 sur Google.",
-        "de": "Erster Besuch in der Regel in derselben Woche. Von allen Versicherungen anerkannt, mit Verordnung. 4,9 von 5 auf Google."
+        "de": "Erster Besuch in der Regel in derselben Woche. Von allen Versicherungen anerkannt, mit Verordnung. 4,9 von 5 auf Google.",
+        "es": "Primera visita, en general, la misma semana. Reconocido por todos los seguros, con prescripción. 4,9 sobre 5 en Google."
       },
       "texto": {
         "fr": "En général la même semaine · ⭐ 4,9/5",
-        "de": "In der Regel gleiche Woche · ⭐ 4,9/5"
+        "de": "In der Regel gleiche Woche · ⭐ 4,9/5",
+        "es": "En general, la misma semana · ⭐ 4,9/5"
       }
     },
     {
@@ -150,11 +168,13 @@
       "visual": "Francisco en la puerta de la casa, con el chat de WhatsApp en el móvil.",
       "dice": {
         "fr": "Votre proche a une prescription ? Écrivez-nous sur WhatsApp.",
-        "de": "Hat Ihr Angehöriger eine Verordnung? Schreiben Sie uns auf WhatsApp."
+        "de": "Hat Ihr Angehöriger eine Verordnung? Schreiben Sie uns auf WhatsApp.",
+        "es": "¿Su familiar tiene prescripción? Escríbanos por WhatsApp."
       },
       "texto": {
         "fr": "💬 WhatsApp 076 627 38 38",
-        "de": "💬 WhatsApp 076 627 38 38"
+        "de": "💬 WhatsApp 076 627 38 38",
+        "es": "💬 WhatsApp 076 627 38 38"
       }
     }
   ],
@@ -170,6 +190,12 @@
       "largo": "Nach einem Sturz ist das Rausgehen oft das Schwierigste. Und Sie können nicht immer da sein.\nPhysio Activa kommt nach Hause: die gleiche Physio wie in der Praxis, angepasst an Ihr Zuhause.\n✅ Drei-Seen-Region (Murten, Kerzers, Ins, Erlach …)\n✅ Erster Besuch in der Regel in derselben Woche\n✅ Kein Material zu Hause nötig\n✅ Von allen Versicherungen anerkannt, mit ärztlicher Verordnung\nHat Ihr Angehöriger eine Verordnung? Schreiben Sie uns auf WhatsApp.",
       "titular": "Die Physio kommt zu Ihren Eltern",
       "descripcion": "Drei-Seen-Region · mit Verordnung"
+    },
+    "es": {
+      "corto": "¿Su padre o su madre ya no sale desde la caída? El fisio va a casa, con prescripción. Escríbanos.",
+      "largo": "Después de una caída, salir de casa a veces se vuelve lo más difícil. Y usted no siempre puede estar ahí.\nPhysio Activa va a domicilio: la misma fisio que en la consulta, adaptada a la casa.\n✅ Región de los Tres Lagos (Morat, Avenches, Payerne, Estavayer, Neuchâtel…)\n✅ Primera visita, en general, la misma semana\n✅ No hace falta material en casa\n✅ Reconocido por todos los seguros, con prescripción médica\n¿Su familiar tiene prescripción? Escríbanos por WhatsApp.",
+      "titular": "El fisio va a casa de sus padres",
+      "descripcion": "Tres Lagos · con prescripción"
     }
   },
   "notas": [

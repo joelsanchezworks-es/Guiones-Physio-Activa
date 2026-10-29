@@ -93,6 +93,9 @@ h2.sec{font-size:13px;font-weight:700;text-transform:uppercase;letter-spacing:.0
 .see{font-size:14px;color:var(--muted);margin:0}
 .see b{color:var(--ink);font-weight:600}
 .ost{display:inline-block;align-self:flex-start;background:var(--tag);color:var(--tag-ink);font-weight:700;font-size:13px;padding:4px 10px;border-radius:6px;max-width:100%}
+.es{margin:6px 0 0;font-size:14px;line-height:1.4;color:var(--muted);font-style:italic;font-weight:400;letter-spacing:0}
+.es b{font-style:normal;font-size:10.5px;font-weight:800;letter-spacing:.06em;color:var(--accent);margin-right:4px}
+.esnote{background:var(--accent-soft);border:1px solid var(--accent-line);border-radius:10px;padding:9px 14px;font-size:13.5px;margin:-12px 0 24px}
 .hyp{font-size:13px;color:var(--muted);border-top:1px dashed var(--line);padding-top:8px;margin:auto 0 0}
 
 /* timeline */
@@ -223,7 +226,7 @@ const ANGULOS = {
   D: "D · Más que un masaje", E: "E · A domicilio", F: "F · Seguro / MTT gratis",
 };
 const USO = { ads: "Ads", organico: "Orgánico" };
-const LANG_NAME = { fr: "FR", de: "DE" };
+const LANG_NAME = { fr: "FR", de: "DE", es: "ES" };
 
 const $ = (id) => document.getElementById(id);
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -236,6 +239,7 @@ let index = [];
 let filter = "all";
 let current = null;      // guion abierto
 let lang = store.get("pa-lang", "fr");
+let showEs = store.get("pa-show-es", "1") === "1";
 let pSize = Number(store.get("pa-prompter-size", "48")) || 48;
 
 function toast(msg) {
@@ -299,6 +303,10 @@ function renderList() {
 
 /* ---------------- guion ---------------- */
 const L = (obj) => (obj && (obj[lang] ?? obj[current?.idiomas?.[0]])) || "";
+// El español es solo una traducción de referencia para el equipo: no se graba ni se publica.
+const hasEs = (g) => g.hooks.some((h) => h.verbal?.es) || g.guion.some((b) => b.dice?.es);
+const langsOf = (g) => hasEs(g) ? [...g.idiomas, "es"] : [...g.idiomas];
+const ES = (obj) => (showEs && lang !== "es" && obj?.es) ? `<p class="es"><b>ES</b>${esc(obj.es)}</p>` : "";
 
 function guionText(g) {
   const lines = [`${g.titulo}`, `${USO[g.uso] || g.uso} · ${ANGULOS[g.angulo] || g.angulo} · ${g.duracion} · Reel 9:16 · ${LANG_NAME[lang]}`, ""];
@@ -306,6 +314,7 @@ function guionText(g) {
   for (const h of sortedHooks(g)) {
     lines.push(`${h.id}${h.recomendado ? " (recomendado)" : ""} · ${h.tipo}`);
     lines.push(`  Se dice: ${L(h.verbal)}`);
+    if (showEs && lang !== "es" && h.verbal?.es) lines.push(`  (ES: ${h.verbal.es})`);
     lines.push(`  Se ve: ${h.visual}`);
     lines.push(`  Texto en pantalla: ${L(h.texto)}`);
   }
@@ -314,6 +323,7 @@ function guionText(g) {
     lines.push(`${b.tiempo} · ${b.bloque}`);
     lines.push(`  Se ve: ${b.visual}`);
     lines.push(`  Se dice: ${L(b.dice)}`);
+    if (showEs && lang !== "es" && b.dice?.es) lines.push(`  (ES: ${b.dice.es})`);
     lines.push(`  Texto en pantalla: ${L(b.texto)}`);
   }
   const c = g.copy?.[lang];
@@ -330,6 +340,7 @@ function guionText(g) {
 const sortedHooks = (g) => [...g.hooks].sort((a, b) => (b.recomendado === true) - (a.recomendado === true));
 
 function copyCard(label, text, limit, wide) {
+  if (lang === "es") limit = 0;
   const n = [...(text || "")].length;
   const counter = limit ? `<span class="count${n > limit ? " over" : ""}">${n} / ${limit}</span>` : `<span class="count" style="color:var(--muted)">${n} car.</span>`;
   return `<div class="card${wide ? " wide" : ""}">
@@ -340,20 +351,24 @@ function copyCard(label, text, limit, wide) {
 
 function renderGuion(g) {
   current = g;
-  if (!g.idiomas.includes(lang)) lang = g.idiomas[0];
+  const langs = langsOf(g);
+  if (!langs.includes(lang)) lang = g.idiomas[0];
   document.title = `${g.titulo} · Guiones Physio Activa`;
-  const two = g.idiomas.length > 1;
-  const langBtns = two
-    ? `<div class="seg" role="group" aria-label="Idioma">${g.idiomas.map((l) =>
-        `<button data-lang="${esc(l)}" aria-pressed="${l === lang}">${esc(LANG_NAME[l] || l)}</button>`).join("")}</div>`
+  const langBtns = langs.length > 1
+    ? `<div class="seg" role="group" aria-label="Idioma">${langs.map((l) =>
+        `<button data-lang="${esc(l)}" aria-pressed="${l === lang}"${l === "es" ? ' title="Traducción al español, solo para entender el guion"' : ""}>${esc(LANG_NAME[l] || l)}</button>`).join("")}</div>`
     : `<span class="chip">${esc(LANG_NAME[g.idiomas[0]])}</span>`;
+  const esToggle = hasEs(g) && lang !== "es"
+    ? `<button class="btn" id="b-es" aria-pressed="${showEs}">${showEs ? "Ocultar español" : "Ver en español"}</button>` : "";
+  const esNote = lang === "es"
+    ? `<p class="esnote"><strong>Traducción al español</strong>, solo para entender el guion. Se graba y se publica en ${esc(g.idiomas.map((l) => LANG_NAME[l]).join(" y "))}.</p>` : "";
 
   const hooks = sortedHooks(g).map((h) => `
     <article class="card hook${h.recomendado ? " rec" : ""}">
       <div class="hook-head"><span class="hook-id">${esc(h.id)} · ${esc(h.tipo)}</span>${h.recomendado ? '<span class="badge">★ Recomendado</span>' : ""}</div>
-      <div><div class="label">Se dice</div><p class="say">${esc(L(h.verbal))}</p></div>
+      <div><div class="label">Se dice</div><p class="say">${esc(L(h.verbal))}</p>${ES(h.verbal)}</div>
       <p class="see"><b>Se ve:</b> ${esc(h.visual)}</p>
-      <div><div class="label">Texto en pantalla</div><span class="ost">${esc(L(h.texto))}</span></div>
+      <div><div class="label">Texto en pantalla</div><span class="ost">${esc(L(h.texto))}</span>${ES(h.texto)}</div>
       <p class="hyp">${esc(h.hipotesis)}</p>
     </article>`).join("");
 
@@ -361,8 +376,8 @@ function renderGuion(g) {
     <div class="card row">
       <div class="when"><span class="time">${esc(b.tiempo)}</span><span class="block${b.bloque === "CTA" ? " cta" : ""}">${esc(b.bloque)}</span></div>
       <div><div class="label">Se ve / se graba</div><p class="see">${esc(b.visual)}</p></div>
-      <div class="said"><div><div class="label">Se dice</div><p class="say">${esc(L(b.dice))}</p></div>
-        <div><span class="ost">${esc(L(b.texto))}</span></div></div>
+      <div class="said"><div><div class="label">Se dice</div><p class="say">${esc(L(b.dice))}</p>${ES(b.dice)}</div>
+        <div><span class="ost">${esc(L(b.texto))}</span>${ES(b.texto)}</div></div>
     </div>`).join("");
 
   const c = g.copy?.[lang] || {};
@@ -386,10 +401,12 @@ function renderGuion(g) {
     </div>
     <div class="toolbar">
       ${langBtns}
+      ${esToggle}
       <button class="btn primary" id="b-read">Leer a cámara</button>
       <button class="btn" id="b-copy">Copiar guion</button>
       <button class="btn" onclick="window.print()">Imprimir / PDF</button>
     </div>
+    ${esNote}
 
     <section><h2 class="sec">Ficha</h2><div class="grid ficha">
       <div class="card"><div class="label">Tema</div><p>${esc(g.tema)}</p></div>
@@ -411,6 +428,13 @@ function renderGuion(g) {
     renderGuion(g);
     $("main").scrollTop = y; window.scrollTo(0, wy);
   }));
+  $("b-es")?.addEventListener("click", () => {
+    showEs = !showEs;
+    store.set("pa-show-es", showEs ? "1" : "0");
+    const y = $("main").scrollTop, wy = window.scrollY;
+    renderGuion(g);
+    $("main").scrollTop = y; window.scrollTo(0, wy);
+  });
   $("b-read").addEventListener("click", openPrompter);
   $("b-copy").addEventListener("click", () => copyText(guionText(g)));
 }

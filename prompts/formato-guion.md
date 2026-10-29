@@ -29,9 +29,9 @@ El visor web (`public/index.html`) solo muestra los JSON que siguen **exactament
   "hooks": [
     {
       "id": "H1", "tipo": "POV / familiar", "recomendado": true,
-      "verbal": { "fr": "Votre père sort de l'hôpital ? On vient chez lui.", "de": "Ihr Vater kommt aus dem Spital? Wir kommen zu ihm nach Hause." },
+      "verbal": { "fr": "Votre père sort de l'hôpital ? On vient chez lui.", "de": "Ihr Vater kommt aus dem Spital? Wir kommen zu ihm nach Hause.", "es": "¿Su padre sale del hospital? Vamos a su casa." },
       "visual": "El fisio llama al timbre con su bolsa",
-      "texto": { "fr": "Physio à domicile, cette semaine", "de": "Physio zu Hause, diese Woche" },
+      "texto": { "fr": "Physio à domicile, cette semaine", "de": "Physio zu Hause, diese Woche", "es": "Fisio a domicilio, esta semana" },
       "hipotesis": "Habla a quien decide justo cuando busca solución"
     }
   ],
@@ -39,13 +39,14 @@ El visor web (`public/index.html`) solo muestra los JSON que siguen **exactament
     {
       "tiempo": "0–3 s", "bloque": "Gancho",
       "visual": "El fisio llama al timbre con la bolsa",
-      "dice": { "fr": "Votre père sort de l'hôpital ? On vient chez lui.", "de": "Ihr Vater kommt aus dem Spital? Wir kommen zu ihm nach Hause." },
-      "texto": { "fr": "Physio à domicile, cette semaine", "de": "Physio zu Hause, diese Woche" }
+      "dice": { "fr": "Votre père sort de l'hôpital ? On vient chez lui.", "de": "Ihr Vater kommt aus dem Spital? Wir kommen zu ihm nach Hause.", "es": "¿Su padre sale del hospital? Vamos a su casa." },
+      "texto": { "fr": "Physio à domicile, cette semaine", "de": "Physio zu Hause, diese Woche", "es": "Fisio a domicilio, esta semana" }
     }
   ],
   "copy": {
     "fr": { "corto": "…", "largo": "…", "titular": "…", "descripcion": "…" },
-    "de": { "corto": "…", "largo": "…", "titular": "…", "descripcion": "…" }
+    "de": { "corto": "…", "largo": "…", "titular": "…", "descripcion": "…" },
+    "es": { "corto": "…", "largo": "…", "titular": "…", "descripcion": "…" }
   },
   "notas": ["…"],
   "pendientes": ["…"]
@@ -81,8 +82,8 @@ El visor web (`public/index.html`) solo muestra los JSON que siguen **exactament
 - `copy`:
   - En **ads**: `corto` (**≤125 caracteres**), `largo`, `titular` (**≤40 caracteres**) y `descripcion`, por idioma. En `largo` los saltos de línea se escriben como `\n`.
   - En **orgánico**: `{ "fr": { "post": "…", "hashtags": ["#…"] } }` (y `de` si aplica), con 5 hashtags.
-- Las claves de idioma (`fr`, `de`) son **solo** las de `idiomas`.
-- Lo que se ve (`visual`), las hipótesis, las notas y los pendientes van **en español**. Lo que se dice, el texto en pantalla y el copy van en el idioma de su clave. Nunca texto en español dentro de `dice`, `verbal`, `texto` o `copy`.
+- Las claves de idioma (`fr`, `de`) son **solo** las de `idiomas`. Además, **todo** texto con idiomas (`verbal`, `texto`, `dice` y `copy`) lleva una clave **`es`**: la traducción al español para que el equipo entienda el guion. `es` **no** va en `idiomas`: no se graba ni se publica, solo se ve en el visor (botón ES y «Ver en español»). Es una traducción fiel del francés (o del alemán si el guion es solo DE), sin añadir nada. En `copy.es`, las mismas claves que en los demás idiomas.
+- Lo que se ve (`visual`), las hipótesis, las notas y los pendientes van **en español**. Lo que se dice, el texto en pantalla y el copy van en el idioma de su clave. Nunca texto en español dentro de las claves `fr` o `de` de `dice`, `verbal`, `texto` o `copy`: el español va solo en la clave `es`.
 - Los datos (cifras, seguros, horarios, zonas) salen solo de `contexto/`. Si falta algo: `[POR CONFIRMAR]` en el texto y una línea en `pendientes`.
 - JSON válido: comillas dobles, sin comas finales, en UTF-8.
 

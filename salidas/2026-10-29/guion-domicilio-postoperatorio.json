@@ -21,12 +21,14 @@
       "recomendado": true,
       "verbal": {
         "fr": "3 questions à poser avant la sortie d'hôpital de votre parent.",
-        "de": "3 Fragen, bevor Ihr Elternteil aus dem Spital kommt."
+        "de": "3 Fragen, bevor Ihr Elternteil aus dem Spital kommt.",
+        "es": "3 preguntas que hacer antes del alta hospitalaria de su padre o madre."
       },
       "visual": "Una mano escribe «1. 2. 3.» en una libreta junto a una bolsa de hospital preparada",
       "texto": {
         "fr": "Avant la sortie : 3 questions",
-        "de": "Vor dem Austritt: 3 Fragen"
+        "de": "Vor dem Austritt: 3 Fragen",
+        "es": "Antes del alta: 3 preguntas"
       },
       "hipotesis": "Pilla al familiar justo antes del alta, cuando decide, y le promete una respuesta concreta"
     },
@@ -36,12 +38,14 @@
       "recomendado": false,
       "verbal": {
         "fr": "Je suis Francisco. Après une opération, je viens à vous.",
-        "de": "Ich bin Francisco. Nach einer Operation komme ich zu Ihnen."
+        "de": "Ich bin Francisco. Nach einer Operation komme ich zu Ihnen.",
+        "es": "Soy Francisco. Después de una operación, voy a su casa."
       },
       "visual": "Francisco cierra la puerta del coche y camina hacia una casa con su maletín, hablando a cámara",
       "texto": {
         "fr": "Après l'opération, je viens",
-        "de": "Nach der OP komme ich"
+        "de": "Nach der OP komme ich",
+        "es": "Después de la operación, voy"
       },
       "hipotesis": "Ver una cara da confianza en un servicio que entra en casa"
     },
@@ -51,12 +55,14 @@
       "recomendado": false,
       "verbal": {
         "fr": "Votre père rentre à Estavayer après une opération ? On vient chez lui.",
-        "de": "Ihr Vater ist nach der OP zurück in Kerzers? Wir kommen."
+        "de": "Ihr Vater ist nach der OP zurück in Kerzers? Wir kommen.",
+        "es": "¿Su padre vuelve a Estavayer tras una operación? Vamos a su casa."
       },
       "visual": "Pin de mapa sobre Estavayer (Kerzers en DE); corte a la puerta de una casa que se abre",
       "texto": {
         "fr": "Estavayer : on vient chez lui",
-        "de": "Kerzers: Wir kommen zu ihm"
+        "de": "Kerzers: Wir kommen zu ihm",
+        "es": "Estavayer: vamos a su casa"
       },
       "hipotesis": "Nombrar el pueblo confirma al instante que la zona está cubierta"
     },
@@ -66,12 +72,14 @@
       "recomendado": false,
       "verbal": {
         "fr": "Si l'escalier de la maison est devenu un obstacle, regardez ça.",
-        "de": "Wenn die Treppe zu Hause zum Hindernis wird, schauen Sie hier."
+        "de": "Wenn die Treppe zu Hause zum Hindernis wird, schauen Sie hier.",
+        "es": "Si la escalera de casa se ha vuelto un obstáculo, mire esto."
       },
       "visual": "Plano bajo de la escalera de una casa con dos muletas apoyadas abajo, sin nadie",
       "texto": {
         "fr": "L'escalier, devenu un obstacle ?",
-        "de": "Treppe als Hindernis?"
+        "de": "Treppe als Hindernis?",
+        "es": "¿La escalera, un obstáculo?"
       },
       "hipotesis": "Imagen típica de la vuelta a casa tras una operación: el familiar se reconoce en un segundo"
     },
@@ -81,12 +89,14 @@
       "recomendado": false,
       "verbal": {
         "fr": "Regardez : trois pas avec des béquilles, accompagnés par le physio.",
-        "de": "Schauen Sie: drei Schritte an Krücken, begleitet von der Physio."
+        "de": "Schauen Sie: drei Schritte an Krücken, begleitet von der Physio.",
+        "es": "Mire: tres pasos con muletas, acompañados por el fisio."
       },
       "visual": "La figurante da tres pasos con muletas por el pasillo; Francisco a su lado, con la mano preparada",
       "texto": {
         "fr": "Reprendre ses pas, chez soi",
-        "de": "Wieder gehen, zu Hause"
+        "de": "Wieder gehen, zu Hause",
+        "es": "Volver a caminar, en casa"
       },
       "hipotesis": "Muestra el servicio en acción y transmite seguridad sin prometer resultados"
     }
@@ -98,11 +108,13 @@
       "visual": "Una mano escribe «1. 2. 3.» en una libreta junto a una bolsa de hospital.",
       "dice": {
         "fr": "3 questions à poser avant la sortie d'hôpital de votre parent.",
-        "de": "3 Fragen, bevor Ihr Elternteil aus dem Spital kommt."
+        "de": "3 Fragen, bevor Ihr Elternteil aus dem Spital kommt.",
+        "es": "3 preguntas que hacer antes del alta hospitalaria de su padre o madre."
       },
       "texto": {
         "fr": "Avant la sortie : 3 questions",
-        "de": "Vor dem Austritt: 3 Fragen"
+        "de": "Vor dem Austritt: 3 Fragen",
+        "es": "Antes del alta: 3 preguntas"
       }
     },
     {
@@ -111,11 +123,13 @@
       "visual": "Las manos del «hijo/a» cierran la bolsa; corte a la escalera de la casa con las muletas abajo.",
       "dice": {
         "fr": "Après une opération, le retour à la maison fait souvent peur. Qui va s'occuper de la rééducation ?",
-        "de": "Nach einer Operation macht die Rückkehr nach Hause oft Angst. Wer kümmert sich um die Reha?"
+        "de": "Nach einer Operation macht die Rückkehr nach Hause oft Angst. Wer kümmert sich um die Reha?",
+        "es": "Tras una operación, volver a casa a menudo da miedo. ¿Quién se ocupará de la rehabilitación?"
       },
       "texto": {
         "fr": "Et la rééducation ?",
-        "de": "Und die Reha?"
+        "de": "Und die Reha?",
+        "es": "¿Y la rehabilitación?"
       }
     },
     {
@@ -124,11 +138,13 @@
       "visual": "Tarjeta «1»: Francisco llama al timbre con su maletín. Tarjeta «2»: mapa con pines (FR: Morat, Avenches, Estavayer, Neuchâtel · DE: Murten, Kerzers, Ins, Erlach).",
       "dice": {
         "fr": "Un : avec une prescription, la physio peut se faire à domicile. Deux : on vient dans toute la région des Trois-Lacs.",
-        "de": "Eins: Mit Verordnung geht Physio auch zu Hause. Zwei: Wir kommen in die ganze Drei-Seen-Region."
+        "de": "Eins: Mit Verordnung geht Physio auch zu Hause. Zwei: Wir kommen in die ganze Drei-Seen-Region.",
+        "es": "Uno: con prescripción, la fisio se puede hacer a domicilio. Dos: vamos a toda la región de los Tres Lagos."
       },
       "texto": {
         "fr": "1 · À domicile · 2 · Trois-Lacs",
-        "de": "1 · Zu Hause · 2 · Drei-Seen-Region"
+        "de": "1 · Zu Hause · 2 · Drei-Seen-Region",
+        "es": "1 · A domicilio · 2 · Tres Lagos"
       }
     },
     {
@@ -137,11 +153,13 @@
       "visual": "Tarjeta «3»: la figurante da tres pasos con muletas y Francisco a su lado; captura real de Google.",
       "dice": {
         "fr": "Trois : la première visite a lieu en général la même semaine. Reconnu par toutes les assurances.",
-        "de": "Drei: Der erste Besuch ist in der Regel in derselben Woche. Von allen Versicherungen anerkannt."
+        "de": "Drei: Der erste Besuch ist in der Regel in derselben Woche. Von allen Versicherungen anerkannt.",
+        "es": "Tres: la primera visita es, en general, la misma semana. Reconocido por todos los seguros."
       },
       "texto": {
         "fr": "3 · En général même semaine · ⭐ 4,9/5",
-        "de": "3 · In der Regel gleiche Woche · ⭐ 4,9/5"
+        "de": "3 · In der Regel gleiche Woche · ⭐ 4,9/5",
+        "es": "3 · En general, misma semana · ⭐ 4,9/5"
       }
     },
     {
@@ -150,11 +168,13 @@
       "visual": "Francisco en la puerta, con el chat de WhatsApp en el móvil.",
       "dice": {
         "fr": "Prescription prête ? Écrivez-nous sur WhatsApp.",
-        "de": "Verordnung bereit? Schreiben Sie uns auf WhatsApp."
+        "de": "Verordnung bereit? Schreiben Sie uns auf WhatsApp.",
+        "es": "¿Prescripción lista? Escríbanos por WhatsApp."
       },
       "texto": {
         "fr": "💬 WhatsApp 076 627 38 38",
-        "de": "💬 WhatsApp 076 627 38 38"
+        "de": "💬 WhatsApp 076 627 38 38",
+        "es": "💬 WhatsApp 076 627 38 38"
       }
     }
   ],
@@ -170,6 +190,12 @@
       "largo": "Nach einer Operation macht die Rückkehr nach Hause oft Angst. Wer kümmert sich um die Reha?\nPhysio Activa kommt nach Hause: die gleiche Physio wie in der Praxis, angepasst an Ihr Zuhause.\n✅ Mit ärztlicher Verordnung, zu Hause\n✅ Drei-Seen-Region (Murten, Kerzers, Ins, Erlach …)\n✅ Erster Besuch in der Regel in derselben Woche\n✅ Von allen Versicherungen anerkannt · 4,9/5 auf Google\nIst die Verordnung bereit? Schreiben Sie uns auf WhatsApp – schon vor dem Austritt.",
       "titular": "Physio zu Hause nach der Operation",
       "descripcion": "Mit Verordnung · Drei-Seen-Region"
+    },
+    "es": {
+      "corto": "¿Su padre o su madre sale pronto del hospital tras una operación? La fisio puede seguir en casa. Escríbanos.",
+      "largo": "Tras una operación, volver a casa a menudo da miedo. ¿Quién se ocupará de la rehabilitación?\nPhysio Activa va a domicilio: la misma fisio que en la consulta, adaptada a la casa.\n✅ Con prescripción médica, a domicilio\n✅ Región de los Tres Lagos (Morat, Avenches, Estavayer, Neuchâtel…)\n✅ Primera visita, en general, la misma semana\n✅ Reconocido por todos los seguros · 4,9/5 en Google\n¿La prescripción está lista? Escríbanos por WhatsApp antes del alta.",
+      "titular": "Fisio a domicilio tras la operación",
+      "descripcion": "Con prescripción · Tres Lagos"
     }
   },
   "notas": [

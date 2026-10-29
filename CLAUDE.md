@@ -19,7 +19,7 @@ Se usa solo con **Claude Code**, con el plan de la persona que lo abre. No hay A
 5. No uses nunca physiodom.ch.
 
 ## Guardar
-- Guiones: JSON en `salidas/AAAA-MM-DD/guion-[tema-corto].json`, siguiendo **exactamente** `prompts/formato-guion.md`. No sobrescribas guiones anteriores.
+- Guiones: JSON en `salidas/AAAA-MM-DD/guion-[tema-corto].json`, siguiendo **exactamente** `prompts/formato-guion.md`. No sobrescribas guiones anteriores. Cada texto lleva también su traducción al español en la clave `es` (solo para que el equipo lo entienda; no se graba ni se publica).
 - Otros documentos (planes, tests, notas): `.md` que empiece por `# Título`.
 - Después: `npm run build` (valida los JSON; si avisa de uno no válido, corrígelo), commit y push. **El push es obligatorio**, porque la sesión en la nube se borra al cerrarse.
 
