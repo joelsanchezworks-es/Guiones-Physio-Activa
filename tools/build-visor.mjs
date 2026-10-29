@@ -4,6 +4,7 @@
 // Sin dependencias: node tools/build-visor.mjs
 import { readdirSync, readFileSync, writeFileSync, mkdirSync, rmSync, statSync, existsSync } from "node:fs";
 import { join, relative, dirname, basename, extname, sep } from "node:path";
+import { execSync } from "node:child_process";
 
 const ROOT = process.cwd();
 const SRC = join(ROOT, "salidas");
@@ -101,6 +102,19 @@ function folderDate(relPath) {
   return parts.find((p) => FECHA.test(p)) || null;
 }
 
+// Repositorio y rama, para que el visor pueda abrir la pantalla de borrado de GitHub.
+// Repo: campo "repository" de package.json. Rama: la que está publicando Cloudflare Pages
+// (CF_PAGES_BRANCH) o, en local, la rama actual de git.
+function config() {
+  let repo = "", branch = process.env.CF_PAGES_BRANCH || "";
+  try { repo = JSON.parse(readFileSync(join(ROOT, "package.json"), "utf8")).repository || ""; } catch {}
+  repo = String(repo).replace(/^github:/, "").replace(/^https:\/\/github\.com\//, "").replace(/\.git$/, "");
+  if (!branch) {
+    try { branch = execSync("git rev-parse --abbrev-ref HEAD", { stdio: ["ignore", "pipe", "ignore"] }).toString().trim(); } catch {}
+  }
+  return { repo, branch: branch === "HEAD" ? "" : branch };
+}
+
 function main() {
   rmSync(OUT, { recursive: true, force: true });
   mkdirSync(OUT, { recursive: true });
@@ -141,9 +155,12 @@ function main() {
     mkdirSync(dirname(join(OUT, rel)), { recursive: true });
     writeFileSync(join(OUT, rel), JSON.stringify(g));
     jsonStems.add(join(dirname(abs), basename(abs, ".json")));
+    // Archivos del repo que forman este guion (el .json y, si existe, el .md con el mismo nombre).
+    const twin = join(dirname(abs), basename(abs, ".json") + ".md");
+    const repoFiles = [abs, ...(existsSync(twin) ? [twin] : [])].map((f) => relative(ROOT, f).split(sep).join("/"));
     items.push({
       kind: "guion", id: g.id, file, fecha: g.fecha, titulo: g.titulo, tema: g.tema,
-      uso: g.uso, angulo: g.angulo, duracion: g.duracion, idiomas: g.idiomas,
+      uso: g.uso, angulo: g.angulo, duracion: g.duracion, idiomas: g.idiomas, repoFiles,
     });
   }
 
@@ -159,6 +176,7 @@ function main() {
     items.push({
       kind: "doc", id: "doc/" + file.replace(/\.md$/, ""), file,
       fecha: folderDate(rel), titulo: m ? m[1].trim() : basename(abs, ".md"),
+      repoFiles: [relative(ROOT, abs).split(sep).join("/")],
     });
   }
 
@@ -167,6 +185,7 @@ function main() {
     (a.kind === b.kind ? 0 : a.kind === "guion" ? -1 : 1) ||
     a.file.localeCompare(b.file));
   writeFileSync(join(OUT, "index.json"), JSON.stringify({ generado: new Date().toISOString(), items }, null, 1));
+  writeFileSync(join(OUT, "config.json"), JSON.stringify(config()));
 
   const n = items.filter((i) => i.kind === "guion").length;
   console.log(`Visor: ${n} guion(es) y ${items.length - n} documento(s) en public/data/index.json${omitted ? ` · ${omitted} omitido(s)` : ""}.`);

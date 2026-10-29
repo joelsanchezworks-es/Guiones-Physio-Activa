@@ -27,5 +27,5 @@ Se usa solo con **Claude Code**, con el plan de la persona que lo abre. No hay A
 Breve: título, ángulo, hook recomendado (FR) y el enlace `VISOR_URL/#/[id]`. No pegues el guion entero.
 
 ## Comandos disponibles
-**`/guion [tema]`** (el principal), `/hooks`, `/test-hooks`, `/ads`, `/organico`, `/plan-grabacion`, `/ganadores`. Aceptan indicaciones libres después del comando (ángulos, idioma, cantidad, notas).
+**`/guion [tema]`** (el principal), `/hooks`, `/test-hooks`, `/ads`, `/organico`, `/plan-grabacion`, `/ganadores` y `/eliminar [id…]` (borra guiones o documentos de `salidas/`; el visor copia el comando desde el botón «Eliminar» o el modo «Depurar»). Aceptan indicaciones libres después del comando (ángulos, idioma, cantidad, notas).
 La hoja imprimible A4 de una carpeta (`python3 tools/build_entregables.py salidas/AAAA-MM-DD`) solo se genera con `/plan-grabacion` o si el usuario la pide.

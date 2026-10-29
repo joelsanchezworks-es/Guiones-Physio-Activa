@@ -59,6 +59,7 @@ En el visor:
 - **Leer a cámara:** pantalla negra con letra grande y solo lo que se dice, con A− / A+ y Escape para cerrar. Al final salen los hooks alternativos.
 - **Copiar guion**, **Copiar** en cada texto de Meta (con contador de caracteres) e **Imprimir / PDF**.
 - Los documentos `.md` de `salidas/` (banco de hooks, test, plan de grabación…) también se ven en el visor, en «Documentos».
+- **Eliminar** (en cada guion o documento) y **Depurar** (en la lista, para marcar varios): el visor no borra nada por sí mismo, porque es una web estática. Te da el comando `/eliminar …` para pegarlo en Claude Code (borra, valida y hace push) o los enlaces a la pantalla de borrado de GitHub. En ~1 min desaparece del visor; queda en el historial de Git por si hay que recuperarlo.
 
 ### Otros comandos
 
@@ -71,6 +72,7 @@ En el visor:
 | `/test-hooks` | Test de cuerpo fijo: 3 cuerpos × 5 hooks, nombres de anuncio, métricas y reglas |
 | `/plan-grabacion` | Plan de una jornada por localización + hoja imprimible A4 |
 | `/ganadores [métricas o CSV de Meta]` | Calcula hook rate, hold rate, CTR y CPL y guarda los ganadores |
+| `/eliminar [id…]` | Borra guiones o documentos de `salidas/` (el visor te copia el comando) |
 
 ## Estructura
 

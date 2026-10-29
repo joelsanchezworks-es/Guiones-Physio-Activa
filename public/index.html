@@ -54,6 +54,32 @@ main{overflow-y:auto;min-width:0}
 .mini.ads{background:var(--accent);color:var(--accent-ink)}
 .mini.org{background:var(--accent-soft);color:var(--accent);border:1px solid var(--accent-line)}
 .empty{color:var(--muted);padding:16px 10px;font-size:14px}
+.side-tools{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-top:10px}
+.linkbtn{border:0;background:transparent;color:var(--muted);font-size:13px;font-weight:600;padding:4px 2px}
+.linkbtn:hover,.linkbtn[aria-pressed="true"]{color:var(--danger)}
+.item.sel{display:flex;gap:10px;align-items:flex-start;cursor:pointer}
+.item.sel input{margin-top:3px;width:16px;height:16px;accent-color:var(--danger);flex:none}
+.item.sel.on{background:color-mix(in srgb,var(--danger) 10%,transparent)}
+.selbar{position:sticky;bottom:0;display:none;border-top:1px solid var(--line);padding:12px 14px;gap:8px;align-items:center;justify-content:space-between;flex-wrap:wrap;background:var(--panel)}
+body.selecting .selbar{display:flex}
+.selbar span{font-size:13px;font-weight:600}
+.btn.danger{color:var(--danger);border-color:color-mix(in srgb,var(--danger) 40%,var(--line))}
+.btn.danger:hover{background:color-mix(in srgb,var(--danger) 10%,var(--panel))}
+.btn.danger.solid{background:var(--danger);border-color:var(--danger);color:#fff}
+.modal{position:fixed;inset:0;z-index:55;background:rgba(0,0,0,.45);display:none;align-items:center;justify-content:center;padding:16px}
+.modal.open{display:flex}
+.modal-box{background:var(--panel);color:var(--ink);border-radius:16px;max-width:560px;width:100%;max-height:90vh;overflow-y:auto;padding:22px;box-shadow:0 20px 60px rgba(0,0,0,.3)}
+.modal-box h3{margin:0 0 6px;font-size:19px}
+.modal-box p{margin:6px 0;font-size:14px}
+.modal-box .muted{color:var(--muted);font-size:13px}
+.opt{border:1px solid var(--line);border-radius:12px;padding:14px;margin-top:14px}
+.opt h4{margin:0 0 6px;font-size:14px}
+.cmd{display:flex;gap:8px;align-items:stretch;margin-top:8px}
+.cmd code{flex:1;min-width:0;background:var(--hover);border-radius:8px;padding:9px 11px;font-size:13px;overflow-wrap:anywhere}
+.ghlinks{margin:8px 0 0;padding:0;list-style:none}
+.ghlinks li{margin:6px 0}
+.ghlinks a{font-size:13px;font-weight:600;overflow-wrap:anywhere}
+.modal-foot{display:flex;justify-content:flex-end;margin-top:16px}
 
 /* ---------- content ---------- */
 .view{max-width:1040px;margin:0 auto;padding:28px 28px 80px}
@@ -178,7 +204,7 @@ ul.notes li{margin:4px 0}
 @media print{
   :root{--bg:#fff;--panel:#fff;--ink:#000;--muted:#444;--line:#bbb;--accent:#1f5f47;--accent-ink:#fff;--accent-soft:#eef5f1;--tag:#000;--tag-ink:#fff;--shadow:none}
   .app{display:block;height:auto}
-  aside,.toolbar,.back,.copy-head .btn,.prompter,.toast{display:none!important}
+  aside,.toolbar,.back,.copy-head .btn,.prompter,.toast,.modal{display:none!important}
   main{overflow:visible}
   body,body.detail main,body:not(.detail) main{display:block}
   .view{max-width:none;padding:0}
@@ -200,8 +226,16 @@ ul.notes li{margin:4px 0}
         <button class="filter" data-f="organico" aria-pressed="false">Orgánico</button>
         <button class="filter" data-f="doc" aria-pressed="false">Documentos</button>
       </div>
+      <div class="side-tools"><span class="mini" id="count"></span><button class="linkbtn" id="b-sel" aria-pressed="false">Depurar</button></div>
     </div>
     <nav class="list" id="list" aria-label="Guiones y documentos"><p class="empty">Cargando…</p></nav>
+    <div class="selbar" id="selbar">
+      <span id="sel-n">0 seleccionados</span>
+      <span style="display:flex;gap:8px">
+        <button class="btn small" id="sel-cancel">Cancelar</button>
+        <button class="btn small danger solid" id="sel-del" disabled>Eliminar…</button>
+      </span>
+    </div>
   </aside>
   <main id="main"><div class="view" id="view"></div></main>
 </div>
@@ -216,6 +250,9 @@ ul.notes li{margin:4px 0}
     </div>
   </div>
   <div class="p-body" id="p-body"></div>
+</div>
+<div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="m-title">
+  <div class="modal-box" id="modal-box"></div>
 </div>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 
@@ -240,6 +277,9 @@ let filter = "all";
 let current = null;      // guion abierto
 let lang = store.get("pa-lang", "fr");
 let showEs = store.get("pa-show-es", "1") === "1";
+let config = { repo: "", branch: "" };   // de data/config.json (lo escribe el build)
+let selecting = false;
+const selected = new Set();
 let pSize = Number(store.get("pa-prompter-size", "48")) || 48;
 
 function toast(msg) {
@@ -274,6 +314,10 @@ const fmtDate = (d) => {
 
 /* ---------------- lista ---------------- */
 function renderList() {
+  const nG = index.filter((x) => x.kind === "guion").length;
+  $("count").textContent = `${nG} guion${nG === 1 ? "" : "es"} · ${index.length - nG} doc.`;
+  $("sel-n").textContent = `${selected.size} seleccionado${selected.size === 1 ? "" : "s"}`;
+  $("sel-del").disabled = !selected.size;
   const q = $("q").value.trim().toLowerCase();
   const items = index.filter((it) => {
     if (filter === "doc" && it.kind !== "doc") return false;
@@ -295,8 +339,14 @@ function renderList() {
          <span class="mini">Ángulo ${esc(it.angulo)}</span><span class="mini">${esc(it.duracion)}</span>
          <span class="mini">${esc((it.idiomas || []).map((l) => LANG_NAME[l] || l).join(" + "))}</span>`
       : `<span class="mini">Documento</span>`;
-    html += `<a class="item" href="#/${esc(it.id)}"${route === it.id ? ' aria-current="page"' : ""}>
-      <div class="item-title">${esc(it.titulo)}</div><div class="item-meta">${meta}</div></a>`;
+    if (selecting) {
+      const on = selected.has(it.id);
+      html += `<label class="item sel${on ? " on" : ""}"><input type="checkbox" data-sel="${esc(it.id)}"${on ? " checked" : ""}>
+        <span><div class="item-title">${esc(it.titulo)}</div><div class="item-meta">${meta}</div></span></label>`;
+    } else {
+      html += `<a class="item" href="#/${esc(it.id)}"${route === it.id ? ' aria-current="page"' : ""}>
+        <div class="item-title">${esc(it.titulo)}</div><div class="item-meta">${meta}</div></a>`;
+    }
   }
   $("list").innerHTML = html;
 }
@@ -405,6 +455,7 @@ function renderGuion(g) {
       <button class="btn primary" id="b-read">Leer a cámara</button>
       <button class="btn" id="b-copy">Copiar guion</button>
       <button class="btn" onclick="window.print()">Imprimir / PDF</button>
+      <button class="btn danger" data-del="${esc(g.id)}">Eliminar</button>
     </div>
     ${esNote}
 
@@ -482,12 +533,70 @@ async function renderDoc(it) {
       : `<pre style="white-space:pre-wrap">${esc(md)}</pre>`;
     $("view").innerHTML = `<button class="back" onclick="location.hash='#/'">← Todos</button>
       <div class="chips"><span class="chip strong">Documento</span><span class="chip">${esc(fmtDate(it.fecha))}</span><span class="chip">${esc(it.file)}</span></div>
-      <div class="toolbar"><button class="btn" onclick="window.print()">Imprimir / PDF</button></div>
+      <div class="toolbar"><button class="btn" onclick="window.print()">Imprimir / PDF</button>
+        <button class="btn danger" data-del="${esc(it.id)}">Eliminar</button></div>
       <article class="doc">${html}</article>`;
   } catch (e) {
     $("view").innerHTML = `<button class="back" onclick="location.hash='#/'">← Todos</button><p class="err">${esc(e.message)}</p>`;
   }
 }
+
+/* ---------------- eliminar ---------------- */
+// El visor es estático: no puede borrar archivos. Da dos caminos para hacerlo en el repositorio:
+// el comando /eliminar para Claude Code, o la pantalla de borrado de GitHub (un archivo por enlace).
+const ghDelete = (path) => config.repo && config.branch
+  ? `https://github.com/${config.repo}/delete/${config.branch.split("/").map(encodeURIComponent).join("/")}/${path.split("/").map(encodeURIComponent).join("/")}`
+  : "";
+
+function openDelete(ids) {
+  const items = ids.map((id) => index.find((x) => x.id === id)).filter(Boolean);
+  if (!items.length) return;
+  const cmd = "/eliminar " + items.map((x) => x.id).join(" ");
+  const files = items.flatMap((x) => x.repoFiles || []);
+  const one = items.length === 1;
+  const gh = files.map((f) => ghDelete(f) ? `<li><a href="${esc(ghDelete(f))}" target="_blank" rel="noopener">Eliminar ${esc(f)} ↗</a></li>` : "").join("");
+  $("modal-box").innerHTML = `
+    <h3 id="m-title">Eliminar ${one ? `«${esc(items[0].titulo)}»` : `${items.length} elementos`}</h3>
+    ${one ? "" : `<ul class="notes">${items.map((x) => `<li>${esc(x.titulo)}</li>`).join("")}</ul>`}
+    <p class="muted">Se borra${one ? "" : "n"} del repositorio y desaparece${one ? "" : "n"} del visor en el siguiente despliegue (~1 min). Queda en el historial de Git, así que se puede recuperar.</p>
+    <div class="opt">
+      <h4>1 · Con Claude Code (recomendado)</h4>
+      <p class="muted">Copia este comando y pégalo en Claude Code: borra los archivos, valida y hace push.</p>
+      <div class="cmd"><code>${esc(cmd)}</code><button class="btn small" data-copy="${esc(cmd)}">Copiar</button></div>
+    </div>
+    ${gh ? `<div class="opt"><h4>2 · Directamente en GitHub</h4>
+      <p class="muted">Abre la pantalla de borrado de cada archivo y pulsa «Commit changes». Necesitas estar dentro de GitHub con acceso al repositorio.</p>
+      <ul class="ghlinks">${gh}</ul></div>` : ""}
+    <div class="modal-foot"><button class="btn" id="m-close">Cerrar</button></div>`;
+  $("modal").classList.add("open");
+  $("m-close").addEventListener("click", closeDelete);
+  $("m-close").focus();
+}
+function closeDelete() { $("modal").classList.remove("open"); }
+$("modal").addEventListener("click", (e) => {
+  if (e.target === $("modal")) return closeDelete();
+  const b = e.target.closest("[data-copy]");
+  if (b) copyText(b.dataset.copy);
+});
+document.addEventListener("keydown", (e) => { if (e.key === "Escape" && $("modal").classList.contains("open")) closeDelete(); });
+
+function setSelecting(on) {
+  selecting = on;
+  if (!on) selected.clear();
+  document.body.classList.toggle("selecting", on);
+  $("b-sel").setAttribute("aria-pressed", String(on));
+  $("b-sel").textContent = on ? "Salir de depurar" : "Depurar";
+  renderList();
+}
+$("b-sel").addEventListener("click", () => setSelecting(!selecting));
+$("sel-cancel").addEventListener("click", () => setSelecting(false));
+$("sel-del").addEventListener("click", () => openDelete([...selected]));
+$("list").addEventListener("change", (e) => {
+  const c = e.target.closest("[data-sel]");
+  if (!c) return;
+  c.checked ? selected.add(c.dataset.sel) : selected.delete(c.dataset.sel);
+  renderList();
+});
 
 /* ---------------- rutas ---------------- */
 async function route() {
@@ -522,6 +631,8 @@ document.querySelectorAll(".filter").forEach((b) => b.addEventListener("click", 
 }));
 $("q").addEventListener("input", renderList);
 $("view").addEventListener("click", (e) => {
+  const d = e.target.closest("[data-del]");
+  if (d) return openDelete([d.dataset.del]);
   const b = e.target.closest("[data-copy]");
   if (b) copyText(b.dataset.copy);
 });
@@ -532,6 +643,7 @@ window.addEventListener("hashchange", route);
     const r = await fetch("data/index.json", { cache: "no-store" });
     if (!r.ok) throw new Error("No se encontró data/index.json (" + r.status + "). ¿Se ejecutó npm run build?");
     index = (await r.json()).items || [];
+    try { const c = await fetch("data/config.json", { cache: "no-store" }); if (c.ok) config = await c.json(); } catch {}
   } catch (e) {
     $("list").innerHTML = `<p class="empty err">${esc(e.message)}</p>`;
   }

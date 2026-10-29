@@ -1,6 +1,7 @@
 {
   "name": "physioactiva-guiones",
   "private": true,
+  "repository": "github:joelsanchezworks-es/Guiones-Physio-Activa",
   "type": "module",
   "scripts": {
     "build": "node tools/build-visor.mjs",
