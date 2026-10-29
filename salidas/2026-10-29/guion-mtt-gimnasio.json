@@ -1,0 +1,117 @@
+{
+  "tipo": "guion",
+  "id": "2026-10-29-mtt-gimnasio",
+  "fecha": "2026-10-29",
+  "titulo": "MTT: el gimnasio médico con prescripción",
+  "tema": "MTT/gimnasio",
+  "angulo": "D",
+  "uso": "ads",
+  "duracion": "30 s",
+  "idiomas": ["fr", "de"],
+  "publico": "Adultos de 30 a 70 años con prescripción de MTT o al final de su fisio (postoperatorio, lesión, dolor crónico de espalda, rodilla u hombro, vuelta al deporte)",
+  "localizacion": "Sala de fitness médico de la clínica (InsGym, 1.ª planta del edificio Lidl, Ins) y sala de tratamiento",
+  "quien_sale": "Lucile, y Paul como figurante «paciente» (con autorización de imagen firmada)",
+  "hooks": [
+    {
+      "id": "H1", "tipo": "Pregunta directa al dolor", "recomendado": true,
+      "verbal": { "fr": "Votre médecin a écrit « MTT » sur votre prescription ? Voici ce que c'est.", "de": "Steht „MTT“ auf Ihrer Verordnung? Das bedeutet es.", "es": "¿Su médico ha escrito «MTT» en su prescripción? Esto es lo que significa." },
+      "visual": "Primer plano de una prescripción (de atrezo, sin datos): un dedo rodea con rotulador rojo las letras «MTT»",
+      "texto": { "fr": "MTT sur la prescription ?", "de": "MTT auf der Verordnung?", "es": "¿MTT en la prescripción?" },
+      "hipotesis": "Solo se para quien ya tiene la prescripción de MTT en la mano: el lead con más intención de reservar"
+    },
+    {
+      "id": "H2", "tipo": "Error común", "recomendado": false,
+      "verbal": { "fr": "Erreur : reprendre la salle seul juste après une blessure.", "de": "Fehler: Nach einer Verletzung allein ins Training zurück.", "es": "Error: volver al gimnasio solo justo después de una lesión." },
+      "visual": "Paul carga una barra solo y hace un gesto de molestia; la mano de Lucile entra en plano y la detiene",
+      "texto": { "fr": "Seul après une blessure ? Non.", "de": "Allein nach der Verletzung? Nein.", "es": "¿Solo tras una lesión? No." },
+      "hipotesis": "Habla al deportista que quiere volver rápido y le da un motivo para hacerlo con supervisión"
+    },
+    {
+      "id": "H3", "tipo": "Historia en primera persona del fisio", "recomendado": false,
+      "verbal": { "fr": "Certains de mes patients viennent ici seulement pour le MTT.", "de": "Manche Patienten kommen nur für das MTT zu uns.", "es": "Algunos de mis pacientes vienen aquí solo para hacer el MTT." },
+      "visual": "Lucile en la entrada de la sala de fitness abre los brazos hacia las máquinas",
+      "texto": { "fr": "Ils viennent juste pour ça", "de": "Sie kommen nur dafür", "es": "Vienen solo para esto" },
+      "hipotesis": "Prueba social sin cifras inventadas (dato de la web): despierta curiosidad por la sala"
+    },
+    {
+      "id": "H4", "tipo": "«Si te pasa esto…» (autoidentificación)", "recomendado": false,
+      "verbal": { "fr": "Si votre genou lâche encore après la rééducation, regardez ça.", "de": "Wenn das Knie nach der Reha noch nachgibt, schauen Sie hier.", "es": "Si la rodilla todavía falla después de la rehabilitación, mire esto." },
+      "visual": "Paul baja de un escalón con una sola pierna y la rodilla tiembla; corte a la sala de fitness",
+      "texto": { "fr": "Le genou lâche encore ?", "de": "Knie gibt noch nach?", "es": "¿La rodilla todavía falla?" },
+      "hipotesis": "Describe una sensación concreta del final de la rehabilitación sin diagnosticar"
+    },
+    {
+      "id": "H5", "tipo": "Lista o número", "recomendado": false,
+      "verbal": { "fr": "MTT : 1 séance guidée, puis 3 fois par semaine, avec suivi.", "de": "MTT: 1 begleitete Einheit, dann 3-mal pro Woche, mit Kontrolle.", "es": "MTT: 1 sesión guiada, luego 3 veces por semana, con seguimiento." },
+      "visual": "Tres cortes rápidos con el número en pantalla: Lucile explica una máquina, Paul entrena solo, Lucile revisa la ficha",
+      "texto": { "fr": "1 guidée · 3×/semaine · suivi", "de": "1 begleitet · 3×/Woche · Kontrolle", "es": "1 guiada · 3×/semana · seguimiento" },
+      "hipotesis": "Explica el programa en una frase y quita la incertidumbre de «¿y esto cómo funciona?»"
+    }
+  ],
+  "guion": [
+    {
+      "tiempo": "0–3 s", "bloque": "Gancho",
+      "visual": "Primer plano de la prescripción de atrezo: un dedo rodea «MTT» con rotulador rojo.",
+      "dice": { "fr": "Votre médecin a écrit « MTT » sur votre prescription ? Voici ce que c'est.", "de": "Steht „MTT“ auf Ihrer Verordnung? Das bedeutet es.", "es": "¿Su médico ha escrito «MTT» en su prescripción? Esto es lo que significa." },
+      "texto": { "fr": "MTT sur la prescription ?", "de": "MTT auf der Verordnung?", "es": "¿MTT en la prescripción?" }
+    },
+    {
+      "tiempo": "3–10 s", "bloque": "Problema",
+      "visual": "Paul sale de la sala de tratamiento, duda delante de la escalera y se toca la rodilla.",
+      "dice": { "fr": "La physio est finie. Mais la force et la confiance ne sont pas encore revenues.", "de": "Die Physio ist vorbei. Aber Kraft und Vertrauen sind noch nicht zurück.", "es": "La fisio ha terminado. Pero la fuerza y la confianza todavía no han vuelto." },
+      "texto": { "fr": "Force et confiance pas revenues ?", "de": "Kraft und Vertrauen fehlen noch?", "es": "¿Aún sin fuerza ni confianza?" }
+    },
+    {
+      "tiempo": "10–18 s", "bloque": "Solución",
+      "visual": "Plano en movimiento entrando en la sala de fitness; Lucile ajusta la carga de una máquina para Paul.",
+      "dice": { "fr": "Le MTT, c'est un entraînement prescrit, dans notre salle de fitness médical à Ins. Adapté et supervisé.", "de": "MTT ist verordnetes Training in unserem medizinischen Fitnessraum in Ins. Angepasst und begleitet.", "es": "El MTT es un entrenamiento prescrito, en nuestra sala de fitness médico en Ins. Adaptado y supervisado." },
+      "texto": { "fr": "Fitness médical · Ins", "de": "Medizinisches Fitness · Ins", "es": "Fitness médico · Ins" }
+    },
+    {
+      "tiempo": "18–25 s", "bloque": "Prueba",
+      "visual": "Paul entrena solo en una máquina; Lucile revisa su ficha a su lado; corte a la captura real del perfil de Google.",
+      "dice": { "fr": "Environ 36 séances en 3 mois. Sans abonnement : avec prescription, la LAMal rembourse.", "de": "Rund 36 Einheiten in 3 Monaten. Ohne Abo: Mit Verordnung zahlt die Grundversicherung.", "es": "Unas 36 sesiones en 3 meses. Sin abono: con prescripción, lo reembolsa la LAMal." },
+      "texto": { "fr": "~36 séances · LAMal · ⭐ 4,9/5", "de": "~36 Einheiten · KVG · ⭐ 4,9/5", "es": "~36 sesiones · LAMal · ⭐ 4,9/5" }
+    },
+    {
+      "tiempo": "25–30 s", "bloque": "CTA",
+      "visual": "Lucile a cámara en la sala de fitness, con el chat de WhatsApp abierto en el móvil.",
+      "dice": { "fr": "Vous avez une prescription de MTT ? Écrivez-nous sur WhatsApp.", "de": "Sie haben eine MTT-Verordnung? Schreiben Sie uns auf WhatsApp.", "es": "¿Tiene una prescripción de MTT? Escríbanos por WhatsApp." },
+      "texto": { "fr": "💬 WhatsApp 076 627 38 38", "de": "💬 WhatsApp 076 627 38 38", "es": "💬 WhatsApp 076 627 38 38" }
+    }
+  ],
+  "copy": {
+    "fr": {
+      "corto": "MTT prescrit ? Entraînement médical supervisé à Ins, remboursé par la LAMal avec prescription. Écrivez-nous.",
+      "largo": "Votre physio est finie, mais la force et la confiance ne sont pas encore revenues ?\nLe MTT (Medical Training Therapy), c'est un entraînement prescrit par le médecin, dans notre salle de fitness médical à Ins.\n✅ Première séance guidée par un physio, puis entraînement avec suivi\n✅ Environ 36 séances en 3 mois (3 fois par semaine)\n✅ Sans abonnement de fitness : remboursé par la LAMal avec prescription\n✅ 4,9/5 sur Google\nVous avez une prescription de MTT ? Écrivez-nous sur WhatsApp.",
+      "titular": "Votre MTT à Ins, sans abonnement",
+      "descripcion": "Fitness médical · avec prescription"
+    },
+    "de": {
+      "corto": "MTT verordnet? Betreutes medizinisches Training in Ins, mit Verordnung über die Grundversicherung. Schreiben Sie uns.",
+      "largo": "Die Physio ist vorbei, aber Kraft und Vertrauen sind noch nicht zurück?\nMTT (Medizinische Trainingstherapie) ist ärztlich verordnetes Training in unserem medizinischen Fitnessraum in Ins.\n✅ Erste Einheit mit einem Physio, danach Training mit Kontrolle\n✅ Rund 36 Einheiten in 3 Monaten (3-mal pro Woche)\n✅ Ohne Fitness-Abo: mit Verordnung über die Grundversicherung (KVG)\n✅ 4,9/5 auf Google\nSie haben eine MTT-Verordnung? Schreiben Sie uns auf WhatsApp.",
+      "titular": "Ihr MTT in Ins, ohne Fitness-Abo",
+      "descripcion": "Medizinisches Fitness · mit Verordnung"
+    },
+    "es": {
+      "corto": "¿MTT prescrito? Entrenamiento médico supervisado en Ins, reembolsado por la LAMal con prescripción. Escríbanos.",
+      "largo": "¿Su fisio ha terminado, pero la fuerza y la confianza todavía no han vuelto?\nEl MTT (Medical Training Therapy) es un entrenamiento prescrito por el médico, en nuestra sala de fitness médico en Ins.\n✅ Primera sesión guiada por un fisio y después entrenamiento con seguimiento\n✅ Unas 36 sesiones en 3 meses (3 veces por semana)\n✅ Sin abono de gimnasio: reembolsado por la LAMal con prescripción\n✅ 4,9/5 en Google\n¿Tiene una prescripción de MTT? Escríbanos por WhatsApp.",
+      "titular": "Su MTT en Ins, sin abono",
+      "descripcion": "Fitness médico · con prescripción"
+    }
+  },
+  "notas": [
+    "Grabar primero los 5 hooks en bloque: 3 tomas FR + 3 tomas DE de cada uno.",
+    "Orden del cuerpo: prescripción (mesa de la recepción) → salida de la sala de tratamiento y escalera → entrada a la sala de fitness → ajuste de la máquina → Paul entrenando solo → CTA en la sala.",
+    "Material: prescripción de atrezo sin datos, rotulador rojo, barra con poco peso para H2, un escalón para H4, ficha de programa, chat de WhatsApp de la clínica y captura de Google del mismo día.",
+    "Seguridad: en H2 la barra lleva poco peso y el gesto se interpreta; en H4 Paul baja el escalón con apoyo cerca. No se graba a socios del gimnasio sin autorización.",
+    "Cumplimiento: no se diagnostica ni se promete un resultado; las cifras (≈36 sesiones en 3 meses, 3 veces por semana, 4,9/5) y «sin abono, reembolsado por la LAMal con prescripción» salen de la web.",
+    "Subtítulos siempre activos; cortes cada 2–3 s; el número de WhatsApp en pantalla durante todo el CTA.",
+    "Música: electrónica motivadora o *upbeat*, 110–120 BPM, a volumen bajo."
+  ],
+  "pendientes": [
+    "Este guion es para la sala de fitness de Ins. La versión del gimnasio de Neuchâtel (MTT gratuito) sigue a la espera del nombre, las condiciones y el permiso de grabación [POR CONFIRMAR].",
+    "Validar si «remboursé par la LAMal» necesita mencionar franquicia y participación [POR CONFIRMAR].",
+    "Comprobar que la nota de Google sigue en 4,9/5 el día de la grabación."
+  ]
+}
