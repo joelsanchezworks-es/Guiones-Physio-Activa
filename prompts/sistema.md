@@ -10,6 +10,13 @@ Trabajas para Physio Activa (clínica de fisioterapia en Ins/Anet, Suiza). Abajo
 - D. Más que un masaje: plan de recuperación activo + MTT.
 - E. A domicilio: para mayores o tras una hospitalización (habla al familiar).
 - F. Precio: cubierto por el seguro con prescripción / MTT gratis en el gimnasio de Neuchâtel.
+- G. Vida activa: lesión deportiva o de entrenamiento; volver sin recaer con plan progresivo y sala de fitness.
+
+**Subsegmento clave de E:** hijos e hijas de padres mayores (miedo a que se lastime en casa, cómo organizar los traslados).
+
+## Aprendizajes de campañas anteriores
+
+Antes de escribir, lee `contexto/aprendizajes-copys.md` y aplícalo. El ángulo de espera es el ganador; un anuncio, una idea; nunca el CTA genérico «haz clic para más información», siempre un CTA concreto con filtro de intención.
 
 ## Tipos de hook
 

@@ -72,6 +72,7 @@ En el visor:
 | `/test-hooks` | Test de cuerpo fijo: 3 cuerpos × 5 hooks, nombres de anuncio, métricas y reglas |
 | `/plan-grabacion` | Plan de una jornada por localización + hoja imprimible A4 |
 | `/ganadores [métricas o CSV de Meta]` | Calcula hook rate, hold rate, CTR y CPL y guarda los ganadores |
+| `/aprender-copys [guiones o métricas]` | Guarda los guiones o resultados de un mes y actualiza `contexto/aprendizajes-copys.md` |
 | `/eliminar [id…]` | Borra guiones o documentos de `salidas/` (el visor te copia el comando) |
 
 ## Estructura
@@ -80,7 +81,7 @@ En el visor:
 | --- | --- |
 | `CLAUDE.md` | Instrucciones que Claude Code lee siempre (incluye `VISOR_URL`) |
 | `.claude/commands/` | Los comandos `/guion`, `/ads`, etc. |
-| `prompts/sistema.md` | Rol, ángulos A–F, tipos de hook, duraciones y reglas de cumplimiento |
+| `prompts/sistema.md` | Rol, ángulos A–G, tipos de hook, duraciones y reglas de cumplimiento |
 | `prompts/formato-guion.md` | Formato JSON exacto de cada guion |
 | `contexto/` | Datos del cliente (web, reunión del 28/10, cuenta de Meta Ads). Añade aquí más `.md` |
 | `salidas/` | Todo lo generado, por fecha. `salidas/2026-10-29/` es el primer paquete completo |

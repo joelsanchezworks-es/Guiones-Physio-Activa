@@ -10,7 +10,7 @@ const ROOT = process.cwd();
 const SRC = join(ROOT, "salidas");
 const OUT = join(ROOT, "public", "data");
 const FECHA = /^\d{4}-\d{2}-\d{2}$/;
-const ANGULOS = ["A", "B", "C", "D", "E", "F"];
+const ANGULOS = ["A", "B", "C", "D", "E", "F", "G"];
 const BLOQUES = { ads: ["Gancho", "Problema", "Solución", "Prueba", "CTA"], organico: ["Gancho", "Valor", "CTA"] };
 
 const warn = (file, msg) => console.warn(`⚠️  ${file}: ${msg}`);
@@ -36,7 +36,7 @@ function validate(g, file) {
   for (const k of ["id", "fecha", "titulo", "tema", "angulo", "uso", "duracion", "publico", "localizacion", "quien_sale"])
     need(typeof g[k] === "string" && g[k].trim(), `falta "${k}"`);
   need(FECHA.test(g.fecha || ""), `"fecha" debe ser AAAA-MM-DD`);
-  need(ANGULOS.includes(g.angulo), `"angulo" debe ser una letra de A a F`);
+  need(ANGULOS.includes(g.angulo), `"angulo" debe ser una letra de A a G`);
   need(["ads", "organico"].includes(g.uso), `"uso" debe ser "ads" u "organico"`);
   const langs = Array.isArray(g.idiomas) ? g.idiomas : [];
   need(langs.length > 0 && langs.every((l) => ["fr", "de"].includes(l)), `"idiomas" debe ser ["fr"], ["de"] o ["fr", "de"]`);

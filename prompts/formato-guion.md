@@ -62,7 +62,7 @@ El visor web (`public/index.html`) solo muestra los JSON que siguen **exactament
 | `fecha` | `AAAA-MM-DD` (la de la carpeta) |
 | `titulo` | Título corto en español |
 | `tema` | El tema tal como lo escribió el usuario (corto) |
-| `angulo` | Una letra: `A`–`F` (ver `prompts/sistema.md`) |
+| `angulo` | Una letra: `A`–`G` (ver `prompts/sistema.md`) |
 | `uso` | `"ads"` u `"organico"` |
 | `duracion` | Por ejemplo `"28 s"` (ads 20–30 s; orgánico 20–45 s) |
 | `idiomas` | `["fr", "de"]`, `["fr"]` o `["de"]` |

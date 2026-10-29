@@ -12,11 +12,12 @@ Se usa solo con **Claude Code**, con el plan de la persona que lo abre. No hay A
 - `docs/carga-inicial.md` es documentación de la carga inicial: no se ejecuta.
 
 ## Antes de generar
-1. Lee `prompts/sistema.md` (rol, ángulos A–F, tipos de hook, tres capas, duraciones, idiomas y reglas de cumplimiento) y todos los archivos de `contexto/`.
-2. No inventes cifras, precios, testimonios ni promesas. Si falta algo, escribe `[POR CONFIRMAR]`.
-3. Consulta `salidas/` (los guiones `.json`, `salidas/2026-10-29/01-banco-de-hooks.csv`, `salidas/aprobados.md` y `salidas/ganadores.md`) para no repetir hooks y partir de lo que funcionó.
-4. Cuenta de Meta Ads `act_1583510023185138` (ver `contexto/cuenta-meta-ads.md`): solo en lectura, si el conector está disponible.
-5. No uses nunca physiodom.ch.
+1. Lee `prompts/sistema.md` (rol, ángulos A–G, tipos de hook, tres capas, duraciones, idiomas y reglas de cumplimiento) y todos los archivos de `contexto/`.
+2. Lee `contexto/aprendizajes-copys.md` y aplícalo en cada hook y copy.
+3. No inventes cifras, precios, testimonios ni promesas. Si falta algo, escribe `[POR CONFIRMAR]`.
+4. Consulta `salidas/` (los guiones `.json`, `salidas/2026-10-29/01-banco-de-hooks.csv`, `salidas/aprobados.md` y `salidas/ganadores.md`) para no repetir hooks y partir de lo que funcionó.
+5. Cuenta de Meta Ads `act_1583510023185138` (ver `contexto/cuenta-meta-ads.md`): solo en lectura, si el conector está disponible.
+6. No uses nunca physiodom.ch.
 
 ## Guardar
 - Guiones: JSON en `salidas/AAAA-MM-DD/guion-[tema-corto].json`, siguiendo **exactamente** `prompts/formato-guion.md`. No sobrescribas guiones anteriores. Cada texto lleva también su traducción al español en la clave `es` (solo para que el equipo lo entienda; no se graba ni se publica).
@@ -28,5 +29,5 @@ Se usa solo con **Claude Code**, con el plan de la persona que lo abre. No hay A
 Breve: título, ángulo, hook recomendado (FR) y el enlace `VISOR_URL/#/[id]`. No pegues el guion entero.
 
 ## Comandos disponibles
-**`/guion [tema]`** (el principal), `/hooks`, `/test-hooks`, `/ads`, `/organico`, `/plan-grabacion`, `/ganadores` y `/eliminar [id…]` (borra guiones o documentos de `salidas/`; el visor copia el comando desde el botón «Eliminar» o el modo «Depurar»). Aceptan indicaciones libres después del comando (ángulos, idioma, cantidad, notas).
+**`/guion [tema]`** (el principal), `/hooks`, `/test-hooks`, `/ads`, `/organico`, `/plan-grabacion`, `/ganadores`, `/aprender-copys` (sirve para añadir guiones o resultados de un mes y actualizar los aprendizajes) y `/eliminar [id…]` (borra guiones o documentos de `salidas/`; el visor copia el comando desde el botón «Eliminar» o el modo «Depurar»). Aceptan indicaciones libres después del comando (ángulos, idioma, cantidad, notas).
 La hoja imprimible A4 de una carpeta (`python3 tools/build_entregables.py salidas/AAAA-MM-DD`) solo se genera con `/plan-grabacion` o si el usuario la pide.

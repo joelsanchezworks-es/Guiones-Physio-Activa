@@ -19,6 +19,7 @@ ANGULOS = {
     "D": "D. Más que un masaje — plan activo + MTT",
     "E": "E. A domicilio — para mayores o tras el hospital (habla al familiar)",
     "F": "F. Seguro / MTT gratis en Neuchâtel — elimina la objeción del precio",
+    "G": "G. Vida activa — lesión deportiva, volver sin recaer con plan progresivo",
 }
 
 
