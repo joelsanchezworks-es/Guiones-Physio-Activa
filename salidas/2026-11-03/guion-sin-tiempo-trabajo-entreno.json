@@ -1,0 +1,147 @@
+{
+  "tipo": "guion",
+  "id": "2026-11-03-sin-tiempo-trabajo-entreno",
+  "fecha": "2026-11-03",
+  "titulo": "Sin tiempo: fisio después del trabajo y el entrenamiento",
+  "tema": "no tengo tiempo de ir al fisio por el trabajo y el entrenamiento",
+  "angulo": "B",
+  "uso": "ads",
+  "duracion": "30 s",
+  "idiomas": ["fr", "de"],
+  "publico": "Personas de 25 a 50 años que trabajan y entrenan, que van posponiendo la fisio por falta de tiempo",
+  "localizacion": "Una oficina o escritorio, la sala de fitness (como gimnasio) y la clínica de Ins al final del día",
+  "quien_sale": "Francisco, y Paul como «trabajador que entrena» (con autorización de imagen firmada)",
+  "hooks": [
+    {
+      "id": "H1", "tipo": "Pregunta directa al dolor", "recomendado": true,
+      "verbal": { "fr": "Entre le boulot et l'entraînement, la physio passe toujours en dernier ?", "de": "Zwischen Job und Training kommt die Physio immer zuletzt?", "es": "Entre el trabajo y el entrenamiento, ¿la fisio siempre queda para el final?" },
+      "visual": "Grabación de pantalla de un calendario semanal lleno de bloques «Travail» y «Training»; el dedo busca un hueco y no lo encuentra",
+      "texto": { "fr": "Physio toujours en dernier ?", "de": "Physio immer zuletzt?", "es": "¿La fisio siempre al final?" },
+      "hipotesis": "Nombra la situación del paciente (no el servicio), como el hook ganador de septiembre, y se reconoce sin sonido en el calendario lleno",
+      "grabacion": "Grabación de pantalla del móvil con un calendario de atrezo lleno; el dedo hace scroll despacio. Voz en off de Francisco."
+    },
+    {
+      "id": "H2", "tipo": "Dato o contraste", "recomendado": false,
+      "verbal": { "fr": "Votre entraînement finit à 19 h ? Nous, on ferme à 20 h.", "de": "Ihr Training endet um 19 Uhr? Wir haben bis 20 Uhr offen.", "es": "¿Tu entrenamiento acaba a las 19 h? Nosotros cerramos a las 20 h." },
+      "visual": "Pantalla partida: a la izquierda un reloj de gimnasio a las 19:00; a la derecha la puerta iluminada de la clínica",
+      "texto": { "fr": "Ouvert jusqu'à 20 h", "de": "Offen bis 20 Uhr", "es": "Abierto hasta las 20 h" },
+      "hipotesis": "Contraste horario concreto que responde a la objeción en una sola frase",
+      "grabacion": "Dos planos fijos con trípode grabados por separado (reloj en la sala de fitness y puerta de la clínica con luz). Voz en off."
+    },
+    {
+      "id": "H3", "tipo": "Error común", "recomendado": false,
+      "verbal": { "fr": "Erreur : continuer à s'entraîner en serrant les dents.", "de": "Fehler: Weitertrainieren und die Zähne zusammenbeissen.", "es": "Error: seguir entrenando apretando los dientes." },
+      "visual": "Paul en la sala de fitness hace una repetición con gesto de molestia y sigue; en edición aparece una X roja",
+      "texto": { "fr": "Serrer les dents ? Mauvaise idée", "de": "Zähne zusammenbeissen? Keine gute Idee.", "es": "¿Apretar los dientes? Mala idea" },
+      "hipotesis": "Habla al deportista que no para y le da un motivo para hacer hueco a la fisio",
+      "grabacion": "PM lateral de Paul en una máquina con poco peso, trípode a la altura del pecho. Gesto de molestia contenido, sin exagerar. Voz en off."
+    },
+    {
+      "id": "H4", "tipo": "Llamada local", "recomendado": false,
+      "verbal": { "fr": "Vous bossez à Morat ? Physio après le travail, jusqu'à 20 h.", "de": "Sie arbeiten in Murten? Physio nach der Arbeit, bis 20 Uhr.", "es": "¿Trabajas en Morat? Fisio después del trabajo, hasta las 20 h." },
+      "visual": "Paul sale de un edificio de oficinas con la mochila de deporte y sube al coche; en edición, ruta Morat → Ins en el mapa",
+      "texto": { "fr": "Morat : physio après le travail", "de": "Murten: Physio nach Feierabend", "es": "Morat: fisio al salir del trabajo" },
+      "hipotesis": "Nombrar la ciudad donde trabaja el público filtra por cercanía y hace el horario más creíble",
+      "grabacion": "PG desde la acera: Paul sale por una puerta y camina al coche. Trípode, Paul cruza el plano. El mapa se añade en edición. Voz en off."
+    },
+    {
+      "id": "H5", "tipo": "Demostración visual", "recomendado": false,
+      "verbal": { "fr": "Regardez votre semaine : on cherche un créneau après 18 h.", "de": "Schauen Sie in Ihre Woche: Wir suchen einen Termin nach 18 Uhr.", "es": "Mira tu semana: buscamos un hueco después de las 18 h." },
+      "visual": "Grabación de pantalla: el dedo arrastra un bloque «Physio 18:30» a un hueco libre del calendario",
+      "texto": { "fr": "Un créneau après 18 h", "de": "Ein Termin nach 18 Uhr", "es": "Un hueco después de las 18 h" },
+      "hipotesis": "Enseña en 3 s el gesto de encajar la fisio en la semana y lo hace fácil",
+      "grabacion": "Grabación de pantalla del móvil con el calendario de atrezo; arrastrar el bloque despacio y soltarlo en un hueco. Voz en off."
+    }
+  ],
+  "guion": [
+    {
+      "tiempo": "0–3 s", "bloque": "Gancho",
+      "visual": "Grabación de pantalla: calendario semanal lleno de «Travail» y «Training»; el dedo busca un hueco y no lo encuentra.",
+      "dice": { "fr": "Entre le boulot et l'entraînement, la physio passe toujours en dernier ?", "de": "Zwischen Job und Training kommt die Physio immer zuletzt?", "es": "Entre el trabajo y el entrenamiento, ¿la fisio siempre queda para el final?" },
+      "texto": { "fr": "Physio toujours en dernier ?", "de": "Physio immer zuletzt?", "es": "¿La fisio siempre al final?" },
+      "grabacion": { "plano": "Grabación de pantalla del móvil (vertical).", "camara": "Grabación nativa del móvil; calendario de atrezo con bloques de colores.", "voz": "Voz en off: Francisco.", "direccion": "Scroll lento de lunes a viernes para que se lean los bloques; parar un segundo en el viernes lleno." }
+    },
+    {
+      "tiempo": "3–10 s", "bloque": "Problema",
+      "visual": "Paul en su escritorio mira el reloj; corte a Paul en la sala de fitness estirando el hombro con gesto de molestia.",
+      "dice": { "fr": "On le comprend : la journée est pleine, alors on repousse encore la physio.", "de": "Wir verstehen das: Der Tag ist voll, also schiebt man die Physio wieder auf.", "es": "Lo entendemos: el día está lleno, así que la fisio se vuelve a aplazar." },
+      "texto": { "fr": "Journée pleine, physio repoussée", "de": "Voller Tag, Physio verschoben", "es": "Día lleno, fisio aplazada" },
+      "grabacion": { "plano": "PM de Paul en el escritorio + PM de Paul en la sala de fitness.", "camara": "Trípode en los dos planos, sin movimiento.", "voz": "Voz en off: Francisco.", "direccion": "En la oficina, Paul mira el reloj y resopla. En la sala, estira el hombro con un gesto natural, sin muecas." }
+    },
+    {
+      "tiempo": "10–18 s", "bloque": "Solución",
+      "visual": "La puerta de la clínica iluminada al final del día; Paul llega con la mochila de deporte y Francisco le recibe.",
+      "dice": { "fr": "Chez Physio Activa, à Ins, on est ouverts jusqu'à 20 h, du lundi au vendredi.", "de": "Bei Physio Activa in Ins haben wir bis 20 Uhr offen, Montag bis Freitag.", "es": "En Physio Activa, en Ins, abrimos hasta las 20 h, de lunes a viernes." },
+      "texto": { "fr": "Lun–ven · jusqu'à 20 h", "de": "Mo–Fr · bis 20 Uhr", "es": "Lun–vie · hasta las 20 h" },
+      "grabacion": { "plano": "PG de la puerta iluminada + PM de Francisco recibiendo a Paul.", "camara": "Trípode frente a la puerta; grabar con la luz real del final del día.", "voz": "Voz en off: Francisco.", "direccion": "Paul entra con paso tranquilo y la mochila al hombro; Francisco le saluda con naturalidad, sin mirar a cámara." }
+    },
+    {
+      "tiempo": "18–25 s", "bloque": "Prueba",
+      "visual": "Paul en la camilla con Francisco; el reloj de la sala marca las 19:10; corte a la captura real del perfil de Google.",
+      "dice": { "fr": "Rendez-vous dès cette semaine, sans prendre congé. Remboursé par la LAMal avec prescription.", "de": "Termin noch diese Woche, ohne freizunehmen. Mit Verordnung zahlt die Grundversicherung.", "es": "Cita desde esta misma semana, sin pedir el día libre. Reembolsado por la LAMal con prescripción." },
+      "texto": { "fr": "Cette semaine · LAMal · ⭐ 4,9/5", "de": "Diese Woche · KVG · ⭐ 4,9/5", "es": "Esta semana · LAMal · ⭐ 4,9/5" },
+      "grabacion": { "plano": "PM de Francisco tratando el hombro de Paul + PD del reloj de la sala a las 19:10.", "camara": "Trípode; el reloj en un plano fijo de 2 s.", "voz": "Voz en off: Francisco.", "direccion": "Francisco trabaja de verdad (terapia manual y un ejercicio guiado); Paul tranquilo, conversando." }
+    },
+    {
+      "tiempo": "25–30 s", "bloque": "CTA",
+      "visual": "Francisco a cámara en la recepción, con el chat de WhatsApp abierto en el móvil.",
+      "dice": { "fr": "Vous avez une prescription ? Écrivez-nous votre créneau idéal sur WhatsApp.", "de": "Sie haben eine Verordnung? Schreiben Sie uns Ihren Wunschtermin auf WhatsApp.", "es": "¿Tienes prescripción? Escríbenos por WhatsApp tu hora ideal." },
+      "texto": { "fr": "💬 WhatsApp 076 627 38 38", "de": "💬 WhatsApp 076 627 38 38", "es": "💬 WhatsApp 076 627 38 38" },
+      "grabacion": { "plano": "PM de Francisco en la recepción, a la altura de los ojos, móvil a la altura del pecho.", "camara": "Trípode fijo a 1,2 m; recepción desenfocada detrás.", "voz": "A cámara: Francisco (micro de solapa).", "direccion": "Mirar a la lente; tono directo y cercano; pausa de 1 s antes y después. 3 tomas FR + 3 DE." }
+    }
+  ],
+  "copy": {
+    "fr": {
+      "corto": "Travail et entraînement ? Physio à Ins jusqu'à 20 h, dès cette semaine. Prescription ? Écrivez-nous sur WhatsApp.",
+      "largo": "Entre le travail et l'entraînement, la physio passe toujours en dernier ? On le comprend.\nChez Physio Activa, à Ins, vous venez après votre journée :\n✅ Ouvert jusqu'à 20 h, du lundi au vendredi\n✅ Rendez-vous dès cette semaine, sans prendre congé\n✅ Remboursé par la LAMal avec prescription médicale\n✅ 4,9/5 sur Google\nVous avez une prescription ? Écrivez-nous sur WhatsApp avec votre créneau idéal.",
+      "titular": "Physio après le travail, jusqu'à 20 h",
+      "descripcion": "Lun–ven · Ins · avec prescription"
+    },
+    "de": {
+      "corto": "Job und Training? Physio in Ins bis 20 Uhr, noch diese Woche. Verordnung? Schreiben Sie uns auf WhatsApp.",
+      "largo": "Zwischen Job und Training kommt die Physio immer zuletzt? Das verstehen wir.\nBei Physio Activa in Ins kommen Sie nach Feierabend:\n✅ Offen bis 20 Uhr, Montag bis Freitag\n✅ Termin noch diese Woche, ohne freizunehmen\n✅ Mit ärztlicher Verordnung über die Grundversicherung (KVG)\n✅ 4,9/5 auf Google\nSie haben eine Verordnung? Schreiben Sie uns auf WhatsApp Ihren Wunschtermin.",
+      "titular": "Physio nach Feierabend, bis 20 Uhr",
+      "descripcion": "Mo–Fr · Ins · mit Verordnung"
+    },
+    "es": {
+      "corto": "¿Trabajo y entrenamiento? Fisio en Ins hasta las 20 h, desde esta semana. ¿Tienes prescripción? Escríbenos por WhatsApp.",
+      "largo": "Entre el trabajo y el entrenamiento, ¿la fisio siempre queda para el final? Lo entendemos.\nEn Physio Activa, en Ins, vienes después de tu jornada:\n✅ Abierto hasta las 20 h, de lunes a viernes\n✅ Cita desde esta misma semana, sin pedir el día libre\n✅ Reembolsado por la LAMal con prescripción médica\n✅ 4,9/5 en Google\n¿Tienes prescripción? Escríbenos por WhatsApp con tu hora ideal.",
+      "titular": "Fisio al salir del trabajo, hasta las 20 h",
+      "descripcion": "Lun–vie · Ins · con prescripción"
+    }
+  },
+  "rodaje": {
+    "duracion": "≈ 1 h (oficina 15 min + sala de fitness 15 min + clínica al final del día 30 min)",
+    "equipo": ["Francisco: voz en off y frase final a cámara", "Paul: «trabajador que entrena» (autorización de imagen)", "Persona del equipo: cámara y sonido"],
+    "camara": "Móvil en vertical 9:16, 4K a 30 fps (o 1080p a 60 fps), exposición y enfoque bloqueados (mantener pulsado en la pantalla).",
+    "sonido": "Micro de solapa para todo lo que se dice a cámara; la voz en off se graba aparte, en una habitación silenciosa, con el mismo micro.",
+    "material": ["Móvil con trípode", "Micro de solapa", "Calendario de atrezo en el móvil (bloques «Travail», «Training» y «Physio 18:30»)", "Mochila de deporte y ropa de oficina para Paul", "Reloj de pared visible en la sala (o en el móvil) a las 19:00 y 19:10", "Chat de WhatsApp de la clínica", "Captura de Google del día"],
+    "orden": [
+      { "lugar": "Pantallas (antes de salir)", "tomas": "Hooks H1 y H5 · Bloque Gancho", "nota": "Modo «No molestar» activado, sin notificaciones." },
+      { "lugar": "Oficina o escritorio", "tomas": "Bloque Problema (oficina) · Hook H4 (salida del edificio)", "nota": "Puede ser la recepción de la clínica si no hay oficina; H4 en cualquier puerta de edificio." },
+      { "lugar": "Sala de fitness", "tomas": "Hooks H2 (reloj) y H3 · Bloque Problema (hombro)", "nota": "Grabar a una hora sin socios del gimnasio." },
+      { "lugar": "Clínica al final del día", "tomas": "Hook H2 (puerta) · Bloques Solución, Prueba y CTA", "nota": "Con luz real de tarde: la puerta iluminada es la prueba visual del horario." },
+      { "lugar": "Sala silenciosa", "tomas": "Voz en off de Francisco para todos los bloques", "nota": "" }
+    ],
+    "checklist": [
+      "Autorización de imagen firmada de Paul.",
+      "Captura del perfil de Google (4,9/5) hecha el mismo día.",
+      "Calendario de atrezo sin datos personales.",
+      "Cada hook: 3 tomas FR + 3 tomas DE, con 1 s de silencio antes y después.",
+      "5 s de planos recurso en cada localización (para cortes y transiciones).",
+      "Revisar audio con auriculares tras la primera toma de cada localización.",
+      "Copia de seguridad de todo el material antes de irse."
+    ]
+  },
+  "notas": [
+    "Aprendizajes aplicados: un anuncio, una idea (horario hasta las 20 h; sin domicilio, a diferencia del guion de tiempo de septiembre); hook que nombra la situación, no el servicio; empatía antes de la solución («On le comprend»); CTA concreto con filtro de prescripción y una acción clara (enviar la hora ideal).",
+    "Cumplimiento: no se afirma la salud de quien lee; no se promete un resultado; «dès cette semaine» y «jusqu'à 20 h» salen de la web.",
+    "Imagen: que transmita una persona activa y ocupada, no una lesión.",
+    "Subtítulos siempre activos; cortes cada 2–3 s; el número de WhatsApp en pantalla durante todo el CTA.",
+    "Música: lo-fi urbana o chill hop con pulso, 90–100 BPM, a volumen bajo."
+  ],
+  "pendientes": [
+    "Confirmar una oficina o un edificio para el plano de salida del trabajo (H4) o grabarlo en la puerta de la clínica.",
+    "Comprobar que la nota de Google sigue en 4,9/5 el día de la grabación."
+  ]
+}
