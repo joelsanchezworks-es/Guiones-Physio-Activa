@@ -30,7 +30,8 @@
         "de": "Vor dem Austritt: 3 Fragen",
         "es": "Antes del alta: 3 preguntas"
       },
-      "hipotesis": "Pilla al familiar justo antes del alta, cuando decide, y le promete una respuesta concreta"
+      "hipotesis": "Pilla al familiar justo antes del alta, cuando decide, y le promete una respuesta concreta",
+      "grabacion": "PD cenital de la libreta y la bolsa de hospital en la mesa; la mano escribe «1. 2. 3.» despacio. Trípode con brazo o cenital a mano muy estable. Voz en off."
     },
     {
       "id": "H2",
@@ -47,7 +48,8 @@
         "de": "Nach der OP komme ich",
         "es": "Después de la operación, voy"
       },
-      "hipotesis": "Ver una cara da confianza en un servicio que entra en casa"
+      "hipotesis": "Ver una cara da confianza en un servicio que entra en casa",
+      "grabacion": "Plano de seguimiento: Francisco cierra el coche y camina hacia la casa hablando a cámara. Gimbal, Paul camina de espaldas delante de él. Micro de solapa."
     },
     {
       "id": "H3",
@@ -64,7 +66,8 @@
         "de": "Kerzers: Wir kommen zu ihm",
         "es": "Estavayer: vamos a su casa"
       },
-      "hipotesis": "Nombrar el pueblo confirma al instante que la zona está cubierta"
+      "hipotesis": "Nombrar el pueblo confirma al instante que la zona está cubierta",
+      "grabacion": "PM de la puerta de la casa que se abre desde dentro; el mapa con el pin se hace en edición. Trípode. Voz en off."
     },
     {
       "id": "H4",
@@ -81,7 +84,8 @@
         "de": "Treppe als Hindernis?",
         "es": "¿La escalera, un obstáculo?"
       },
-      "hipotesis": "Imagen típica de la vuelta a casa tras una operación: el familiar se reconoce en un segundo"
+      "hipotesis": "Imagen típica de la vuelta a casa tras una operación: el familiar se reconoce en un segundo",
+      "grabacion": "Contrapicado desde el suelo de la escalera con las dos muletas apoyadas, sin personas. Trípode bajo, 4 s fijo. Voz en off."
     },
     {
       "id": "H5",
@@ -98,7 +102,8 @@
         "de": "Wieder gehen, zu Hause",
         "es": "Volver a caminar, en casa"
       },
-      "hipotesis": "Muestra el servicio en acción y transmite seguridad sin prometer resultados"
+      "hipotesis": "Muestra el servicio en acción y transmite seguridad sin prometer resultados",
+      "grabacion": "PM lateral del pasillo: la figurante da tres pasos con muletas, Francisco a su lado. Trípode a la altura de la cadera. Voz en off."
     }
   ],
   "guion": [
@@ -115,6 +120,12 @@
         "fr": "Avant la sortie : 3 questions",
         "de": "Vor dem Austritt: 3 Fragen",
         "es": "Antes del alta: 3 preguntas"
+      },
+      "grabacion": {
+        "plano": "PD cenital de la libreta junto a la bolsa de hospital.",
+        "camara": "Cenital estable (trípode con brazo o apoyando el móvil en una balda).",
+        "voz": "Voz en off: Francisco.",
+        "direccion": "Escribir «1. 2. 3.» despacio y con letra grande para que se lea en el móvil."
       }
     },
     {
@@ -130,6 +141,12 @@
         "fr": "Et la rééducation ?",
         "de": "Und die Reha?",
         "es": "¿Y la rehabilitación?"
+      },
+      "grabacion": {
+        "plano": "PD de las manos cerrando la bolsa + plano bajo de la escalera con las muletas.",
+        "camara": "Trípode; dos planos fijos de 3 s.",
+        "voz": "Voz en off: Francisco.",
+        "direccion": "Solo se ven las manos del «hijo/a»; gesto tranquilo, no de prisa."
       }
     },
     {
@@ -145,6 +162,12 @@
         "fr": "1 · À domicile · 2 · Trois-Lacs",
         "de": "1 · Zu Hause · 2 · Drei-Seen-Region",
         "es": "1 · A domicilio · 2 · Tres Lagos"
+      },
+      "grabacion": {
+        "plano": "PM de Francisco llamando al timbre con el maletín; el mapa con pines se añade en edición.",
+        "camara": "Trípode frente a la puerta.",
+        "voz": "Voz en off: Francisco.",
+        "direccion": "Francisco espera con naturalidad a que abran; no mira a cámara."
       }
     },
     {
@@ -160,6 +183,12 @@
         "fr": "3 · En général même semaine · ⭐ 4,9/5",
         "de": "3 · In der Regel gleiche Woche · ⭐ 4,9/5",
         "es": "3 · En general, misma semana · ⭐ 4,9/5"
+      },
+      "grabacion": {
+        "plano": "PM lateral de la figurante dando tres pasos con muletas, con Francisco al lado; captura de Google en edición.",
+        "camara": "Trípode a la altura de la cadera; sin movimiento de cámara.",
+        "voz": "Voz en off: Francisco.",
+        "direccion": "Seguridad primero: la figurante camina solo si se siente cómoda; Francisco con la mano preparada. Si no, se graba solo el plano de las muletas."
       }
     },
     {
@@ -175,6 +204,12 @@
         "fr": "💬 WhatsApp 076 627 38 38",
         "de": "💬 WhatsApp 076 627 38 38",
         "es": "💬 WhatsApp 076 627 38 38"
+      },
+      "grabacion": {
+        "plano": "PM de Francisco en la puerta con WhatsApp en el móvil.",
+        "camara": "Trípode fijo a la altura de los ojos.",
+        "voz": "A cámara: Francisco (micro de solapa).",
+        "direccion": "Mirar a la lente; frase corta y clara; pausa de 1 s antes y después. 3 tomas FR + 3 DE."
       }
     }
   ],
@@ -211,5 +246,67 @@
     "Domicilio con escalera y figurante mayor que acepte grabar con muletas (autorización de imagen) [POR CONFIRMAR].",
     "Se puede grabar el mismo día y en la misma casa que el guion de la caída.",
     "Comprobar que la nota de Google sigue en 4,9/5 el día de la grabación."
-  ]
+  ],
+  "rodaje": {
+    "duracion": "≈ 1 h en el domicilio (se puede grabar el mismo día que el guion de la caída)",
+    "equipo": [
+      "Francisco: voz en off y frase final a cámara",
+      "Figurante mayor con muletas (autorización de imagen)",
+      "Persona del equipo como «hijo/a» (solo manos)",
+      "Paul: cámara y sonido"
+    ],
+    "camara": "Móvil en vertical 9:16, 4K a 30 fps (o 1080p a 60 fps), exposición y enfoque bloqueados (mantener pulsado en la pantalla).",
+    "sonido": "Micro de solapa para todo lo que se dice a cámara; la voz en off se graba aparte, en una habitación silenciosa, con el mismo micro.",
+    "material": [
+      "Móvil con trípode y gimbal",
+      "Micro de solapa",
+      "Bolsa de hospital",
+      "Libreta y rotulador grueso",
+      "Dos muletas",
+      "Maletín",
+      "Chat de WhatsApp de la clínica",
+      "Captura de Google del día"
+    ],
+    "orden": [
+      {
+        "lugar": "Exterior y coche",
+        "tomas": "Hook H2 (caminando hacia la casa)",
+        "nota": "Con luz de día; grabar antes de entrar."
+      },
+      {
+        "lugar": "Entrada de la casa",
+        "tomas": "Hook H3 (puerta) · Bloque Solución (timbre) · Bloque CTA",
+        "nota": ""
+      },
+      {
+        "lugar": "Mesa de la entrada",
+        "tomas": "Hook H1 · Bloque Gancho · Bloque Problema (bolsa)",
+        "nota": ""
+      },
+      {
+        "lugar": "Escalera",
+        "tomas": "Hook H4 · Bloque Problema (muletas)",
+        "nota": "Sin personas en el plano."
+      },
+      {
+        "lugar": "Pasillo",
+        "tomas": "Hook H5 · Bloque Prueba",
+        "nota": "Despejar el pasillo antes de grabar."
+      },
+      {
+        "lugar": "Clínica (otro momento)",
+        "tomas": "Voz en off de todos los bloques",
+        "nota": ""
+      }
+    ],
+    "checklist": [
+      "Autorizaciones de imagen firmadas de todas las personas que salen (y del dueño de la casa si es un domicilio).",
+      "Captura del perfil de Google (4,9/5) hecha el mismo día.",
+      "Prescripciones y fichas de atrezo, sin datos reales de pacientes.",
+      "Cada hook: 3 tomas FR + 3 tomas DE, con 1 s de silencio antes y después.",
+      "5 s de planos recurso en cada localización (para cortes y transiciones).",
+      "Revisar audio con auriculares tras la primera toma de cada localización.",
+      "Copia de seguridad de todo el material antes de irse."
+    ]
+  }
 }

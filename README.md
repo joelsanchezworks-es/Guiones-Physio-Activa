@@ -57,6 +57,7 @@ No hace falta el comando: «guion sobre recuperación tras prótesis de rodilla�
 En el visor:
 - **FR / DE:** cambia todos los textos (recuerda tu elección).
 - **Leer a cámara:** pantalla negra con letra grande y solo lo que se dice, con A− / A+ y Escape para cerrar. Al final salen los hooks alternativos.
+- **Indicaciones de grabación:** cada hook y cada bloque dicen qué plano hacer, cómo poner la cámara, si es a cámara o voz en off y cómo dirigir a quien sale. Debajo del guion, el **Plan de rodaje** (equipo, material, orden de tomas por localización y checklist) con casillas para marcar el día de grabación; se guardan en el navegador.
 - **Copiar guion**, **Copiar** en cada texto de Meta (con contador de caracteres) e **Imprimir / PDF**.
 - Los documentos `.md` de `salidas/` (banco de hooks, test, plan de grabación…) también se ven en el visor, en «Documentos».
 - **Eliminar** (en cada guion o documento) y **Depurar** (en la lista, para marcar varios): el visor no borra nada por sí mismo, porque es una web estática. Te da el comando `/eliminar …` para pegarlo en Claude Code (borra, valida y hace push) o los enlaces a la pantalla de borrado de GitHub. En ~1 min desaparece del visor; queda en el historial de Git por si hay que recuperarlo.

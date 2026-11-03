@@ -145,6 +145,23 @@ h2.sec{font-size:13px;font-weight:700;text-transform:uppercase;letter-spacing:.0
 
 ul.notes{margin:0;padding-left:20px}
 ul.notes li{margin:4px 0}
+.rec-note{font-size:13px;color:var(--muted);background:var(--hover);border-radius:10px;padding:8px 10px;margin:0}
+.rec-note b{color:var(--ink)}
+.shot{display:grid;grid-template-columns:auto 1fr;gap:3px 10px;margin-top:10px;padding:10px 12px;border-radius:12px;background:var(--hover);font-size:13px}
+.shot dt{color:var(--muted);font-weight:700;font-size:11px;text-transform:uppercase;letter-spacing:.06em;padding-top:2px}
+.shot dd{margin:0;color:var(--ink)}
+.rodaje{grid-template-columns:repeat(2,minmax(0,1fr))}
+.rodaje .wide{grid-column:1/-1}
+.rodaje ul{margin:0;padding-left:18px}
+.rodaje li{margin:3px 0}
+.checks{list-style:none;padding:0!important;margin:0}
+.checks li{margin:0!important}
+.checks label{display:flex;gap:10px;align-items:flex-start;padding:8px 4px;border-bottom:1px solid var(--line);cursor:pointer}
+.checks li:last-child label{border-bottom:0}
+.checks input{width:18px;height:18px;margin-top:1px;flex:none;accent-color:var(--accent)}
+.checks .done{color:var(--muted);text-decoration:line-through}
+.checks small{display:block;color:var(--muted);text-decoration:none}
+.prog{font-size:12px;color:var(--muted);font-weight:700}
 .warnbox{background:var(--warn-bg);border:1px solid var(--warn-line);border-radius:var(--radius);padding:14px 18px}
 .warnbox h2.sec{color:var(--warn)}
 .warnbox ul{margin:0;padding-left:20px}
@@ -281,7 +298,7 @@ h2.sec{font-family:var(--display);font-size:30px;font-weight:900;letter-spacing:
   .row{padding-left:16px}
   .row::before{display:none}
   h2.sec{font-size:24px}
-  .ficha,.hooks,.copy{grid-template-columns:1fr}
+  .ficha,.hooks,.copy,.rodaje{grid-template-columns:1fr}
   .row{grid-template-columns:1fr;gap:8px}
   .row .said{grid-column:auto}
   .when{flex-direction:row;align-items:center}
@@ -305,6 +322,7 @@ h2.sec{font-family:var(--display);font-size:30px;font-weight:900;letter-spacing:
   body,body.detail main,body:not(.detail) main{display:block}
   .view{max-width:none;padding:0}
   .card,.row,.warnbox{break-inside:avoid}
+  .shot,.rec-note{background:#f3f3f3}
   .ost,.badge,.chip.strong,.block{-webkit-print-color-adjust:exact;print-color-adjust:exact}
   section{margin-bottom:18px}
 }
@@ -463,6 +481,7 @@ function guionText(g) {
     if (showEs && lang !== "es" && h.verbal?.es) lines.push(`  (ES: ${h.verbal.es})`);
     lines.push(`  Se ve: ${h.visual}`);
     lines.push(`  Texto en pantalla: ${L(h.texto)}`);
+    if (h.grabacion) lines.push(`  Grabación: ${h.grabacion}`);
   }
   lines.push("", "GUION");
   for (const b of g.guion) {
@@ -471,6 +490,7 @@ function guionText(g) {
     lines.push(`  Se dice: ${L(b.dice)}`);
     if (showEs && lang !== "es" && b.dice?.es) lines.push(`  (ES: ${b.dice.es})`);
     lines.push(`  Texto en pantalla: ${L(b.texto)}`);
+    for (const [k, n] of SHOT) if (b.grabacion?.[k]) lines.push(`  ${n}: ${b.grabacion[k]}`);
   }
   const c = g.copy?.[lang];
   if (c) {
@@ -478,9 +498,46 @@ function guionText(g) {
     if (g.uso === "ads") lines.push(`Corto: ${c.corto}`, `Largo:\n${c.largo}`, `Titular: ${c.titular}`, `Descripción: ${c.descripcion}`);
     else lines.push(c.post || "", (c.hashtags || []).join(" "));
   }
+  const r = g.rodaje;
+  if (r) {
+    lines.push("", "PLAN DE RODAJE", `Duración: ${r.duracion || ""}`, `Cámara: ${r.camara || ""}`, `Sonido: ${r.sonido || ""}`);
+    if (r.equipo?.length) lines.push("Equipo:", ...r.equipo.map((x) => `- ${x}`));
+    if (r.material?.length) lines.push("Material:", ...r.material.map((x) => `- ${x}`));
+    if (r.orden?.length) lines.push("Orden de tomas:", ...r.orden.map((o, i) => `${i + 1}. ${o.lugar}: ${o.tomas}${o.nota ? " (" + o.nota + ")" : ""}`));
+    if (r.checklist?.length) lines.push("Checklist:", ...r.checklist.map((x) => `☐ ${x}`));
+  }
   if (g.notas?.length) lines.push("", "NOTAS", ...g.notas.map((n) => `- ${n}`));
   if (g.pendientes?.length) lines.push("", "PENDIENTES", ...g.pendientes.map((n) => `- ${n}`));
   return lines.join("\n");
+}
+
+// Grabación: indicaciones por bloque y plan de rodaje (opcionales en el JSON)
+const SHOT = [["plano", "Plano"], ["camara", "Cámara"], ["voz", "Voz"], ["direccion", "Dirección"]];
+const shotHtml = (gr) => gr && typeof gr === "object"
+  ? `<dl class="shot">${SHOT.filter(([k]) => gr[k]).map(([k, n]) => `<dt>${n}</dt><dd>${esc(gr[k])}</dd>`).join("")}</dl>` : "";
+const checkKey = (g) => "pa-rodaje-" + g.id;
+const getChecks = (g) => { try { return JSON.parse(store.get(checkKey(g), "{}")) || {}; } catch { return {}; } };
+function rodajeHtml(g) {
+  const r = g.rodaje;
+  if (!r || typeof r !== "object") return "";
+  const done = getChecks(g);
+  const item = (key, title, sub) => `<li><label><input type="checkbox" data-check="${esc(key)}"${done[key] ? " checked" : ""}>
+    <span class="${done[key] ? "done" : ""}">${esc(title)}${sub ? `<small>${esc(sub)}</small>` : ""}</span></label></li>`;
+  const orden = (r.orden || []).map((o, i) => item("o" + i, `${i + 1}. ${o.lugar}`, [o.tomas, o.nota].filter(Boolean).join(" — "))).join("");
+  const check = (r.checklist || []).map((c, i) => item("c" + i, c)).join("");
+  const total = (r.orden || []).length + (r.checklist || []).length;
+  const n = Object.values(done).filter(Boolean).length;
+  const list = (arr) => `<ul>${(arr || []).map((x) => `<li>${esc(x)}</li>`).join("")}</ul>`;
+  return `<section id="rodaje"><h2 class="sec">Plan de rodaje</h2><div class="grid rodaje">
+    <div class="card"><div class="label">Duración</div><p style="margin:0 0 10px">${esc(r.duracion || "")}</p>
+      <div class="label">Quién sale y quién graba</div>${list(r.equipo)}</div>
+    <div class="card"><div class="label">Cámara</div><p style="margin:0 0 10px">${esc(r.camara || "")}</p>
+      <div class="label">Sonido</div><p style="margin:0">${esc(r.sonido || "")}</p></div>
+    <div class="card wide"><div class="label">Material</div>${list(r.material)}</div>
+    <div class="card wide"><div class="copy-head"><span class="label" style="margin:0">Orden de tomas por localización y checklist</span><span class="prog" id="rod-prog">${n} / ${total}</span></div>
+      <ul class="checks">${orden}</ul>
+      <div class="label" style="margin-top:14px">Antes de irse</div><ul class="checks">${check}</ul></div>
+  </div></section>`;
 }
 
 const sortedHooks = (g) => [...g.hooks].sort((a, b) => (b.recomendado === true) - (a.recomendado === true));
@@ -514,6 +571,7 @@ function renderGuion(g) {
       <div class="hook-head"><span class="hook-id">${esc(h.id)} · ${esc(h.tipo)}</span>${h.recomendado ? '<span class="badge">★ Recomendado</span>' : ""}</div>
       <div><div class="label">Se dice</div><p class="say">${esc(L(h.verbal))}</p>${ES(h.verbal)}</div>
       <p class="see"><b>Se ve:</b> ${esc(h.visual)}</p>
+      ${h.grabacion ? `<p class="rec-note"><b>🎥 Grabación:</b> ${esc(h.grabacion)}</p>` : ""}
       <div><div class="label">Texto en pantalla</div><span class="ost">${esc(L(h.texto))}</span>${ES(h.texto)}</div>
       <p class="hyp">${esc(h.hipotesis)}</p>
     </article>`).join("");
@@ -521,7 +579,7 @@ function renderGuion(g) {
   const rows = g.guion.map((b) => `
     <div class="card row">
       <div class="when"><span class="time">${esc(b.tiempo)}</span><span class="block${b.bloque === "CTA" ? " cta" : ""}">${esc(b.bloque)}</span></div>
-      <div><div class="label">Se ve / se graba</div><p class="see">${esc(b.visual)}</p></div>
+      <div><div class="label">Se ve / se graba</div><p class="see">${esc(b.visual)}</p>${shotHtml(b.grabacion)}</div>
       <div class="said"><div><div class="label">Se dice</div><p class="say">${esc(L(b.dice))}</p>${ES(b.dice)}</div>
         <div><span class="ost">${esc(L(b.texto))}</span>${ES(b.texto)}</div></div>
     </div>`).join("");
@@ -564,6 +622,7 @@ function renderGuion(g) {
 
     <section><h2 class="sec">Hooks</h2><div class="grid hooks">${hooks}</div></section>
     <section><h2 class="sec">Guion · ${esc(LANG_NAME[lang])}</h2><div class="timeline">${rows}</div></section>
+    ${rodajeHtml(g)}
     <section><h2 class="sec">${g.uso === "ads" ? "Copy de Meta" : "Texto del post"} · ${esc(LANG_NAME[lang])}</h2><div class="grid copy">${copy}</div></section>
     ${g.notas?.length ? `<section><h2 class="sec">Notas de grabación</h2><div class="card"><ul class="notes">${g.notas.map((n) => `<li>${esc(n)}</li>`).join("")}</ul></div></section>` : ""}
     ${g.pendientes?.length ? `<section class="warnbox"><h2 class="sec">⚠ Pendientes</h2><ul>${g.pendientes.map((n) => `<li>${esc(n)}</li>`).join("")}</ul></section>` : ""}
@@ -582,6 +641,14 @@ function renderGuion(g) {
     renderGuion(g);
     $("main").scrollTop = y; window.scrollTo(0, wy);
   });
+  $("view").querySelectorAll("[data-check]").forEach((c) => c.addEventListener("change", () => {
+    const done = getChecks(g);
+    done[c.dataset.check] = c.checked;
+    store.set(checkKey(g), JSON.stringify(done));
+    c.nextElementSibling.classList.toggle("done", c.checked);
+    const total = $("view").querySelectorAll("[data-check]").length;
+    $("rod-prog").textContent = `${[...$("view").querySelectorAll("[data-check]")].filter((x) => x.checked).length} / ${total}`;
+  }));
   $("b-read").addEventListener("click", openPrompter);
   $("b-copy").addEventListener("click", () => copyText(guionText(g)));
 }

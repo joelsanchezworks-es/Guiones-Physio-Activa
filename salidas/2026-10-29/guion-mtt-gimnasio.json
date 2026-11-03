@@ -7,77 +7,210 @@
   "angulo": "D",
   "uso": "ads",
   "duracion": "30 s",
-  "idiomas": ["fr", "de"],
+  "idiomas": [
+    "fr",
+    "de"
+  ],
   "publico": "Adultos de 30 a 70 años con prescripción de MTT o al final de su fisio (postoperatorio, lesión, dolor crónico de espalda, rodilla u hombro, vuelta al deporte)",
   "localizacion": "Sala de fitness médico de la clínica (InsGym, 1.ª planta del edificio Lidl, Ins) y sala de tratamiento",
   "quien_sale": "Lucile, y Paul como figurante «paciente» (con autorización de imagen firmada)",
   "hooks": [
     {
-      "id": "H1", "tipo": "Pregunta directa al dolor", "recomendado": true,
-      "verbal": { "fr": "Votre médecin a écrit « MTT » sur votre prescription ? Voici ce que c'est.", "de": "Steht „MTT“ auf Ihrer Verordnung? Das bedeutet es.", "es": "¿Su médico ha escrito «MTT» en su prescripción? Esto es lo que significa." },
+      "id": "H1",
+      "tipo": "Pregunta directa al dolor",
+      "recomendado": true,
+      "verbal": {
+        "fr": "Votre médecin a écrit « MTT » sur votre prescription ? Voici ce que c'est.",
+        "de": "Steht „MTT“ auf Ihrer Verordnung? Das bedeutet es.",
+        "es": "¿Su médico ha escrito «MTT» en su prescripción? Esto es lo que significa."
+      },
       "visual": "Primer plano de una prescripción (de atrezo, sin datos): un dedo rodea con rotulador rojo las letras «MTT»",
-      "texto": { "fr": "MTT sur la prescription ?", "de": "MTT auf der Verordnung?", "es": "¿MTT en la prescripción?" },
-      "hipotesis": "Solo se para quien ya tiene la prescripción de MTT en la mano: el lead con más intención de reservar"
+      "texto": {
+        "fr": "MTT sur la prescription ?",
+        "de": "MTT auf der Verordnung?",
+        "es": "¿MTT en la prescripción?"
+      },
+      "hipotesis": "Solo se para quien ya tiene la prescripción de MTT en la mano: el lead con más intención de reservar",
+      "grabacion": "PD cenital de la prescripción de atrezo; el dedo rodea «MTT» con rotulador rojo. Trípode con brazo. Voz en off de Lucile."
     },
     {
-      "id": "H2", "tipo": "Error común", "recomendado": false,
-      "verbal": { "fr": "Erreur : reprendre la salle seul juste après une blessure.", "de": "Fehler: Nach einer Verletzung allein ins Training zurück.", "es": "Error: volver al gimnasio solo justo después de una lesión." },
+      "id": "H2",
+      "tipo": "Error común",
+      "recomendado": false,
+      "verbal": {
+        "fr": "Erreur : reprendre la salle seul juste après une blessure.",
+        "de": "Fehler: Nach einer Verletzung allein ins Training zurück.",
+        "es": "Error: volver al gimnasio solo justo después de una lesión."
+      },
       "visual": "Paul carga una barra solo y hace un gesto de molestia; la mano de Lucile entra en plano y la detiene",
-      "texto": { "fr": "Seul après une blessure ? Non.", "de": "Allein nach der Verletzung? Nein.", "es": "¿Solo tras una lesión? No." },
-      "hipotesis": "Habla al deportista que quiere volver rápido y le da un motivo para hacerlo con supervisión"
+      "texto": {
+        "fr": "Seul après une blessure ? Non.",
+        "de": "Allein nach der Verletzung? Nein.",
+        "es": "¿Solo tras una lesión? No."
+      },
+      "hipotesis": "Habla al deportista que quiere volver rápido y le da un motivo para hacerlo con supervisión",
+      "grabacion": "PM de Paul con la barra (poco peso); la mano de Lucile entra por un lado y la detiene. Trípode. Lucile dice la frase a cámara después del gesto."
     },
     {
-      "id": "H3", "tipo": "Historia en primera persona del fisio", "recomendado": false,
-      "verbal": { "fr": "Certains de mes patients viennent ici seulement pour le MTT.", "de": "Manche Patienten kommen nur für das MTT zu uns.", "es": "Algunos de mis pacientes vienen aquí solo para hacer el MTT." },
+      "id": "H3",
+      "tipo": "Historia en primera persona del fisio",
+      "recomendado": false,
+      "verbal": {
+        "fr": "Certains de mes patients viennent ici seulement pour le MTT.",
+        "de": "Manche Patienten kommen nur für das MTT zu uns.",
+        "es": "Algunos de mis pacientes vienen aquí solo para hacer el MTT."
+      },
       "visual": "Lucile en la entrada de la sala de fitness abre los brazos hacia las máquinas",
-      "texto": { "fr": "Ils viennent juste pour ça", "de": "Sie kommen nur dafür", "es": "Vienen solo para esto" },
-      "hipotesis": "Prueba social sin cifras inventadas (dato de la web): despierta curiosidad por la sala"
+      "texto": {
+        "fr": "Ils viennent juste pour ça",
+        "de": "Sie kommen nur dafür",
+        "es": "Vienen solo para esto"
+      },
+      "hipotesis": "Prueba social sin cifras inventadas (dato de la web): despierta curiosidad por la sala",
+      "grabacion": "PM de Lucile en la entrada de la sala de fitness, abre los brazos hacia las máquinas. Trípode a la altura de los ojos. A cámara con micro de solapa."
     },
     {
-      "id": "H4", "tipo": "«Si te pasa esto…» (autoidentificación)", "recomendado": false,
-      "verbal": { "fr": "Si votre genou lâche encore après la rééducation, regardez ça.", "de": "Wenn das Knie nach der Reha noch nachgibt, schauen Sie hier.", "es": "Si la rodilla todavía falla después de la rehabilitación, mire esto." },
+      "id": "H4",
+      "tipo": "«Si te pasa esto…» (autoidentificación)",
+      "recomendado": false,
+      "verbal": {
+        "fr": "Si votre genou lâche encore après la rééducation, regardez ça.",
+        "de": "Wenn das Knie nach der Reha noch nachgibt, schauen Sie hier.",
+        "es": "Si la rodilla todavía falla después de la rehabilitación, mire esto."
+      },
       "visual": "Paul baja de un escalón con una sola pierna y la rodilla tiembla; corte a la sala de fitness",
-      "texto": { "fr": "Le genou lâche encore ?", "de": "Knie gibt noch nach?", "es": "¿La rodilla todavía falla?" },
-      "hipotesis": "Describe una sensación concreta del final de la rehabilitación sin diagnosticar"
+      "texto": {
+        "fr": "Le genou lâche encore ?",
+        "de": "Knie gibt noch nach?",
+        "es": "¿La rodilla todavía falla?"
+      },
+      "hipotesis": "Describe una sensación concreta del final de la rehabilitación sin diagnosticar",
+      "grabacion": "PM lateral bajo de la rodilla de Paul bajando un escalón con una pierna; corte a la sala. Trípode bajo. Voz en off."
     },
     {
-      "id": "H5", "tipo": "Lista o número", "recomendado": false,
-      "verbal": { "fr": "MTT : 1 séance guidée, puis 3 fois par semaine, avec suivi.", "de": "MTT: 1 begleitete Einheit, dann 3-mal pro Woche, mit Kontrolle.", "es": "MTT: 1 sesión guiada, luego 3 veces por semana, con seguimiento." },
+      "id": "H5",
+      "tipo": "Lista o número",
+      "recomendado": false,
+      "verbal": {
+        "fr": "MTT : 1 séance guidée, puis 3 fois par semaine, avec suivi.",
+        "de": "MTT: 1 begleitete Einheit, dann 3-mal pro Woche, mit Kontrolle.",
+        "es": "MTT: 1 sesión guiada, luego 3 veces por semana, con seguimiento."
+      },
       "visual": "Tres cortes rápidos con el número en pantalla: Lucile explica una máquina, Paul entrena solo, Lucile revisa la ficha",
-      "texto": { "fr": "1 guidée · 3×/semaine · suivi", "de": "1 begleitet · 3×/Woche · Kontrolle", "es": "1 guiada · 3×/semana · seguimiento" },
-      "hipotesis": "Explica el programa en una frase y quita la incertidumbre de «¿y esto cómo funciona?»"
+      "texto": {
+        "fr": "1 guidée · 3×/semaine · suivi",
+        "de": "1 begleitet · 3×/Woche · Kontrolle",
+        "es": "1 guiada · 3×/semana · seguimiento"
+      },
+      "hipotesis": "Explica el programa en una frase y quita la incertidumbre de «¿y esto cómo funciona?»",
+      "grabacion": "Tres planos rápidos (Lucile explica una máquina · Paul entrena solo · Lucile con la ficha). Trípode, 3 s cada uno. Voz en off."
     }
   ],
   "guion": [
     {
-      "tiempo": "0–3 s", "bloque": "Gancho",
+      "tiempo": "0–3 s",
+      "bloque": "Gancho",
       "visual": "Primer plano de la prescripción de atrezo: un dedo rodea «MTT» con rotulador rojo.",
-      "dice": { "fr": "Votre médecin a écrit « MTT » sur votre prescription ? Voici ce que c'est.", "de": "Steht „MTT“ auf Ihrer Verordnung? Das bedeutet es.", "es": "¿Su médico ha escrito «MTT» en su prescripción? Esto es lo que significa." },
-      "texto": { "fr": "MTT sur la prescription ?", "de": "MTT auf der Verordnung?", "es": "¿MTT en la prescripción?" }
+      "dice": {
+        "fr": "Votre médecin a écrit « MTT » sur votre prescription ? Voici ce que c'est.",
+        "de": "Steht „MTT“ auf Ihrer Verordnung? Das bedeutet es.",
+        "es": "¿Su médico ha escrito «MTT» en su prescripción? Esto es lo que significa."
+      },
+      "texto": {
+        "fr": "MTT sur la prescription ?",
+        "de": "MTT auf der Verordnung?",
+        "es": "¿MTT en la prescripción?"
+      },
+      "grabacion": {
+        "plano": "PD cenital de la prescripción de atrezo con el rotulador.",
+        "camara": "Trípode con brazo o cenital muy estable.",
+        "voz": "Voz en off: Lucile.",
+        "direccion": "Rodear «MTT» de un solo trazo, despacio. Prescripción sin nombre ni datos."
+      }
     },
     {
-      "tiempo": "3–10 s", "bloque": "Problema",
+      "tiempo": "3–10 s",
+      "bloque": "Problema",
       "visual": "Paul sale de la sala de tratamiento, duda delante de la escalera y se toca la rodilla.",
-      "dice": { "fr": "La physio est finie. Mais la force et la confiance ne sont pas encore revenues.", "de": "Die Physio ist vorbei. Aber Kraft und Vertrauen sind noch nicht zurück.", "es": "La fisio ha terminado. Pero la fuerza y la confianza todavía no han vuelto." },
-      "texto": { "fr": "Force et confiance pas revenues ?", "de": "Kraft und Vertrauen fehlen noch?", "es": "¿Aún sin fuerza ni confianza?" }
+      "dice": {
+        "fr": "La physio est finie. Mais la force et la confiance ne sont pas encore revenues.",
+        "de": "Die Physio ist vorbei. Aber Kraft und Vertrauen sind noch nicht zurück.",
+        "es": "La fisio ha terminado. Pero la fuerza y la confianza todavía no han vuelto."
+      },
+      "texto": {
+        "fr": "Force et confiance pas revenues ?",
+        "de": "Kraft und Vertrauen fehlen noch?",
+        "es": "¿Aún sin fuerza ni confianza?"
+      },
+      "grabacion": {
+        "plano": "PM de Paul saliendo de la sala de tratamiento y parándose ante la escalera.",
+        "camara": "Trípode en el pasillo; Paul entra en plano.",
+        "voz": "Voz en off: Lucile.",
+        "direccion": "Paul duda un segundo y se toca la rodilla con naturalidad; nada de muecas."
+      }
     },
     {
-      "tiempo": "10–18 s", "bloque": "Solución",
+      "tiempo": "10–18 s",
+      "bloque": "Solución",
       "visual": "Plano en movimiento entrando en la sala de fitness; Lucile ajusta la carga de una máquina para Paul.",
-      "dice": { "fr": "Le MTT, c'est un entraînement prescrit, dans notre salle de fitness médical à Ins. Adapté et supervisé.", "de": "MTT ist verordnetes Training in unserem medizinischen Fitnessraum in Ins. Angepasst und begleitet.", "es": "El MTT es un entrenamiento prescrito, en nuestra sala de fitness médico en Ins. Adaptado y supervisado." },
-      "texto": { "fr": "Fitness médical · Ins", "de": "Medizinisches Fitness · Ins", "es": "Fitness médico · Ins" }
+      "dice": {
+        "fr": "Le MTT, c'est un entraînement prescrit, dans notre salle de fitness médical à Ins. Adapté et supervisé.",
+        "de": "MTT ist verordnetes Training in unserem medizinischen Fitnessraum in Ins. Angepasst und begleitet.",
+        "es": "El MTT es un entrenamiento prescrito, en nuestra sala de fitness médico en Ins. Adaptado y supervisado."
+      },
+      "texto": {
+        "fr": "Fitness médical · Ins",
+        "de": "Medizinisches Fitness · Ins",
+        "es": "Fitness médico · Ins"
+      },
+      "grabacion": {
+        "plano": "Plano en movimiento entrando en la sala de fitness + PM de Lucile ajustando la máquina.",
+        "camara": "Gimbal para la entrada (paso lento); trípode para el ajuste.",
+        "voz": "Voz en off: Lucile.",
+        "direccion": "Lucile explica de verdad el ajuste a Paul (no se oirá); gestos claros con las manos."
+      }
     },
     {
-      "tiempo": "18–25 s", "bloque": "Prueba",
+      "tiempo": "18–25 s",
+      "bloque": "Prueba",
       "visual": "Paul entrena solo en una máquina; Lucile revisa su ficha a su lado; corte a la captura real del perfil de Google.",
-      "dice": { "fr": "Environ 36 séances en 3 mois. Sans abonnement : avec prescription, la LAMal rembourse.", "de": "Rund 36 Einheiten in 3 Monaten. Ohne Abo: Mit Verordnung zahlt die Grundversicherung.", "es": "Unas 36 sesiones en 3 meses. Sin abono: con prescripción, lo reembolsa la LAMal." },
-      "texto": { "fr": "~36 séances · LAMal · ⭐ 4,9/5", "de": "~36 Einheiten · KVG · ⭐ 4,9/5", "es": "~36 sesiones · LAMal · ⭐ 4,9/5" }
+      "dice": {
+        "fr": "Environ 36 séances en 3 mois. Sans abonnement : avec prescription, la LAMal rembourse.",
+        "de": "Rund 36 Einheiten in 3 Monaten. Ohne Abo: Mit Verordnung zahlt die Grundversicherung.",
+        "es": "Unas 36 sesiones en 3 meses. Sin abono: con prescripción, lo reembolsa la LAMal."
+      },
+      "texto": {
+        "fr": "~36 séances · LAMal · ⭐ 4,9/5",
+        "de": "~36 Einheiten · KVG · ⭐ 4,9/5",
+        "es": "~36 sesiones · LAMal · ⭐ 4,9/5"
+      },
+      "grabacion": {
+        "plano": "PM de Paul entrenando solo + PM de Lucile revisando la ficha a su lado; captura de Google en edición.",
+        "camara": "Trípode; dos planos fijos.",
+        "voz": "Voz en off: Lucile.",
+        "direccion": "Paul hace el ejercicio con buena técnica y ritmo constante. Sin socios del gimnasio en plano."
+      }
     },
     {
-      "tiempo": "25–30 s", "bloque": "CTA",
+      "tiempo": "25–30 s",
+      "bloque": "CTA",
       "visual": "Lucile a cámara en la sala de fitness, con el chat de WhatsApp abierto en el móvil.",
-      "dice": { "fr": "Vous avez une prescription de MTT ? Écrivez-nous sur WhatsApp.", "de": "Sie haben eine MTT-Verordnung? Schreiben Sie uns auf WhatsApp.", "es": "¿Tiene una prescripción de MTT? Escríbanos por WhatsApp." },
-      "texto": { "fr": "💬 WhatsApp 076 627 38 38", "de": "💬 WhatsApp 076 627 38 38", "es": "💬 WhatsApp 076 627 38 38" }
+      "dice": {
+        "fr": "Vous avez une prescription de MTT ? Écrivez-nous sur WhatsApp.",
+        "de": "Sie haben eine MTT-Verordnung? Schreiben Sie uns auf WhatsApp.",
+        "es": "¿Tiene una prescripción de MTT? Escríbanos por WhatsApp."
+      },
+      "texto": {
+        "fr": "💬 WhatsApp 076 627 38 38",
+        "de": "💬 WhatsApp 076 627 38 38",
+        "es": "💬 WhatsApp 076 627 38 38"
+      },
+      "grabacion": {
+        "plano": "PM de Lucile en la sala de fitness con WhatsApp en el móvil.",
+        "camara": "Trípode fijo a la altura de los ojos, máquinas desenfocadas detrás.",
+        "voz": "A cámara: Lucile (micro de solapa).",
+        "direccion": "Mirar a la lente; frase entera, pausa de 1 s antes y después; sonrisa al final. 3 tomas FR + 3 DE."
+      }
     }
   ],
   "copy": {
@@ -113,5 +246,56 @@
     "Este guion es para la sala de fitness de Ins. La versión del gimnasio de Neuchâtel (MTT gratuito) sigue a la espera del nombre, las condiciones y el permiso de grabación [POR CONFIRMAR].",
     "Validar si «remboursé par la LAMal» necesita mencionar franquicia y participación [POR CONFIRMAR].",
     "Comprobar que la nota de Google sigue en 4,9/5 el día de la grabación."
-  ]
+  ],
+  "rodaje": {
+    "duracion": "≈ 1 h en la clínica y la sala de fitness",
+    "equipo": [
+      "Lucile: voz en off y frase final a cámara",
+      "Paul: figurante «paciente» (autorización de imagen)",
+      "Persona del equipo: cámara y sonido"
+    ],
+    "camara": "Móvil en vertical 9:16, 4K a 30 fps (o 1080p a 60 fps), exposición y enfoque bloqueados (mantener pulsado en la pantalla).",
+    "sonido": "Micro de solapa para todo lo que se dice a cámara; la voz en off se graba aparte, en una habitación silenciosa, con el mismo micro.",
+    "material": [
+      "Móvil con trípode y gimbal",
+      "Micro de solapa",
+      "Prescripción de atrezo y rotulador rojo",
+      "Barra con poco peso (H2)",
+      "Escalón o cajón (H4)",
+      "Ficha de programa",
+      "Chat de WhatsApp de la clínica",
+      "Captura de Google del día"
+    ],
+    "orden": [
+      {
+        "lugar": "Recepción (mesa)",
+        "tomas": "Hook H1 · Bloque Gancho",
+        "nota": ""
+      },
+      {
+        "lugar": "Pasillo / escalera",
+        "tomas": "Bloque Problema · Hook H4 (escalón)",
+        "nota": ""
+      },
+      {
+        "lugar": "Sala de fitness",
+        "tomas": "Hooks H2, H3 y H5 · Bloques Solución, Prueba y CTA",
+        "nota": "Grabar a una hora sin socios del gimnasio."
+      },
+      {
+        "lugar": "Sala silenciosa",
+        "tomas": "Voz en off de Lucile para todos los bloques",
+        "nota": ""
+      }
+    ],
+    "checklist": [
+      "Autorizaciones de imagen firmadas de todas las personas que salen (y del dueño de la casa si es un domicilio).",
+      "Captura del perfil de Google (4,9/5) hecha el mismo día.",
+      "Prescripciones y fichas de atrezo, sin datos reales de pacientes.",
+      "Cada hook: 3 tomas FR + 3 tomas DE, con 1 s de silencio antes y después.",
+      "5 s de planos recurso en cada localización (para cortes y transiciones).",
+      "Revisar audio con auriculares tras la primera toma de cada localización.",
+      "Copia de seguridad de todo el material antes de irse."
+    ]
+  }
 }

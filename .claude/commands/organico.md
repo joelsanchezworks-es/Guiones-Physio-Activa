@@ -1,7 +1,7 @@
 Escribe guiones orgánicos (Reels 9:16) siguiendo CLAUDE.md y prompts/sistema.md.
 Opciones del usuario: $ARGUMENTS
 Si no indica nada: 4 guiones de 20–45 s, en francés + alemán, mezclando educativo, mito vs. realidad, detrás de cámaras y preguntas frecuentes.
-Cada guion: 5 hooks de tipos distintos (tres capas, uno recomendado), bloques Gancho, Valor y CTA suave (guardar, compartir, seguir o «escríbenos»), texto del post y 5 hashtags por idioma, notas de grabación y pendientes. No repitas hooks de guiones anteriores de salidas/. Añade en cada texto (hooks, bloques y copy) la traducción al español en la clave "es", solo como referencia para el equipo.
+Cada guion: 5 hooks de tipos distintos (tres capas, uno recomendado), bloques Gancho, Valor y CTA suave (guardar, compartir, seguir o «escríbenos»), texto del post y 5 hashtags por idioma, notas de grabación y pendientes. No repitas hooks de guiones anteriores de salidas/. Añade en cada texto (hooks, bloques y copy) la traducción al español en la clave "es", solo como referencia para el equipo. Incluye indicaciones de grabación: "grabacion" en cada hook y en cada bloque (plano, cámara, voz y dirección) y un "rodaje" con el orden de tomas por localización (ver prompts/formato-guion.md).
 
 Aplica contexto/aprendizajes-copys.md: un anuncio, una idea; hook de 12 palabras o menos; CTA concreto con filtro de intención; nada de afirmaciones marcadas como [POR CONFIRMAR].
 

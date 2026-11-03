@@ -30,7 +30,8 @@
         "de": "Angst vor dem Sturz zu Hause?",
         "es": "¿Miedo a caerse en casa?"
       },
-      "hipotesis": "Nombra el miedo concreto que el familiar ve cada día, sin señalar al lector"
+      "hipotesis": "Nombra el miedo concreto que el familiar ve cada día, sin señalar al lector",
+      "grabacion": "PD de la mano en la barandilla y del pie en el escalón, desde abajo (contrapicado suave), trípode bajo. Voz en off. Movimiento lento, sin dramatizar."
     },
     {
       "id": "H2",
@@ -47,7 +48,8 @@
         "de": "Praxis = Wohnzimmer. Gleiche Physio.",
         "es": "Consulta = salón. Misma fisio."
       },
-      "hipotesis": "El contraste visual quita la duda de que a domicilio sea una versión reducida"
+      "hipotesis": "El contraste visual quita la duda de que a domicilio sea una versión reducida",
+      "grabacion": "Grabar las dos mitades por separado con el mismo encuadre (PM de Francisco): una en la consulta y otra en el salón. Trípode a la misma altura en los dos sitios para que el gesto coincida al montar."
     },
     {
       "id": "H3",
@@ -64,7 +66,8 @@
         "de": "Warten, bis er raus kann?",
         "es": "¿Esperar a que pueda salir?"
       },
-      "hipotesis": "Desmonta la excusa que retrasa la decisión del familiar"
+      "hipotesis": "Desmonta la excusa que retrasa la decisión del familiar",
+      "grabacion": "PD cenital de la mesa de la entrada con las llaves y el bastón, trípode fijo, 4 s sin que pase nada. Voz en off."
     },
     {
       "id": "H4",
@@ -81,7 +84,8 @@
         "de": "Material? Ein Küchenstuhl.",
         "es": "¿El material? Una silla."
       },
-      "hipotesis": "Sorprende y elimina la objeción logística («no tenemos nada en casa»)"
+      "hipotesis": "Sorprende y elimina la objeción logística («no tenemos nada en casa»)",
+      "grabacion": "PM de Francisco: arrastra la silla hasta el centro del plano y le da dos golpecitos mirando a cámara. Trípode, habla a cámara con micro de solapa."
     },
     {
       "id": "H5",
@@ -98,7 +102,8 @@
         "de": "Eine Nachricht. Die Physio kommt.",
         "es": "Un mensaje. El fisio va."
       },
-      "hipotesis": "Enseña en 3 s la acción exacta que buscamos (escribir por WhatsApp) y atrae a quien ya ha decidido"
+      "hipotesis": "Enseña en 3 s la acción exacta que buscamos (escribir por WhatsApp) y atrae a quien ya ha decidido",
+      "grabacion": "Grabación de pantalla del móvil (WhatsApp) escribiendo despacio + PD del dedo en el timbre con trípode bajo. Voz en off de Francisco."
     }
   ],
   "guion": [
@@ -115,6 +120,12 @@
         "fr": "Un message. Le physio vient.",
         "de": "Eine Nachricht. Die Physio kommt.",
         "es": "Un mensaje. El fisio va."
+      },
+      "grabacion": {
+        "plano": "Grabación de pantalla del móvil + PD del dedo en el timbre.",
+        "camara": "Pantalla: grabación nativa del móvil. Timbre: trípode bajo, fijo.",
+        "voz": "Voz en off: Francisco.",
+        "direccion": "Escribir el mensaje despacio para que se lea entero; el dedo entra por la derecha y pulsa una sola vez."
       }
     },
     {
@@ -130,6 +141,12 @@
         "fr": "Depuis la chute, elle sort à peine",
         "de": "Seit dem Sturz kaum noch draussen",
         "es": "Desde la caída, apenas sale"
+      },
+      "grabacion": {
+        "plano": "PM del «hijo/a» dentro del coche, desde el asiento del copiloto; PG de la madre junto a la ventana.",
+        "camara": "A mano y apoyado, sin movimiento. Ventana a contraluz suave (exponer para la cara).",
+        "voz": "Voz en off: Francisco.",
+        "direccion": "«Hijo/a»: mira el móvil, suspira sin exagerar. Madre: de perfil, mirando por la ventana; no hace falta que se le vea la cara."
       }
     },
     {
@@ -145,6 +162,12 @@
         "fr": "🏠 La même physio, à la maison",
         "de": "🏠 Die gleiche Physio, zu Hause",
         "es": "🏠 La misma fisio, en casa"
+      },
+      "grabacion": {
+        "plano": "PG desde el salón hacia la puerta (entra Francisco) + PM del ejercicio de levantarse de la silla.",
+        "camara": "Gimbal o a mano siguiendo a Francisco al entrar; trípode para el ejercicio.",
+        "voz": "Voz en off: Francisco.",
+        "direccion": "Francisco saluda con naturalidad. En el ejercicio, su mano cerca de la espalda de la figurante, sin tocarla; ritmo lento, 3 repeticiones."
       }
     },
     {
@@ -160,6 +183,12 @@
         "fr": "En général la même semaine · ⭐ 4,9/5",
         "de": "In der Regel gleiche Woche · ⭐ 4,9/5",
         "es": "En general, la misma semana · ⭐ 4,9/5"
+      },
+      "grabacion": {
+        "plano": "PD de las manos de la figurante en el respaldo de la silla de cocina + PD de Francisco anotando en la ficha.",
+        "camara": "Trípode, encuadre cerrado; la captura de Google se inserta en edición.",
+        "voz": "Voz en off: Francisco.",
+        "direccion": "La figurante hace el ejercicio de verdad, despacio. Francisco escribe de verdad (no simula), con la ficha de atrezo."
       }
     },
     {
@@ -175,6 +204,12 @@
         "fr": "💬 WhatsApp 076 627 38 38",
         "de": "💬 WhatsApp 076 627 38 38",
         "es": "💬 WhatsApp 076 627 38 38"
+      },
+      "grabacion": {
+        "plano": "PM de Francisco en la puerta de la casa, a la altura de los ojos, con el móvil a la altura del pecho mostrando WhatsApp.",
+        "camara": "Trípode fijo a unos 1,2 m.",
+        "voz": "A cámara: Francisco (micro de solapa).",
+        "direccion": "Mirar a la lente, no a la pantalla. Frase entera, pausa de 1 s antes y después, sonrisa al final. 3 tomas FR + 3 DE."
       }
     }
   ],
@@ -210,5 +245,72 @@
     "Domicilio para grabar y figurante mayor con autorización de imagen [POR CONFIRMAR].",
     "Persona que hace de «hijo/a» [POR CONFIRMAR].",
     "Comprobar que la nota de Google sigue en 4,9/5 el día de la grabación."
-  ]
+  ],
+  "rodaje": {
+    "duracion": "≈ 1 h 15 min en el domicilio + 10 min de pantallas",
+    "equipo": [
+      "Francisco: voz en off y frase final a cámara",
+      "Figurante mayor (con autorización de imagen)",
+      "Persona del equipo como «hijo/a»",
+      "Paul: cámara y sonido"
+    ],
+    "camara": "Móvil en vertical 9:16, 4K a 30 fps (o 1080p a 60 fps), exposición y enfoque bloqueados (mantener pulsado en la pantalla).",
+    "sonido": "Micro de solapa para todo lo que se dice a cámara; la voz en off se graba aparte, en una habitación silenciosa, con el mismo micro.",
+    "material": [
+      "Móvil con trípode y gimbal",
+      "Micro de solapa",
+      "Maletín de Francisco",
+      "Silla de cocina sin reposabrazos",
+      "Bastón y llaves (H3)",
+      "Ficha de atrezo",
+      "Chat de WhatsApp de la clínica en el móvil",
+      "Captura de Google del día"
+    ],
+    "orden": [
+      {
+        "lugar": "Entrada de la casa",
+        "tomas": "Hooks H3 y H5 (timbre) · Bloque Gancho (timbre) · Bloque CTA",
+        "nota": "Empezar aquí: la luz de la puerta cambia rápido."
+      },
+      {
+        "lugar": "Escalera / barandilla",
+        "tomas": "Hook H1",
+        "nota": "Figurante siempre con apoyo; plano solo de manos y pies si lo prefiere."
+      },
+      {
+        "lugar": "Salón",
+        "tomas": "Hook H2 (mitad salón) · Bloque Solución",
+        "nota": "Mismo encuadre que la mitad grabada en la consulta."
+      },
+      {
+        "lugar": "Cocina",
+        "tomas": "Hook H4 · Bloque Prueba",
+        "nota": ""
+      },
+      {
+        "lugar": "Coche aparcado",
+        "tomas": "Bloque Problema (hijo/a)",
+        "nota": "Con el motor apagado."
+      },
+      {
+        "lugar": "Clínica (otro momento)",
+        "tomas": "Hook H2 (mitad consulta) · voz en off de todos los bloques",
+        "nota": "La voz en off se graba en una sala silenciosa."
+      },
+      {
+        "lugar": "Pantallas",
+        "tomas": "WhatsApp (Gancho y CTA) · captura de Google",
+        "nota": "Modo «No molestar» activado, sin notificaciones."
+      }
+    ],
+    "checklist": [
+      "Autorizaciones de imagen firmadas de todas las personas que salen (y del dueño de la casa si es un domicilio).",
+      "Captura del perfil de Google (4,9/5) hecha el mismo día.",
+      "Prescripciones y fichas de atrezo, sin datos reales de pacientes.",
+      "Cada hook: 3 tomas FR + 3 tomas DE, con 1 s de silencio antes y después.",
+      "5 s de planos recurso en cada localización (para cortes y transiciones).",
+      "Revisar audio con auriculares tras la primera toma de cada localización.",
+      "Copia de seguridad de todo el material antes de irse."
+    ]
+  }
 }

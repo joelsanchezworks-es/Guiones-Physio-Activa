@@ -92,6 +92,27 @@ function validate(g, file) {
   if (sinEs.length) warn(file, `sin traducción "es" en ${sinEs.length} texto(s) (p. ej. ${sinEs[0]})`);
   if (g.copy && typeof g.copy === "object" && !g.copy.es) warn(file, `sin traducción "es" en "copy"`);
 
+  // Grabación: "grabacion" en cada hook (texto) y en cada bloque (plano, camara, voz, direccion), y "rodaje".
+  const sinGrab = [
+    ...hooks.filter((h) => !(typeof h?.grabacion === "string" && h.grabacion.trim())).map((h, i) => h?.id || `hooks[${i}]`),
+    ...(Array.isArray(g.guion) ? g.guion : []).filter((b) => !(b?.grabacion && typeof b.grabacion === "object")).map((b, i) => `guion[${i}]`),
+  ];
+  if (sinGrab.length) warn(file, `sin indicaciones de grabación en ${sinGrab.length} elemento(s) (p. ej. ${sinGrab[0]})`);
+  (Array.isArray(g.guion) ? g.guion : []).forEach((b, i) => {
+    if (b?.grabacion && typeof b.grabacion === "object")
+      for (const k of ["plano", "camara", "voz", "direccion"])
+        if (typeof b.grabacion[k] !== "string" || !b.grabacion[k].trim()) warn(file, `guion[${i}].grabacion: falta "${k}"`);
+  });
+  if (g.rodaje === undefined) warn(file, `sin "rodaje" (plan de rodaje)`);
+  else if (!g.rodaje || typeof g.rodaje !== "object") errors.push(`"rodaje" debe ser un objeto`);
+  else {
+    for (const k of ["equipo", "material", "orden", "checklist"])
+      if (g.rodaje[k] !== undefined && !Array.isArray(g.rodaje[k])) errors.push(`rodaje.${k} debe ser una lista`);
+    (Array.isArray(g.rodaje.orden) ? g.rodaje.orden : []).forEach((o, i) => {
+      if (!o || typeof o.lugar !== "string" || typeof o.tomas !== "string") errors.push(`rodaje.orden[${i}]: necesita "lugar" y "tomas"`);
+    });
+  }
+
   need(Array.isArray(g.notas), `"notas" debe ser una lista`);
   need(Array.isArray(g.pendientes), `"pendientes" debe ser una lista`);
   return errors;

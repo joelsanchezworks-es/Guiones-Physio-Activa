@@ -32,7 +32,8 @@ El visor web (`public/index.html`) solo muestra los JSON que siguen **exactament
       "verbal": { "fr": "Votre père sort de l'hôpital ? On vient chez lui.", "de": "Ihr Vater kommt aus dem Spital? Wir kommen zu ihm nach Hause.", "es": "¿Su padre sale del hospital? Vamos a su casa." },
       "visual": "El fisio llama al timbre con su bolsa",
       "texto": { "fr": "Physio à domicile, cette semaine", "de": "Physio zu Hause, diese Woche", "es": "Fisio a domicilio, esta semana" },
-      "hipotesis": "Habla a quien decide justo cuando busca solución"
+      "hipotesis": "Habla a quien decide justo cuando busca solución",
+      "grabacion": "PM del fisio en la puerta, trípode a la altura de los ojos. Voz en off. 3 tomas FR + 3 DE."
     }
   ],
   "guion": [
@@ -40,9 +41,24 @@ El visor web (`public/index.html`) solo muestra los JSON que siguen **exactament
       "tiempo": "0–3 s", "bloque": "Gancho",
       "visual": "El fisio llama al timbre con la bolsa",
       "dice": { "fr": "Votre père sort de l'hôpital ? On vient chez lui.", "de": "Ihr Vater kommt aus dem Spital? Wir kommen zu ihm nach Hause.", "es": "¿Su padre sale del hospital? Vamos a su casa." },
-      "texto": { "fr": "Physio à domicile, cette semaine", "de": "Physio zu Hause, diese Woche", "es": "Fisio a domicilio, esta semana" }
+      "texto": { "fr": "Physio à domicile, cette semaine", "de": "Physio zu Hause, diese Woche", "es": "Fisio a domicilio, esta semana" },
+      "grabacion": {
+        "plano": "PM del fisio delante de la puerta",
+        "camara": "Trípode fijo a la altura de los ojos",
+        "voz": "Voz en off: el fisio",
+        "direccion": "Llama una sola vez al timbre y espera con naturalidad; no mira a cámara"
+      }
     }
   ],
+  "rodaje": {
+    "duracion": "≈ 1 h",
+    "equipo": ["Fisio: voz en off y frase final a cámara", "Figurante (autorización de imagen)", "Cámara y sonido"],
+    "camara": "Móvil en vertical 9:16, 4K a 30 fps, exposición y enfoque bloqueados",
+    "sonido": "Micro de solapa para lo que se dice a cámara; voz en off grabada aparte en una sala silenciosa",
+    "material": ["Trípode", "Micro de solapa", "…"],
+    "orden": [{ "lugar": "Entrada de la casa", "tomas": "Hook H1 · Bloque Gancho · Bloque CTA", "nota": "" }],
+    "checklist": ["Autorizaciones de imagen firmadas", "…"]
+  },
   "copy": {
     "fr": { "corto": "…", "largo": "…", "titular": "…", "descripcion": "…" },
     "de": { "corto": "…", "largo": "…", "titular": "…", "descripcion": "…" },
@@ -70,7 +86,10 @@ El visor web (`public/index.html`) solo muestra los JSON que siguen **exactament
 | `hooks` | Exactamente **5** hooks de tipos distintos |
 | `guion` | Bloques en orden de tiempo |
 | `copy` | Ver abajo |
-| `notas` | Lista de notas de grabación y edición (tomas, material, música, subtítulos) |
+| `hooks[].grabacion` | Una línea en español: plano, cámara, si es a cámara o voz en off, y nº de tomas |
+| `guion[].grabacion` | `plano` (PP, PM, PG, PD, cenital…), `camara` (trípode, mano, gimbal; altura; movimiento), `voz` («A cámara: …» o «Voz en off: …») y `direccion` (qué hace y cómo lo dice quien sale, pensado para no actores) |
+| `rodaje` | Plan del día: `duracion`, `equipo` (quién sale y quién graba), `camara`, `sonido`, `material`, `orden` (tomas agrupadas por localización: `lugar`, `tomas`, `nota`) y `checklist`. El visor muestra `orden` y `checklist` con casillas |
+| `notas` | Lista de notas de edición y cumplimiento (música, subtítulos, ritmo, avisos) |
 | `pendientes` | Lista de `[POR CONFIRMAR]`; `[]` si no hay |
 
 ## Reglas
