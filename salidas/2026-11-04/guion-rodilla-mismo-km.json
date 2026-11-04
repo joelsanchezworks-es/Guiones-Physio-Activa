@@ -1,0 +1,302 @@
+{
+  "tipo": "guion",
+  "id": "2026-11-04-rodilla-mismo-km",
+  "fecha": "2026-11-04",
+  "titulo": "Rodilla: siempre en el mismo kilómetro",
+  "tema": "Si siempre te duele la rodilla en el mismo kilómetro, descansar quizá no baste",
+  "angulo": "G",
+  "uso": "ads",
+  "duracion": "30 s",
+  "idiomas": [
+    "fr",
+    "de"
+  ],
+  "publico": "Corredores (25–55 años) a los que la rodilla les molesta siempre en el mismo punto de la carrera y que han probado a descansar",
+  "localizacion": "Un camino para correr (mejor junto al lago de Morat), sala de tratamiento y sala de fitness médico (InsGym, Ins)",
+  "quien_sale": "Francisco, y Paul como corredor (con autorización de imagen firmada)",
+  "hooks": [
+    {
+      "id": "H1",
+      "tipo": "«Si te pasa esto…» (autoidentificación)",
+      "recomendado": true,
+      "verbal": {
+        "fr": "Douleur au genou au même kilomètre ? Le repos ne suffit pas toujours.",
+        "de": "Knieschmerz immer beim gleichen Kilometer? Pause allein reicht nicht immer.",
+        "es": "¿Dolor de rodilla en el mismo kilómetro? Descansar no siempre basta."
+      },
+      "visual": "Primer plano del reloj de correr marcando «5,0 km»; corte a Paul que afloja el paso y se lleva la mano a la rodilla",
+      "texto": {
+        "fr": "Toujours au même kilomètre ?",
+        "de": "Immer beim gleichen Kilometer?",
+        "es": "¿Siempre en el mismo kilómetro?"
+      },
+      "hipotesis": "Un detalle muy concreto (siempre en el mismo kilómetro) en el que el corredor se reconoce, y una idea que rompe su creencia de que basta con descansar",
+      "grabacion": "PD del reloj (grabar la pantalla o un plano detalle de la muñeca en movimiento) + PG de Paul aflojando el paso. Trípode en el camino. Voz en off de Francisco."
+    },
+    {
+      "id": "H2",
+      "tipo": "POV o situación reconocible",
+      "recomendado": false,
+      "verbal": {
+        "fr": "POV : 5 km au compteur, et le genou recommence.",
+        "de": "POV: 5 km auf der Uhr – und das Knie meldet sich wieder.",
+        "es": "POV: 5 km en el reloj, y la rodilla vuelve a empezar."
+      },
+      "visual": "Plano subjetivo corriendo (móvil en la mano a la altura del pecho); la mano libre baja a la rodilla",
+      "texto": {
+        "fr": "5 km… et ça recommence",
+        "de": "5 km – und wieder das Knie",
+        "es": "5 km… y otra vez"
+      },
+      "hipotesis": "El punto de vista del corredor en plena carrera; muy reconocible y dinámico para el primer segundo",
+      "grabacion": "Plano subjetivo con gimbal o móvil sujeto con firmeza mientras Paul corre despacio. Voz en off."
+    },
+    {
+      "id": "H3",
+      "tipo": "Pregunta directa al dolor",
+      "recomendado": false,
+      "verbal": {
+        "fr": "Vous changez de chaussures, de parcours… et le genou ne change pas ?",
+        "de": "Neue Schuhe, neue Strecke – und das Knie bleibt gleich?",
+        "es": "¿Cambias de zapatillas, de recorrido… y la rodilla sigue igual?"
+      },
+      "visual": "Tres cortes de 1 s: caja de zapatillas nuevas, otro camino distinto, la mano en la rodilla",
+      "texto": {
+        "fr": "Nouvelles chaussures, même genou ?",
+        "de": "Neue Schuhe, gleiches Knie?",
+        "es": "¿Zapatillas nuevas, misma rodilla?"
+      },
+      "hipotesis": "Repasa lo que el corredor ya ha probado por su cuenta y abre la puerta a un plan de verdad",
+      "grabacion": "Tres planos fijos con trípode (caja de zapatillas, camino, rodilla), 1 s cada uno. Voz en off."
+    },
+    {
+      "id": "H4",
+      "tipo": "Demostración visual",
+      "recomendado": false,
+      "verbal": {
+        "fr": "Regardez ce test : un squat sur une jambe, face au miroir.",
+        "de": "Schauen Sie diesen Test: Kniebeuge auf einem Bein, vor dem Spiegel.",
+        "es": "Mira este test: una sentadilla a una pierna, frente al espejo."
+      },
+      "visual": "Paul hace una sentadilla a una pierna frente al espejo de la sala de fitness; Francisco señala la rodilla",
+      "texto": {
+        "fr": "Test : squat sur une jambe",
+        "de": "Test: Kniebeuge auf einem Bein",
+        "es": "Test: sentadilla a una pierna"
+      },
+      "hipotesis": "Invita a probar algo en el momento; quien lo hace se queda a ver la explicación (sin diagnosticar)",
+      "grabacion": "PM frontal hacia el espejo, trípode a la altura de la cadera. Paul baja despacio; Francisco señala sin tocar. Voz en off."
+    },
+    {
+      "id": "H5",
+      "tipo": "Llamada local",
+      "recomendado": false,
+      "verbal": {
+        "fr": "Vous courez autour du lac de Morat ? Ce Reel est pour vous.",
+        "de": "Sie laufen am Murtensee? Dann ist dieses Video für Sie.",
+        "es": "¿Corres alrededor del lago de Morat? Este Reel es para ti."
+      },
+      "visual": "PG de Paul corriendo por el camino junto al lago de Morat, con el agua de fondo",
+      "texto": {
+        "fr": "Coureurs du lac de Morat",
+        "de": "Für Läufer am Murtensee",
+        "es": "Corredores del lago de Morat"
+      },
+      "hipotesis": "Nombrar el lugar donde entrena el público crea un «esto va por mí» y filtra por cercanía",
+      "grabacion": "PG desde un lateral del camino, trípode fijo; Paul cruza el plano corriendo con el lago detrás. Voz en off."
+    }
+  ],
+  "guion": [
+    {
+      "tiempo": "0–3 s",
+      "bloque": "Gancho",
+      "visual": "Primer plano del reloj de correr marcando «5,0 km»; corte a Paul que afloja el paso y se lleva la mano a la rodilla.",
+      "dice": {
+        "fr": "Douleur au genou au même kilomètre ? Le repos ne suffit pas toujours.",
+        "de": "Knieschmerz immer beim gleichen Kilometer? Pause allein reicht nicht immer.",
+        "es": "¿Dolor de rodilla en el mismo kilómetro? Descansar no siempre basta."
+      },
+      "texto": {
+        "fr": "Toujours au même kilomètre ?",
+        "de": "Immer beim gleichen Kilometer?",
+        "es": "¿Siempre en el mismo kilómetro?"
+      },
+      "grabacion": {
+        "plano": "PD del reloj en la muñeca + PG de Paul aflojando el paso en el camino.",
+        "camara": "Reloj: plano detalle a mano mientras Paul corre despacio. Camino: trípode fijo, Paul entra por el fondo.",
+        "voz": "Voz en off: Francisco.",
+        "direccion": "Paul afloja el paso de forma natural y se toca la rodilla, sin gesto exagerado de dolor (imagen de recuperación, no de lesión)."
+      }
+    },
+    {
+      "tiempo": "3–10 s",
+      "bloque": "Problema",
+      "visual": "Paul sentado en un banco con las zapatillas puestas, mira el reloj de correr y luego la rodilla.",
+      "dice": {
+        "fr": "C'est frustrant : on veut courir, mais on a peur que la douleur revienne.",
+        "de": "Das ist frustrierend: Man will laufen, hat aber Angst, dass der Schmerz zurückkommt.",
+        "es": "Es frustrante: quieres correr, pero te da miedo que el dolor vuelva."
+      },
+      "texto": {
+        "fr": "Envie de courir, peur de rechuter",
+        "de": "Laufen wollen, Rückfall fürchten",
+        "es": "Ganas de correr, miedo a recaer"
+      },
+      "grabacion": {
+        "plano": "PM de Paul sentado en un banco con las zapatillas puestas, mirando el reloj y la rodilla.",
+        "camara": "Trípode o mano apoyada; sin movimiento.",
+        "voz": "Voz en off: Francisco.",
+        "direccion": "Gesto de ganas de volver: mira el reloj, después la rodilla, respira hondo."
+      }
+    },
+    {
+      "tiempo": "10–19 s",
+      "bloque": "Solución",
+      "visual": "Francisco evalúa la movilidad de la rodilla de Paul en la camilla; corte a ejercicios de movilidad y después de fuerza.",
+      "dice": {
+        "fr": "Chez Physio Activa, on fait le bilan, puis un plan progressif : d'abord la mobilité, ensuite la force.",
+        "de": "Bei Physio Activa machen wir eine Abklärung, dann einen Stufenplan: zuerst Beweglichkeit, dann Kraft.",
+        "es": "En Physio Activa hacemos una evaluación y después un plan progresivo: primero movilidad, después fuerza."
+      },
+      "texto": {
+        "fr": "Bilan → mobilité → force",
+        "de": "Abklärung → Beweglichkeit → Kraft",
+        "es": "Evaluación → movilidad → fuerza"
+      },
+      "grabacion": {
+        "plano": "PM de Francisco evaluando la rodilla en la camilla + PD de los ejercicios de movilidad y de fuerza.",
+        "camara": "Trípode para la camilla; dos planos detalle de 2–3 s.",
+        "voz": "Voz en off: Francisco.",
+        "direccion": "Francisco hace la evaluación de verdad y explica a Paul con las manos (no se oirá)."
+      }
+    },
+    {
+      "tiempo": "19–25 s",
+      "bloque": "Prueba",
+      "visual": "Sala de fitness: Paul hace el ejercicio del cajón y una carrera suave en cinta, con Francisco al lado; corte a la captura real de Google.",
+      "dice": {
+        "fr": "Dans notre salle de fitness médical, on prépare le retour à la course.",
+        "de": "In unserem medizinischen Fitnessraum bereiten wir den Wiedereinstieg ins Laufen vor.",
+        "es": "En nuestra sala de fitness médico preparamos la vuelta a correr."
+      },
+      "texto": {
+        "fr": "Fitness médical · Ins · ⭐ 4,9/5",
+        "de": "Medizinisches Fitness · Ins · ⭐ 4,9/5",
+        "es": "Fitness médico · Ins · ⭐ 4,9/5"
+      },
+      "grabacion": {
+        "plano": "PM lateral de Paul en el cajón + PG de Paul corriendo suave en la cinta; captura de Google en edición.",
+        "camara": "Trípode; la cinta desde un lateral, a media altura.",
+        "voz": "Voz en off: Francisco.",
+        "direccion": "Paul con buena técnica y ritmo tranquilo; Francisco al lado, atento. Sin socios del gimnasio en plano."
+      }
+    },
+    {
+      "tiempo": "25–30 s",
+      "bloque": "CTA",
+      "visual": "Francisco a cámara en la sala de fitness, con el chat de WhatsApp abierto en el móvil.",
+      "dice": {
+        "fr": "Vous avez une prescription ? Écrivez-nous sur WhatsApp : rendez-vous dès cette semaine.",
+        "de": "Sie haben eine Verordnung? Schreiben Sie uns auf WhatsApp: Termin noch diese Woche.",
+        "es": "¿Tienes prescripción? Escríbenos por WhatsApp: cita desde esta misma semana."
+      },
+      "texto": {
+        "fr": "💬 WhatsApp 076 627 38 38",
+        "de": "💬 WhatsApp 076 627 38 38",
+        "es": "💬 WhatsApp 076 627 38 38"
+      },
+      "grabacion": {
+        "plano": "PM de Francisco en la sala de fitness con WhatsApp en el móvil.",
+        "camara": "Trípode fijo a la altura de los ojos, cinta y máquinas desenfocadas detrás.",
+        "voz": "A cámara: Francisco (micro de solapa).",
+        "direccion": "Mirar a la lente; energía alta pero natural; pausa de 1 s antes y después. 3 tomas FR + 3 DE."
+      }
+    }
+  ],
+  "copy": {
+    "fr": {
+      "corto": "Le genou qui coince au même kilomètre : bilan et plan progressif à Ins. Prescription ? Écrivez-nous sur WhatsApp.",
+      "largo": "Le genou qui coince toujours au même kilomètre ? Le repos ne suffit pas toujours.\nChez Physio Activa, à Ins, on prépare votre retour à la course, étape par étape :\n✅ Bilan du genou, puis un plan progressif : d'abord la mobilité, ensuite la force\n✅ Exercices dans notre salle de fitness médical\n✅ Rendez-vous dès cette semaine, jusqu'à 20 h\n✅ Remboursé avec prescription (LAMal, ou LAA en cas d'accident) · 4,9/5 sur Google\nVous avez une prescription ? Écrivez-nous sur WhatsApp et on vous donne un rendez-vous cette semaine.",
+      "titular": "Même kilomètre, même genou ? Un plan",
+      "descripcion": "Physio du sport · Ins"
+    },
+    "de": {
+      "corto": "Das Knie meldet sich immer beim gleichen Kilometer? Abklärung und Stufenplan in Ins. Verordnung? Schreiben Sie uns.",
+      "largo": "Das Knie meldet sich immer beim gleichen Kilometer? Pause allein reicht nicht immer.\nBei Physio Activa in Ins bereiten wir Ihren Wiedereinstieg ins Laufen vor, Schritt für Schritt:\n✅ Abklärung des Knies, dann ein Stufenplan: zuerst Beweglichkeit, dann Kraft\n✅ Übungen in unserem medizinischen Fitnessraum\n✅ Termin noch diese Woche, bis 20 Uhr\n✅ Mit Verordnung vergütet (KVG, bei Unfall UVG) · 4,9/5 auf Google\nSie haben eine Verordnung? Schreiben Sie uns auf WhatsApp – wir geben Ihnen noch diese Woche einen Termin.",
+      "titular": "Gleicher Kilometer, gleiches Knie?",
+      "descripcion": "Sportphysio · Ins"
+    },
+    "es": {
+      "corto": "La rodilla que molesta en el mismo kilómetro: evaluación y plan progresivo en Ins. ¿Tienes prescripción? Escríbenos.",
+      "largo": "¿La rodilla molesta siempre en el mismo kilómetro? Descansar no siempre basta.\nEn Physio Activa, en Ins, preparamos tu vuelta a correr paso a paso:\n✅ Evaluación de la rodilla y después un plan progresivo: primero movilidad, después fuerza\n✅ Ejercicios en nuestra sala de fitness médico\n✅ Cita desde esta misma semana, hasta las 20 h\n✅ Reembolsado con prescripción (LAMal, o LAA en caso de accidente) · 4,9/5 en Google\n¿Tienes prescripción? Escríbenos por WhatsApp y te damos cita esta semana.",
+      "titular": "Mismo kilómetro, misma rodilla: un plan",
+      "descripcion": "Fisio deportiva · Ins"
+    }
+  },
+  "notas": [
+    "Variante de hook del guion «Volver a correr tras una lesión de rodilla» (2026-10-29): el cuerpo es el mismo, así que se pueden testear los dos ganchos con el mismo cuerpo grabado una sola vez.",
+    "Hook y texto propuestos por el equipo, ajustados a las reglas: hook verbal de 12 palabras o menos (el original tenía 14) y texto en pantalla de 6 o menos, sin preguntar a quien lee si le duele (política de Meta sobre atributos personales).",
+    "Imagen: que transmita recuperación, no lesión. Paul se ve activo y con ganas de volver.",
+    "Aprendizajes aplicados: un anuncio, una idea (volver a correr); empatía antes de la solución; proceso «primero movilidad, después fuerza»; CTA concreto con filtro de prescripción.",
+    "Cumplimiento: no se diagnostica (el test del espejo es una demostración, no un diagnóstico); no se promete que el dolor desaparezca; «5 km» es un ejemplo visual, no un dato.",
+    "Subtítulos siempre activos; cortes cada 2–3 s; el número de WhatsApp en pantalla durante todo el CTA.",
+    "Música: electrónica con pulso de carrera, 120–130 BPM, a volumen bajo."
+  ],
+  "pendientes": [
+    "Confirmar el camino junto al lago de Morat (o un camino cercano a la clínica) para grabar los hooks al aire libre.",
+    "Comprobar que la nota de Google sigue en 4,9/5 el día de la grabación."
+  ],
+  "rodaje": {
+    "duracion": "≈ 1 h 15 min (30 min en el camino junto al lago + 45 min en la clínica)",
+    "equipo": [
+      "Francisco: voz en off y frase final a cámara",
+      "Paul: corredor (autorización de imagen)",
+      "Persona del equipo: cámara y sonido"
+    ],
+    "camara": "Móvil en vertical 9:16, 4K a 30 fps (o 1080p a 60 fps), exposición y enfoque bloqueados (mantener pulsado en la pantalla).",
+    "sonido": "Micro de solapa para todo lo que se dice a cámara; la voz en off se graba aparte, en una habitación silenciosa, con el mismo micro.",
+    "material": [
+      "Móvil con trípode y gimbal",
+      "Micro de solapa",
+      "Ropa y zapatillas de correr",
+      "Caja de zapatillas nuevas (H3)",
+      "Reloj deportivo con la pantalla en «5,0 km»",
+      "Espejo de la sala de fitness (H4)",
+      "Cajón o escalón",
+      "Hoja de plan de ejercicios",
+      "Chat de WhatsApp de la clínica",
+      "Captura de Google del día"
+    ],
+    "orden": [
+      {
+        "lugar": "Camino junto al lago de Morat",
+        "tomas": "Hooks H1, H2, H3 (camino) y H5 · Bloques Gancho y Problema (banco)",
+        "nota": "Con luz de día; evitar gente reconocible en el fondo."
+      },
+      {
+        "lugar": "Sala de tratamiento",
+        "tomas": "Hook H3 (rodilla) · Bloque Solución (camilla)",
+        "nota": ""
+      },
+      {
+        "lugar": "Sala de fitness",
+        "tomas": "Hook H4 (espejo) · Bloques Solución (ejercicios), Prueba y CTA",
+        "nota": "Grabar a una hora sin socios del gimnasio."
+      },
+      {
+        "lugar": "Sala silenciosa",
+        "tomas": "Voz en off de Francisco para todos los bloques",
+        "nota": ""
+      }
+    ],
+    "checklist": [
+      "Autorizaciones de imagen firmadas de todas las personas que salen (y del dueño de la casa si es un domicilio).",
+      "Captura del perfil de Google (4,9/5) hecha el mismo día.",
+      "Prescripciones y fichas de atrezo, sin datos reales de pacientes.",
+      "Cada hook: 3 tomas FR + 3 tomas DE, con 1 s de silencio antes y después.",
+      "5 s de planos recurso en cada localización (para cortes y transiciones).",
+      "Revisar audio con auriculares tras la primera toma de cada localización.",
+      "Copia de seguridad de todo el material antes de irse."
+    ]
+  }
+}
