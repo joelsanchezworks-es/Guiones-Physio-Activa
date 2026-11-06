@@ -1,0 +1,332 @@
+{
+ "slug": "douleur-du-genou-lesions-de-la-cheville",
+ "url": "/douleur-du-genou-lesions-de-la-cheville/",
+ "tema": "genou_lca",
+ "nombre": "Genou (LCA, ménisque, arthrose, prothèse)",
+ "kw_principal": "ménisque",
+ "intencion": "informacional",
+ "serp_tipo": "clínica local",
+ "ai_overview": true,
+ "top3": [
+  "1. primomedico.com",
+  "2. medicol.ch",
+  "3. chirurgiedusport.com"
+ ],
+ "paa": [
+  "Quelle est la cause de la douleur au ménisque ?",
+  "Qu'est-ce qu'une méniscectomie ?",
+  "Est-ce qu'un ménisque fissuré peut se réparer tout seul ?",
+  "Qu'est-ce qu'une fissure horizontale du ménisque ?",
+  "Quelle convalescence après une prothèse de genou ?",
+  "Quels sont les inconvénients d'une prothèse du genou ?",
+  "Quand peut-on marcher après une prothèse du genou ?",
+  "Quelle durée d'hospitalisation pour une prothèse du genou ?",
+  "Quelle est la relation entre les ligaments croisés et le ménisque ?",
+  "Quelle est la cause la plus fréquente d'une inflammation des ligaments du genou ?"
+ ],
+ "secciones_sugeridas": [
+  "prothèse genou",
+  "ligament croisé",
+  "arthrose du genou",
+  "ligament croisé antérieur",
+  "tendinite du genou",
+  "déchirure du ménisque",
+  "ménisque douleur"
+ ],
+ "keywords": [
+  {
+   "kw": "ménisque",
+   "vol": 1600,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.41,
+   "tendencia_12m_pct": -27,
+   "cluster": "ménisque"
+  },
+  {
+   "kw": "prothèse genou",
+   "vol": 880,
+   "intencion": "transaccional",
+   "kd": 0,
+   "cpc_usd": 0.87,
+   "tendencia_12m_pct": -34,
+   "cluster": "prothèse genou"
+  },
+  {
+   "kw": "arthrose du genou",
+   "vol": 720,
+   "intencion": "informacional",
+   "kd": 1,
+   "cpc_usd": 0.61,
+   "tendencia_12m_pct": -6,
+   "cluster": "arthrose du genou"
+  },
+  {
+   "kw": "ligament croisé",
+   "vol": 590,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.2,
+   "tendencia_12m_pct": -34,
+   "cluster": "ligament croisé"
+  },
+  {
+   "kw": "tendinite du genou",
+   "vol": 320,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.74,
+   "tendencia_12m_pct": -18,
+   "cluster": "tendinite du genou"
+  },
+  {
+   "kw": "déchirure du ménisque",
+   "vol": 210,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.47,
+   "tendencia_12m_pct": -2,
+   "cluster": "déchirure du ménisque"
+  },
+  {
+   "kw": "fissuration ménisque",
+   "vol": 170,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.44,
+   "tendencia_12m_pct": -21,
+   "cluster": "fissuration ménisque"
+  },
+  {
+   "kw": "fissure du ménisque",
+   "vol": 170,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.44,
+   "tendencia_12m_pct": -21,
+   "cluster": "fissuration ménisque"
+  },
+  {
+   "kw": "ligament croisé antérieur",
+   "vol": 170,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.25,
+   "tendencia_12m_pct": -33,
+   "cluster": "ligament croisé antérieur"
+  },
+  {
+   "kw": "ménisque douleur",
+   "vol": 170,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.73,
+   "tendencia_12m_pct": -35,
+   "cluster": "ménisque douleur"
+  },
+  {
+   "kw": "anse de seau ménisque",
+   "vol": 110,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 10,
+   "cluster": "anse de seau ménisque"
+  },
+  {
+   "kw": "ligament croisé antérieur genou",
+   "vol": 110,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -22,
+   "cluster": "ligament croisé antérieur genou"
+  },
+  {
+   "kw": "prothèse du genou opération",
+   "vol": 90,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.79,
+   "tendencia_12m_pct": -26,
+   "cluster": "prothèse du genou opération"
+  },
+  {
+   "kw": "symptômes arthrose du genou",
+   "vol": 90,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.36,
+   "tendencia_12m_pct": -14,
+   "cluster": "symptômes arthrose du genou"
+  },
+  {
+   "kw": "ligament croisé operation",
+   "vol": 70,
+   "intencion": "informacional",
+   "kd": 41,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -47,
+   "cluster": "ligament croisé operation"
+  },
+  {
+   "kw": "lésion ménisque",
+   "vol": 70,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 0,
+   "cluster": "lésion ménisque"
+  },
+  {
+   "kw": "ménisque déchiré",
+   "vol": 70,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.3,
+   "tendencia_12m_pct": -35,
+   "cluster": "ménisque déchiré"
+  },
+  {
+   "kw": "syndrome essuie glace genou",
+   "vol": 70,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.04,
+   "tendencia_12m_pct": 140,
+   "cluster": "syndrome essuie glace genou"
+  },
+  {
+   "kw": "arthrose du genou quoi faire",
+   "vol": 50,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.44,
+   "tendencia_12m_pct": -57,
+   "cluster": "arthrose du genou quoi faire"
+  },
+  {
+   "kw": "arthrose du genou traitement",
+   "vol": 50,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 1.13,
+   "tendencia_12m_pct": 0,
+   "cluster": "arthrose du genou traitement"
+  },
+  {
+   "kw": "douleur ménisque interne",
+   "vol": 50,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 1,
+   "tendencia_12m_pct": -7,
+   "cluster": "douleur ménisque interne"
+  },
+  {
+   "kw": "ménisque genou symptomes",
+   "vol": 50,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.16,
+   "tendencia_12m_pct": -23,
+   "cluster": "douleur ménisque interne"
+  },
+  {
+   "kw": "peut on marcher avec une fissure du ménisque",
+   "vol": 50,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.11,
+   "tendencia_12m_pct": -43,
+   "cluster": "peut on marcher avec une fissure du ménisque"
+  },
+  {
+   "kw": "rupture ligament croisé",
+   "vol": 50,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -50,
+   "cluster": "rupture ligament croisé"
+  },
+  {
+   "kw": "rupture du ligament croisé antérieur",
+   "vol": 40,
+   "intencion": "informacional",
+   "kd": 40,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 0,
+   "cluster": "rupture du ligament croisé antérieur"
+  },
+  {
+   "kw": "arthrose du genou : nouveau traitement",
+   "vol": 30,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 1.39,
+   "tendencia_12m_pct": 33,
+   "cluster": "arthrose du genou traitement"
+  },
+  {
+   "kw": "arthrose du genou nouveau traitement",
+   "vol": 30,
+   "intencion": "informacional",
+   "kd": 41,
+   "cpc_usd": 1.39,
+   "tendencia_12m_pct": 33,
+   "cluster": "arthrose du genou traitement"
+  },
+  {
+   "kw": "combien de séances de kiné après prothèse du genou",
+   "vol": 30,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -60,
+   "cluster": "prothèse genou"
+  },
+  {
+   "kw": "comment dormir avec une prothèse de genou",
+   "vol": 30,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.22,
+   "tendencia_12m_pct": -27,
+   "cluster": "prothèse genou"
+  },
+  {
+   "kw": "déchirure du ménisque temps de guerison",
+   "vol": 30,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.16,
+   "tendencia_12m_pct": -42,
+   "cluster": "déchirure du ménisque"
+  }
+ ],
+ "enlaces_internos": [
+  "/physiotherapie-post-operatoire/",
+  "/medical-training-therapy-mtt/",
+  "/physio-du-sport/",
+  "/physioactiva-bandage-neuromusculaire/",
+  "/physiotherapeute-a-domicile/",
+  "/reservation-en-ligne/"
+ ],
+ "actual": {
+  "title": "Douleur du genou / lésions de la cheville - Physio Activa",
+  "meta": "Traitement de physiothérapie pour l'entorse, le ménisque, la gonarthrose et la cheville à Ins, Suisse. Réservez chez Physio Activa.",
+  "h1": [
+   "Douleur du genou et lésions de la cheville : physiothérapie à Ins"
+  ],
+  "h2": [
+   "De la lésion aiguë au retour complet au mouvement",
+   "Reconnus par toutes les assurances maladie",
+   "Questions fréquentes",
+   "Remarchez, recourez et bougez sans crainte."
+  ],
+  "palabras": 671,
+  "texto": "Douleur du genou / lésions de la cheville - Physio Activa\nAller au contenu\nPhysiothérapie du genou et de la cheville en Suisse\n# Douleur du genou et lésions de la cheville : physiothérapie à Ins\nLe genou et la cheville supportent tout le poids du corps à chaque pas. Une lésion de ces articulations peut limiter sérieusement la mobilité, le sport et la vie quotidienne. Chez Physio Activa, nous traitons de l'entorse à la gonarthrose avec une approche précise et orientée vers une récupération totale. Sur prescription médicale.\nRendez-vous online\nWhatsApp\nEntorse, ménisque, ligaments\nSportifs et non-sportifs\nSans chirurgie dans de nombreux cas\nNos prises en charge\n## De la lésion aiguë au retour complet au mouvement\n## Entorse de la cheville et récupération ligamentaire\nL'entorse de la cheville est la blessure sportive la plus fréquente, mais si elle n'est pas bien rééduquée, elle peut laisser une instabilité chronique entraînant des récidives répétées. Chez Physio Activa, nous ne traitons pas seulement la douleur : nous travaillons la proprioception et la force pour que la cheville redevienne stable à long terme.\n## Lésions du genou : ménisque et ligaments\nLa rupture du ménisque ou des ligaments (croisé antérieur, latéral) nécessite une rééducation très spécifique, aussi bien en traitement conservateur qu'en récupération post-chirurgicale. Nous concevons des programmes progressifs avec un raisonnement biomécanique pour un retour en toute sécurité au sport ou à l'activité quotidienne.\n## Gonarthrose et usure du genou\nL'usure du cartilage du genou provoque douleur, raideur et inflammation qui rendent difficiles la marche, la montée des escaliers ou la pratique du sport. La physiothérapie ne régénère pas le cartilage, mais elle réduit la douleur, améliore la stabilité musculaire et ralentit significativement la progression de l'usure.\n## Tendinopathies : rotulien, achilléen et fibulaires\nLes tendinopathies du genou (tendon rotulien) et de la cheville (tendon d'Achille, tendons fibulaires) sont fréquentes chez les sportifs et les personnes actives. Elles répondent très bien à des protocoles de charge progressive supervisés par le physiothérapeute, sans nécessiter de repos prolongé.\nRendez-vous online\nAssurance\n## Reconnus par toutes les assurances maladie\nNous sommes reconnus par toutes les assurances maladie en Suisse. La physiothérapie pour les lésions du genou et de la cheville se fait sur prescription médicale (du médecin de famille ou de l'orthopédiste).\n1\nVotre médecin ou orthopédiste établit la prescription de physiothérapie.\n2\nNous réalisons un bilan fonctionnel du genou ou de la cheville concerné.\n3\nNous concevons le plan de traitement adapté à votre situation.\nVous avez une douleur ou une lésion ? Consultez-nous aujourd'hui\nFAQ\n## Questions fréquentes\nQuand dois-je consulter un physiothérapeute pour une lésion du genou ou de la cheville ?\nDevant toute douleur qui ne s'améliore pas en 5 à 7 jours, qui limite la marche ou la pratique du sport, ou qui apparaît après un traumatisme avec une inflammation visible. Pour les entorses, plus la rééducation commence tôt, plus le risque d'instabilité chronique est faible.\nLa physiothérapie peut-elle éviter la chirurgie dans les lésions du genou ?\nDans bien des cas, oui. Les ruptures partielles du ménisque, les lésions ligamentaires de grade I et II et la gonarthrose débutante répondent très bien au traitement conservateur. La physiothérapie est toujours la première étape avant d'envisager la chirurgie.\nCombien de séances me faut-il pour récupérer d'une entorse ?\nUne entorse légère se rétablit généralement plus vite, tandis que les entorses plus graves ou avec instabilité chronique nécessitent un suivi plus prolongé, avec un travail spécifique de proprioception et de force. Lors de la première visite, nous vous donnons une estimation adaptée à votre cas.\nTravaillez-vous avec toutes les assurances pour le genou et la cheville ?\nOui. Notre cabinet est reconnu par toutes les assurances maladie en Suisse. Nous travaillons avec toutes les assurances et dans tous les cantons, avec toutes les autorisations de santé nécessaires, quel que soit le lieu de résidence du patient.\n## Remarchez, recourez et bougez sans crainte.\nChez Physio Activa, nous traitons vos lésions du genou et de la cheville. Premier rendez-vous disponible cette semaine.\nÉcrivez-nous sur WhatsApp\nAppelez-nous 076 627 38 38\nFrançais\nDeutsch"
+ },
+ "fuente": "DataForSEO (google_ads/search_volume, Labs, SERP Ins) 2026-11-06"
+}

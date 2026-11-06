@@ -1,0 +1,317 @@
+{
+ "slug": "douleur-de-hanche-protheses",
+ "url": "/douleur-de-hanche-protheses/",
+ "tema": "hanche",
+ "nombre": "Hanche (prothèse, arthrose)",
+ "kw_principal": "prothèse de hanche",
+ "intencion": "informacional",
+ "serp_tipo": "portal médico",
+ "ai_overview": true,
+ "top3": [
+  "1. hug.ch · 31 mars 2016",
+  "2. ehc-vd.ch",
+  "3. dr-meyer-orthopedie.fr"
+ ],
+ "paa": [
+  "Comment vivre avec une prothèse de hanche ?",
+  "Est-ce que ça fait mal de se faire opérer de la hanche ?",
+  "Qu'est-ce qu'on ne peut plus faire avec une prothèse de hanche ?",
+  "Combien de temps dure la convalescence après une chirurgie de la hanche ?",
+  "Quelle est la cause de la douleur à la hanche lorsque je suis couché sur le côté ?",
+  "Quel est le traitement pour la coxarthrose ?",
+  "Quels sont les symptômes d'une douleur à la hanche ?",
+  "Que faire si j'ai la hanche bloquée ?",
+  "Comment se déroule une intervention de la hanche ?",
+  "Quel est le coût d'une prothèse totale de hanche ?"
+ ],
+ "secciones_sugeridas": [
+  "douleur hanche",
+  "prothèse totale de hanche",
+  "délai de rétablissement après une prothèse de hanche",
+  "douleur hanche gauche",
+  "prothèse de hanche prix",
+  "rééducation hanche"
+ ],
+ "keywords": [
+  {
+   "kw": "prothèse de hanche",
+   "vol": 590,
+   "intencion": "transaccional",
+   "kd": 0,
+   "cpc_usd": 0.58,
+   "tendencia_12m_pct": -29,
+   "cluster": "prothèse de hanche"
+  },
+  {
+   "kw": "douleur hanche",
+   "vol": 390,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.77,
+   "tendencia_12m_pct": -19,
+   "cluster": "douleur hanche"
+  },
+  {
+   "kw": "délai de rétablissement après une prothèse de hanche",
+   "vol": 110,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.19,
+   "tendencia_12m_pct": -41,
+   "cluster": "délai de rétablissement après une prothèse de hanche"
+  },
+  {
+   "kw": "douleur hanche gauche",
+   "vol": 90,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 9,
+   "cluster": "douleur hanche gauche"
+  },
+  {
+   "kw": "prothèse de hanche prix",
+   "vol": 40,
+   "intencion": "comercial",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -29,
+   "cluster": "prothèse de hanche prix"
+  },
+  {
+   "kw": "prothèse totale de hanche",
+   "vol": 40,
+   "intencion": "transaccional",
+   "kd": 9,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -31,
+   "cluster": "prothèse totale de hanche"
+  },
+  {
+   "kw": "opération prothèse de hanche",
+   "vol": 30,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.16,
+   "tendencia_12m_pct": -20,
+   "cluster": "prothèse de hanche"
+  },
+  {
+   "kw": "cuisse gonflée après prothèse de hanche",
+   "vol": 20,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -56,
+   "cluster": "prothèse de hanche"
+  },
+  {
+   "kw": "douleur fessier après prothèse de hanche",
+   "vol": 20,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -57,
+   "cluster": "douleur hanche"
+  },
+  {
+   "kw": "prothèse de hanche douleurs musculaires",
+   "vol": 20,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -56,
+   "cluster": "prothèse de hanche"
+  },
+  {
+   "kw": "prothèse de hanche nouvelle génération",
+   "vol": 20,
+   "intencion": "transaccional",
+   "kd": null,
+   "cpc_usd": 0.06,
+   "tendencia_12m_pct": -25,
+   "cluster": "prothèse de hanche"
+  },
+  {
+   "kw": "prothèse de hanche prix suisse",
+   "vol": 20,
+   "intencion": "comercial",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 0,
+   "cluster": "prothèse de hanche prix"
+  },
+  {
+   "kw": "type de prothèse de hanche",
+   "vol": 20,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 20,
+   "cluster": "prothèse de hanche"
+  },
+  {
+   "kw": "après prothèse de hanche",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 0,
+   "cluster": "prothèse de hanche"
+  },
+  {
+   "kw": "boiterie après prothèse de hanche",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": null,
+   "cluster": "prothèse de hanche"
+  },
+  {
+   "kw": "chirurgie prothèse totale de hanche",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -33,
+   "cluster": "prothèse totale de hanche"
+  },
+  {
+   "kw": "chute avec prothèse de hanche",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 0,
+   "cluster": "prothèse de hanche"
+  },
+  {
+   "kw": "col du fémur prothèse de hanche",
+   "vol": 10,
+   "intencion": "transaccional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -50,
+   "cluster": "prothèse de hanche"
+  },
+  {
+   "kw": "combien de temps pour marcher normalement après prothèse de hanche",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 0,
+   "cluster": "prothèse de hanche"
+  },
+  {
+   "kw": "comment monter en voiture après une prothèse de hanche",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -100,
+   "cluster": "prothèse de hanche"
+  },
+  {
+   "kw": "contre indication prothèse de hanche",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 0,
+   "cluster": "prothèse de hanche"
+  },
+  {
+   "kw": "convalescence prothèse de hanche",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.69,
+   "tendencia_12m_pct": 0,
+   "cluster": "prothèse de hanche"
+  },
+  {
+   "kw": "courir avec une prothèse de hanche",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -33,
+   "cluster": "prothèse de hanche"
+  },
+  {
+   "kw": "coût opération prothèse de hanche",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": null,
+   "cluster": "prothèse de hanche"
+  },
+  {
+   "kw": "descellement prothèse de hanche radio",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -50,
+   "cluster": "prothèse de hanche"
+  },
+  {
+   "kw": "descellement prothèse de hanche symptomes",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 0,
+   "cluster": "prothèse de hanche"
+  },
+  {
+   "kw": "douleur après prothèse de hanche",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -100,
+   "cluster": "douleur hanche"
+  },
+  {
+   "kw": "douleurs musculaires après prothèse de hanche",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -100,
+   "cluster": "prothèse de hanche"
+  },
+  {
+   "kw": "durée de vie prothèse hanche céramique",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -67,
+   "cluster": "prothèse de hanche"
+  },
+  {
+   "kw": "délai de rétablissement après une prothèse de hanche forum",
+   "vol": 10,
+   "intencion": "comercial",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": null,
+   "cluster": "délai de rétablissement après une prothèse de hanche"
+  }
+ ],
+ "enlaces_internos": [
+  "/physiotherapie-post-operatoire/",
+  "/medical-training-therapy-mtt/",
+  "/physiotherapie-geriatrique/",
+  "/therapie-manuelle/",
+  "/physiotherapeute-a-domicile/",
+  "/reservation-en-ligne/"
+ ],
+ "actual": null,
+ "fuente": "DataForSEO (google_ads/search_volume, Labs, SERP Ins) 2026-11-06"
+}

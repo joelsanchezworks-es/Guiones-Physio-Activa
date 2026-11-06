@@ -1,0 +1,159 @@
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "Physiotherapy",
+   "@id": "https://physioactiva.ch/#physiotherapy",
+   "name": "Physio Activa",
+   "url": "https://physioactiva.ch/",
+   "telephone": "+41766273838",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rämismatte 21",
+    "postalCode": "3232",
+    "addressLocality": "Ins",
+    "addressRegion": "BE",
+    "addressCountry": "CH"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.0058,
+    "longitude": 7.1063
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+     ],
+     "opens": "08:30",
+     "closes": "19:30"
+    }
+   ],
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Ins"
+    },
+    {
+     "@type": "City",
+     "name": "Anet"
+    },
+    {
+     "@type": "City",
+     "name": "Sugiez"
+    },
+    {
+     "@type": "City",
+     "name": "Mont-Vully"
+    },
+    {
+     "@type": "City",
+     "name": "Murten / Morat"
+    },
+    {
+     "@type": "City",
+     "name": "Kerzers / Chiètres"
+    },
+    {
+     "@type": "City",
+     "name": "Avenches"
+    },
+    {
+     "@type": "City",
+     "name": "La Neuveville"
+    },
+    {
+     "@type": "City",
+     "name": "Neuchâtel"
+    },
+    {
+     "@type": "City",
+     "name": "Biel/Bienne"
+    },
+    {
+     "@type": "City",
+     "name": "Lyss"
+    }
+   ],
+   "availableLanguage": [
+    "fr",
+    "es"
+   ],
+   "priceRange": "[POR CONFIRMAR]"
+  },
+  {
+   "@type": "MedicalWebPage",
+   "@id": "https://physioactiva.ch/mal-de-dos-lombaire/#webpage",
+   "url": "https://physioactiva.ch/mal-de-dos-lombaire/",
+   "name": "Lombalgie et mal de dos : physio à Ins | Physio Activa",
+   "description": "Lombalgie, lumbago, douleur en bas du dos : causes, signes d'alarme et physiothérapie à Ins ou à domicile dans le Seeland. Prenez rendez-vous.",
+   "inLanguage": "fr-CH",
+   "isPartOf": {
+    "@id": "https://physioactiva.ch/#website"
+   },
+   "about": {
+    "@type": "MedicalCondition",
+    "name": "Lombalgie"
+   },
+   "lastReviewed": "2026-11-06",
+   "reviewedBy": {
+    "@type": "Person",
+    "name": "[POR CONFIRMAR: physiothérapeute qui valide la page]"
+   },
+   "provider": {
+    "@id": "https://physioactiva.ch/#physiotherapy"
+   }
+  },
+  {
+   "@type": "FAQPage",
+   "@id": "https://physioactiva.ch/mal-de-dos-lombaire/#faq",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Quand faut-il consulter un physiothérapeute pour un mal de dos ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Lorsque la douleur dure plusieurs jours, limite vos activités, revient souvent ou descend dans la jambe. En présence d'un signe d'alarme ci-dessus, consultez d'abord votre médecin."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Un lumbago qui dure, est-ce normal ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "L'évolution varie d'une personne à l'autre. Si la douleur ne diminue pas ou revient régulièrement, un avis médical et un bilan en physio permettent d'adapter la prise en charge."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Faut-il se reposer en cas de lombalgie ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Le repos complet prolongé est en général déconseillé. Rester actif à un niveau supportable aide le plus souvent davantage ; votre physiothérapeute vous indique comment doser l'effort."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Pourquoi j'ai mal dans le bas du dos à droite ou à gauche ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Une douleur d'un seul côté est fréquente et souvent musculaire ou articulaire. Elle peut aussi venir d'un autre organe, notamment chez la femme (ventre et dos en même temps) : si elle ne varie pas avec le mouvement, parlez-en à votre médecin."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Faut-il une ordonnance pour la physio ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Oui : pour un remboursement LAMal, LAA, AI ou AM, une prescription médicale est nécessaire."
+     }
+    }
+   ]
+  }
+ ]
+}

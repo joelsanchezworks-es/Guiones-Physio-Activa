@@ -1,0 +1,266 @@
+[
+ {
+  "ciudad": "Ins",
+  "km_linea_recta_desde_ins": 0.0,
+  "keywords_con_volumen": {
+   "physio ins": 140
+  },
+  "volumen_total": 140,
+  "maps_physio_pos_physioactiva": 5,
+  "maps_domicile_pos_physioactiva": 3,
+  "maps_top3": [
+   "Physiotherapie André van den Heuvel",
+   "Horizon Balance",
+   "Praxis für med. Massage"
+  ],
+  "url_existente": "/",
+  "decision": "home (no hace falta página de zona: Ins es la sede)"
+ },
+ {
+  "ciudad": "Sugiez",
+  "km_linea_recta_desde_ins": 4.9,
+  "keywords_con_volumen": {
+   "physio vully": 110
+  },
+  "volumen_total": 110,
+  "maps_physio_pos_physioactiva": 9,
+  "maps_domicile_pos_physioactiva": 8,
+  "maps_top3": [
+   "Physio du Lac",
+   "Côté Massage",
+   "PhysiOptima"
+  ],
+  "url_existente": "/physio-a-sugiez/",
+  "decision": "publicar con contenido propio (regla 8.2)"
+ },
+ {
+  "ciudad": "La Neuveville",
+  "km_linea_recta_desde_ins": 6.6,
+  "keywords_con_volumen": {
+   "physio la neuveville": 50
+  },
+  "volumen_total": 50,
+  "maps_physio_pos_physioactiva": null,
+  "maps_domicile_pos_physioactiva": null,
+  "maps_top3": [
+   "Physiothérapie Le Cab' des Pavés",
+   "Physiothérapie Pédiatrique Lisiane Suter",
+   "kinesab"
+  ],
+  "url_existente": null,
+  "decision": "publicar con contenido propio (regla 8.2)"
+ },
+ {
+  "ciudad": "Kerzers/Chiètres",
+  "km_linea_recta_desde_ins": 7.6,
+  "keywords_con_volumen": {},
+  "volumen_total": 0,
+  "maps_physio_pos_physioactiva": null,
+  "maps_domicile_pos_physioactiva": null,
+  "maps_top3": [
+   "Physiotherapie Kerzers",
+   "Mr. Albert Klinkenbergh Physiotherapie",
+   "PhysiOptima"
+  ],
+  "url_existente": null,
+  "decision": "publicar solo si el cliente aporta datos propios (sin volumen medido)"
+ },
+ {
+  "ciudad": "Murten/Morat",
+  "km_linea_recta_desde_ins": 8.7,
+  "keywords_con_volumen": {},
+  "volumen_total": 0,
+  "maps_physio_pos_physioactiva": null,
+  "maps_domicile_pos_physioactiva": null,
+  "maps_top3": [
+   "Physio du Parc",
+   "Physio Murten GmbH",
+   "Physiotherapie Sigrid Schwab GmbH"
+  ],
+  "url_existente": null,
+  "decision": "publicar solo si el cliente aporta datos propios (sin volumen medido)"
+ },
+ {
+  "ciudad": "Neuchâtel",
+  "km_linea_recta_desde_ins": 13.4,
+  "keywords_con_volumen": {
+   "physio neuchâtel": 50,
+   "physiothérapeute neuchâtel": 90,
+   "physiothérapie neuchâtel": 90
+  },
+  "volumen_total": 230,
+  "maps_physio_pos_physioactiva": null,
+  "maps_domicile_pos_physioactiva": null,
+  "maps_top3": [
+   "Physio & Training Neuchâtel",
+   "Zénith Physio Sàrl",
+   "Brigitte Faivre aes Terra Pi"
+  ],
+  "url_existente": "/physio-a-neuchatel/",
+  "decision": "publicar con contenido propio (regla 8.2)"
+ },
+ {
+  "ciudad": "Avenches",
+  "km_linea_recta_desde_ins": 14.8,
+  "keywords_con_volumen": {
+   "physiothérapie avenches": 50
+  },
+  "volumen_total": 50,
+  "maps_physio_pos_physioactiva": null,
+  "maps_domicile_pos_physioactiva": null,
+  "maps_top3": [
+   "Jane Matthey",
+   "Physio plus Avenches",
+   "Physio Vully"
+  ],
+  "url_existente": null,
+  "decision": "publicar con contenido propio (regla 8.2)"
+ },
+ {
+  "ciudad": "Lyss",
+  "km_linea_recta_desde_ins": 17.0,
+  "keywords_con_volumen": {
+   "physio lyss": 390
+  },
+  "volumen_total": 390,
+  "maps_physio_pos_physioactiva": null,
+  "maps_domicile_pos_physioactiva": null,
+  "maps_top3": [
+   "Physio Orange",
+   "Physio Hubacher",
+   "Mr. Alexander Hammacher"
+  ],
+  "url_existente": null,
+  "decision": "publicar con contenido propio (regla 8.2)"
+ },
+ {
+  "ciudad": "Biel/Bienne",
+  "km_linea_recta_desde_ins": 18.0,
+  "keywords_con_volumen": {
+   "physio biel": 720,
+   "physiothérapeute bienne": 320
+  },
+  "volumen_total": 1040,
+  "maps_physio_pos_physioactiva": null,
+  "maps_domicile_pos_physioactiva": null,
+  "maps_top3": [
+   "Physiotherapie",
+   "Physio Quai37",
+   "Physiothérapie Knutti"
+  ],
+  "url_existente": null,
+  "decision": "publicar con contenido propio (regla 8.2)"
+ },
+ {
+  "ciudad": "Fribourg",
+  "km_linea_recta_desde_ins": 22.6,
+  "keywords_con_volumen": {
+   "physio à domicile fribourg": 30,
+   "physiothérapie fribourg": 260
+  },
+  "volumen_total": 290,
+  "maps_physio_pos_physioactiva": null,
+  "maps_domicile_pos_physioactiva": null,
+  "maps_top3": [
+   "Physio Club Fribourg",
+   "Guyot Nelly",
+   "Nager Monnard Séverine"
+  ],
+  "url_existente": null,
+  "decision": "publicar con contenido propio (regla 8.2)"
+ },
+ {
+  "ciudad": "Payerne",
+  "km_linea_recta_desde_ins": 24.1,
+  "keywords_con_volumen": {
+   "physio payerne": 320,
+   "physiothérapeute payerne": 140,
+   "physiothérapie payerne": 140
+  },
+  "volumen_total": 600,
+  "maps_physio_pos_physioactiva": null,
+  "maps_domicile_pos_physioactiva": null,
+  "maps_top3": [
+   "Physiothérapie Patricia Le Bec",
+   "Physio de la Broye Sàrl",
+   "Attenelle Van Puyenbroeck Katty"
+  ],
+  "url_existente": null,
+  "decision": "publicar con contenido propio (regla 8.2)"
+ },
+ {
+  "ciudad": "Estavayer",
+  "km_linea_recta_desde_ins": 26.4,
+  "keywords_con_volumen": {
+   "physio estavayer": 170,
+   "physiothérapie estavayer-le-lac": 40
+  },
+  "volumen_total": 210,
+  "maps_physio_pos_physioactiva": null,
+  "maps_domicile_pos_physioactiva": null,
+  "maps_top3": [
+   "Proactive Physio",
+   "Ōcab Physiothérapie",
+   "Santé Performance - Physiothérapie - Estavayer-le-Lac"
+  ],
+  "url_existente": null,
+  "decision": "solo con confirmación del cliente (> 25 km)"
+ },
+ {
+  "ciudad": "Yvonand",
+  "km_linea_recta_desde_ins": 35.9,
+  "keywords_con_volumen": {
+   "physio yvonand": 170,
+   "physiothérapie yvonand": 50
+  },
+  "volumen_total": 220,
+  "maps_physio_pos_physioactiva": null,
+  "maps_domicile_pos_physioactiva": null,
+  "maps_top3": [
+   "Cabinet du Parc",
+   "Krystian Sobkowiak - Physiothérapeute",
+   "Cabinet De Physiothérapie Des Vergers"
+  ],
+  "url_existente": null,
+  "decision": "solo con confirmación del cliente (zona lejana)"
+ },
+ {
+  "ciudad": "Yverdon-les-Bains",
+  "km_linea_recta_desde_ins": 43.5,
+  "keywords_con_volumen": {
+   "physio yverdon": 480,
+   "physiothérapeute yverdon": 260,
+   "physiothérapeute yverdon-les-bains": 50,
+   "physiothérapie yverdon": 260,
+   "physiothérapie yverdon-les-bains": 50
+  },
+  "volumen_total": 1100,
+  "maps_physio_pos_physioactiva": null,
+  "maps_domicile_pos_physioactiva": null,
+  "maps_top3": [
+   "Physiothérapie Satellite",
+   "SB PHYSIO Yverdon-les-bains _ Physiothérapie Ambulatoire & Domicile",
+   "Physiothérapie Rute Estevao"
+  ],
+  "url_existente": null,
+  "decision": "solo con confirmación del cliente (zona lejana)"
+ },
+ {
+  "ciudad": "Lausanne",
+  "km_linea_recta_desde_ins": 65.0,
+  "keywords_con_volumen": {
+   "physio lausanne": 880,
+   "physiothérapeute lausanne": 480
+  },
+  "volumen_total": 1360,
+  "maps_physio_pos_physioactiva": null,
+  "maps_domicile_pos_physioactiva": null,
+  "maps_top3": [
+   "Esprit Sport Physiothérapie",
+   "TD Physiothérapie - Thomas Dereme",
+   "Ostéopathe Lausanne Boris Hueber"
+  ],
+  "url_existente": null,
+  "decision": "solo con confirmación del cliente (zona lejana)"
+ }
+]

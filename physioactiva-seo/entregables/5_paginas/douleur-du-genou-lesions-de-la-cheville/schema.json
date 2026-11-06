@@ -1,0 +1,167 @@
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "Physiotherapy",
+   "@id": "https://physioactiva.ch/#physiotherapy",
+   "name": "Physio Activa",
+   "url": "https://physioactiva.ch/",
+   "telephone": "+41766273838",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rämismatte 21",
+    "postalCode": "3232",
+    "addressLocality": "Ins",
+    "addressRegion": "BE",
+    "addressCountry": "CH"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.0058,
+    "longitude": 7.1063
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+     ],
+     "opens": "08:30",
+     "closes": "19:30"
+    }
+   ],
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Ins"
+    },
+    {
+     "@type": "City",
+     "name": "Anet"
+    },
+    {
+     "@type": "City",
+     "name": "Sugiez"
+    },
+    {
+     "@type": "City",
+     "name": "Mont-Vully"
+    },
+    {
+     "@type": "City",
+     "name": "Murten / Morat"
+    },
+    {
+     "@type": "City",
+     "name": "Kerzers / Chiètres"
+    },
+    {
+     "@type": "City",
+     "name": "Avenches"
+    },
+    {
+     "@type": "City",
+     "name": "La Neuveville"
+    },
+    {
+     "@type": "City",
+     "name": "Neuchâtel"
+    },
+    {
+     "@type": "City",
+     "name": "Biel/Bienne"
+    },
+    {
+     "@type": "City",
+     "name": "Lyss"
+    }
+   ],
+   "availableLanguage": [
+    "fr",
+    "es"
+   ],
+   "priceRange": "[POR CONFIRMAR]"
+  },
+  {
+   "@type": "MedicalWebPage",
+   "@id": "https://physioactiva.ch/douleur-du-genou-lesions-de-la-cheville/#webpage",
+   "url": "https://physioactiva.ch/douleur-du-genou-lesions-de-la-cheville/",
+   "name": "Ménisque et douleur du genou : physio à Ins | Physio Activa",
+   "description": "Ménisque, ligament croisé, arthrose du genou ou prothèse : physiothérapie du genou à Ins et à domicile dans le Seeland. Prenez rendez-vous en ligne.",
+   "inLanguage": "fr-CH",
+   "isPartOf": {
+    "@id": "https://physioactiva.ch/#website"
+   },
+   "about": {
+    "@type": "MedicalCondition",
+    "name": "Lésion méniscale du genou"
+   },
+   "lastReviewed": "2026-11-06",
+   "reviewedBy": {
+    "@type": "Person",
+    "name": "[POR CONFIRMAR: physiothérapeute qui valide la page]"
+   },
+   "provider": {
+    "@id": "https://physioactiva.ch/#physiotherapy"
+   }
+  },
+  {
+   "@type": "FAQPage",
+   "@id": "https://physioactiva.ch/douleur-du-genou-lesions-de-la-cheville/#faq",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Quelle est la cause de la douleur au ménisque ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Chez les personnes jeunes, c'est souvent une torsion du genou sous charge, par exemple en sport. Avec l'âge, le ménisque s'use et peut se fissurer lors d'un geste banal, comme se relever d'une position accroupie."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Un ménisque fissuré peut-il se réparer tout seul ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "La partie externe du ménisque est mieux vascularisée et peut cicatriser dans certains cas ; la partie interne cicatrise peu. Votre médecin décide de l'indication chirurgicale selon le type de lésion."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Peut-on marcher avec une fissure du ménisque ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Souvent oui, si la douleur le permet et que le genou ne se bloque pas. Le physiothérapeute vous aide à adapter la charge et à garder le genou mobile et fort."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Quand peut-on marcher après une prothèse du genou ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "La reprise de la marche commence en général très tôt, avec des cannes, selon les consignes de l'équipe chirurgicale. La convalescence après une prothèse du genou est progressive et varie selon chaque personne."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Quelle est la relation entre les ligaments croisés et le ménisque ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Les deux stabilisent le genou. Après une rupture du ligament croisé antérieur, le genou peut devenir instable, ce qui augmente le risque de lésion du ménisque. C'est pourquoi la rééducation travaille la force et le contrôle du genou."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Que faire en cas d'arthrose du genou ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Rester actif est recommandé. Des exercices adaptés de renforcement et de mobilité peuvent aider à diminuer la douleur et à faciliter la marche ; le traitement médical est discuté avec votre médecin."
+     }
+    }
+   ]
+  }
+ ]
+}

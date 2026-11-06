@@ -1,0 +1,155 @@
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "Physiotherapy",
+   "@id": "https://physioactiva.ch/#physiotherapy",
+   "name": "Physio Activa",
+   "url": "https://physioactiva.ch/",
+   "telephone": "+41766273838",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rämismatte 21",
+    "postalCode": "3232",
+    "addressLocality": "Ins",
+    "addressRegion": "BE",
+    "addressCountry": "CH"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.0058,
+    "longitude": 7.1063
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+     ],
+     "opens": "08:30",
+     "closes": "19:30"
+    }
+   ],
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Ins"
+    },
+    {
+     "@type": "City",
+     "name": "Anet"
+    },
+    {
+     "@type": "City",
+     "name": "Sugiez"
+    },
+    {
+     "@type": "City",
+     "name": "Mont-Vully"
+    },
+    {
+     "@type": "City",
+     "name": "Murten / Morat"
+    },
+    {
+     "@type": "City",
+     "name": "Kerzers / Chiètres"
+    },
+    {
+     "@type": "City",
+     "name": "Avenches"
+    },
+    {
+     "@type": "City",
+     "name": "La Neuveville"
+    },
+    {
+     "@type": "City",
+     "name": "Neuchâtel"
+    },
+    {
+     "@type": "City",
+     "name": "Biel/Bienne"
+    },
+    {
+     "@type": "City",
+     "name": "Lyss"
+    }
+   ],
+   "availableLanguage": [
+    "fr",
+    "es"
+   ],
+   "priceRange": "[POR CONFIRMAR]"
+  },
+  {
+   "@type": "WebPage",
+   "@id": "https://physioactiva.ch/pour-les-patients/#webpage",
+   "url": "https://physioactiva.ch/pour-les-patients/",
+   "name": "Pathologies traitées en physiothérapie à Ins | Physio Activa",
+   "description": "Pathologies traitées en physiothérapie à Ins : dos, sciatique, cou, épaule, genou, pied, hanche, plancher pelvien, ATM. Au cabinet ou à domicile.",
+   "inLanguage": "fr-CH",
+   "isPartOf": {
+    "@id": "https://physioactiva.ch/#website"
+   },
+   "about": {
+    "@id": "https://physioactiva.ch/#physiotherapy"
+   },
+   "lastReviewed": "2026-11-06",
+   "reviewedBy": {
+    "@type": "Person",
+    "name": "[POR CONFIRMAR: physiothérapeute qui valide la page]"
+   }
+  },
+  {
+   "@type": "FAQPage",
+   "@id": "https://physioactiva.ch/pour-les-patients/#faq",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Faut-il un diagnostic avant de venir en physiothérapie ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Pour un remboursement par la LAMal, la LAA, l'AI ou l'AM, une prescription médicale est nécessaire. Le diagnostic médical est posé par le médecin ; le physiothérapeute réalise ensuite son propre bilan pour adapter le traitement."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Je ne sais pas d'où vient ma douleur. Quelle page choisir ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Choisissez la zone où vous ressentez le plus la douleur. Une douleur peut venir d'une autre région : par exemple, une douleur dans la jambe peut venir du dos. Le bilan lors de la première séance permet de mieux comprendre."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Traitez-vous aussi les suites d'une opération ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Oui, nous assurons la rééducation post-opératoire, par exemple après une prothèse de hanche ou de genou, une opération de l'épaule ou des ligaments, selon les consignes de votre chirurgien."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Quand faut-il consulter un médecin plutôt qu'un physio ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Consultez rapidement un médecin ou les urgences en cas de perte de force qui s'aggrave, de troubles pour uriner ou aller à selle, de fièvre associée à la douleur, après un traumatisme important ou si une douleur nocturne intense ne cède pas."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Les séances peuvent-elles avoir lieu à domicile ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Oui, à Ins et dans le Seeland et la région des Trois-Lacs (Anet, Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne, Lyss), si votre situation le justifie."
+     }
+    }
+   ]
+  }
+ ]
+}

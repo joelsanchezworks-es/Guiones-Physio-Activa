@@ -1,0 +1,175 @@
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "Physiotherapy",
+   "@id": "https://physioactiva.ch/#physiotherapy",
+   "name": "Physio Activa",
+   "url": "https://physioactiva.ch/",
+   "telephone": "+41766273838",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rämismatte 21",
+    "postalCode": "3232",
+    "addressLocality": "Ins",
+    "addressRegion": "BE",
+    "addressCountry": "CH"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.0058,
+    "longitude": 7.1063
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+     ],
+     "opens": "08:30",
+     "closes": "19:30"
+    }
+   ],
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Ins"
+    },
+    {
+     "@type": "City",
+     "name": "Anet"
+    },
+    {
+     "@type": "City",
+     "name": "Sugiez"
+    },
+    {
+     "@type": "City",
+     "name": "Mont-Vully"
+    },
+    {
+     "@type": "City",
+     "name": "Murten / Morat"
+    },
+    {
+     "@type": "City",
+     "name": "Kerzers / Chiètres"
+    },
+    {
+     "@type": "City",
+     "name": "Avenches"
+    },
+    {
+     "@type": "City",
+     "name": "La Neuveville"
+    },
+    {
+     "@type": "City",
+     "name": "Neuchâtel"
+    },
+    {
+     "@type": "City",
+     "name": "Biel/Bienne"
+    },
+    {
+     "@type": "City",
+     "name": "Lyss"
+    }
+   ],
+   "availableLanguage": [
+    "fr",
+    "es"
+   ],
+   "priceRange": "[POR CONFIRMAR]"
+  },
+  {
+   "@type": "MedicalWebPage",
+   "@id": "https://physioactiva.ch/douleur-pied-cheville-fasciite-plantaire/#webpage",
+   "url": "https://physioactiva.ch/douleur-pied-cheville-fasciite-plantaire/",
+   "name": "Fasciite plantaire et douleur au talon : physio à Ins",
+   "description": "Fasciite plantaire, périostite, entorse de la cheville ou tendinite d'Achille : physiothérapie à Ins et à domicile dans le Seeland. Réservez en ligne.",
+   "inLanguage": "fr-CH",
+   "isPartOf": {
+    "@id": "https://physioactiva.ch/#website"
+   },
+   "about": {
+    "@type": "MedicalCondition",
+    "name": "Fasciite plantaire"
+   },
+   "lastReviewed": "2026-11-06",
+   "reviewedBy": {
+    "@type": "Person",
+    "name": "[POR CONFIRMAR: physiothérapeute qui valide la page]"
+   },
+   "provider": {
+    "@id": "https://physioactiva.ch/#physiotherapy"
+   }
+  },
+  {
+   "@type": "FAQPage",
+   "@id": "https://physioactiva.ch/douleur-pied-cheville-fasciite-plantaire/#faq",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Quelle est la cause de la douleur au talon ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "La cause la plus fréquente est la fasciite plantaire, mais une douleur au talon peut aussi venir du tendon d'Achille, d'un nerf ou d'une fracture de fatigue. Un examen permet d'orienter le traitement."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Quel est le temps de guérison d'une fasciite plantaire ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Il varie beaucoup d'une personne à l'autre et dépend notamment de la durée des symptômes et de la charge quotidienne. Une fasciite plantaire qui ne guérit pas avec des mesures simples mérite un bilan médical et physiothérapeutique."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Quelles chaussures choisir en cas de fasciite plantaire ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Des chaussures stables, avec un bon amorti au talon, sont généralement mieux tolérées. Marcher pieds nus sur un sol dur est souvent douloureux au début. Une talonnette ou une orthèse peut être discutée avec votre médecin ou un podologue."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Comment faire partir la périostite ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Il faut d'abord réduire la charge qui provoque la douleur, sans forcément arrêter toute activité. Le physiothérapeute vous aide ensuite à reprendre progressivement la course, avec des exercices de renforcement adaptés."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Est-ce bon de masser une périostite ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Un massage des muscles du mollet peut soulager temporairement certaines personnes. Il ne remplace pas l'adaptation de l'entraînement et le renforcement, qui restent la base de la rééducation."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Les remèdes de grand-mère soulagent-ils la douleur au talon ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Rouler une balle ou une bouteille froide sous le pied peut apporter un soulagement passager. Si la douleur persiste plusieurs semaines, mieux vaut demander un avis médical."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Les ondes de choc sont-elles indiquées pour la fasciite plantaire ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Elles peuvent être une option pour certaines fasciites plantaires et tendinopathies qui persistent. Leur indication est discutée selon votre situation, en complément des exercices."
+     }
+    }
+   ]
+  }
+ ]
+}

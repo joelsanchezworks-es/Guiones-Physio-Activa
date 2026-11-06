@@ -1,0 +1,331 @@
+{
+ "slug": "douleur-cervicale-au-cou",
+ "url": "/douleur-cervicale-au-cou/",
+ "tema": "cervicalgie",
+ "nombre": "Cervicalgie / douleur cervicale",
+ "kw_principal": "cervicalgie",
+ "intencion": "informacional",
+ "serp_tipo": "portal médico",
+ "ai_overview": true,
+ "top3": [
+  "1. primomedico.com",
+  "2. giphar.fr",
+  "3. Plus de 5,7 k vues  ·  il y a 6 ans"
+ ],
+ "paa": [
+  "Quelle est la douleur ressentie lors d'une cervicalgie ?",
+  "Pourquoi ai-je mal au cou quand je tousse ?",
+  "Quels sont les signes d'une atteinte du rachis cervical ?",
+  "Est-ce que les douleurs cervicales peuvent être un symptôme de migraine ?",
+  "Pourquoi ai-je des courbatures après un accident de voiture ?",
+  "Pourquoi le coup du lapin s'appelle le coup du lapin ?",
+  "Comment dit-on \"coup du lapin\" en anglais ?",
+  "Quels sont les symptômes d'un choc sur les cervicales ?",
+  "Comment soulager un mal de cervicales ?",
+  "Qu'est-ce que la névralgie d'Arnold ?"
+ ],
+ "secciones_sugeridas": [
+  "coup du lapin",
+  "douleur cervicale",
+  "douleur nuque",
+  "comment soigner un torticolis",
+  "torticolis soigner",
+  "céphalée de tension traitement"
+ ],
+ "keywords": [
+  {
+   "kw": "cervicalgie",
+   "vol": 320,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.76,
+   "tendencia_12m_pct": -18,
+   "cluster": "cervicalgie"
+  },
+  {
+   "kw": "douleur cervicale",
+   "vol": 210,
+   "intencion": "informacional",
+   "kd": 3,
+   "cpc_usd": 0.14,
+   "tendencia_12m_pct": -30,
+   "cluster": "douleur cervicale"
+  },
+  {
+   "kw": "coup du lapin",
+   "vol": 170,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -19,
+   "cluster": "coup du lapin"
+  },
+  {
+   "kw": "douleur nuque",
+   "vol": 170,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.19,
+   "tendencia_12m_pct": -29,
+   "cluster": "douleur nuque"
+  },
+  {
+   "kw": "comment soigner un torticolis",
+   "vol": 90,
+   "intencion": "informacional",
+   "kd": 44,
+   "cpc_usd": 0.36,
+   "tendencia_12m_pct": -8,
+   "cluster": "comment soigner un torticolis"
+  },
+  {
+   "kw": "céphalée de tension traitement",
+   "vol": 40,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 3.44,
+   "tendencia_12m_pct": -15,
+   "cluster": "céphalée de tension traitement"
+  },
+  {
+   "kw": "torticolis soigner",
+   "vol": 40,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.12,
+   "tendencia_12m_pct": -15,
+   "cluster": "torticolis soigner"
+  },
+  {
+   "kw": "comment soigner un torticolis en 1 jour",
+   "vol": 30,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 1,
+   "tendencia_12m_pct": -27,
+   "cluster": "comment soigner un torticolis"
+  },
+  {
+   "kw": "coup du lapin symptôme",
+   "vol": 30,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 60,
+   "cluster": "coup du lapin"
+  },
+  {
+   "kw": "cervicalgie exercices",
+   "vol": 20,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.01,
+   "tendencia_12m_pct": -29,
+   "cluster": "cervicalgie"
+  },
+  {
+   "kw": "bilan kinésithérapique cervicalgie",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -100,
+   "cluster": "cervicalgie"
+  },
+  {
+   "kw": "cervicalgie arret de travail",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -100,
+   "cluster": "cervicalgie"
+  },
+  {
+   "kw": "cervicalgie arthrose",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 1.35,
+   "tendencia_12m_pct": null,
+   "cluster": "cervicalgie"
+  },
+  {
+   "kw": "cervicalgie cause",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 0,
+   "cluster": "cervicalgie"
+  },
+  {
+   "kw": "cervicalgie chronique invalidité",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -50,
+   "cluster": "cervicalgie"
+  },
+  {
+   "kw": "cervicalgie cim 10",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 0,
+   "cluster": "cervicalgie"
+  },
+  {
+   "kw": "cervicalgie comment dormir",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": null,
+   "cluster": "cervicalgie"
+  },
+  {
+   "kw": "cervicalgie comment soulager",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": null,
+   "cluster": "cervicalgie"
+  },
+  {
+   "kw": "cervicalgie coup du lapin",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": null,
+   "cluster": "coup du lapin"
+  },
+  {
+   "kw": "cervicalgie de tension",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 0,
+   "cluster": "cervicalgie"
+  },
+  {
+   "kw": "cervicalgie def",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 100,
+   "cluster": "cervicalgie"
+  },
+  {
+   "kw": "cervicalgie definition",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 0,
+   "cluster": "cervicalgie"
+  },
+  {
+   "kw": "cervicalgie douleur",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": null,
+   "cluster": "cervicalgie"
+  },
+  {
+   "kw": "cervicalgie droite",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": null,
+   "cluster": "cervicalgie"
+  },
+  {
+   "kw": "cervicalgie et fatigue",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -100,
+   "cluster": "cervicalgie"
+  },
+  {
+   "kw": "cervicalgie et mal de tete",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": null,
+   "cluster": "cervicalgie"
+  },
+  {
+   "kw": "cervicalgie et sommeil",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": null,
+   "cluster": "cervicalgie"
+  },
+  {
+   "kw": "cervicalgie et sport",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -100,
+   "cluster": "cervicalgie"
+  },
+  {
+   "kw": "cervicalgie et stress",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -100,
+   "cluster": "cervicalgie"
+  },
+  {
+   "kw": "cervicalgie hyperalgique",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": null,
+   "cluster": "cervicalgie"
+  }
+ ],
+ "enlaces_internos": [
+  "/therapie-manuelle/",
+  "/physioactiva-puncture-seche/",
+  "/massage-therapeutique/",
+  "/physiotemporo-mandibulaire-atm/",
+  "/physiotherapeute-a-domicile/",
+  "/reservation-en-ligne/"
+ ],
+ "actual": {
+  "title": "Douleur cervicale / au cou - Physio Activa",
+  "meta": "Traitement de physiothérapie pour la douleur au cou en Suisse. Contracture, hernie cervicale et arthrose couvertes par votre assurance maladie..",
+  "h1": [
+   "Douleur cervicale : traitement de physiothérapie à Ins"
+  ],
+  "h2": [
+   "Votre douleur cervicale a une origine. Et elle a une solution.",
+   "Reconnus par toutes les assurances maladie",
+   "Questions fréquentes",
+   "Votre cou peut cesser de vous faire mal. Commencez aujourd'hui."
+  ],
+  "palabras": 591,
+  "texto": "Douleur cervicale / au cou - Physio Activa\nAller au contenu\nPhysiothérapie pour le cou\n# Douleur cervicale : traitement de physiothérapie à Ins\nLa douleur au cou est l'un des motifs de consultation les plus fréquents en physiothérapie. Écrans, stress, mauvaise posture ou tension accumulée finissent par se faire sentir.\nRendez-vous online\nWhatsApp\n7 personnes sur 10 concernées\nContracture, arthrose, hernie\nSans liste d'attente\nNos prises en charge\n## Votre douleur cervicale a une origine. Et elle a une solution.\n## Contractures et tension musculaire cervicale\nLa contracture cervicale est la cause la plus fréquente de douleur au cou. De longues heures devant l'ordinateur, le téléphone ou le volant génèrent une tension musculaire soutenue qui finit par provoquer douleur, raideur et, dans bien des cas, des céphalées de tension. Le traitement combine thérapie manuelle, chaleur et exercice correctif.\n## Cervicarthrose et usure articulaire\nAvec les années, les articulations du cou peuvent s'user et provoquer douleur, craquements et limitation du mouvement. La physiothérapie n'inverse pas l'usure, mais elle réduit la douleur, améliore la mobilité et ralentit la progression grâce à l'exercice thérapeutique et à des techniques manuelles spécifiques.\n## Hernie cervicale et compression nerveuse\nUne hernie discale cervicale peut comprimer des racines nerveuses et provoquer une douleur qui irradie vers l'épaule, le bras ou la main, avec une possible sensation de fourmillements ou de faiblesse. La physiothérapie est le traitement de premier choix avant d'envisager des options invasives.\n## Syndrome cervicogénique et céphalées d'origine cervicale\nDe nombreux maux de tête ont une origine cervicale : la tension musculaire et le dysfonctionnement articulaire du cou peuvent déclencher des céphalées que l'on confond avec des migraines. Le traitement de l'origine cervicale résout la céphalée dans la plupart des cas.\nRendez-vous online\nAssurance\n## Reconnus par toutes les assurances maladie\nNous sommes reconnus par toutes les assurances maladie en Suisse. La physiothérapie pour la douleur cervicale se fait sur prescription médicale.\n1\nVotre médecin traitant établit la prescription de physiothérapie cervicale.\n2\nNous réalisons un bilan complet pour identifier l'origine de la douleur.\n3\nNous débutons le traitement adapté à votre situation.\nVous avez la prescription ? Prenez rendez-vous aujourd'hui\nFAQ\n## Questions fréquentes\nQuand dois-je consulter un physiothérapeute pour une douleur au cou ?\nLorsque la douleur dure plus d'une semaine, limite votre mobilité, perturbe votre sommeil ou s'accompagne de fourmillements dans le bras ou la main. N'attendez pas qu'elle devienne chronique : plus on la traite tôt, plus la récupération est rapide.\nLa physiothérapie cervicale nécessite-t-elle une prescription médicale en Suisse ?\nOui, une prescription de votre médecin traitant est nécessaire ; vous pouvez facilement la demander. Nous sommes reconnus par toutes les assurances maladie. Chez Physio Activa, nous vous orientons sur la manière de l'obtenir si vous avez des doutes.\nCombien de séances me faut-il pour la douleur cervicale ?\nLa durée du traitement varie selon votre situation : une contracture aiguë répond généralement plus vite, tandis qu'un tableau chronique ou avec une composante articulaire demande un suivi plus prolongé. Lors de la première visite, nous établissons une estimation adaptée à votre cas.\nPuis-je faire de la physiothérapie cervicale si j'ai une hernie discale ?\nOui. La physiothérapie est le traitement conservateur de choix pour la hernie cervicale. Le physiothérapeute adapte les techniques à votre diagnostic pour soulager la compression, réduire la douleur et retrouver la fonction sans risque.\n## Votre cou peut cesser de vous faire mal. Commencez aujourd'hui.\nChez Physio Activa, nous traitons la douleur cervicale à la source, pas seulement le symptôme. Premier rendez-vous disponible cette semaine.\nÉcrivez-nous sur WhatsApp\nAppelez-nous 076 627 38 38\nFrançais\nDeutsch"
+ },
+ "fuente": "DataForSEO (google_ads/search_volume, Labs, SERP Ins) 2026-11-06"
+}

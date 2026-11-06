@@ -1,0 +1,318 @@
+{
+ "slug": "douleur-pied-cheville-fasciite-plantaire",
+ "url": "/douleur-pied-cheville-fasciite-plantaire/",
+ "tema": "cheville_pied",
+ "nombre": "Cheville et pied (entorse, fasciite, Achille, périostite)",
+ "kw_principal": "fasciite plantaire",
+ "intencion": "informacional",
+ "serp_tipo": "portal médico",
+ "ai_overview": true,
+ "top3": [
+  "1. hirslanden.ch",
+  "2. chiroste-foy.com",
+  "3. orliman.fr"
+ ],
+ "paa": [
+  "Quelles chaussures sont recommandées pour les personnes souffrant de fasciite plantaire ?",
+  "Qu'est-ce que l'épine calcanéenne dorsale ?",
+  "Quels sont les symptômes de la fasciite plantaire ?",
+  "Quelle est la cause de la douleur au talon ?",
+  "Comment faire partir la périostite ?",
+  "Qu'est-ce que le syndrome de stress tibial médial ?",
+  "Quels sont les dangers de la périostite ?",
+  "Est-ce bon de masser une périostite ?",
+  "Quelles sont les causes possibles d'une douleur au talon du pied ?",
+  "Quels sont les remèdes de grand mère pour soulager la douleur au talon ?"
+ ],
+ "secciones_sugeridas": [
+  "périostite",
+  "douleur au talon",
+  "périostite tibiale",
+  "traitement fasciite plantaire",
+  "entorse de la cheville",
+  "fasciite plantaire : exercices",
+  "tendinite d'achille"
+ ],
+ "keywords": [
+  {
+   "kw": "fasciite plantaire",
+   "vol": 2400,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 1.09,
+   "tendencia_12m_pct": 24,
+   "cluster": "fasciite plantaire"
+  },
+  {
+   "kw": "périostite",
+   "vol": 1300,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.23,
+   "tendencia_12m_pct": -19,
+   "cluster": "périostite"
+  },
+  {
+   "kw": "douleur au talon",
+   "vol": 480,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.31,
+   "tendencia_12m_pct": 15,
+   "cluster": "douleur au talon"
+  },
+  {
+   "kw": "périostite tibiale",
+   "vol": 210,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.02,
+   "tendencia_12m_pct": 0,
+   "cluster": "périostite tibiale"
+  },
+  {
+   "kw": "traitement fasciite plantaire",
+   "vol": 210,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.55,
+   "tendencia_12m_pct": 42,
+   "cluster": "traitement fasciite plantaire"
+  },
+  {
+   "kw": "fasciite plantaire : exercices",
+   "vol": 140,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.57,
+   "tendencia_12m_pct": 5,
+   "cluster": "fasciite plantaire : exercices"
+  },
+  {
+   "kw": "fasciite plantaire exercice",
+   "vol": 140,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.57,
+   "tendencia_12m_pct": 5,
+   "cluster": "fasciite plantaire : exercices"
+  },
+  {
+   "kw": "épine calcanéenne traitement",
+   "vol": 90,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.57,
+   "tendencia_12m_pct": 14,
+   "cluster": "épine calcanéenne traitement"
+  },
+  {
+   "kw": "entorse de la cheville",
+   "vol": 70,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.52,
+   "tendencia_12m_pct": -38,
+   "cluster": "entorse de la cheville"
+  },
+  {
+   "kw": "fasciite plantaire : temps de guérison",
+   "vol": 70,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 1.04,
+   "tendencia_12m_pct": -10,
+   "cluster": "fasciite plantaire : temps de guérison"
+  },
+  {
+   "kw": "fasciite plantaire cause",
+   "vol": 70,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.02,
+   "tendencia_12m_pct": 5,
+   "cluster": "fasciite plantaire cause"
+  },
+  {
+   "kw": "fasciite plantaire temps de guérison",
+   "vol": 70,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 1.04,
+   "tendencia_12m_pct": -10,
+   "cluster": "fasciite plantaire : temps de guérison"
+  },
+  {
+   "kw": "tendinite d'achille",
+   "vol": 50,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.47,
+   "tendencia_12m_pct": -21,
+   "cluster": "tendinite d'achille"
+  },
+  {
+   "kw": "fasciite plantaire symptomes",
+   "vol": 30,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.07,
+   "tendencia_12m_pct": 30,
+   "cluster": "fasciite plantaire"
+  },
+  {
+   "kw": "exercice périostite",
+   "vol": 20,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.47,
+   "tendencia_12m_pct": -29,
+   "cluster": "périostite"
+  },
+  {
+   "kw": "exercice périostite tibiale",
+   "vol": 20,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -40,
+   "cluster": "périostite tibiale"
+  },
+  {
+   "kw": "fasciite plantaire qui ne guérit pas",
+   "vol": 20,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.02,
+   "tendencia_12m_pct": -33,
+   "cluster": "fasciite plantaire"
+  },
+  {
+   "kw": "orthèse fasciite plantaire",
+   "vol": 20,
+   "intencion": "transaccional",
+   "kd": null,
+   "cpc_usd": 2.88,
+   "tendencia_12m_pct": 75,
+   "cluster": "fasciite plantaire"
+  },
+  {
+   "kw": "périostite avant bras",
+   "vol": 20,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -50,
+   "cluster": "périostite"
+  },
+  {
+   "kw": "périostite symptome",
+   "vol": 20,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.03,
+   "tendencia_12m_pct": 33,
+   "cluster": "périostite"
+  },
+  {
+   "kw": "périostite tibiale : exercices",
+   "vol": 20,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -40,
+   "cluster": "périostite tibiale"
+  },
+  {
+   "kw": "périostite tibiale : traitement",
+   "vol": 20,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.13,
+   "tendencia_12m_pct": -50,
+   "cluster": "périostite tibiale"
+  },
+  {
+   "kw": "périostite tibiale symptomes",
+   "vol": 20,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 0,
+   "cluster": "périostite tibiale"
+  },
+  {
+   "kw": "périostite tibiale traitement",
+   "vol": 20,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 0,
+   "cluster": "périostite tibiale"
+  },
+  {
+   "kw": "périostite traitement",
+   "vol": 20,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.06,
+   "tendencia_12m_pct": -33,
+   "cluster": "périostite"
+  },
+  {
+   "kw": "talonnette fasciite plantaire",
+   "vol": 20,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.25,
+   "tendencia_12m_pct": 0,
+   "cluster": "fasciite plantaire"
+  },
+  {
+   "kw": "acupuncture fasciite plantaire",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 0,
+   "cluster": "fasciite plantaire"
+  },
+  {
+   "kw": "bas de compression fasciite plantaire",
+   "vol": 10,
+   "intencion": "transaccional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -100,
+   "cluster": "fasciite plantaire"
+  },
+  {
+   "kw": "bas de nuit pour fasciite plantaire",
+   "vol": 10,
+   "intencion": "transaccional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": null,
+   "cluster": "fasciite plantaire"
+  },
+  {
+   "kw": "bas fasciite plantaire",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -100,
+   "cluster": "fasciite plantaire"
+  }
+ ],
+ "enlaces_internos": [
+  "/physioactiva-ondes-de-choc/",
+  "/physioactiva-bandage-neuromusculaire/",
+  "/physio-du-sport/",
+  "/physioactiva-puncture-seche/",
+  "/physiotherapeute-a-domicile/",
+  "/reservation-en-ligne/"
+ ],
+ "actual": null,
+ "fuente": "DataForSEO (google_ads/search_volume, Labs, SERP Ins) 2026-11-06"
+}

@@ -1,0 +1,58 @@
+# Semillas del módulo 1. "documento" = auditoría anterior (obligatorias, con su valor de referencia).
+documento:
+  - {kw: "physio", ref: "1238"}
+  - {kw: "physio sport", ref: "480"}
+  - {kw: "physiothérapeute", ref: "260"}
+  - {kw: "fitness médical", ref: "210"}
+  - {kw: "physiothérapie", ref: "Alta"}
+  - {kw: "physiothérapeute autour de moi", ref: "Media"}
+  - {kw: "physiothérapeute proche de moi", ref: "Media"}
+  - {kw: "physiothérapie à proximité", ref: "Media"}
+  - {kw: "kinésithérapeute", ref: "Baja"}
+  - {kw: "kiné", ref: "Baja"}
+  - {kw: "cabinet de physiothérapie ins", ref: "Baja"}
+  - {kw: "physiothérapeute morat", ref: "Media"}
+  - {kw: "physiothérapeute à morat", ref: "Media"}
+  - {kw: "physio avenches", ref: "Media"}
+  - {kw: "physio avenches vully", ref: "Baja"}
+  - {kw: "physiothérapeute à anet", ref: "Baja"}
+  - {kw: "physiothérapie seeland", ref: "Baja"}
+  - {kw: "physiothérapie région des trois-lacs", ref: "Baja"}
+  - {kw: "physio aarberg", ref: "Baja"}
+  - {kw: "physio cerlier", ref: "Baja"}
+  - {kw: "physio täuffelen", ref: "Baja"}
+  - {kw: "mtt", ref: "Media"}
+  - {kw: "physiothérapie à domicile", ref: "Alta"}
+  - {kw: "physio domicile", ref: "Alta"}
+  - {kw: "drainage lymphatique", ref: "Media"}
+  - {kw: "drainage lymphatique neuchâtel", ref: "Baja"}
+  - {kw: "ondes de choc traitement", ref: "Media"}
+  - {kw: "thérapie par ondes de choc", ref: "Media"}
+  - {kw: "ondes de choc prix", ref: "Media"}
+  - {kw: "puncture sèche", ref: "Media"}
+  - {kw: "dry needling", ref: "Media"}
+  - {kw: "massage thérapeutique", ref: "Media"}
+  - {kw: "mal de dos lombaire", ref: "Alta"}
+  - {kw: "douleur cervicale", ref: "Alta"}
+  - {kw: "rééducation plancher pelvien", ref: "Media"}
+  - {kw: "exercices plancher pelvien", ref: "Media"}
+  - {kw: "exercices plancher pelvien homme", ref: "Baja"}
+  - {kw: "exercices plancher pelvien femme", ref: "Baja"}
+  - {kw: "rééducation neurologique après avc", ref: "Baja"}
+  - {kw: "rééducation post-opératoire", ref: "Media"}
+  - {kw: "rééducation genou", ref: "Media"}
+  - {kw: "rééducation épaule", ref: "Media"}
+  - {kw: "rééducation hanche", ref: "Media"}
+  - {kw: "atm mâchoire", ref: "Baja"}
+
+genericas: [physio, physiothérapeute, physiothérapie, cabinet de physio, physio à domicile, physio près de moi]
+ciudades: [ins, anet, morat, murten, avenches, sugiez, vully, neuchâtel, payerne, estavayer, la neuveville, fribourg, bienne, biel, yverdon, yvonand, lausanne, kerzers, chiètres, lyss]
+
+patologias:
+  columna: [mal de dos, lombalgie, lumbago, sciatique, hernie discale, cervicalgie, torticolis, dorsalgie, coup du lapin, scoliose, céphalée de tension]
+  hombro_codo_mano: [tendinite de l'épaule, coiffe des rotateurs, capsulite rétractile, épaule gelée, épicondylite, tennis elbow, canal carpien]
+  cadera_rodilla_pie: [arthrose du genou, ligament croisé, ménisque, prothèse de genou, prothèse de hanche, entorse de la cheville, tendinite d'achille, fasciite plantaire, périostite]
+  otras: [incontinence, rééducation du périnée, plancher pelvien, post-partum, vertiges, vppb, atm mâchoire, avc, parkinson, sclérose en plaques, fibromyalgie, lymphœdème, rééducation après fracture, rééducation post-opératoire]
+  tecnicas: [ondes de choc, puncture sèche, dry needling, tecar, drainage lymphatique, thérapie manuelle, taping, kinesio taping, mtt, fitness médical]
+
+modificadores: [physio, physiothérapie, rééducation, traitement, exercices, combien de séances, remboursé lamal, ordonnance]

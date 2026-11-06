@@ -1,0 +1,332 @@
+{
+ "slug": "mal-de-dos-lombaire",
+ "url": "/mal-de-dos-lombaire/",
+ "tema": "lombalgie",
+ "nombre": "Lombalgie / mal de dos",
+ "kw_principal": "lombalgie",
+ "intencion": "informacional",
+ "serp_tipo": "portal médico",
+ "ai_overview": true,
+ "top3": [
+  "1. qare.fr",
+  "2. observatoire-sante-probtp.com",
+  "3. chuv.ch"
+ ],
+ "paa": [
+  "Qu'est-ce qu'une lombalgie ?",
+  "Quelle est la cause d'une douleur au bas du dos gauche chez une femme ?",
+  "Qu'est-ce que la radiculalgie lombaire ?",
+  "Quels sont les symptômes du rachis ?",
+  "Quelles sont les causes possibles de douleurs fortes dans le bas du dos ?",
+  "Comment savoir si c'est une douleur au dos ou aux reins ?",
+  "Quelle est la cause possible d'un mal de ventre et de dos en même temps chez une femme ?",
+  "Le syndrome du côlon irritable peut-il causer des maux de dos ?",
+  "Quelle est la cause d'une douleur dorsale au milieu du dos ?",
+  "Quels sont les symptômes d'une hernie discale dorsale ?"
+ ],
+ "secciones_sugeridas": [
+  "douleur en bas du dos",
+  "dorsalgie",
+  "scoliose lombaire",
+  "lumbago symptômes",
+  "douleur bas du dos droit",
+  "douleur bas du dos gauche",
+  "douleur dos milieu"
+ ],
+ "keywords": [
+  {
+   "kw": "douleur en bas du dos",
+   "vol": 880,
+   "intencion": "informacional",
+   "kd": 2,
+   "cpc_usd": 0.83,
+   "tendencia_12m_pct": -25,
+   "cluster": "douleur en bas du dos"
+  },
+  {
+   "kw": "lombalgie",
+   "vol": 880,
+   "intencion": "informacional",
+   "kd": 6,
+   "cpc_usd": 0.83,
+   "tendencia_12m_pct": -16,
+   "cluster": "lombalgie"
+  },
+  {
+   "kw": "dorsalgie",
+   "vol": 210,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -42,
+   "cluster": "dorsalgie"
+  },
+  {
+   "kw": "scoliose lombaire",
+   "vol": 170,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.36,
+   "tendencia_12m_pct": -24,
+   "cluster": "scoliose lombaire"
+  },
+  {
+   "kw": "douleur bas du dos droit",
+   "vol": 140,
+   "intencion": "informacional",
+   "kd": 6,
+   "cpc_usd": 1.27,
+   "tendencia_12m_pct": -44,
+   "cluster": "douleur bas du dos droit"
+  },
+  {
+   "kw": "douleur bas du dos gauche",
+   "vol": 140,
+   "intencion": "informacional",
+   "kd": 3,
+   "cpc_usd": 0.92,
+   "tendencia_12m_pct": -44,
+   "cluster": "douleur bas du dos gauche"
+  },
+  {
+   "kw": "douleur bas du dos à droite",
+   "vol": 140,
+   "intencion": "informacional",
+   "kd": 7,
+   "cpc_usd": 1.27,
+   "tendencia_12m_pct": -44,
+   "cluster": "douleur bas du dos droit"
+  },
+  {
+   "kw": "douleur dos milieu",
+   "vol": 140,
+   "intencion": "informacional",
+   "kd": 13,
+   "cpc_usd": 0.05,
+   "tendencia_12m_pct": -38,
+   "cluster": "douleur dos milieu"
+  },
+  {
+   "kw": "lumbago symptômes",
+   "vol": 110,
+   "intencion": "informacional",
+   "kd": 49,
+   "cpc_usd": 0.76,
+   "tendencia_12m_pct": -40,
+   "cluster": "lumbago symptômes"
+  },
+  {
+   "kw": "douleur dos et estomac",
+   "vol": 90,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.68,
+   "tendencia_12m_pct": -52,
+   "cluster": "douleur dos et estomac"
+  },
+  {
+   "kw": "lumbago qui dure",
+   "vol": 90,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.25,
+   "tendencia_12m_pct": -22,
+   "cluster": "lumbago symptômes"
+  },
+  {
+   "kw": "comment soigner un lumbago",
+   "vol": 70,
+   "intencion": "informacional",
+   "kd": 47,
+   "cpc_usd": 0.61,
+   "tendencia_12m_pct": 11,
+   "cluster": "comment soigner un lumbago"
+  },
+  {
+   "kw": "exercice mal de dos",
+   "vol": 50,
+   "intencion": "informacional",
+   "kd": 47,
+   "cpc_usd": 0.64,
+   "tendencia_12m_pct": -29,
+   "cluster": "exercice mal de dos"
+  },
+  {
+   "kw": "exercice pour lombalgie",
+   "vol": 50,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.2,
+   "tendencia_12m_pct": -20,
+   "cluster": "exercice pour lombalgie"
+  },
+  {
+   "kw": "exercice pour lumbago",
+   "vol": 50,
+   "intencion": "informacional",
+   "kd": 44,
+   "cpc_usd": 0.23,
+   "tendencia_12m_pct": -38,
+   "cluster": "exercice pour lumbago"
+  },
+  {
+   "kw": "lombalgie def",
+   "vol": 50,
+   "intencion": "informacional",
+   "kd": 49,
+   "cpc_usd": 0.31,
+   "tendencia_12m_pct": 31,
+   "cluster": "lombalgie def"
+  },
+  {
+   "kw": "lombalgie symptômes",
+   "vol": 40,
+   "intencion": "informacional",
+   "kd": 5,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -50,
+   "cluster": "lombalgie symptômes"
+  },
+  {
+   "kw": "lumbago aigue",
+   "vol": 40,
+   "intencion": "informacional",
+   "kd": 40,
+   "cpc_usd": 0.39,
+   "tendencia_12m_pct": 36,
+   "cluster": "lumbago aigue"
+  },
+  {
+   "kw": "dorsalgie def",
+   "vol": 20,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 167,
+   "cluster": "dorsalgie"
+  },
+  {
+   "kw": "lumbago exercice pour soulager",
+   "vol": 20,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.25,
+   "tendencia_12m_pct": 25,
+   "cluster": "exercice pour lumbago"
+  },
+  {
+   "kw": "red flag lombalgie",
+   "vol": 20,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 17,
+   "cluster": "lombalgie"
+  },
+  {
+   "kw": "arnica montana 9ch lombalgie",
+   "vol": 10,
+   "intencion": "transaccional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -100,
+   "cluster": "lombalgie"
+  },
+  {
+   "kw": "c'est quoi lombalgie",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 0,
+   "cluster": "lombalgie"
+  },
+  {
+   "kw": "canape et lombalgie",
+   "vol": 10,
+   "intencion": "transaccional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": null,
+   "cluster": "lombalgie"
+  },
+  {
+   "kw": "ceinture chauffante pour lombalgie",
+   "vol": 10,
+   "intencion": "transaccional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": null,
+   "cluster": "lombalgie"
+  },
+  {
+   "kw": "ceinture pour scoliose lombaire",
+   "vol": 10,
+   "intencion": "transaccional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -100,
+   "cluster": "scoliose lombaire"
+  },
+  {
+   "kw": "comment soulager lombalgie aigue",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -100,
+   "cluster": "lombalgie"
+  },
+  {
+   "kw": "dorsalgie arret de travail",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -100,
+   "cluster": "dorsalgie"
+  },
+  {
+   "kw": "dorsalgie au reveil",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 100,
+   "cluster": "dorsalgie"
+  },
+  {
+   "kw": "dorsalgie bws",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": null,
+   "cluster": "dorsalgie"
+  }
+ ],
+ "enlaces_internos": [
+  "/therapie-manuelle/",
+  "/medical-training-therapy-mtt/",
+  "/physioactiva-puncture-seche/",
+  "/tecar-therapie/",
+  "/physiotherapeute-a-domicile/",
+  "/reservation-en-ligne/"
+ ],
+ "actual": {
+  "title": "Mal de dos / lombaire - Physio Activa",
+  "meta": "Traitement de physiothérapie pour la lombalgie, la hernie lombaire et la sciatique à Ins Suisse et ses régions. Couverte par la caisse maladie. Réservez chez Physio Activa.",
+  "h1": [
+   "Mal de dos et lombalgie : physiothérapie à Ins"
+  ],
+  "h2": [
+   "De la douleur aiguë à la prévention des récidives",
+   "Reconnus par toutes les assurances maladie",
+   "Questions fréquentes",
+   "Votre dos peut cesser d'être un problème. Commencez aujourd'hui."
+  ],
+  "palabras": 646,
+  "texto": "Mal de dos / lombaire - Physio Activa\nAller au contenu\nPhysiothérapie lombaire à Ins, Suisse\n# Mal de dos et lombalgie : physiothérapie à Ins\nLa douleur lombaire est la première cause d'arrêt de travail en Europe et l'un des motifs de consultation les plus fréquents en physiothérapie. Soulever mal une charge, passer des heures assis ou une hernie discale peuvent être à l'origine du problème. Chez Physio Activa, nous identifions la cause exacte et appliquons le traitement le plus efficace. Sur prescription médicale.\nRendez-vous online\nWhatsApp\n80% concernés un jour\nAiguë ou chronique\nPremier rendez-vous dans la semaine\nNos prises en charge\n## De la douleur aiguë à la prévention des récidives\n## Lombalgie aiguë et lumbago\nLe lumbago est cette douleur intense et soudaine dans le bas du dos qui peut empêcher une personne de bouger. Il est généralement d'origine musculaire ou articulaire et répond très bien à la physiothérapie : en quelques jours, on peut retrouver la mobilité et le bien-être avec le bon traitement.\n## Hernie lombaire et sciatique\nLa hernie discale lombaire peut comprimer le nerf sciatique et provoquer une douleur qui descend le long de la jambe jusqu'au pied, avec des fourmillements ou une perte de force. La physiothérapie est le traitement conservateur le plus efficace et évite la chirurgie dans la grande majorité des cas.\n## Douleur lombaire chronique et posture\nLorsque le mal de dos dure plus de 3 mois, l'approche change. Nous combinons la thérapie manuelle avec un exercice thérapeutique actif et l'éducation posturale pour briser le cycle douleur-tension-douleur et redonner au patient confiance en son corps.\n## Hygiène du dos et prévention des récidives\nUne fois la douleur surmontée, le travail ne s'arrête pas. Nous vous apprenons à bien mobiliser votre dos au travail, dans le sport et au quotidien pour que la douleur ne revienne pas. La physiothérapie préventive est le meilleur investissement pour la santé lombaire à long terme.\nRendez-vous online\nAssurance\n## Reconnus par toutes les assurances maladie\nNous sommes reconnus par toutes les assurances maladie en Suisse. Le traitement de physiothérapie pour le mal de dos et la lombalgie se fait sur prescription médicale.\n1\nVotre médecin traitant établit la prescription de physiothérapie lombaire.\n2\nNous réalisons un bilan fonctionnel pour déterminer l'origine de la douleur.\n3\nNous appliquons le traitement adapté à votre situation.\nVous avez la prescription ? Contactez-nous aujourd'hui\nFAQ\n## Questions fréquentes\nQuand dois-je consulter un physiothérapeute pour un mal de dos ?\nLorsque la douleur dure plus de 3 à 5 jours, limite votre mobilité ou s'accompagne d'une douleur qui descend dans la jambe ou de fourmillements dans le pied. Si la douleur est très intense ou apparaît après un traumatisme, consultez d'abord votre médecin pour écarter d'autres causes.\nLa physiothérapie est-elle utile pour la hernie lombaire ?\nOui. La physiothérapie est le traitement de premier choix pour la hernie lombaire. Dans la plupart des cas, elle permet d'éviter la chirurgie et de retrouver une fonction complète grâce aux techniques manuelles, à l'exercice thérapeutique et à l'éducation au mouvement.\nCombien de séances me faut-il pour la douleur lombaire ?\nLa durée du traitement dépend de votre situation : un lumbago aigu répond généralement plus vite, tandis qu'une douleur chronique nécessite un suivi plus prolongé, combiné avec de l'exercice actif. Lors de la première visite, nous vous donnons une estimation réaliste adaptée à votre cas.\nLe repos aide-t-il en cas de mal de dos ?\nLe repos absolu prolongé est déconseillé pour la plupart des lombalgies. Rester actif de manière contrôlée et faire de la physiothérapie accélère la récupération. Le mouvement bien guidé est un remède : la sédentarité tend à rendre la douleur chronique.\n## Votre dos peut cesser d'être un problème. Commencez aujourd'hui.\nChez Physio Activa, nous traitons la douleur lombaire avec méthode, expérience et une prise en charge personnalisée. Premier rendez-vous cette semaine.\nÉcrivez-nous sur WhatsApp\nAppelez-nous 076 627 38 38\nFrançais\nDeutsch"
+ },
+ "fuente": "DataForSEO (google_ads/search_volume, Labs, SERP Ins) 2026-11-06"
+}

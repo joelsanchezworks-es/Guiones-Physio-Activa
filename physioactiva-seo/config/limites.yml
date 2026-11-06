@@ -1,0 +1,4 @@
+# Techo de gasto DataForSEO por ejecución (USD). Si una llamada lo superaría, el cliente se detiene.
+techo_usd_ejecucion: 15.0
+# Aviso informativo cuando el gasto acumulado supera este valor
+aviso_usd: 5.0

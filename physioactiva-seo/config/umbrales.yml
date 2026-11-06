@@ -1,0 +1,24 @@
+# Umbrales y pesos (decididos en decisiones.md). Cambiar aquí, nunca en el código.
+clustering:
+  urls_compartidas_top10: 4        # dos keywords van a la misma página si comparten >= 4 URLs del top 10
+viabilidad_pagina:
+  volumen_cluster_min: 150         # volumen agregado CH-FR mensual para página propia
+  clinicas_locales_top10_min: 1    # nº de resultados de clínicas/physios en top 10 para "se puede ganar"
+filtro:
+  volumen_min_sin_serp: 10         # keywords con volumen < 10 se descartan salvo semilla obligatoria
+cache_ttl_dias:
+  dataforseo_labs: 30
+  keywords_data: 30
+  serp: 7
+  backlinks: 30
+  business_data: 7
+  on_page: 0
+prioridad:
+  factor_intencion: {transaccional: 1.0, local: 1.0, comercial: 0.8, informacional: 0.6, navegacional: 0.3}
+  factor_ganabilidad: {clinicas_locales: 1.0, solo_portales: 0.5}
+  esfuerzo_horas: {optimizar: 2, nueva: 5, seccion: 1.5, tecnica: 1}
+severidad:
+  title_max: 60
+  meta_max: 155
+  meta_min: 70
+  palabras_min_pagina_servicio: 300

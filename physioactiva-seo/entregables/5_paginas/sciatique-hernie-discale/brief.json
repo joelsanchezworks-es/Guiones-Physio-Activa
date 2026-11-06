@@ -1,0 +1,318 @@
+{
+ "slug": "sciatique-hernie-discale",
+ "url": "/sciatique-hernie-discale/",
+ "tema": "sciatique",
+ "nombre": "Sciatique / hernie discale",
+ "kw_principal": "hernie discale l5-s1",
+ "intencion": "informacional",
+ "serp_tipo": "portal médico",
+ "ai_overview": true,
+ "top3": [
+  "1. hug.ch",
+  "2. compassana.ch",
+  "3. chuv.ch"
+ ],
+ "paa": [
+  "Quelle est la douleur ressentie par une hernie discale située dans le milieu du dos ?",
+  "Quelle est la cause de la douleur lombaire ?",
+  "Est-ce qu'une discopathie L5 S1 est grave ?",
+  "Combien de temps faut-il pour guérir d'une protrusion discale ?",
+  "Comment savoir si nous avons une hernie discale ?",
+  "Quels sont les symptômes d'une hernie discale C5-C6 ?",
+  "Dans quelles situations est-il nécessaire d'opérer une hernie discale ?",
+  "Qu'est-ce qui cause la douleur au nerf sciatique ?",
+  "Quelle est la cause d'une boule dans le bas du dos et du sciatique ?",
+  "Quel est le meilleur anti-inflammatoire pour la sciatique ?"
+ ],
+ "secciones_sugeridas": [
+  "symptômes hernie discale",
+  "douleur nerf sciatique",
+  "sciatique soin",
+  "sciatique symptôme",
+  "exercice pour sciatique",
+  "lombaire hernie discale",
+  "sciatique : traitement"
+ ],
+ "keywords": [
+  {
+   "kw": "symptômes hernie discale",
+   "vol": 590,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.41,
+   "tendencia_12m_pct": 7,
+   "cluster": "symptômes hernie discale"
+  },
+  {
+   "kw": "douleur nerf sciatique",
+   "vol": 390,
+   "intencion": "informacional",
+   "kd": 3,
+   "cpc_usd": 0.54,
+   "tendencia_12m_pct": -18,
+   "cluster": "douleur nerf sciatique"
+  },
+  {
+   "kw": "sciatique soin",
+   "vol": 260,
+   "intencion": "comercial",
+   "kd": 9,
+   "cpc_usd": 0.96,
+   "tendencia_12m_pct": -7,
+   "cluster": "sciatique soin"
+  },
+  {
+   "kw": "soigner la sciatique",
+   "vol": 260,
+   "intencion": "informacional",
+   "kd": 9,
+   "cpc_usd": 0.96,
+   "tendencia_12m_pct": -7,
+   "cluster": "sciatique soin"
+  },
+  {
+   "kw": "exercice pour sciatique",
+   "vol": 210,
+   "intencion": "informacional",
+   "kd": 17,
+   "cpc_usd": 0.73,
+   "tendencia_12m_pct": -24,
+   "cluster": "exercice pour sciatique"
+  },
+  {
+   "kw": "sciatique symptôme",
+   "vol": 210,
+   "intencion": "informacional",
+   "kd": 3,
+   "cpc_usd": 0.36,
+   "tendencia_12m_pct": 44,
+   "cluster": "sciatique symptôme"
+  },
+  {
+   "kw": "lombaire hernie discale",
+   "vol": 170,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.47,
+   "tendencia_12m_pct": -14,
+   "cluster": "lombaire hernie discale"
+  },
+  {
+   "kw": "soulager une sciatique en 60 secondes",
+   "vol": 170,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.99,
+   "tendencia_12m_pct": 22,
+   "cluster": "soulager une sciatique en 60 secondes"
+  },
+  {
+   "kw": "comment soigner la sciatique",
+   "vol": 140,
+   "intencion": "informacional",
+   "kd": 9,
+   "cpc_usd": 0.71,
+   "tendencia_12m_pct": -19,
+   "cluster": "comment soigner la sciatique"
+  },
+  {
+   "kw": "comment soulager une sciatique",
+   "vol": 140,
+   "intencion": "informacional",
+   "kd": 9,
+   "cpc_usd": 0.52,
+   "tendencia_12m_pct": -29,
+   "cluster": "comment soulager une sciatique"
+  },
+  {
+   "kw": "deblocage nerf sciatique",
+   "vol": 140,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 1.06,
+   "tendencia_12m_pct": -31,
+   "cluster": "deblocage nerf sciatique"
+  },
+  {
+   "kw": "hernie discale aux cervicales",
+   "vol": 140,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.23,
+   "tendencia_12m_pct": -13,
+   "cluster": "hernie discale aux cervicales"
+  },
+  {
+   "kw": "sciatique : traitement",
+   "vol": 110,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.65,
+   "tendencia_12m_pct": -27,
+   "cluster": "sciatique : traitement"
+  },
+  {
+   "kw": "sciatique cause",
+   "vol": 110,
+   "intencion": "informacional",
+   "kd": 9,
+   "cpc_usd": 0.63,
+   "tendencia_12m_pct": -56,
+   "cluster": "sciatique cause"
+  },
+  {
+   "kw": "traitement pour sciatique",
+   "vol": 110,
+   "intencion": "informacional",
+   "kd": 13,
+   "cpc_usd": 0.65,
+   "tendencia_12m_pct": -27,
+   "cluster": "sciatique : traitement"
+  },
+  {
+   "kw": "comment j ai guéri ma sciatique",
+   "vol": 90,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.6,
+   "tendencia_12m_pct": -9,
+   "cluster": "comment j ai guéri ma sciatique"
+  },
+  {
+   "kw": "hernie discale l5-s1",
+   "vol": 90,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -22,
+   "cluster": "hernie discale l5-s1"
+  },
+  {
+   "kw": "massage nerf sciatique",
+   "vol": 90,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 1.89,
+   "tendencia_12m_pct": -38,
+   "cluster": "massage nerf sciatique"
+  },
+  {
+   "kw": "masser le nerf sciatique",
+   "vol": 90,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 1.89,
+   "tendencia_12m_pct": -38,
+   "cluster": "massage nerf sciatique"
+  },
+  {
+   "kw": "sciatique quoi faire",
+   "vol": 90,
+   "intencion": "informacional",
+   "kd": 27,
+   "cpc_usd": 0.29,
+   "tendencia_12m_pct": -8,
+   "cluster": "sciatique quoi faire"
+  },
+  {
+   "kw": "exercice nerf sciatique",
+   "vol": 70,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.24,
+   "tendencia_12m_pct": -30,
+   "cluster": "exercice nerf sciatique"
+  },
+  {
+   "kw": "exercice pour soulager une sciatique",
+   "vol": 70,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.28,
+   "tendencia_12m_pct": 0,
+   "cluster": "exercice pour soulager une sciatique"
+  },
+  {
+   "kw": "nerf sciatique : exercices",
+   "vol": 70,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.24,
+   "tendencia_12m_pct": -30,
+   "cluster": "exercice nerf sciatique"
+  },
+  {
+   "kw": "hernie discale lombaire : symptômes",
+   "vol": 50,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.26,
+   "tendencia_12m_pct": -42,
+   "cluster": "hernie discale lombaire : symptômes"
+  },
+  {
+   "kw": "hernie discale lombaire symptômes",
+   "vol": 50,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.26,
+   "tendencia_12m_pct": -42,
+   "cluster": "hernie discale lombaire : symptômes"
+  },
+  {
+   "kw": "hernie discale mouvements interdits",
+   "vol": 50,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 1.42,
+   "tendencia_12m_pct": -62,
+   "cluster": "hernie discale mouvements interdits"
+  },
+  {
+   "kw": "irm hernie discale",
+   "vol": 50,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -43,
+   "cluster": "irm hernie discale"
+  },
+  {
+   "kw": "meilleur anti-inflammatoire pour sciatique",
+   "vol": 50,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.85,
+   "tendencia_12m_pct": -42,
+   "cluster": "sciatique : traitement"
+  },
+  {
+   "kw": "nerf sciatique que faire",
+   "vol": 50,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.44,
+   "tendencia_12m_pct": -21,
+   "cluster": "nerf sciatique que faire"
+  },
+  {
+   "kw": "sciatique et grossesse",
+   "vol": 50,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -29,
+   "cluster": "sciatique et grossesse"
+  }
+ ],
+ "enlaces_internos": [
+  "/therapie-manuelle/",
+  "/medical-training-therapy-mtt/",
+  "/tecar-therapie/",
+  "/mal-de-dos-lombaire/",
+  "/physiotherapeute-a-domicile/",
+  "/reservation-en-ligne/"
+ ],
+ "actual": null,
+ "fuente": "DataForSEO (google_ads/search_volume, Labs, SERP Ins) 2026-11-06"
+}
