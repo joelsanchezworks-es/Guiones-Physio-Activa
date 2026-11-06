@@ -1,0 +1,112 @@
+[
+ {
+  "tipo": "hero",
+  "eyebrow": "Physio · La Neuveville",
+  "h1": "Physio à La Neuveville : au cabinet d'Ins ou à domicile",
+  "sub": "À environ 6,6 km en ligne droite d'Ins, La Neuveville partage avec notre cabinet le même canton, celui de Berne. Physio Activa vous accueille à Ins et peut envisager des visites à domicile [À CONFIRMER : domicile à La Neuveville]. Avec une ordonnance, la physiothérapie est remboursée ; pour réserver, passez par notre agenda en ligne, le téléphone ou WhatsApp.",
+  "pills": [
+   "Cabinet à Ins, à 6,6 km",
+   "Sur prescription médicale",
+   "LAMal · LAA · AI · AM"
+  ],
+  "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00036.jpg",
+  "alt": "Salle de traitement du cabinet Physio Activa à Ins",
+  "video": false,
+  "cta": "Prendre rendez-vous"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "À domicile",
+  "h2": "Physiothérapie à domicile à La Neuveville et environs",
+  "lead": [],
+  "bg": null,
+  "html": "<p>Autour de La Neuveville, les localités voisines sont Le Landeron, Gléresse (Ligerz), Prêles et Diesse, entre rive du lac de Bienne et Plateau de Diesse. Nous n'avons pas encore de tournée fixe annoncée dans ce secteur : indiquez-nous votre adresse et nous vous dirons ce qui est possible [À CONFIRMER : localités desservies et jours de passage].</p><p style=\"margin-top:12px\">Une visite à la maison a du sens si monter dans une voiture ou un train est pénible : après une fracture, une prothèse récente, un alitement prolongé, ou pour maintenir l'autonomie d'une personne âgée. Voir notre page <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>.</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Accès",
+  "h2": "Venir au cabinet d'Ins depuis La Neuveville",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Notre cabinet se trouve à l'InsGym, Rämismatte 21, 3232 Ins, à environ 6,6 km en ligne droite de La Neuveville. Itinéraire et stationnement : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">La Neuveville est une commune francophone de l'arrondissement administratif du Jura bernois. Si vous sortez du Centre hospitalier Bienne après une opération, votre rééducation peut se poursuivre chez nous dès que votre médecin a établi la prescription. Les séances se déroulent en français.</p>"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Ce que nous traitons",
+  "h2": "Ce que nous traitons",
+  "lead": [
+   "Promenades au bord de l'eau, montée vers le Plateau, travail à l'atelier ou au bureau : nous adaptons la rééducation à votre quotidien."
+  ],
+  "bg": null,
+  "cards": [
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-pied-cheville-fasciite-plantaire/\" style=\"color:var(--azure);font-weight:600\">Pied et cheville, fasciite plantaire</a> : talon douloureux, entorse mal guérie, reprise progressive de la marche.</p>",
+    "icon": "fa-circle-check"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-de-hanche-protheses/\" style=\"color:var(--azure);font-weight:600\">Hanche et prothèses</a> : préparation et suivi d'une prothèse, raideur de hanche liée à l'arthrose.</p>",
+    "icon": "fa-hospital"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-cervicale-au-cou/\" style=\"color:var(--azure);font-weight:600\">Douleur cervicale</a> : tensions de la nuque, mobilité réduite pour tourner la tête.</p>",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-du-genou-lesions-de-la-cheville/\" style=\"color:var(--azure);font-weight:600\">Genou</a> : douleurs dans les escaliers et les pentes, suites de ligamentoplastie.</p>",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": null,
+    "html": "<p>D'autres troubles sont présentés sur <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">toutes les pathologies</a>.</p>",
+    "icon": "fa-circle-info"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Remboursement",
+  "h2": "Remboursement",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Sur prescription médicale, la physiothérapie est prise en charge par l'assurance de base (LAMal), l'assurance accidents (LAA), l'assurance invalidité (AI) ou l'assurance militaire (AM). Avec la LAMal, la franchise et la quote-part restent à votre charge. Apportez votre ordonnance et votre carte d'assuré à la première séance.</p>"
+ },
+ {
+  "tipo": "faq",
+  "h2": "Questions fréquentes",
+  "faq": [
+   {
+    "q": "Combien de kilomètres séparent La Neuveville d'Ins ?",
+    "a_html": "Environ 6,6 km en ligne droite. Le cabinet est à l'InsGym, à la Rämismatte 21.",
+    "a_text": "Environ 6,6 km en ligne droite. Le cabinet est à l'InsGym, à la Rämismatte 21."
+   },
+   {
+    "q": "Peut-on être suivi en français à Ins ?",
+    "a_html": "Oui. Comme La Neuveville, nous travaillons en français au quotidien ; l'équipe parle aussi espagnol.",
+    "a_text": "Oui. Comme La Neuveville, nous travaillons en français au quotidien ; l'équipe parle aussi espagnol."
+   },
+   {
+    "q": "Venez-vous au Landeron, à Prêles ou à Diesse ?",
+    "a_html": "Ces localités sont voisines de La Neuveville, mais le passage à domicile n'y est pas encore confirmé. Contactez-nous avec votre adresse [À CONFIRMER : couverture du Plateau de Diesse et du Landeron].",
+    "a_text": "Ces localités sont voisines de La Neuveville, mais le passage à domicile n'y est pas encore confirmé. Contactez-nous avec votre adresse [À CONFIRMER : couverture du Plateau de Diesse et du Landeron]."
+   },
+   {
+    "q": "J'ai été opéré à Bienne : que dois-je apporter ?",
+    "a_html": "L'ordonnance de physiothérapie remise par votre médecin, votre carte d'assuré et, si vous les avez, le compte rendu opératoire ou les consignes de l'hôpital.",
+    "a_text": "L'ordonnance de physiothérapie remise par votre médecin, votre carte d'assuré et, si vous les avez, le compte rendu opératoire ou les consignes de l'hôpital."
+   }
+  ]
+ },
+ {
+  "tipo": "cta",
+  "h2": "Une séance près du lac de Bienne, sans attendre de rappel",
+  "s1": "Le plus simple est la <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservation en ligne</a>. Vous pouvez aussi nous appeler au 076 627 38 38 ou nous écrire sur WhatsApp au +41 76 627 38 38.",
+  "s2": null
+ },
+ {
+  "tipo": "map"
+ }
+]

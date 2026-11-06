@@ -1,0 +1,112 @@
+[
+ {
+  "tipo": "hero",
+  "eyebrow": "Physio · Avenches",
+  "h1": "Physio à Avenches : au cabinet d'Ins ou à domicile",
+  "sub": "Habitant d'Avenches, vous êtes à environ 14,8 km en ligne droite de Physio Activa, installé à Ins. Selon votre situation, la physiothérapie peut se faire au cabinet ou à votre domicile [À CONFIRMER : déplacements à Avenches]. Prescrites par un médecin, les séances sont remboursées par votre assurance ; un rendez-vous se prend en quelques clics, par téléphone ou par WhatsApp.",
+  "pills": [
+   "Cabinet à Ins, à 14,8 km",
+   "Sur prescription médicale",
+   "LAMal · LAA · AI · AM"
+  ],
+  "img": "https://physioactiva.ch/wp-content/uploads/2025/06/Centerbild_IMG_9184-scaled-1.jpg",
+  "alt": "Salle de fitness médical utilisée pour la rééducation à Ins",
+  "video": false,
+  "cta": "Prendre rendez-vous"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "À domicile",
+  "h2": "Physiothérapie à domicile à Avenches et environs",
+  "lead": [],
+  "bg": null,
+  "html": "<p>Les localités voisines d'Avenches sont Faoug, Donatyre, Oleyres, Salavaux et Domdidier. Salavaux, au bord du lac de Morat, est aussi proche du Vully ; pour les autres villages, la possibilité d'un passage à domicile reste à confirmer [À CONFIRMER : villages desservis autour d'Avenches et jours de passage].</p><p style=\"margin-top:12px\">À qui s'adresse ce service ? Aux patients qui ne peuvent pas se rendre au cabinet sans aide : convalescence après une hospitalisation, troubles de l'équilibre, douleurs qui rendent la conduite impossible. Un membre de la famille peut nous contacter pour vous. En savoir plus : <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>.</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Accès",
+  "h2": "Venir au cabinet d'Ins depuis Avenches",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Avenches est une commune vaudoise du district de la Broye-Vully. Notre cabinet, lui, se trouve dans le canton de Berne, à l'InsGym, Rämismatte 21, 3232 Ins, à environ 14,8 km en ligne droite. Accès et parking : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">L'hôpital de référence de la région est le HIB – Hôpital intercantonal de la Broye, à Payerne. Après une intervention ou un séjour là-bas, la rééducation peut se poursuivre à Ins ou chez vous, sur prescription médicale.</p>"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Ce que nous traitons",
+  "h2": "Ce que nous traitons",
+  "lead": [
+   "Nous avons choisi ici les situations où un suivi régulier fait le plus la différence :"
+  ],
+  "bg": null,
+  "cards": [
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-de-hanche-protheses/\" style=\"color:var(--azure);font-weight:600\">Hanche et prothèses</a> : récupération de la marche et de la force après une prothèse totale de hanche.</p>",
+    "icon": "fa-hospital"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/sciatique-hernie-discale/\" style=\"color:var(--azure);font-weight:600\">Sciatique et hernie discale</a> : douleur irradiant dans la fesse ou la jambe, phase aiguë puis reprise d'activité.</p>",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-du-genou-lesions-de-la-cheville/\" style=\"color:var(--azure);font-weight:600\">Genou</a> : arthrose, prothèse de genou, entorse ou instabilité de la cheville.</p>",
+    "icon": "fa-location-dot"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/lesions-de-lepaule/\" style=\"color:var(--azure);font-weight:600\">Épaule</a> : coiffe des rotateurs, épaule gelée, suites d'une luxation.</p>",
+    "icon": "fa-person-walking"
+   },
+   {
+    "h3": null,
+    "html": "<p>Vous ne trouvez pas votre cas ? Consultez <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">toutes les pathologies</a>.</p>",
+    "icon": "fa-circle-info"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Remboursement",
+  "h2": "Remboursement",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Sur prescription médicale, la physiothérapie est prise en charge par l'assurance de base (LAMal), l'assurance accidents (LAA), l'assurance invalidité (AI) ou l'assurance militaire (AM). Avec la LAMal, la franchise et la quote-part restent à votre charge. Apportez votre ordonnance et votre carte d'assuré à la première séance.</p>"
+ },
+ {
+  "tipo": "faq",
+  "h2": "Questions fréquentes",
+  "faq": [
+   {
+    "q": "J'habite dans le canton de Vaud : mon assurance rembourse-t-elle un cabinet bernois ?",
+    "a_html": "Oui. L'assurance de base est régie par une loi fédérale, la LAMal ; une ordonnance établie par un médecin vaudois est valable pour un traitement à Ins.",
+    "a_text": "Oui. L'assurance de base est régie par une loi fédérale, la LAMal ; une ordonnance établie par un médecin vaudois est valable pour un traitement à Ins."
+   },
+   {
+    "q": "Quelle distance entre Avenches et le cabinet ?",
+    "a_html": "Environ 14,8 km en ligne droite, jusqu'à l'InsGym, Rämismatte 21, à Ins.",
+    "a_text": "Environ 14,8 km en ligne droite, jusqu'à l'InsGym, Rämismatte 21, à Ins."
+   },
+   {
+    "q": "Faites-vous des visites à Faoug ou à Domdidier ?",
+    "a_html": "Ces villages entourent Avenches, mais nous devons encore confirmer s'ils font partie de notre zone à domicile [À CONFIRMER : Faoug, Domdidier, Donatyre, Oleyres].",
+    "a_text": "Ces villages entourent Avenches, mais nous devons encore confirmer s'ils font partie de notre zone à domicile [À CONFIRMER : Faoug, Domdidier, Donatyre, Oleyres]."
+   },
+   {
+    "q": "Combien de temps dure le traitement après une prothèse de hanche ?",
+    "a_html": "Cela dépend de l'opération, de votre condition et des consignes du chirurgien. Le nombre de séances figure sur l'ordonnance et peut être renouvelé par le médecin si nécessaire.",
+    "a_text": "Cela dépend de l'opération, de votre condition et des consignes du chirurgien. Le nombre de séances figure sur l'ordonnance et peut être renouvelé par le médecin si nécessaire."
+   }
+  ]
+ },
+ {
+  "tipo": "cta",
+  "h2": "Démarrer votre rééducation depuis la Broye",
+  "s1": "Fixez votre premier rendez-vous avec la <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservation en ligne</a>, par téléphone au 076 627 38 38 ou via WhatsApp au +41 76 627 38 38.",
+  "s2": null
+ },
+ {
+  "tipo": "map"
+ }
+]

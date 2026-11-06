@@ -1,0 +1,12 @@
+source,target,regex,code
+/reserver-maintenant/,/reservation-en-ligne/,0,301
+/rendez-vous-des-maintenant/,/reservation-en-ligne/,0,301
+/reserve/,/reservation-en-ligne/,0,301
+/rendez-vous-online/,/reservation-en-ligne/,0,301
+/fitness-medical/,/medical-training-therapy-mtt/,0,301
+/douleurs-cervicales,/douleur-cervicale-au-cou/,0,301
+/douleurs-genou,/douleur-du-genou-lesions-de-la-cheville/,0,301
+/lesions-cheville,/douleur-pied-cheville-fasciite-plantaire/,0,301
+/lesions-epaule,/lesions-de-lepaule/,0,301
+/mtt-fitness-medical,/medical-training-therapy-mtt/,0,301
+/physio-a-ins/,/,0,301

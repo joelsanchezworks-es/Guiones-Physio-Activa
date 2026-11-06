@@ -1,0 +1,241 @@
+[
+ {
+  "slug": "accueil",
+  "ok": true,
+  "a_confirmer": 6,
+  "fallos": [],
+  "notas": [
+   "hero sub 314 car. (plantilla 300; ±20 % = 240–360)"
+  ]
+ },
+ {
+  "slug": "a-propos-de-nous",
+  "ok": true,
+  "a_confirmer": 9,
+  "fallos": [],
+  "notas": [
+   "hero sub 325 car. (plantilla 433; ±20 % = 346–519)"
+  ]
+ },
+ {
+  "slug": "physio-a-sugiez",
+  "ok": true,
+  "a_confirmer": 4,
+  "fallos": [],
+  "notas": [
+   "hero sub 407 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 8.3 % (con physio-a-morat); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (6)"
+  ]
+ },
+ {
+  "slug": "physio-a-neuchatel",
+  "ok": true,
+  "a_confirmer": 4,
+  "fallos": [],
+  "notas": [
+   "hero sub 383 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 6.6 % (con physio-a-lausanne); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (5), FAQ de la SERP local"
+  ]
+ },
+ {
+  "slug": "physio-a-la-neuveville",
+  "ok": true,
+  "a_confirmer": 3,
+  "fallos": [],
+  "notas": [
+   "hero sub 361 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 6.1 % (con physio-a-estavayer); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (4)"
+  ]
+ },
+ {
+  "slug": "physio-a-avenches",
+  "ok": true,
+  "a_confirmer": 3,
+  "fallos": [],
+  "notas": [
+   "hero sub 377 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 6.7 % (con physio-a-yvonand); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (5)"
+  ]
+ },
+ {
+  "slug": "physio-a-lyss",
+  "ok": true,
+  "a_confirmer": 4,
+  "fallos": [],
+  "notas": [
+   "hero sub 339 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 7.9 % (con physio-a-morat); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (5)"
+  ]
+ },
+ {
+  "slug": "physio-a-bienne",
+  "ok": true,
+  "a_confirmer": 4,
+  "fallos": [],
+  "notas": [
+   "hero sub 355 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 6.1 % (con physio-a-neuchatel); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (5)"
+  ]
+ },
+ {
+  "slug": "physio-a-fribourg",
+  "ok": true,
+  "a_confirmer": 4,
+  "fallos": [],
+  "notas": [
+   "hero sub 373 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 8.9 % (con physio-a-morat); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (4)"
+  ]
+ },
+ {
+  "slug": "physio-a-payerne",
+  "ok": true,
+  "a_confirmer": 5,
+  "fallos": [],
+  "notas": [
+   "hero sub 343 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 6.1 % (con physio-a-bienne); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (4), FAQ de la SERP local"
+  ]
+ },
+ {
+  "slug": "physio-a-morat",
+  "ok": true,
+  "a_confirmer": 4,
+  "fallos": [],
+  "notas": [
+   "hero sub 411 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 8.9 % (con physio-a-fribourg); datos propios: distancia, idioma, hospital, localidades vecinas (5)"
+  ]
+ },
+ {
+  "slug": "physio-a-chietres",
+  "ok": true,
+  "a_confirmer": 5,
+  "fallos": [],
+  "notas": [
+   "hero sub 309 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 6.9 % (con physio-a-lyss); datos propios: distancia, idioma, distrito/cantón, localidades vecinas (4)"
+  ]
+ },
+ {
+  "slug": "physio-a-estavayer",
+  "ok": true,
+  "a_confirmer": 5,
+  "fallos": [],
+  "notas": [
+   "hero sub 349 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 8.6 % (con physio-a-yvonand); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (4)"
+  ]
+ },
+ {
+  "slug": "physio-a-yvonand",
+  "ok": true,
+  "a_confirmer": 4,
+  "fallos": [],
+  "notas": [
+   "hero sub 375 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 8.6 % (con physio-a-estavayer); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (4)"
+  ]
+ },
+ {
+  "slug": "physio-a-yverdon",
+  "ok": true,
+  "a_confirmer": 3,
+  "fallos": [],
+  "notas": [
+   "hero sub 444 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 7.4 % (con physio-a-fribourg); datos propios: idioma, distrito/cantón, hospital, localidades vecinas (4)"
+  ]
+ },
+ {
+  "slug": "physio-a-lausanne",
+  "ok": true,
+  "a_confirmer": 3,
+  "fallos": [],
+  "notas": [
+   "hero sub 480 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 6.6 % (con physio-a-chietres); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (4)"
+  ]
+ },
+ {
+  "slug": "pour-les-patients",
+  "ok": true,
+  "a_confirmer": 0,
+  "fallos": [],
+  "notas": [
+   "hero sub 308 car. (plantilla 433; ±20 % = 346–519)"
+  ]
+ },
+ {
+  "slug": "mal-de-dos-lombaire",
+  "ok": true,
+  "a_confirmer": 1,
+  "fallos": [],
+  "notas": [
+   "hero sub 369 car. (plantilla 433; ±20 % = 346–519)"
+  ]
+ },
+ {
+  "slug": "douleur-cervicale-au-cou",
+  "ok": true,
+  "a_confirmer": 1,
+  "fallos": [],
+  "notas": [
+   "hero sub 382 car. (plantilla 433; ±20 % = 346–519)"
+  ]
+ },
+ {
+  "slug": "lesions-de-lepaule",
+  "ok": true,
+  "a_confirmer": 1,
+  "fallos": [],
+  "notas": [
+   "hero sub 392 car. (plantilla 433; ±20 % = 346–519)"
+  ]
+ },
+ {
+  "slug": "douleur-du-genou-lesions-de-la-cheville",
+  "ok": true,
+  "a_confirmer": 0,
+  "fallos": [],
+  "notas": [
+   "hero sub 359 car. (plantilla 433; ±20 % = 346–519)"
+  ]
+ },
+ {
+  "slug": "sciatique-hernie-discale",
+  "ok": true,
+  "a_confirmer": 1,
+  "fallos": [],
+  "notas": [
+   "hero sub 417 car. (plantilla 433; ±20 % = 346–519)"
+  ]
+ },
+ {
+  "slug": "douleur-pied-cheville-fasciite-plantaire",
+  "ok": true,
+  "a_confirmer": 0,
+  "fallos": [],
+  "notas": [
+   "hero sub 490 car. (plantilla 433; ±20 % = 346–519)"
+  ]
+ },
+ {
+  "slug": "douleur-de-hanche-protheses",
+  "ok": true,
+  "a_confirmer": 2,
+  "fallos": [],
+  "notas": [
+   "hero sub 390 car. (plantilla 433; ±20 % = 346–519)"
+  ]
+ },
+ {
+  "slug": "reservation-en-ligne",
+  "ok": true,
+  "a_confirmer": 2,
+  "fallos": [],
+  "notas": [
+   "hero sub 232 car. (plantilla 433; ±20 % = 346–519)"
+  ]
+ }
+]

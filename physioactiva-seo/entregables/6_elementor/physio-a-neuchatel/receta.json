@@ -1,0 +1,117 @@
+[
+ {
+  "tipo": "hero",
+  "eyebrow": "Physio · Neuchâtel",
+  "h1": "Physio à Neuchâtel : au cabinet d'Ins ou à domicile",
+  "sub": "Vous cherchez un physiothérapeute depuis Neuchâtel ? Physio Activa vous reçoit dans son cabinet d'Ins, à environ 13,4 km en ligne droite de la ville, et propose des séances à domicile en ville et dans les quartiers voisins [À CONFIRMER : zone desservie à domicile]. Sur ordonnance, l'assurance rembourse le traitement ; la réservation se fait en ligne, par téléphone ou via WhatsApp.",
+  "pills": [
+   "Cabinet à Ins, à 13,4 km",
+   "Sur prescription médicale",
+   "LAMal · LAA · AI · AM"
+  ],
+  "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00032.jpg",
+  "alt": "Physiothérapeute accompagnant un patient lors d'exercices à domicile ou au cabinet",
+  "video": false,
+  "cta": "Prendre rendez-vous"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "À domicile",
+  "h2": "Physiothérapie à domicile à Neuchâtel et environs",
+  "lead": [],
+  "bg": null,
+  "html": "<p>Notre page actuelle cite Serrières, La Coudre, Monruz et Vauseyon parmi les quartiers où nous nous rendons. Les communes du Littoral comme Hauterive, Saint-Blaise, La Tène (Marin-Epagnier), Auvernier ou Peseux sont proches, mais leur prise en charge à domicile doit être vérifiée au cas par cas [À CONFIRMER : communes du Littoral desservies et jours de passage].</p><p style=\"margin-top:12px\">Ce service convient lorsque sortir de chez soi demande trop d'énergie : rééducation après une intervention, perte d'équilibre, maladie qui limite les déplacements. Le traitement se déroule alors dans votre propre environnement, ce qui permet de travailler sur les gestes du quotidien. Plus d'informations sur la <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>.</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Accès",
+  "h2": "Venir au cabinet d'Ins depuis Neuchâtel",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Le cabinet se situe à l'InsGym, Rämismatte 21, à 3232 Ins, soit à environ 13,4 km en ligne droite du centre de Neuchâtel. Notre site mentionne la ligne de train Neuchâtel–Fribourg–Morat–Ins pour venir sans voiture [À CONFIRMER : fréquence et arrêt]. Plan et accès : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Pour les patients suivis au RHNe, site de Pourtalès, la physiothérapie peut s'inscrire dans la continuité d'un séjour hospitalier ou d'une opération, sur prescription de votre médecin. Ins est en terre bernoise, mais l'équipe vous accueille en français.</p>"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Ce que nous traitons",
+  "h2": "Ce que nous traitons",
+  "lead": [
+   "En ville, les journées passées assis et les trajets pendulaires laissent souvent des traces. Les consultations les plus fréquentes :"
+  ],
+  "bg": null,
+  "cards": [
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-cervicale-au-cou/\" style=\"color:var(--azure);font-weight:600\">Douleur cervicale</a> : nuque raide, maux de tête liés à la posture devant l'écran.</p>",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/sciatique-hernie-discale/\" style=\"color:var(--azure);font-weight:600\">Sciatique et hernie discale</a> : douleur qui descend dans la jambe, fourmillements, position assise pénible.</p>",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/lesions-de-lepaule/\" style=\"color:var(--azure);font-weight:600\">Épaule</a> : tendinopathie, raideur ou rééducation après une chirurgie.</p>",
+    "icon": "fa-hospital"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-pied-cheville-fasciite-plantaire/\" style=\"color:var(--azure);font-weight:600\">Pied et cheville, fasciite plantaire</a> : douleur au talon au réveil, souvent chez les coureurs des quais.</p>",
+    "icon": "fa-person-running"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/mal-de-dos-lombaire/\" style=\"color:var(--azure);font-weight:600\">Mal de dos et lombalgie</a> : douleurs lombaires récurrentes, blocage après un faux mouvement.</p>",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": null,
+    "html": "<p>La liste complète se trouve sur <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">toutes les pathologies</a>.</p>",
+    "icon": "fa-circle-info"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Remboursement",
+  "h2": "Remboursement",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Sur prescription médicale, la physiothérapie est prise en charge par l'assurance de base (LAMal), l'assurance accidents (LAA), l'assurance invalidité (AI) ou l'assurance militaire (AM). Avec la LAMal, la franchise et la quote-part restent à votre charge. Apportez votre ordonnance et votre carte d'assuré à la première séance.</p>"
+ },
+ {
+  "tipo": "faq",
+  "h2": "Questions fréquentes",
+  "faq": [
+   {
+    "q": "Est-ce que la physiothérapie est remboursée en Suisse ?",
+    "a_html": "Oui, lorsqu'elle est prescrite par un médecin. L'assurance de base (LAMal) couvre les séances, après déduction de la franchise et de la quote-part ; en cas d'accident, c'est la LAA qui intervient.",
+    "a_text": "Oui, lorsqu'elle est prescrite par un médecin. L'assurance de base (LAMal) couvre les séances, après déduction de la franchise et de la quote-part ; en cas d'accident, c'est la LAA qui intervient."
+   },
+   {
+    "q": "Quel est le tarif d'une séance de physiothérapie ?",
+    "a_html": "Les séances prescrites sont facturées directement selon le tarif conventionnel de physiothérapie en vigueur en Suisse. Pour le montant exact et une éventuelle participation de votre part, contactez-nous [À CONFIRMER : information tarifaire à communiquer].",
+    "a_text": "Les séances prescrites sont facturées directement selon le tarif conventionnel de physiothérapie en vigueur en Suisse. Pour le montant exact et une éventuelle participation de votre part, contactez-nous [À CONFIRMER : information tarifaire à communiquer]."
+   },
+   {
+    "q": "Quel est le rôle d'un physiothérapeute ?",
+    "a_html": "Le physiothérapeute évalue votre mouvement, traite la douleur par des techniques manuelles et vous guide dans des exercices adaptés. Le diagnostic médical reste du ressort du médecin.",
+    "a_text": "Le physiothérapeute évalue votre mouvement, traite la douleur par des techniques manuelles et vous guide dans des exercices adaptés. Le diagnostic médical reste du ressort du médecin."
+   },
+   {
+    "q": "Un résident neuchâtelois peut-il se faire soigner dans le canton de Berne ?",
+    "a_html": "Oui. La LAMal étant fédérale, vos séances sur ordonnance sont remboursées de la même manière, que le cabinet soit à Neuchâtel ou à Ins.",
+    "a_text": "Oui. La LAMal étant fédérale, vos séances sur ordonnance sont remboursées de la même manière, que le cabinet soit à Neuchâtel ou à Ins."
+   }
+  ]
+ },
+ {
+  "tipo": "cta",
+  "h2": "Prendre rendez-vous depuis Neuchâtel",
+  "s1": "Réservez votre première séance via la <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservation en ligne</a>, au 076 627 38 38 ou sur WhatsApp (+41 76 627 38 38).",
+  "s2": null
+ },
+ {
+  "tipo": "map"
+ }
+]

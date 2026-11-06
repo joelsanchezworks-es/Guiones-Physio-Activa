@@ -1,0 +1,110 @@
+[
+ {
+  "tipo": "hero",
+  "eyebrow": "Physio · Morat (Murten)",
+  "h1": "Physio à Morat (Murten) : au cabinet d'Ins ou à domicile",
+  "sub": "Vous habitez Morat et vous cherchez un physiothérapeute qui vous reçoit en français ? Le cabinet Physio Activa se trouve à Ins, à environ 8,7 km en ligne droite de la vieille ville, et des séances à domicile sont possibles selon les disponibilités [À CONFIRMER : déplacements à Morat]. Sur prescription médicale, la physiothérapie est remboursée ; la réservation se fait en ligne, par téléphone ou par WhatsApp.",
+  "pills": [
+   "Cabinet à Ins, à 8,7 km",
+   "Sur prescription médicale",
+   "LAMal · LAA · AI · AM"
+  ],
+  "img": "https://physioactiva.ch/wp-content/uploads/2025/06/Centerbild_IMG_9184-scaled-1.jpg",
+  "alt": "Salle de fitness médical utilisée pour la rééducation à Ins",
+  "video": false,
+  "cta": "Prendre rendez-vous"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "À domicile",
+  "h2": "Physiothérapie à domicile à Morat et environs",
+  "lead": [],
+  "bg": null,
+  "html": "<p>Pour une personne qui sort de l'hôpital, qui marche avec des cannes ou qui ne conduit plus, se déplacer jusqu'au cabinet peut être le principal obstacle à la rééducation. Dans ce cas, nous pouvons envisager de venir chez vous à Morat, mais aussi à Meyriez, Muntelier, Greng, Courgevaux ou Galmiz [À CONFIRMER : localités desservies et jours de passage]. Le matériel nécessaire aux exercices est apporté sur place et le programme est pensé pour votre logement. Toutes les modalités sont décrites sur notre page <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>.</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Accès",
+  "h2": "Venir au cabinet d'Ins depuis Morat",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Ins se situe à environ 8,7 km en ligne droite de Morat. Le cabinet est installé dans les locaux d'InsGym, au Rämismatte, ce qui permet de travailler les exercices avec de vrais appareils d'entraînement. Itinéraire et plan d'accès : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Morat est une commune majoritairement germanophone avec une minorité francophone. Si vous préférez expliquer vos douleurs et suivre vos exercices dans votre langue, nos consultations ont lieu en français (et en espagnol). Après une hospitalisation ou une opération à l'HFR Meyriez-Murten, nous pouvons assurer la suite de votre rééducation sur la base de l'ordonnance remise à la sortie.</p>"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Ce que nous traitons",
+  "h2": "Ce que nous traitons",
+  "lead": [],
+  "bg": null,
+  "cards": [
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-de-hanche-protheses/\" style=\"color:var(--azure);font-weight:600\">Hanche et prothèses</a> : remise en charge progressive et travail de la marche après la pose d'une prothèse.</p>",
+    "icon": "fa-hospital"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-du-genou-lesions-de-la-cheville/\" style=\"color:var(--azure);font-weight:600\">Genou</a> : récupération de la mobilité et de la force après une entorse, une ménisectomie ou une prothèse.</p>",
+    "icon": "fa-hospital"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/lesions-de-lepaule/\" style=\"color:var(--azure);font-weight:600\">Épaule</a> : tendinopathies, raideur ou rééducation après une chirurgie de la coiffe.</p>",
+    "icon": "fa-hospital"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/mal-de-dos-lombaire/\" style=\"color:var(--azure);font-weight:600\">Mal de dos et lombalgie</a> : exercices adaptés pour reprendre les gestes du quotidien sans appréhension.</p>",
+    "icon": "fa-dumbbell"
+   },
+   {
+    "h3": null,
+    "html": "<p>Pour les autres motifs de consultation, voir <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">toutes les pathologies</a>.</p>",
+    "icon": "fa-shield-heart"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Remboursement",
+  "h2": "Remboursement",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>La physiothérapie prescrite par un médecin est prise en charge par l'assurance de base (LAMal), l'assurance accidents (LAA), l'AI ou l'AM. Avec la LAMal, la franchise et la quote-part restent à votre charge. Apportez l'ordonnance et votre carte d'assuré à la première séance.</p>"
+ },
+ {
+  "tipo": "faq",
+  "h2": "Questions fréquentes",
+  "faq": [
+   {
+    "q": "Les séances se déroulent-elles en français ?",
+    "a_html": "Oui. Les consultations ont lieu en français, et aussi en espagnol si vous le souhaitez. C'est souvent apprécié par les habitants francophones de Morat, commune majoritairement germanophone.",
+    "a_text": "Oui. Les consultations ont lieu en français, et aussi en espagnol si vous le souhaitez. C'est souvent apprécié par les habitants francophones de Morat, commune majoritairement germanophone."
+   },
+   {
+    "q": "À quelle distance le cabinet se trouve-t-il de Morat ?",
+    "a_html": "Le cabinet d'Ins est à environ 8,7 km en ligne droite de Morat. L'adresse exacte et le plan sont sur la page <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.",
+    "a_text": "Le cabinet d'Ins est à environ 8,7 km en ligne droite de Morat. L'adresse exacte et le plan sont sur la page Nous trouver ."
+   },
+   {
+    "q": "Pouvez-vous suivre ma rééducation après une opération à l'HFR Meyriez-Murten ?",
+    "a_html": "Oui, dès que vous avez une ordonnance de physiothérapie, nous pouvons prendre le relais au cabinet ou, si c'est nécessaire, à domicile [À CONFIRMER : domicile à Morat et délai pour une première séance].",
+    "a_text": "Oui, dès que vous avez une ordonnance de physiothérapie, nous pouvons prendre le relais au cabinet ou, si c'est nécessaire, à domicile [À CONFIRMER : domicile à Morat et délai pour une première séance]."
+   },
+   {
+    "q": "Venez-vous aussi à Muntelier ou à Courgevaux ?",
+    "a_html": "Ces localités voisines de Morat font partie de la zone que nous envisageons de couvrir à domicile [À CONFIRMER : liste définitive des localités et jours de passage].",
+    "a_text": "Ces localités voisines de Morat font partie de la zone que nous envisageons de couvrir à domicile [À CONFIRMER : liste définitive des localités et jours de passage]."
+   }
+  ]
+ },
+ {
+  "tipo": "cta",
+  "h2": "Votre rééducation en français, près de Morat",
+  "s1": "Indiquez-nous votre situation et votre ordonnance : nous vous proposerons une séance au cabinet ou à domicile. <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">Réservez en ligne</a>, appelez le 076 627 38 38 ou écrivez sur WhatsApp au +41 76 627 38 38.",
+  "s2": null
+ },
+ {
+  "tipo": "map"
+ }
+]

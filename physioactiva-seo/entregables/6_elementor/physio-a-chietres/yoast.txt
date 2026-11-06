@@ -1,0 +1,8 @@
+SEO title (45/60): Physio à Chiètres (Kerzers) – domicile ou Ins
+Meta description (137/155): Physio à Chiètres (Kerzers) : cabinet à Ins, à 7,6 km, ou séances à domicile, en français. Remboursé sur prescription. Réservez en ligne.
+Slug: /physio-a-chietres/
+Focus keyphrase: physio chiètres
+H1: Physio à Chiètres (Kerzers) : au cabinet d'Ins ou à domicile
+Indexación: NOINDEX hasta la confirmación del cliente (Yoast → Avanzado → ¿Permitir que los motores muestren esta página? = No)
+Canonical: https://physioactiva.ch/physio-a-chietres/
+Estado: borrador — noindex hasta confirmación

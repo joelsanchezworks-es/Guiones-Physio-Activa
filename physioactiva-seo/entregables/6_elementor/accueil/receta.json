@@ -1,0 +1,262 @@
+[
+ {
+  "tipo": "hero",
+  "eyebrow": "Physiothérapie à Ins (Anet)",
+  "h1": "Physio à Ins (Anet) : physiothérapie au cabinet et à domicile",
+  "sub": "Physio Activa est un cabinet de physio à Ins (Anet), dans le bâtiment de l'InsGym, Rämismatte 21. Nos physiothérapeutes vous reçoivent au cabinet ou se déplacent à domicile dans le Seeland et la région des Trois-Lacs. Sur prescription médicale, les séances sont prises en charge par la LAMal, la LAA, l'AI ou l'AM.",
+  "pills": [
+   "Au cabinet d'Ins ou à domicile",
+   "Sur prescription médicale",
+   "Remboursé LAMal / LAA"
+  ],
+  "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00036.jpg",
+  "alt": "Salle de traitement du cabinet de physiothérapie Physio Activa à Ins",
+  "video": true,
+  "cta": "Prendre rendez-vous"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Physio Activa",
+  "h2": "Votre physio à Ins, près de chez vous",
+  "lead": [],
+  "bg": null,
+  "html": "<p>Vous cherchez une physio autour de vous, entre le lac de Morat, le lac de Neuchâtel et le lac de Bienne ? Notre cabinet de physiothérapie à Ins est facile d'accès depuis Anet, Chiètres, Morat ou le Vully. Il dispose de salles de traitement et d'un espace d'entraînement, pour que la rééducation ne s'arrête pas à la table de traitement.</p><p style=\"margin-top:12px\">Nous vous recevons en français et en espagnol. Les horaires d'ouverture et les délais de rendez-vous sont indiqués lors de la réservation : [À CONFIRMER].</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "À domicile",
+  "h2": "Physiothérapie à domicile dans le Seeland et les Trois-Lacs",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Vous ne pouvez pas vous déplacer, par exemple après une opération, une hospitalisation ou en raison de votre âge ? La <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a> vous permet de suivre votre traitement chez vous. Nous nous déplaçons à Ins et dans les environs : Anet, Sugiez et Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss. Les séances à domicile nécessitent, elles aussi, une prescription médicale qui le précise.</p>"
+ },
+ {
+  "tipo": "serv",
+  "eyebrow": "Ce que nous traitons",
+  "h2": "Ce que nous traitons",
+  "lead": [
+   "Nous accompagnons les douleurs et les troubles de l'appareil locomoteur, après un accident, une opération ou lorsque la douleur s'installe. Retrouvez toutes les informations dans notre <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">guide des pathologies traitées en physiothérapie</a>, notamment :"
+  ],
+  "bg": null,
+  "cards": [
+   {
+    "h3": "Mal de dos et lombalgie",
+    "p": "Lumbago, douleur lombaire aiguë ou qui dure : bilan, thérapie manuelle et exercices.",
+    "href": "/mal-de-dos-lombaire/",
+    "icon": "fa-bone"
+   },
+   {
+    "h3": "Sciatique et hernie discale",
+    "p": "Douleur qui descend dans la jambe : évaluation, soulagement et reprise du mouvement.",
+    "href": "/sciatique-hernie-discale/",
+    "icon": "fa-bone"
+   },
+   {
+    "h3": "Douleur cervicale et au cou",
+    "p": "Nuque raide, torticolis, coup du lapin ou céphalée de tension.",
+    "href": "/douleur-cervicale-au-cou/",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": "Lésions et douleurs de l'épaule",
+    "p": "Coiffe des rotateurs, tendinite, capsulite rétractile ou rééducation après une opération.",
+    "href": "/lesions-de-lepaule/",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": "Douleur du genou et lésions de la cheville",
+    "p": "Ménisque, ligament croisé, arthrose ou rééducation après une prothèse du genou.",
+    "href": "/douleur-du-genou-lesions-de-la-cheville/",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": "Douleur du pied et fasciite plantaire",
+    "p": "Fasciite plantaire, entorse de la cheville, tendinite d&#x27;Achille ou périostite.",
+    "href": "/douleur-pied-cheville-fasciite-plantaire/",
+    "icon": "fa-bolt"
+   }
+  ]
+ },
+ {
+  "tipo": "serv",
+  "eyebrow": "Nos soins",
+  "h2": "Nos soins de physiothérapie",
+  "lead": [
+   "Selon votre situation, le traitement peut associer thérapie manuelle, fitness médical (MTT), puncture sèche, ondes de choc, Tecar, taping, drainage lymphatique ou massage thérapeutique. Nous proposons aussi la physio du sport, la rééducation post-opératoire, la physiothérapie du plancher pelvien, de l'ATM, gériatrique et neurologique."
+  ],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Physiothérapie générale",
+    "p": "Douleurs, raideurs et rééducation de l&#x27;appareil locomoteur, sur prescription médicale.",
+    "href": "/physio-generale/",
+    "icon_img": "https://physioactiva.ch/wp-content/uploads/2025/05/1.png"
+   },
+   {
+    "h3": "Physiothérapie à domicile",
+    "p": "Les séances se déroulent chez vous lorsque vous ne pouvez pas vous déplacer.",
+    "href": "/physiotherapeute-a-domicile/",
+    "icon_img": "https://physioactiva.ch/wp-content/uploads/2025/05/2-1.png"
+   },
+   {
+    "h3": "Fitness médical (MTT)",
+    "p": "Entraînement thérapeutique encadré pour renforcer et reprendre confiance dans le mouvement.",
+    "href": "/medical-training-therapy-mtt/",
+    "icon_img": "https://physioactiva.ch/wp-content/uploads/2025/05/3.png"
+   },
+   {
+    "h3": "Drainage lymphatique",
+    "p": "Technique manuelle douce indiquée notamment en cas d&#x27;œdème, sur prescription.",
+    "href": "/drainage-lymphatique/",
+    "icon_img": "https://physioactiva.ch/wp-content/uploads/2025/05/4.png"
+   },
+   {
+    "h3": "Thérapie manuelle",
+    "p": "Techniques manuelles pour mobiliser les articulations et les tissus, associées à des exercices.",
+    "href": "/therapie-manuelle/",
+    "icon_img": "https://physioactiva.ch/wp-content/uploads/2025/05/7.png"
+   },
+   {
+    "h3": "Plancher pelvien et uro-gynécologie",
+    "p": "Rééducation du périnée, notamment en cas d&#x27;incontinence ou après une grossesse.",
+    "href": "/physiotherapie-du-plancher-pelvien/",
+    "icon_img": "https://physioactiva.ch/wp-content/uploads/2025/05/8.png"
+   },
+   {
+    "h3": "ATM et mâchoire",
+    "p": "Physiothérapie des troubles de l&#x27;articulation temporo-mandibulaire.",
+    "href": "/physiotemporo-mandibulaire-atm/",
+    "icon_img": "https://physioactiva.ch/wp-content/uploads/2025/05/9.png"
+   },
+   {
+    "h3": "Physiothérapie neurologique",
+    "p": "Rééducation après un AVC ou en cas de maladie neurologique, sur prescription.",
+    "href": "/physiotherapie-neurologique/",
+    "icon_img": "https://physioactiva.ch/wp-content/uploads/2025/05/5.png"
+   },
+   {
+    "h3": "Physiothérapie cardio-respiratoire",
+    "p": "Rééducation respiratoire et reprise de l&#x27;effort, sur prescription médicale.",
+    "href": "/physiotherapie-cardiorespiratoire/",
+    "icon_img": "https://physioactiva.ch/wp-content/uploads/2025/05/6.png"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Physio Activa",
+  "h2": "Plus qu'un massage : un plan de rééducation",
+  "lead": [],
+  "bg": null,
+  "html": "<p>Notre objectif est de comprendre l'origine de vos symptômes et de vous rendre plus autonome. À côté des techniques passives, nous vous montrons des exercices adaptés que vous pouvez poursuivre chez vous. Le plan évolue au fil des séances, selon vos progrès et vos objectifs : reprendre le travail, le sport ou simplement les gestes du quotidien.</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Vos séances",
+  "h2": "Comment se passe une séance de physiothérapie ?",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>La première séance commence par un entretien : vos symptômes, votre histoire médicale, vos activités et ce que vous souhaitez retrouver. Le physiothérapeute réalise ensuite un bilan (mobilité, force, posture, tests fonctionnels) et définit avec vous des objectifs et un plan de traitement. Le traitement peut commencer dès cette première séance. La durée d'une séance est de [À CONFIRMER]. Le nombre de séances dépend de votre situation et de la prescription de votre médecin.</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Remboursement",
+  "h2": "Remboursement : LAMal, LAA, AI et AM",
+  "lead": [],
+  "bg": null,
+  "html": "<p>Avec une ordonnance médicale, la physiothérapie est prise en charge par l'assurance obligatoire des soins (LAMal), l'assurance accidents (LAA), l'assurance invalidité (AI) ou l'assurance militaire (AM). Dans le cadre de la LAMal, la franchise et la quote-part de votre contrat s'appliquent. Pensez à apporter votre ordonnance et votre carte d'assuré à la première séance.</p>"
+ },
+ {
+  "tipo": "team",
+  "eyebrow": "Notre équipe",
+  "h2": "Notre équipe de physiothérapeutes",
+  "lead": [
+   "Francisco Díaz et Lucile Combes sont physiothérapeutes chez Physio Activa (formation et titres : [À CONFIRMER]). Ils vous accueillent en français et en espagnol, au cabinet comme à domicile, avec une prise en charge personnalisée."
+  ],
+  "bg": "trust",
+  "membres": [
+   {
+    "nom": "Francisco Díaz",
+    "titre": "[À CONFIRMER : titre et formation]",
+    "photo": "https://physioactiva.ch/wp-content/uploads/2025/04/20250401_165707-scaled-1-1024x1024.jpg",
+    "html": "<p>Physiothérapeute chez Physio Activa, au cabinet d'Ins et à domicile.</p>"
+   },
+   {
+    "nom": "Lucile Combes",
+    "titre": "[À CONFIRMER : titre et formation]",
+    "photo": "https://physioactiva.ch/wp-content/uploads/2025/04/20250401_164916-scaled-1-1024x1024.jpg",
+    "html": "<p>Physiothérapeute chez Physio Activa, au cabinet d'Ins et à domicile.</p>"
+   }
+  ]
+ },
+ {
+  "tipo": "gallery",
+  "eyebrow": "Le cabinet",
+  "h2": "Un espace de soins et de mouvement à Ins",
+  "lead": [
+   "Des salles de traitement et un espace d'entraînement au sein de l'InsGym, Rämismatte 21."
+  ],
+  "imgs": [
+   [
+    "https://physioactiva.ch/wp-content/uploads/2025/06/fxbtrjhiol.jpg",
+    "Espace d'entraînement de l'InsGym à Ins"
+   ],
+   [
+    "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00036.jpg",
+    "Salle de traitement du cabinet Physio Activa"
+   ],
+   [
+    "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00031.jpg",
+    "Physiothérapeute mobilisant la jambe d'un patient"
+   ],
+   [
+    "https://physioactiva.ch/wp-content/uploads/2025/06/Centerbild_IMG_9184-scaled-1.jpg",
+    "Salle de fitness médical (MTT)"
+   ],
+   [
+    "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00032.jpg",
+    "Exercice de rééducation avec bande élastique"
+   ]
+  ]
+ },
+ {
+  "tipo": "faq",
+  "h2": "Questions fréquentes",
+  "faq": [
+   {
+    "q": "Faut-il une ordonnance pour aller chez le physio ?",
+    "a_html": "Pour que les séances soient remboursées par la LAMal, la LAA, l'AI ou l'AM, une prescription médicale est nécessaire. Elle est établie par votre médecin, qui indique le nombre de séances prescrites. Sans ordonnance, les séances sont à votre charge.",
+    "a_text": "Pour que les séances soient remboursées par la LAMal, la LAA, l'AI ou l'AM, une prescription médicale est nécessaire. Elle est établie par votre médecin, qui indique le nombre de séances prescrites. Sans ordonnance, les séances sont à votre charge."
+   },
+   {
+    "q": "Quelle est la différence entre un kiné et un physiothérapeute ?",
+    "a_html": "En France et en Belgique, on parle souvent de « kiné » (kinésithérapeute). En Suisse, le terme officiel est physiothérapeute : c'est la même profession de santé, reconnue et réglementée. Le contenu exact de la formation varie d'un pays à l'autre.",
+    "a_text": "En France et en Belgique, on parle souvent de « kiné » (kinésithérapeute). En Suisse, le terme officiel est physiothérapeute : c'est la même profession de santé, reconnue et réglementée. Le contenu exact de la formation varie d'un pays à l'autre."
+   },
+   {
+    "q": "Combien coûte une séance de physiothérapie en Suisse ?",
+    "a_html": "En Suisse, les tarifs de physiothérapie sont fixés par une structure tarifaire nationale convenue avec les assureurs. Avec une ordonnance, l'assurance prend en charge les séances, sous réserve de votre franchise et de votre quote-part. Pour toute question sur le tarif appliqué : [À CONFIRMER].",
+    "a_text": "En Suisse, les tarifs de physiothérapie sont fixés par une structure tarifaire nationale convenue avec les assureurs. Avec une ordonnance, l'assurance prend en charge les séances, sous réserve de votre franchise et de votre quote-part. Pour toute question sur le tarif appliqué : [À CONFIRMER]."
+   },
+   {
+    "q": "Venez-vous à domicile à Morat, Neuchâtel ou Bienne ?",
+    "a_html": "Oui, nous nous déplaçons dans le Seeland et la région des Trois-Lacs, notamment à Morat, Neuchâtel, Bienne, Lyss, La Neuveville, Avenches, Chiètres et dans le Vully. Contactez-nous pour vérifier votre adresse.",
+    "a_text": "Oui, nous nous déplaçons dans le Seeland et la région des Trois-Lacs, notamment à Morat, Neuchâtel, Bienne, Lyss, La Neuveville, Avenches, Chiètres et dans le Vully. Contactez-nous pour vérifier votre adresse."
+   },
+   {
+    "q": "Comment prendre rendez-vous ?",
+    "a_html": "Vous pouvez réserver directement en ligne, nous appeler au 076 627 38 38 ou nous écrire sur WhatsApp au +41 76 627 38 38.",
+    "a_text": "Vous pouvez réserver directement en ligne, nous appeler au 076 627 38 38 ou nous écrire sur WhatsApp au +41 76 627 38 38."
+   }
+  ]
+ },
+ {
+  "tipo": "cta",
+  "h2": "Vous avez mal et cherchez un physio à Ins ?",
+  "s1": "Contactez-nous pour une séance au cabinet à Ins ou à domicile dans le Seeland et les Trois-Lacs.",
+  "s2": null
+ },
+ {
+  "tipo": "map"
+ }
+]

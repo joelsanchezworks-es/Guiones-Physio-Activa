@@ -1,0 +1,112 @@
+[
+ {
+  "tipo": "hero",
+  "eyebrow": "Physio · Estavayer-le-Lac",
+  "h1": "Physio à Estavayer-le-Lac : au cabinet d'Ins ou à domicile",
+  "sub": "Estavayer-le-Lac se trouve à environ 26,4 km en ligne droite d'Ins, dans la Broye fribourgeoise. Physio Activa vous accueille au cabinet d'Ins et étudie la possibilité de séances à domicile dans la Broye [À CONFIRMER : domicile à Estavayer]. La physiothérapie est remboursée sur prescription médicale, et vous pouvez réserver en ligne à toute heure.",
+  "pills": [
+   "Cabinet à Ins, à 26,4 km",
+   "Sur prescription médicale",
+   "LAMal · LAA · AI · AM"
+  ],
+  "img": "https://physioactiva.ch/wp-content/uploads/2025/06/fxbtrjhiol.jpg",
+  "alt": "Espace d'entraînement de l'InsGym, où se trouve le cabinet Physio Activa à Ins",
+  "video": false,
+  "cta": "Prendre rendez-vous"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "À domicile",
+  "h2": "Physiothérapie à domicile à Estavayer et environs",
+  "lead": [],
+  "bg": null,
+  "html": "<p>À plus de 25 km du cabinet, le domicile n'est pas proposé partout ni tous les jours : il se planifie en regroupant les patients d'un même secteur. Pour Estavayer, cela pourrait concerner aussi Font, Cheyres-Châbles, Sévaz et Les Montets [À CONFIRMER : couverture de ces localités et jours de passage]. Cette formule convient avant tout aux patients qui ne peuvent pas se déplacer, par exemple juste après une intervention ou en cas de perte d'autonomie. Pour savoir comment cela se passe, consultez la page <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>.</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Accès",
+  "h2": "Venir au cabinet d'Ins depuis Estavayer",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Le cabinet est à environ 26,4 km en ligne droite d'Estavayer. Il est situé chez InsGym, ce qui donne accès à une salle équipée pour la partie active de la rééducation : renforcement, travail d'équilibre, reprise de l'effort. Toutes les indications pour venir sont réunies sur <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Si vous avez été hospitalisé ou opéré à l'HIB, sur le site d'Estavayer-le-Lac, votre ordonnance de sortie suffit pour commencer la physiothérapie chez nous. Les séances se font en français, langue de la commune, ou en espagnol.</p>"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Ce que nous traitons",
+  "h2": "Ce que nous traitons",
+  "lead": [
+   "Le choix ci-dessous reflète des motifs fréquents chez les personnes actives comme chez les seniors de la région :"
+  ],
+  "bg": null,
+  "cards": [
+   {
+    "h3": null,
+    "html": "<p><a href=\"/lesions-de-lepaule/\" style=\"color:var(--azure);font-weight:600\">Épaule</a> : douleur en levant le bras, conflit sous-acromial, suites d'une luxation ou d'une chirurgie.</p>",
+    "icon": "fa-hospital"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-pied-cheville-fasciite-plantaire/\" style=\"color:var(--azure);font-weight:600\">Pied et cheville, fasciite plantaire</a> : talon douloureux, entorses répétées, reprise de la marche ou de la course.</p>",
+    "icon": "fa-person-running"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/sciatique-hernie-discale/\" style=\"color:var(--azure);font-weight:600\">Sciatique et hernie discale</a> : douleur irradiant dans la jambe, fourmillements, gestion des phases aiguës.</p>",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-du-genou-lesions-de-la-cheville/\" style=\"color:var(--azure);font-weight:600\">Genou</a> : arthrose, ligament croisé, rééducation après arthroscopie.</p>",
+    "icon": "fa-person-walking"
+   },
+   {
+    "h3": null,
+    "html": "<p>Liste complète : <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">toutes les pathologies</a>.</p>",
+    "icon": "fa-circle-info"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Remboursement",
+  "h2": "Remboursement",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>La physiothérapie prescrite par un médecin est prise en charge par l'assurance de base (LAMal), l'assurance accidents (LAA), l'AI ou l'AM. Avec la LAMal, la franchise et la quote-part restent à votre charge. Apportez l'ordonnance et votre carte d'assuré à la première séance.</p>"
+ },
+ {
+  "tipo": "faq",
+  "h2": "Questions fréquentes",
+  "faq": [
+   {
+    "q": "Est-ce raisonnable de venir d'Estavayer jusqu'à Ins ?",
+    "a_html": "Le cabinet est à environ 26,4 km en ligne droite. Beaucoup de rééducations comptent plusieurs séances : à vous de voir si le trajet est compatible avec votre emploi du temps. Si ce n'est pas le cas, le domicile peut être une option [À CONFIRMER : domicile à Estavayer].",
+    "a_text": "Le cabinet est à environ 26,4 km en ligne droite. Beaucoup de rééducations comptent plusieurs séances : à vous de voir si le trajet est compatible avec votre emploi du temps. Si ce n'est pas le cas, le domicile peut être une option [À CONFIRMER : domicile à Estavayer]."
+   },
+   {
+    "q": "Puis-je commencer après une hospitalisation à l'HIB ?",
+    "a_html": "Oui. Avec l'ordonnance de physiothérapie remise par le médecin, nous pouvons organiser la suite de votre rééducation [À CONFIRMER : délai pour une première séance].",
+    "a_text": "Oui. Avec l'ordonnance de physiothérapie remise par le médecin, nous pouvons organiser la suite de votre rééducation [À CONFIRMER : délai pour une première séance]."
+   },
+   {
+    "q": "Venez-vous à Cheyres-Châbles ou à Font ?",
+    "a_html": "Ces villages proches d'Estavayer pourraient être regroupés avec les visites à domicile du secteur [À CONFIRMER : localités desservies et jours de passage].",
+    "a_text": "Ces villages proches d'Estavayer pourraient être regroupés avec les visites à domicile du secteur [À CONFIRMER : localités desservies et jours de passage]."
+   },
+   {
+    "q": "Ma caisse maladie rembourse-t-elle les séances même si le cabinet est dans le canton de Berne ?",
+    "a_html": "Oui, la LAMal est une assurance fédérale : le remboursement sur prescription ne dépend pas du canton du cabinet. Franchise et quote-part s'appliquent comme d'habitude.",
+    "a_text": "Oui, la LAMal est une assurance fédérale : le remboursement sur prescription ne dépend pas du canton du cabinet. Franchise et quote-part s'appliquent comme d'habitude."
+   }
+  ]
+ },
+ {
+  "tipo": "cta",
+  "h2": "Depuis la Broye, réservez votre première séance",
+  "s1": "Choisissez un créneau en <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservation en ligne</a>, ou contactez-nous au 076 627 38 38 ou sur WhatsApp au +41 76 627 38 38.",
+  "s2": null
+ },
+ {
+  "tipo": "map"
+ }
+]

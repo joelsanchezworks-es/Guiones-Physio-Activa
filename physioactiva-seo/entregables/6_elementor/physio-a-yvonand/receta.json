@@ -1,0 +1,110 @@
+[
+ {
+  "tipo": "hero",
+  "eyebrow": "Physio · Yvonand",
+  "h1": "Physio à Yvonand : au cabinet d'Ins ou à domicile",
+  "sub": "Une ordonnance de physiothérapie en poche et un domicile à Yvonand ? Physio Activa travaille depuis Ins, à environ 35,9 km en ligne droite, et vous propose des séances au cabinet ; le déplacement à domicile reste à confirmer pour votre secteur [À CONFIRMER : domicile à Yvonand]. Les séances prescrites sont remboursées, et un rendez-vous se prend en quelques clics en ligne.",
+  "pills": [
+   "Cabinet à Ins, à 35,9 km",
+   "Sur prescription médicale",
+   "LAMal · LAA · AI · AM"
+  ],
+  "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00032.jpg",
+  "alt": "Physiothérapeute accompagnant un patient lors d'exercices à domicile ou au cabinet",
+  "video": false,
+  "cta": "Prendre rendez-vous"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "À domicile",
+  "h2": "Physiothérapie à domicile à Yvonand et environs",
+  "lead": [],
+  "bg": null,
+  "html": "<p>À environ 35,9 km du cabinet, un passage à domicile n'y a de sens que si plusieurs patients du même secteur sont suivis le même jour. Chêne-Pâquier, Démoret, Rovray et Cheyres-Châbles seraient alors concernés [À CONFIRMER : localités desservies et jours de passage]. Cette option vise les patients alités, très limités dans leurs déplacements ou en convalescence. Détails pratiques : <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>.</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Accès",
+  "h2": "Venir au cabinet d'Ins depuis Yvonand",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Le cabinet d'Ins est à environ 35,9 km en ligne droite d'Yvonand. Nous exerçons dans les locaux d'InsGym, où un programme d'exercices peut être construit sur place et poursuivi ensuite en autonomie, ce qui permet d'espacer les séances quand l'évolution le permet. Pour préparer votre venue : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Si votre opération ou votre séjour hospitalier a eu lieu à l'eHnv d'Yverdon-les-Bains, nous pouvons reprendre la rééducation avec l'ordonnance de sortie. Les consultations se font en français, la langue d'Yvonand, ou en espagnol.</p>"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Ce que nous traitons",
+  "h2": "Ce que nous traitons",
+  "lead": [],
+  "bg": null,
+  "cards": [
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-cervicale-au-cou/\" style=\"color:var(--azure);font-weight:600\">Douleur cervicale</a> : torticolis, raideur de la nuque, tensions liées au télétravail ou à la conduite.</p>",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-de-hanche-protheses/\" style=\"color:var(--azure);font-weight:600\">Hanche et prothèses</a> : arthrose de hanche, préparation et suites d'une prothèse totale.</p>",
+    "icon": "fa-hospital"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/mal-de-dos-lombaire/\" style=\"color:var(--azure);font-weight:600\">Mal de dos et lombalgie</a> : lombalgie chronique ou aiguë, éducation à la douleur et renforcement du tronc.</p>",
+    "icon": "fa-dumbbell"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-du-genou-lesions-de-la-cheville/\" style=\"color:var(--azure);font-weight:600\">Genou</a> : douleurs rotuliennes, lésions ligamentaires, reprise du sport.</p>",
+    "icon": "fa-person-running"
+   },
+   {
+    "h3": null,
+    "html": "<p>Pour un autre problème : <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">toutes les pathologies</a>.</p>",
+    "icon": "fa-circle-info"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Remboursement",
+  "h2": "Remboursement",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>La physiothérapie prescrite par un médecin est prise en charge par l'assurance de base (LAMal), l'assurance accidents (LAA), l'AI ou l'AM. Avec la LAMal, la franchise et la quote-part restent à votre charge. Apportez l'ordonnance et votre carte d'assuré à la première séance.</p>"
+ },
+ {
+  "tipo": "faq",
+  "h2": "Questions fréquentes",
+  "faq": [
+   {
+    "q": "J'habite dans le canton de Vaud : puis-je être suivi à Ins, dans le canton de Berne ?",
+    "a_html": "Oui. La LAMal est une assurance fédérale : la prise en charge sur ordonnance ne dépend pas du canton où vous habitez. Pensez simplement à apporter votre ordonnance et votre carte d'assuré.",
+    "a_text": "Oui. La LAMal est une assurance fédérale : la prise en charge sur ordonnance ne dépend pas du canton où vous habitez. Pensez simplement à apporter votre ordonnance et votre carte d'assuré."
+   },
+   {
+    "q": "Quelle distance entre Yvonand et le cabinet ?",
+    "a_html": "Environ 35,9 km en ligne droite. Le plan d'accès figure sur la page <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.",
+    "a_text": "Environ 35,9 km en ligne droite. Le plan d'accès figure sur la page Nous trouver ."
+   },
+   {
+    "q": "Assurez-vous le suivi après une opération à l'eHnv d'Yverdon ?",
+    "a_html": "Oui, la rééducation peut commencer dès réception de l'ordonnance de physiothérapie [À CONFIRMER : délai pour une première séance et domicile possible à Yvonand].",
+    "a_text": "Oui, la rééducation peut commencer dès réception de l'ordonnance de physiothérapie [À CONFIRMER : délai pour une première séance et domicile possible à Yvonand]."
+   },
+   {
+    "q": "Passez-vous à Démoret ou à Rovray ?",
+    "a_html": "Ces communes voisines d'Yvonand seraient regroupées avec les visites du secteur si le domicile y est proposé [À CONFIRMER : localités et jours de passage].",
+    "a_text": "Ces communes voisines d'Yvonand seraient regroupées avec les visites du secteur si le domicile y est proposé [À CONFIRMER : localités et jours de passage]."
+   }
+  ]
+ },
+ {
+  "tipo": "cta",
+  "h2": "Une question avant de réserver ?",
+  "s1": "Écrivez-nous sur WhatsApp au +41 76 627 38 38 ou appelez le 076 627 38 38. Si tout est clair, choisissez directement votre créneau sur la page de <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservation en ligne</a>.",
+  "s2": null
+ },
+ {
+  "tipo": "map"
+ }
+]

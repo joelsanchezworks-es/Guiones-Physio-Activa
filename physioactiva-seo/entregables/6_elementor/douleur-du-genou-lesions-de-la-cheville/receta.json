@@ -1,0 +1,202 @@
+[
+ {
+  "tipo": "hero",
+  "eyebrow": "Physiothérapie à Ins · cabinet et domicile",
+  "h1": "Douleur du genou et ménisque : physio à Ins",
+  "sub": "Une lésion du ménisque, une rupture du ligament croisé, une arthrose du genou ou une prothèse du genou se rééduquent en physiothérapie. Chez Physio Activa, à Ins et à domicile, le physiothérapeute évalue votre genou et construit avec vous un programme progressif, avec l'objectif de réduire la douleur et de reprendre vos activités, sur prescription médicale.",
+  "pills": [
+   "Sur prescription médicale",
+   "Au cabinet d'Ins ou à domicile",
+   "Remboursé LAMal / LAA"
+  ],
+  "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00031.jpg",
+  "alt": "Physiothérapeute mobilisant le genou d'un patient allongé",
+  "video": false,
+  "cta": "Prendre rendez-vous"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Causes",
+  "h2": "Le ménisque et les autres causes de douleur du genou",
+  "lead": [
+   "Plusieurs structures peuvent être à l'origine de la douleur ; le diagnostic médical est posé par votre médecin."
+  ],
+  "bg": null,
+  "cards": [
+   {
+    "h3": "Ménisque : fissure, déchirure et douleur",
+    "html": "<p>Les ménisques sont deux coussinets de fibrocartilage (interne et externe) qui amortissent et stabilisent le genou. Une <strong>fissure du ménisque</strong> ou une <strong>déchirure du ménisque</strong> peut survenir lors d'une torsion, souvent en sport, ou apparaître progressivement avec l'âge par usure. Les signes fréquents : douleur sur le côté du genou (le ménisque interne est plus souvent touché), gonflement, gêne en position accroupie et parfois sensation de blocage. Dans une lésion en « anse de seau », un fragment peut bloquer le genou : un avis médical rapide est alors nécessaire.</p>",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": "Ligament croisé antérieur (LCA)",
+    "html": "<p>Le <strong>ligament croisé antérieur</strong> stabilise le genou lors des pivots et des changements de direction. Sa rupture survient typiquement lors d'un mouvement de torsion, avec parfois un craquement et un gonflement rapide.</p>",
+    "icon": "fa-stethoscope"
+   },
+   {
+    "h3": "Arthrose du genou (gonarthrose)",
+    "html": "<p>L'arthrose du genou correspond à une usure progressive du cartilage. Les symptômes de l'arthrose du genou les plus fréquents sont une douleur à la marche ou dans les escaliers, une raideur matinale et parfois un gonflement.</p>",
+    "icon": "fa-heart-pulse"
+   },
+   {
+    "h3": "Tendinite du genou et syndrome rotulien",
+    "html": "<p>La tendinite du genou (tendinopathie rotulienne ou quadricipitale), le syndrome fémoro-patellaire (douleur autour de la rotule) et le syndrome de l'essuie-glace chez les coureurs sont souvent liés à une surcharge ou à un changement d'entraînement.</p>",
+    "icon": "fa-person-walking"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Notre approche",
+  "h2": "Comment la physiothérapie peut aider le genou",
+  "lead": [
+   "Le traitement dépend de votre lésion, de la décision de votre médecin (traitement conservateur ou chirurgie) et de vos objectifs. Il peut associer :"
+  ],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": null,
+    "html": "<p>des <strong>exercices actifs</strong> de force, de contrôle et d'équilibre, au cœur de la rééducation du ménisque, du ligament croisé et de l'arthrose du genou, notamment en <a href=\"/medical-training-therapy-mtt/\" style=\"color:var(--azure);font-weight:600\">medical training therapy (MTT)</a> ;</p>",
+    "icon": "fa-dumbbell"
+   },
+   {
+    "h3": null,
+    "html": "<p>de la <a href=\"/therapie-manuelle/\" style=\"color:var(--azure);font-weight:600\">thérapie manuelle</a> pour aider à retrouver l'amplitude du genou ;</p>",
+    "icon": "fa-hand-holding-heart"
+   },
+   {
+    "h3": null,
+    "html": "<p>un <a href=\"/physioactiva-bandage-neuromusculaire/\" style=\"color:var(--azure);font-weight:600\">bandage neuromusculaire (taping)</a> selon l'indication ;</p>",
+    "icon": "fa-heart-pulse"
+   },
+   {
+    "h3": null,
+    "html": "<p>une <a href=\"/physio-du-sport/\" style=\"color:var(--azure);font-weight:600\">physio du sport</a> avec des critères progressifs avant le retour à la course, au saut et aux pivots ;</p>",
+    "icon": "fa-person-running"
+   },
+   {
+    "h3": "Rééducation après une opération du genou",
+    "html": "<p>Après une méniscectomie (retrait de la partie abîmée du ménisque), une suture méniscale, une opération du ligament croisé ou une prothèse du genou, la <a href=\"/physiotherapie-post-operatoire/\" style=\"color:var(--azure);font-weight:600\">physiothérapie post-opératoire</a> suit le protocole de votre chirurgien. Les premières étapes visent à contrôler le gonflement, retrouver l'extension et la flexion et réapprendre à marcher, puis à renforcer progressivement.</p>",
+    "icon": "fa-hospital"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Vos séances",
+  "h2": "Déroulement des séances",
+  "lead": [],
+  "bg": null,
+  "html": "<p>La première séance comprend un entretien (origine de la douleur, activités, attentes) et un examen du genou : mobilité, force, stabilité, marche. Nous fixons ensuite des objectifs avec vous et vous recevez des exercices pour la maison. Le nombre de séances dépend de votre situation et de l'ordonnance ; il est réévalué régulièrement.</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "À domicile",
+  "h2": "Au cabinet à Ins ou à domicile",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Nous vous recevons au cabinet, à l'InsGym, Rämismatte 21, 3232 Ins. Si vous avez du mal à vous déplacer, notamment après une prothèse du genou, la <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a> est possible à Ins, dans le Seeland et dans la région des Trois-Lacs (Anet, Morat, Chiètres, Avenches, Sugiez, La Neuveville, Neuchâtel, Bienne, Lyss). Séances en français ou en espagnol.</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Physio Activa",
+  "h2": "Cheville et pied : une page dédiée",
+  "lead": [],
+  "bg": null,
+  "html": "<p>Vous souffrez plutôt d'une entorse de la cheville, d'une tendinite d'Achille, d'une douleur au talon ou d'une fasciite plantaire ? Ces thèmes sont traités sur notre page <a href=\"/douleur-pied-cheville-fasciite-plantaire/\" style=\"color:var(--azure);font-weight:600\">physiothérapie du pied et de la cheville</a>.</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Remboursement",
+  "h2": "Remboursement LAMal / LAA et ordonnance",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>La physiothérapie est remboursée par l'assurance de base (LAMal), par l'assurance accident (LAA) après un accident, ainsi que par l'AI et l'AM, <strong>avec une prescription médicale</strong>. Votre médecin de famille, votre orthopédiste ou votre chirurgien établit l'ordonnance.</p>"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Signaux d'alarme",
+  "h2": "Quand consulter un médecin en urgence ?",
+  "lead": [
+   "Consultez rapidement un médecin ou les urgences si :"
+  ],
+  "bg": null,
+  "cards": [
+   {
+    "h3": null,
+    "html": "<p>vous ne pouvez plus poser le pied ou faire quelques pas après un traumatisme ;</p>",
+    "icon": "fa-triangle-exclamation"
+   },
+   {
+    "h3": null,
+    "html": "<p>le genou est bloqué et ne peut plus s'étendre ;</p>",
+    "icon": "fa-triangle-exclamation"
+   },
+   {
+    "h3": null,
+    "html": "<p>le genou gonfle fortement juste après une chute ou une torsion ;</p>",
+    "icon": "fa-triangle-exclamation"
+   },
+   {
+    "h3": null,
+    "html": "<p>le genou est rouge, chaud et gonflé, avec de la fièvre (surtout après une opération) ;</p>",
+    "icon": "fa-triangle-exclamation"
+   },
+   {
+    "h3": null,
+    "html": "<p>le mollet est gonflé, chaud et douloureux (risque de thrombose, notamment après une prothèse) ;</p>",
+    "icon": "fa-triangle-exclamation"
+   },
+   {
+    "h3": null,
+    "html": "<p>une douleur nocturne intense ne cède pas.</p>",
+    "icon": "fa-triangle-exclamation"
+   }
+  ]
+ },
+ {
+  "tipo": "faq",
+  "h2": "Questions fréquentes",
+  "faq": [
+   {
+    "q": "Quelle est la cause de la douleur au ménisque ?",
+    "a_html": "Chez les personnes jeunes, c'est souvent une torsion du genou sous charge, par exemple en sport. Avec l'âge, le ménisque s'use et peut se fissurer lors d'un geste banal, comme se relever d'une position accroupie.",
+    "a_text": "Chez les personnes jeunes, c'est souvent une torsion du genou sous charge, par exemple en sport. Avec l'âge, le ménisque s'use et peut se fissurer lors d'un geste banal, comme se relever d'une position accroupie."
+   },
+   {
+    "q": "Un ménisque fissuré peut-il se réparer tout seul ?",
+    "a_html": "La partie externe du ménisque est mieux vascularisée et peut cicatriser dans certains cas ; la partie interne cicatrise peu. Votre médecin décide de l'indication chirurgicale selon le type de lésion.",
+    "a_text": "La partie externe du ménisque est mieux vascularisée et peut cicatriser dans certains cas ; la partie interne cicatrise peu. Votre médecin décide de l'indication chirurgicale selon le type de lésion."
+   },
+   {
+    "q": "Peut-on marcher avec une fissure du ménisque ?",
+    "a_html": "Souvent oui, si la douleur le permet et que le genou ne se bloque pas. Le physiothérapeute vous aide à adapter la charge et à garder le genou mobile et fort.",
+    "a_text": "Souvent oui, si la douleur le permet et que le genou ne se bloque pas. Le physiothérapeute vous aide à adapter la charge et à garder le genou mobile et fort."
+   },
+   {
+    "q": "Quand peut-on marcher après une prothèse du genou ?",
+    "a_html": "La reprise de la marche commence en général très tôt, avec des cannes, selon les consignes de l'équipe chirurgicale. La convalescence après une prothèse du genou est progressive et varie selon chaque personne.",
+    "a_text": "La reprise de la marche commence en général très tôt, avec des cannes, selon les consignes de l'équipe chirurgicale. La convalescence après une prothèse du genou est progressive et varie selon chaque personne."
+   },
+   {
+    "q": "Quelle est la relation entre les ligaments croisés et le ménisque ?",
+    "a_html": "Les deux stabilisent le genou. Après une rupture du ligament croisé antérieur, le genou peut devenir instable, ce qui augmente le risque de lésion du ménisque. C'est pourquoi la rééducation travaille la force et le contrôle du genou.",
+    "a_text": "Les deux stabilisent le genou. Après une rupture du ligament croisé antérieur, le genou peut devenir instable, ce qui augmente le risque de lésion du ménisque. C'est pourquoi la rééducation travaille la force et le contrôle du genou."
+   },
+   {
+    "q": "Que faire en cas d'arthrose du genou ?",
+    "a_html": "Rester actif est recommandé. Des exercices adaptés de renforcement et de mobilité peuvent aider à diminuer la douleur et à faciliter la marche ; le traitement médical est discuté avec votre médecin.",
+    "a_text": "Rester actif est recommandé. Des exercices adaptés de renforcement et de mobilité peuvent aider à diminuer la douleur et à faciliter la marche ; le traitement médical est discuté avec votre médecin."
+   }
+  ]
+ },
+ {
+  "tipo": "cta",
+  "h2": "Prenez rendez-vous pour votre genou",
+  "s1": "Appelez-nous au <strong>076 627 38 38</strong>, écrivez-nous sur <strong>WhatsApp au +41 76 627 38 38</strong> ou <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservez votre séance de physiothérapie en ligne</a>.",
+  "s2": null
+ },
+ {
+  "tipo": "map"
+ }
+]

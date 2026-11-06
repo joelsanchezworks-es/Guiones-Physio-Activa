@@ -1,0 +1,110 @@
+[
+ {
+  "tipo": "hero",
+  "eyebrow": "Physio · Payerne",
+  "h1": "Physio à Payerne : au cabinet d'Ins ou à domicile",
+  "sub": "Payerne se situe à environ 24,1 km en ligne droite de notre cabinet d'Ins ; pour les patients de la Broye, des séances à domicile peuvent être envisagées [À CONFIRMER : domicile à Payerne]. La physiothérapie prescrite par un médecin est remboursée par votre assurance. Pour fixer un rendez-vous, utilisez notre agenda en ligne ou appelez-nous.",
+  "pills": [
+   "Cabinet à Ins, à 24,1 km",
+   "Sur prescription médicale",
+   "LAMal · LAA · AI · AM"
+  ],
+  "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00036.jpg",
+  "alt": "Salle de traitement du cabinet Physio Activa à Ins",
+  "video": false,
+  "cta": "Prendre rendez-vous"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "À domicile",
+  "h2": "Physiothérapie à domicile à Payerne et environs",
+  "lead": [],
+  "bg": null,
+  "html": "<p>Payerne appartient au district de la Broye-Vully, dans le canton de Vaud. Entre la ville et les villages alentour comme Corcelles-près-Payerne, Grandcour, Trey ou Valbroye, les distances rendent parfois la venue au cabinet compliquée, surtout sans voiture ou après une intervention. La <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a> permet alors de démarrer la rééducation sans attendre de pouvoir conduire. Les jours où nous passons dans la région restent à fixer [À CONFIRMER : localités desservies, jours de passage et délai du premier rendez-vous].</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Accès",
+  "h2": "Venir au cabinet d'Ins depuis Payerne",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Ceux qui préfèrent se déplacer trouveront le cabinet à Ins, à environ 24,1 km en ligne droite de Payerne, au sein d'InsGym. Cet espace nous permet d'associer thérapie manuelle et exercices sur machines ou au sol. Adresse et plan : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Payerne est une commune francophone, et vous serez suivi en français, ou en espagnol si cela vous convient mieux. L'HIB – Hôpital intercantonal de la Broye a un site à Payerne : si vous y avez été opéré ou hospitalisé, nous pouvons poursuivre la rééducation à partir de votre ordonnance.</p>"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Ce que nous traitons",
+  "h2": "Ce que nous traitons",
+  "lead": [],
+  "bg": null,
+  "cards": [
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-de-hanche-protheses/\" style=\"color:var(--azure);font-weight:600\">Hanche et prothèses</a> : rester actif malgré l'arthrose, ou retrouver une marche fluide après une prothèse.</p>",
+    "icon": "fa-hospital"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/mal-de-dos-lombaire/\" style=\"color:var(--azure);font-weight:600\">Mal de dos et lombalgie</a> : douleurs liées au travail physique, au jardinage ou aux longues heures de conduite.</p>",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-pied-cheville-fasciite-plantaire/\" style=\"color:var(--azure);font-weight:600\">Pied et cheville, fasciite plantaire</a> : talon douloureux, cheville instable après une entorse.</p>",
+    "icon": "fa-location-dot"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-cervicale-au-cou/\" style=\"color:var(--azure);font-weight:600\">Douleur cervicale</a> : nuque bloquée, raideur au réveil, tensions qui remontent vers la tête.</p>",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": null,
+    "html": "<p>Autres motifs : <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">toutes les pathologies</a>.</p>",
+    "icon": "fa-circle-info"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Remboursement",
+  "h2": "Remboursement",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Avec une prescription médicale, la physiothérapie est prise en charge par l'assurance obligatoire (LAMal), l'assurance accidents (LAA), l'assurance invalidité (AI) ou l'assurance militaire (AM). En LAMal, la franchise et la quote-part restent à votre charge selon votre contrat. Apportez simplement votre ordonnance et votre carte d'assuré lors de la première séance.</p>"
+ },
+ {
+  "tipo": "faq",
+  "h2": "Questions fréquentes",
+  "faq": [
+   {
+    "q": "Comment choisir son physiothérapeute ?",
+    "a_html": "Regardez si le cabinet traite votre problème, s'il parle votre langue et s'il peut se déplacer ou s'il est accessible pour vous. Depuis Payerne, vous pouvez choisir entre le cabinet d'Ins et le domicile [À CONFIRMER : domicile à Payerne].",
+    "a_text": "Regardez si le cabinet traite votre problème, s'il parle votre langue et s'il peut se déplacer ou s'il est accessible pour vous. Depuis Payerne, vous pouvez choisir entre le cabinet d'Ins et le domicile [À CONFIRMER : domicile à Payerne]."
+   },
+   {
+    "q": "Comment se passe une séance de physiothérapie ?",
+    "a_html": "La première séance commence par un entretien et un bilan de vos mouvements et de votre douleur. Nous définissons ensuite ensemble les objectifs, puis chaque séance associe traitement et exercices à refaire chez vous.",
+    "a_text": "La première séance commence par un entretien et un bilan de vos mouvements et de votre douleur. Nous définissons ensuite ensemble les objectifs, puis chaque séance associe traitement et exercices à refaire chez vous."
+   },
+   {
+    "q": "Quel est le tarif d'un physiothérapeute ?",
+    "a_html": "Avec une ordonnance, la séance est facturée selon le tarif en vigueur pour la physiothérapie et remboursée par votre assurance. En LAMal, seules la franchise et la quote-part restent à votre charge [À CONFIRMER : montant indicatif par séance].",
+    "a_text": "Avec une ordonnance, la séance est facturée selon le tarif en vigueur pour la physiothérapie et remboursée par votre assurance. En LAMal, seules la franchise et la quote-part restent à votre charge [À CONFIRMER : montant indicatif par séance]."
+   },
+   {
+    "q": "Quel est le nouveau tarif pour la physiothérapie ?",
+    "a_html": "La structure tarifaire de la physiothérapie est fixée au niveau national et peut évoluer. Pour connaître le tarif appliqué actuellement, contactez-nous [À CONFIRMER : tarif en vigueur et date de changement].",
+    "a_text": "La structure tarifaire de la physiothérapie est fixée au niveau national et peut évoluer. Pour connaître le tarif appliqué actuellement, contactez-nous [À CONFIRMER : tarif en vigueur et date de changement]."
+   }
+  ]
+ },
+ {
+  "tipo": "cta",
+  "h2": "Votre physio pour la Broye",
+  "s1": "Réservez votre séance sur la <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservation en ligne</a>, par téléphone au 076 627 38 38 ou sur WhatsApp au +41 76 627 38 38.",
+  "s2": null
+ },
+ {
+  "tipo": "map"
+ }
+]

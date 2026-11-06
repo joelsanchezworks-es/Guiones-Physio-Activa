@@ -1,0 +1,110 @@
+[
+ {
+  "tipo": "hero",
+  "eyebrow": "Physio · Bienne (Biel)",
+  "h1": "Physio à Bienne (Biel) : au cabinet d'Ins ou à domicile",
+  "sub": "Pour une physiothérapie en français depuis Bienne (Biel), Physio Activa vous accueille à Ins, à environ 18 km en ligne droite de la ville. Selon votre situation, une prise en charge à domicile peut aussi être organisée [À CONFIRMER : domicile à Bienne]. Les séances prescrites par un médecin sont remboursées, et un rendez-vous se prend en quelques clics.",
+  "pills": [
+   "Cabinet à Ins, à 18,0 km",
+   "Sur prescription médicale",
+   "LAMal · LAA · AI · AM"
+  ],
+  "img": "https://physioactiva.ch/wp-content/uploads/2025/06/fxbtrjhiol.jpg",
+  "alt": "Espace d'entraînement de l'InsGym, où se trouve le cabinet Physio Activa à Ins",
+  "video": false,
+  "cta": "Prendre rendez-vous"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "À domicile",
+  "h2": "Physiothérapie à domicile à Bienne et environs",
+  "lead": [],
+  "bg": null,
+  "html": "<p>Bienne est une ville bilingue, où l'allemand et le français se côtoient au quotidien. Si vous préférez être soigné en français sans quitter votre appartement, la <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a> est une piste à discuter avec nous. Elle intéresse surtout les patients qui sortent de l'hôpital, ceux qui ont du mal à monter dans un bus avec des béquilles, ou les parents qui ne peuvent pas s'absenter longtemps. Autour de la ville, Nidau, Brügg, Port, Ipsach et Evilard sont des communes voisines que nous pourrions inclure dans nos tournées [À CONFIRMER : localités desservies, jours de passage et délai du premier rendez-vous].</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Accès",
+  "h2": "Venir au cabinet d'Ins depuis Bienne",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Le cabinet se situe à Ins, à environ 18 km en ligne droite du centre de Bienne, à l'intérieur d'InsGym. Cet environnement de salle de sport nous permet de passer facilement d'un traitement manuel à des exercices guidés. Toutes les indications pratiques sont sur <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Beaucoup de Biennois sont suivis au Centre hospitalier Bienne après une intervention ou un séjour hospitalier. Une fois rentré chez vous, la rééducation peut continuer chez nous avec l'ordonnance remise à la sortie ; nous adaptons le programme aux consignes de votre médecin.</p>"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Ce que nous traitons",
+  "h2": "Ce que nous traitons",
+  "lead": [],
+  "bg": null,
+  "cards": [
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-cervicale-au-cou/\" style=\"color:var(--azure);font-weight:600\">Douleur cervicale</a> : tensions de nuque liées à l'écran, aux trajets ou au stress, avec des conseils de posture concrets.</p>",
+    "icon": "fa-location-dot"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/lesions-de-lepaule/\" style=\"color:var(--azure);font-weight:600\">Épaule</a> : tendinite, épaule qui accroche ou rééducation après une chirurgie.</p>",
+    "icon": "fa-hospital"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-pied-cheville-fasciite-plantaire/\" style=\"color:var(--azure);font-weight:600\">Pied et cheville, fasciite plantaire</a> : douleur sous le talon au réveil, entorse de cheville qui traîne, reprise de la course au bord du lac.</p>",
+    "icon": "fa-person-running"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/mal-de-dos-lombaire/\" style=\"color:var(--azure);font-weight:600\">Mal de dos et lombalgie</a> : épisodes aigus ou douleurs installées depuis des mois.</p>",
+    "icon": "fa-location-dot"
+   },
+   {
+    "h3": null,
+    "html": "<p>Vous ne trouvez pas votre problème ? Consultez <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">toutes les pathologies</a>.</p>",
+    "icon": "fa-circle-info"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Remboursement",
+  "h2": "Remboursement",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Avec une prescription médicale, la physiothérapie est prise en charge par l'assurance obligatoire (LAMal), l'assurance accidents (LAA), l'assurance invalidité (AI) ou l'assurance militaire (AM). En LAMal, la franchise et la quote-part restent à votre charge selon votre contrat. Apportez simplement votre ordonnance et votre carte d'assuré lors de la première séance.</p>"
+ },
+ {
+  "tipo": "faq",
+  "h2": "Questions fréquentes",
+  "faq": [
+   {
+    "q": "Bienne est bilingue : dans quelle langue se déroule le traitement ?",
+    "a_html": "Chez Physio Activa, tout se fait en français, et nous parlons aussi espagnol. Une ordonnance établie en allemand par un médecin biennois est parfaitement valable.",
+    "a_text": "Chez Physio Activa, tout se fait en français, et nous parlons aussi espagnol. Une ordonnance établie en allemand par un médecin biennois est parfaitement valable."
+   },
+   {
+    "q": "Combien de kilomètres entre Bienne et le cabinet ?",
+    "a_html": "Environ 18 km en ligne droite séparent Bienne d'Ins, dans le même canton de Berne.",
+    "a_text": "Environ 18 km en ligne droite séparent Bienne d'Ins, dans le même canton de Berne."
+   },
+   {
+    "q": "Pouvez-vous venir à Nidau, Port ou Evilard ?",
+    "a_html": "Ces communes voisines de Bienne peuvent entrer dans nos déplacements à domicile [À CONFIRMER : localités desservies]. Indiquez-nous votre adresse au moment de réserver.",
+    "a_text": "Ces communes voisines de Bienne peuvent entrer dans nos déplacements à domicile [À CONFIRMER : localités desservies]. Indiquez-nous votre adresse au moment de réserver."
+   },
+   {
+    "q": "Je sors du Centre hospitalier Bienne : puis-je commencer tout de suite ?",
+    "a_html": "Oui, dès que vous avez l'ordonnance de physiothérapie. Le délai pour la première séance dépend de nos disponibilités [À CONFIRMER : délai du premier rendez-vous].",
+    "a_text": "Oui, dès que vous avez l'ordonnance de physiothérapie. Le délai pour la première séance dépend de nos disponibilités [À CONFIRMER : délai du premier rendez-vous]."
+   }
+  ]
+ },
+ {
+  "tipo": "cta",
+  "h2": "Réserver depuis Bienne ou Biel",
+  "s1": "Prenez rendez-vous via la <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservation en ligne</a>, au 076 627 38 38 ou par WhatsApp au +41 76 627 38 38 : nous vous répondons en français.",
+  "s2": null
+ },
+ {
+  "tipo": "map"
+ }
+]

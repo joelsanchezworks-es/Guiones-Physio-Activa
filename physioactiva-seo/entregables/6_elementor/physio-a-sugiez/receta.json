@@ -1,0 +1,107 @@
+[
+ {
+  "tipo": "hero",
+  "eyebrow": "Physio · Sugiez (Mont-Vully)",
+  "h1": "Physio à Sugiez : au cabinet d'Ins ou à domicile",
+  "sub": "Sugiez se trouve à environ 4,9 km en ligne droite de notre cabinet d'Ins : c'est l'une des localités les plus proches de Physio Activa. Vous pouvez venir au cabinet ou, sur ordonnance médicale, recevoir votre physio chez vous dans le Mont-Vully [À CONFIRMER : domicile toujours proposé à Sugiez]. Avec une prescription, les séances sont remboursées, et vous réservez en ligne, par téléphone ou par WhatsApp.",
+  "pills": [
+   "Cabinet à Ins, à 4,9 km",
+   "Sur prescription médicale",
+   "LAMal · LAA · AI · AM"
+  ],
+  "img": "https://physioactiva.ch/wp-content/uploads/2025/06/fxbtrjhiol.jpg",
+  "alt": "Espace d'entraînement de l'InsGym, où se trouve le cabinet Physio Activa à Ins",
+  "video": false,
+  "cta": "Prendre rendez-vous"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "À domicile",
+  "h2": "Physiothérapie à domicile à Sugiez et environs",
+  "lead": [],
+  "bg": null,
+  "html": "<p>Le Mont-Vully regroupe plusieurs villages au bord du lac de Morat. Notre site mentionne déjà des visites à domicile à Sugiez, Praz, Môtier, Lugnorre et Guévaux ; pour Nant, Salavaux ou Cudrefin, demandez-nous simplement si votre adresse est desservie [À CONFIRMER : liste des villages et jours de passage dans le Vully].</p><p style=\"margin-top:12px\">Le domicile s'adresse surtout aux personnes pour qui le trajet est un obstacle : retour à la maison après une hospitalisation, convalescence après une opération, suites d'une chute, ou aîné qui ne conduit plus. Souvent, c'est un proche qui prend contact pour organiser les séances. Tous les détails se trouvent sur la page <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>.</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Accès",
+  "h2": "Venir au cabinet d'Ins depuis Sugiez",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Le cabinet est installé à l'InsGym, Rämismatte 21, à environ 4,9 km en ligne droite de Sugiez. Notre site indique aussi un accès en train par la ligne Fribourg–Morat–Ins [À CONFIRMER : arrêt et horaires à vérifier pour Sugiez]. Toutes les indications pratiques sont sur la page <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Sugiez fait partie de la commune de Mont-Vully, dans le district du Lac (canton de Fribourg). Si vous avez été opéré ou hospitalisé à l'HFR Meyriez-Murten, nous pouvons prendre le relais pour la rééducation sur la base de l'ordonnance de votre médecin.</p>"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Ce que nous traitons",
+  "h2": "Ce que nous traitons",
+  "lead": [
+   "Entre jardin, vigne et activités au bord du lac, voici les motifs de consultation que nous voyons souvent :"
+  ],
+  "bg": null,
+  "cards": [
+   {
+    "h3": null,
+    "html": "<p><a href=\"/mal-de-dos-lombaire/\" style=\"color:var(--azure);font-weight:600\">Mal de dos et lombalgie</a> : lumbago après un effort ou une journée penché, douleurs qui reviennent au moindre port de charge.</p>",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-du-genou-lesions-de-la-cheville/\" style=\"color:var(--azure);font-weight:600\">Genou</a> : gêne à la descente des chemins en pente, entorse ou reprise de la marche après une blessure.</p>",
+    "icon": "fa-location-dot"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/lesions-de-lepaule/\" style=\"color:var(--azure);font-weight:600\">Épaule</a> : douleur en levant le bras, par exemple pour tailler ou porter, et rééducation après une lésion.</p>",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-de-hanche-protheses/\" style=\"color:var(--azure);font-weight:600\">Hanche et prothèses</a> : remise en mouvement avant et après la pose d'une prothèse, souvent en lien avec un séjour hospitalier.</p>",
+    "icon": "fa-hospital"
+   },
+   {
+    "h3": null,
+    "html": "<p>Pour toute autre plainte, voyez <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">toutes les pathologies</a>.</p>",
+    "icon": "fa-circle-info"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Remboursement",
+  "h2": "Remboursement",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Sur prescription médicale, la physiothérapie est prise en charge par l'assurance de base (LAMal), l'assurance accidents (LAA), l'assurance invalidité (AI) ou l'assurance militaire (AM). Avec la LAMal, la franchise et la quote-part restent à votre charge. Apportez votre ordonnance et votre carte d'assuré à la première séance.</p>"
+ },
+ {
+  "tipo": "faq",
+  "h2": "Questions fréquentes",
+  "faq": [
+   {
+    "q": "À quelle distance de Sugiez se trouve le cabinet ?",
+    "a_html": "Le cabinet d'Ins est à environ 4,9 km en ligne droite de Sugiez. Il se trouve à l'InsGym, Rämismatte 21, 3232 Ins.",
+    "a_text": "Le cabinet d'Ins est à environ 4,9 km en ligne droite de Sugiez. Il se trouve à l'InsGym, Rämismatte 21, 3232 Ins."
+   },
+   {
+    "q": "Vous déplacez-vous aussi à Praz, Môtier ou Lugnorre ?",
+    "a_html": "Ces villages du Mont-Vully figurent déjà parmi les localités citées pour les visites à domicile sur notre site. Les jours de passage restent à fixer avec vous [À CONFIRMER : jours de passage dans le Mont-Vully].",
+    "a_text": "Ces villages du Mont-Vully figurent déjà parmi les localités citées pour les visites à domicile sur notre site. Les jours de passage restent à fixer avec vous [À CONFIRMER : jours de passage dans le Mont-Vully]."
+   },
+   {
+    "q": "J'habite dans le canton de Fribourg et le cabinet est à Ins (Berne) : suis-je remboursé ?",
+    "a_html": "Oui, la LAMal est une assurance fédérale : le canton de résidence ne change rien au remboursement des séances prescrites. La franchise et la quote-part s'appliquent comme d'habitude.",
+    "a_text": "Oui, la LAMal est une assurance fédérale : le canton de résidence ne change rien au remboursement des séances prescrites. La franchise et la quote-part s'appliquent comme d'habitude."
+   }
+  ]
+ },
+ {
+  "tipo": "cta",
+  "h2": "Un rendez-vous pour Sugiez et le Vully",
+  "s1": "Choisissez un créneau via la <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservation en ligne</a>, appelez le 076 627 38 38 ou écrivez sur WhatsApp au +41 76 627 38 38.",
+  "s2": null
+ },
+ {
+  "tipo": "map"
+ }
+]

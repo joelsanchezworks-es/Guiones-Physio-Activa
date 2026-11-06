@@ -1,0 +1,115 @@
+[
+ {
+  "tipo": "hero",
+  "eyebrow": "Physio · Lausanne",
+  "h1": "Physio à Lausanne : au cabinet d'Ins ou à domicile",
+  "sub": "Vous habitez Lausanne et vous cherchez un physio ? Physio Activa est installé à Ins, dans le Seeland bernois, à environ 65 km en ligne droite de la capitale vaudoise : nous n'avons pas d'adresse à Lausanne. Une prise en charge à domicile sur place est [À CONFIRMER : déplacements à Lausanne possibles ou non]. La physiothérapie prescrite par un médecin est remboursée (LAMal, LAA, AI, AM) et le plus simple, pour savoir ce que nous pouvons faire pour vous, est de nous téléphoner.",
+  "pills": [
+   "Cabinet à Ins, à 65,0 km",
+   "Sur prescription médicale",
+   "LAMal · LAA · AI · AM"
+  ],
+  "img": "https://physioactiva.ch/wp-content/uploads/2025/06/Centerbild_IMG_9184-scaled-1.jpg",
+  "alt": "Salle de fitness médical utilisée pour la rééducation à Ins",
+  "video": false,
+  "cta": "Prendre rendez-vous"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "À domicile",
+  "h2": "Physiothérapie à domicile à Lausanne et environs",
+  "lead": [],
+  "bg": null,
+  "html": "<p>Pour un traitement régulier, la distance compte : plusieurs séances par semaine depuis Ins jusqu'à Lausanne, Pully, Prilly, Renens ou Épalinges ne sont pas toujours réalistes. Nous préférons le dire honnêtement. Les éventuels jours de passage dans l'agglomération lausannoise sont [À CONFIRMER : couverture, fréquence et délai du premier rendez-vous].</p><p style=\"margin-top:12px\">Le domicile garde tout son sens pour une personne qui ne peut pas sortir de chez elle, par exemple pendant une convalescence. L'ordonnance doit alors préciser « à domicile ». Pour comprendre comment se déroulent ces séances, lisez notre page <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>.</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Accès",
+  "h2": "Venir au cabinet d'Ins depuis Lausanne",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Le cabinet se trouve dans le bâtiment de l'InsGym, à environ 65 km en ligne droite de Lausanne. Cette option convient surtout si vous séjournez dans la région des Trois-Lacs, si vous avez de la famille près d'Ins ou si votre lieu de travail s'y trouve. Toutes les informations d'accès sont sur <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>. Bonne nouvelle pour les Lausannois : malgré l'adresse bernoise, les séances se font en français.</p><p style=\"margin-top:12px\">Après une opération ou une hospitalisation au CHUV, la rééducation peut se poursuivre chez nous si vous résidez temporairement dans le Seeland, sur la base de votre prescription de sortie.</p>"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Ce que nous traitons",
+  "h2": "Ce que nous traitons",
+  "lead": [],
+  "bg": null,
+  "cards": [
+   {
+    "h3": null,
+    "html": "<p><a href=\"/sciatique-hernie-discale/\" style=\"color:var(--azure);font-weight:600\">Sciatique et hernie discale</a> : soulager la jambe et la région lombaire, puis reprendre progressivement l'effort.</p>",
+    "icon": "fa-bone"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-cervicale-au-cou/\" style=\"color:var(--azure);font-weight:600\">Douleur cervicale</a> : nuque raide, tensions liées au travail sur écran ou au stress.</p>",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-pied-cheville-fasciite-plantaire/\" style=\"color:var(--azure);font-weight:600\">Pied et cheville, fasciite plantaire</a> : douleur au talon le matin, entorse qui tarde à guérir.</p>",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/lesions-de-lepaule/\" style=\"color:var(--azure);font-weight:600\">Épaule</a> : retrouver l'amplitude et la force du bras.</p>",
+    "icon": "fa-person-walking"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/mal-de-dos-lombaire/\" style=\"color:var(--azure);font-weight:600\">Mal de dos et lombalgie</a> : un plan d'exercices adapté à votre quotidien.</p>",
+    "icon": "fa-dumbbell"
+   },
+   {
+    "h3": null,
+    "html": "<p>La liste complète se trouve sur <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">toutes les pathologies</a>.</p>",
+    "icon": "fa-circle-info"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Remboursement",
+  "h2": "Remboursement",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Avec une ordonnance médicale, la physiothérapie est prise en charge par l'assurance obligatoire des soins (LAMal), l'assurance accidents (LAA), l'assurance invalidité (AI) ou l'assurance militaire (AM). Dans le cadre de la LAMal, la franchise et la quote-part de votre contrat s'appliquent. Apportez votre ordonnance et votre carte d'assuré à la première séance.</p>"
+ },
+ {
+  "tipo": "faq",
+  "h2": "Questions fréquentes",
+  "faq": [
+   {
+    "q": "À quelle distance de Lausanne se trouve le cabinet ?",
+    "a_html": "Environ 65 km en ligne droite séparent Lausanne d'Ins. Le temps de trajet réel dépend de votre moyen de transport.",
+    "a_text": "Environ 65 km en ligne droite séparent Lausanne d'Ins. Le temps de trajet réel dépend de votre moyen de transport."
+   },
+   {
+    "q": "Pouvez-vous venir à Pully, Prilly ou Renens ?",
+    "a_html": "Ces communes voisines de Lausanne sont loin de notre zone habituelle de déplacement (Seeland et Trois-Lacs). La réponse dépend de [À CONFIRMER : déplacements dans l'agglomération lausannoise].",
+    "a_text": "Ces communes voisines de Lausanne sont loin de notre zone habituelle de déplacement (Seeland et Trois-Lacs). La réponse dépend de [À CONFIRMER : déplacements dans l'agglomération lausannoise]."
+   },
+   {
+    "q": "Ma prescription me permet-elle de consulter dans le canton de Berne ?",
+    "a_html": "Oui, une ordonnance établie par un médecin en Suisse vous permet de consulter un physiothérapeute dans un autre canton. Le remboursement suit les règles de votre assurance.",
+    "a_text": "Oui, une ordonnance établie par un médecin en Suisse vous permet de consulter un physiothérapeute dans un autre canton. Le remboursement suit les règles de votre assurance."
+   },
+   {
+    "q": "Dans quelles langues se déroulent les séances ?",
+    "a_html": "En français, la langue de Lausanne comme celle du cabinet, ou en espagnol si vous le préférez.",
+    "a_text": "En français, la langue de Lausanne comme celle du cabinet, ou en espagnol si vous le préférez."
+   }
+  ]
+ },
+ {
+  "tipo": "cta",
+  "h2": "Une question sur votre situation à Lausanne ?",
+  "s1": "Expliquez-nous vos besoins : nous vous répondons sans détour, même si la distance rend un suivi chez nous peu pratique. <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">Réservation en ligne</a>, téléphone 076 627 38 38, WhatsApp +41 76 627 38 38.",
+  "s2": null
+ },
+ {
+  "tipo": "map"
+ }
+]

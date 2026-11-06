@@ -12,7 +12,7 @@ Pour prendre rendez-vous chez votre physio à Ins, réservez en ligne via OneDoc
 
 ## Trois façons de réserver votre rendez-vous physio
 
-- **En ligne (OneDoc)** : choisissez le type de consultation, le jour et l'heure. [Lien de réservation OneDoc POR CONFIRMAR]
+- **En ligne (OneDoc)** : choisissez le type de consultation, le jour et l'heure. [Réserver sur OneDoc](https://www.onedoc.ch/fr/cabinet-de-physiotherapie/anet/ebdut/physioactiva)
 - **Par téléphone** : 076 627 38 38.
 - **Par WhatsApp** : +41 76 627 38 38, si vous préférez écrire.
 

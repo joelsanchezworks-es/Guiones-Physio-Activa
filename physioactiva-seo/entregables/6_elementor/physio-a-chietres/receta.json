@@ -1,0 +1,110 @@
+[
+ {
+  "tipo": "hero",
+  "eyebrow": "Physio · Chiètres (Kerzers)",
+  "h1": "Physio à Chiètres (Kerzers) : au cabinet d'Ins ou à domicile",
+  "sub": "Depuis Chiètres, le cabinet Physio Activa d'Ins n'est qu'à environ 7,6 km en ligne droite. Nous vous recevons au cabinet et pouvons aussi nous déplacer chez vous [À CONFIRMER : visites à domicile à Chiètres]. Avec une ordonnance, vos séances sont remboursées ; prenez rendez-vous en ligne ou au 076 627 38 38.",
+  "pills": [
+   "Cabinet à Ins, à 7,6 km",
+   "Sur prescription médicale",
+   "LAMal · LAA · AI · AM"
+  ],
+  "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00031.jpg",
+  "alt": "Physiothérapeute mobilisant la jambe d'un patient au cabinet d'Ins",
+  "video": false,
+  "cta": "Prendre rendez-vous"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "À domicile",
+  "h2": "Physiothérapie à domicile à Chiètres et environs",
+  "lead": [],
+  "bg": null,
+  "html": "<p>Le domicile s'adresse surtout aux personnes dont la mobilité est réduite : douleur aiguë qui empêche de rester assis en voiture, fatigue après une maladie, âge avancé ou absence de moyen de transport. Autour de Chiètres, les localités concernées seraient Fräschels, Ried bei Kerzers, Galmiz et Agriswil [À CONFIRMER : localités couvertes et jours de passage]. Le fonctionnement, les conditions et le matériel apporté sont expliqués sur la page <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>.</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Accès",
+  "h2": "Venir au cabinet d'Ins depuis Chiètres",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Avec environ 7,6 km en ligne droite, Ins fait partie des localités les plus proches de Chiètres. Le cabinet se trouve dans le centre d'entraînement InsGym : une partie de la séance peut se faire directement sur les machines, pour apprendre à les utiliser correctement et continuer seul ensuite. Accès et stationnement : voir <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Chiètres est une commune germanophone du district du Lac. Chez Physio Activa, les séances se déroulent en français ou en espagnol : une solution pratique pour les familles francophones ou hispanophones installées à Kerzers et dans les villages voisins [À CONFIRMER : séances possibles en allemand ?].</p>"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Ce que nous traitons",
+  "h2": "Ce que nous traitons",
+  "lead": [],
+  "bg": null,
+  "cards": [
+   {
+    "h3": null,
+    "html": "<p><a href=\"/mal-de-dos-lombaire/\" style=\"color:var(--azure);font-weight:600\">Mal de dos et lombalgie</a> : blocage, douleur qui revient après un effort, posture au travail.</p>",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/sciatique-hernie-discale/\" style=\"color:var(--azure);font-weight:600\">Sciatique et hernie discale</a> : diminuer la douleur qui descend dans la jambe et retrouver une activité sans crainte.</p>",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-cervicale-au-cou/\" style=\"color:var(--azure);font-weight:600\">Douleur cervicale</a> : nuque raide, maux de tête liés aux tensions, longues heures sur écran.</p>",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-pied-cheville-fasciite-plantaire/\" style=\"color:var(--azure);font-weight:600\">Pied et cheville, fasciite plantaire</a> : douleur au talon le matin, entorse qui laisse une gêne durable.</p>",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": null,
+    "html": "<p>D'autres motifs sont présentés sur <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">toutes les pathologies</a>.</p>",
+    "icon": "fa-circle-info"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Remboursement",
+  "h2": "Remboursement",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>La physiothérapie prescrite par un médecin est prise en charge par l'assurance de base (LAMal), l'assurance accidents (LAA), l'AI ou l'AM. Avec la LAMal, la franchise et la quote-part restent à votre charge. Apportez l'ordonnance et votre carte d'assuré à la première séance.</p>"
+ },
+ {
+  "tipo": "faq",
+  "h2": "Questions fréquentes",
+  "faq": [
+   {
+    "q": "J'habite Chiètres mais je parle français : est-ce un problème ?",
+    "a_html": "Au contraire. Chiètres est germanophone, mais au cabinet tout se passe en français, ou en espagnol si vous préférez. Vous comprenez chaque exercice et pouvez poser toutes vos questions.",
+    "a_text": "Au contraire. Chiètres est germanophone, mais au cabinet tout se passe en français, ou en espagnol si vous préférez. Vous comprenez chaque exercice et pouvez poser toutes vos questions."
+   },
+   {
+    "q": "Combien de kilomètres séparent Chiètres du cabinet ?",
+    "a_html": "Environ 7,6 km en ligne droite jusqu'à Ins. Le plan détaillé est disponible sur <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.",
+    "a_text": "Environ 7,6 km en ligne droite jusqu'à Ins. Le plan détaillé est disponible sur Nous trouver ."
+   },
+   {
+    "q": "Ma sciatique m'empêche de conduire : pouvez-vous venir chez moi ?",
+    "a_html": "C'est précisément le type de situation où le domicile est utile [À CONFIRMER : déplacements à Chiètres et délai pour un premier rendez-vous]. Il faut une ordonnance mentionnant la physiothérapie.",
+    "a_text": "C'est précisément le type de situation où le domicile est utile [À CONFIRMER : déplacements à Chiètres et délai pour un premier rendez-vous]. Il faut une ordonnance mentionnant la physiothérapie."
+   },
+   {
+    "q": "Couvrez-vous Ried bei Kerzers et Fräschels ?",
+    "a_html": "Ce sont des villages voisins de Chiètres que nous souhaitons inclure dans nos tournées [À CONFIRMER : liste des localités et jours de passage].",
+    "a_text": "Ce sont des villages voisins de Chiètres que nous souhaitons inclure dans nos tournées [À CONFIRMER : liste des localités et jours de passage]."
+   }
+  ]
+ },
+ {
+  "tipo": "cta",
+  "h2": "Prendre rendez-vous depuis Kerzers",
+  "s1": "Le plus simple est de <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réserver en ligne</a>. Vous pouvez aussi appeler le 076 627 38 38 ou envoyer un message WhatsApp au +41 76 627 38 38 avec votre ordonnance.",
+  "s2": null
+ },
+ {
+  "tipo": "map"
+ }
+]

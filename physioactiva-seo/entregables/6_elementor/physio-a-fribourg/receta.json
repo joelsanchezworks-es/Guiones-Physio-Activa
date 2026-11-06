@@ -1,0 +1,110 @@
+[
+ {
+  "tipo": "hero",
+  "eyebrow": "Physio · Fribourg",
+  "h1": "Physio à Fribourg : au cabinet d'Ins ou à domicile",
+  "sub": "Après une opération ou en cas de mobilité réduite, recevoir son physiothérapeute chez soi à Fribourg peut simplifier la rééducation [À CONFIRMER : domicile à Fribourg]. Notre cabinet, lui, se trouve à Ins, à environ 22,6 km en ligne droite. Dans les deux cas, une prescription médicale suffit pour le remboursement, et vous réservez en ligne, par téléphone ou par WhatsApp.",
+  "pills": [
+   "Cabinet à Ins, à 22,6 km",
+   "Sur prescription médicale",
+   "LAMal · LAA · AI · AM"
+  ],
+  "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00032.jpg",
+  "alt": "Physiothérapeute accompagnant un patient lors d'exercices à domicile ou au cabinet",
+  "video": false,
+  "cta": "Prendre rendez-vous"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "À domicile",
+  "h2": "Physiothérapie à domicile à Fribourg et environs",
+  "lead": [],
+  "bg": null,
+  "html": "<p>La physiothérapie à domicile s'adresse en priorité aux personnes pour qui un déplacement représente un effort ou un risque : retour à la maison après la pose d'une prothèse, chute récente, fatigue importante, difficulté à conduire. En plus de la ville, Villars-sur-Glâne, Marly, Givisiez et Granges-Paccot sont les localités voisines que nous pourrions couvrir [À CONFIRMER : localités desservies et jours de passage]. Plus d'informations sur notre page <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>.</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Accès",
+  "h2": "Venir au cabinet d'Ins depuis Fribourg",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Si vous êtes mobile, le cabinet d'Ins est à environ 22,6 km en ligne droite de Fribourg. Nous travaillons dans les locaux d'InsGym, avec l'équipement nécessaire pour renforcer progressivement les muscles et reprendre confiance dans le mouvement. Itinéraire et adresse : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Fribourg est une ville bilingue à majorité francophone, chef-lieu du district de la Sarine. Notre équipe parle français et espagnol. Pour les patients opérés ou hospitalisés à l'HFR Fribourg – Hôpital cantonal, nous reprenons la rééducation à partir de l'ordonnance de sortie et des indications du chirurgien.</p>"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Ce que nous traitons",
+  "h2": "Ce que nous traitons",
+  "lead": [],
+  "bg": null,
+  "cards": [
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-de-hanche-protheses/\" style=\"color:var(--azure);font-weight:600\">Hanche et prothèses</a> : arthrose de hanche et récupération après une prothèse, pour remarcher avec plus d'assurance.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-du-genou-lesions-de-la-cheville/\" style=\"color:var(--azure);font-weight:600\">Genou</a> : rééducation après une prothèse de genou, une ligamentoplastie ou une lésion du ménisque.</p>",
+    "icon": "fa-hospital"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/sciatique-hernie-discale/\" style=\"color:var(--azure);font-weight:600\">Sciatique et hernie discale</a> : douleur irradiant dans la jambe, fourmillements, difficulté à rester assis.</p>",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-cervicale-au-cou/\" style=\"color:var(--azure);font-weight:600\">Douleur cervicale</a> : nuque raide, maux de tête d'origine cervicale, suites d'un coup du lapin.</p>",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": null,
+    "html": "<p>La liste complète se trouve sur <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">toutes les pathologies</a>.</p>",
+    "icon": "fa-circle-info"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Remboursement",
+  "h2": "Remboursement",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Avec une prescription médicale, la physiothérapie est prise en charge par l'assurance obligatoire (LAMal), l'assurance accidents (LAA), l'assurance invalidité (AI) ou l'assurance militaire (AM). En LAMal, la franchise et la quote-part restent à votre charge selon votre contrat. Apportez simplement votre ordonnance et votre carte d'assuré lors de la première séance.</p>"
+ },
+ {
+  "tipo": "faq",
+  "h2": "Questions fréquentes",
+  "faq": [
+   {
+    "q": "La physio à domicile à Fribourg est-elle remboursée ?",
+    "a_html": "Oui, à condition que votre médecin ait prescrit des séances à domicile sur l'ordonnance. La prise en charge suit alors les mêmes règles qu'au cabinet (LAMal, LAA, AI ou AM).",
+    "a_text": "Oui, à condition que votre médecin ait prescrit des séances à domicile sur l'ordonnance. La prise en charge suit alors les mêmes règles qu'au cabinet (LAMal, LAA, AI ou AM)."
+   },
+   {
+    "q": "Intervenez-vous à Marly ou à Villars-sur-Glâne ?",
+    "a_html": "Ces deux communes voisines de Fribourg font partie des zones envisagées pour les visites à domicile [À CONFIRMER : localités desservies].",
+    "a_text": "Ces deux communes voisines de Fribourg font partie des zones envisagées pour les visites à domicile [À CONFIRMER : localités desservies]."
+   },
+   {
+    "q": "Quelle distance entre Fribourg et Ins ?",
+    "a_html": "Environ 22,6 km en ligne droite. Ins se trouve dans le canton de Berne, Fribourg dans le canton du même nom ; la prise en charge par l'assurance ne dépend pas du canton.",
+    "a_text": "Environ 22,6 km en ligne droite. Ins se trouve dans le canton de Berne, Fribourg dans le canton du même nom ; la prise en charge par l'assurance ne dépend pas du canton."
+   },
+   {
+    "q": "Après une prothèse posée à l'HFR Fribourg, quand commencer ?",
+    "a_html": "Selon les consignes de votre chirurgien, dès votre retour à domicile et avec l'ordonnance de physiothérapie. Le délai pour la première séance est à vérifier avec nous [À CONFIRMER : délai du premier rendez-vous].",
+    "a_text": "Selon les consignes de votre chirurgien, dès votre retour à domicile et avec l'ordonnance de physiothérapie. Le délai pour la première séance est à vérifier avec nous [À CONFIRMER : délai du premier rendez-vous]."
+   }
+  ]
+ },
+ {
+  "tipo": "cta",
+  "h2": "Organisons votre rééducation à Fribourg",
+  "s1": "Dites-nous si vous préférez le domicile ou le cabinet : <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservation en ligne</a>, téléphone 076 627 38 38 ou WhatsApp +41 76 627 38 38.",
+  "s2": null
+ },
+ {
+  "tipo": "map"
+ }
+]

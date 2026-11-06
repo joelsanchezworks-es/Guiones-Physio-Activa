@@ -1,0 +1,110 @@
+[
+ {
+  "tipo": "hero",
+  "eyebrow": "Physio · Yverdon-les-Bains",
+  "h1": "Physio à Yverdon-les-Bains : au cabinet d'Ins ou à domicile",
+  "sub": "Soyons clairs dès le départ : Physio Activa n'a pas de cabinet à Yverdon-les-Bains. Notre unique adresse se trouve à Ins (Rämismatte 21), à environ 43 km en ligne droite, et les visites à domicile à Yverdon sont [À CONFIRMER : déplacements à Yverdon-les-Bains possibles ou non]. Sur ordonnance, la physiothérapie est remboursée par la LAMal, la LAA, l'AI ou l'AM ; pour vérifier ce qui est possible pour vous, appelez-nous ou réservez en ligne.",
+  "pills": [
+   "Cabinet à Ins, à 43,5 km",
+   "Sur prescription médicale",
+   "LAMal · LAA · AI · AM"
+  ],
+  "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00036.jpg",
+  "alt": "Salle de traitement du cabinet Physio Activa à Ins",
+  "video": false,
+  "cta": "Prendre rendez-vous"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "À domicile",
+  "h2": "Physiothérapie à domicile à Yverdon-les-Bains et environs",
+  "lead": [],
+  "bg": null,
+  "html": "<p>Yverdon-les-Bains, chef-lieu du district du Jura-Nord vaudois, se situe en dehors de la zone que nous desservons habituellement à domicile (Seeland et Trois-Lacs). Une prise en charge à Yverdon ou dans les communes voisines, comme Grandson, Montagny-près-Yverdon, Cheseaux-Noréaz ou Treycovagnes, reste donc [À CONFIRMER : couverture de ces localités, jours de passage et délai du premier rendez-vous].</p><p style=\"margin-top:12px\">Le traitement à domicile s'adresse surtout aux personnes qui ne peuvent pas se déplacer : retour à la maison après une opération, mobilité réduite, grand âge. Dans ce cas, l'ordonnance doit mentionner les séances à domicile. Plus d'informations sur notre page <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>.</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Accès",
+  "h2": "Venir au cabinet d'Ins depuis Yverdon-les-Bains",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Si vous pouvez vous déplacer, par exemple parce que vous travaillez dans le Seeland ou que vous y passez régulièrement, le cabinet se trouve à environ 43 km en ligne droite d'Yverdon, dans le bâtiment de l'InsGym. L'espace d'entraînement sur place permet de poursuivre les exercices dans de bonnes conditions. Ins se trouve dans le canton de Berne, mais vous y êtes accueilli en français comme à Yverdon. L'adresse, le plan et les accès figurent sur la page <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Vous sortez de l'eHnv à Yverdon-les-Bains après une hospitalisation ou une intervention ? Nous pouvons assurer la suite de la rééducation sur la base de la prescription remise à votre sortie.</p>"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Ce que nous traitons",
+  "h2": "Ce que nous traitons",
+  "lead": [],
+  "bg": null,
+  "cards": [
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-de-hanche-protheses/\" style=\"color:var(--azure);font-weight:600\">Hanche et prothèses</a> : rééducation progressive après la pose d'une prothèse ou en cas d'arthrose.</p>",
+    "icon": "fa-hospital"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/douleur-du-genou-lesions-de-la-cheville/\" style=\"color:var(--azure);font-weight:600\">Genou</a> : reprise de la marche, de la force et de la stabilité après une blessure ou une opération.</p>",
+    "icon": "fa-hospital"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/mal-de-dos-lombaire/\" style=\"color:var(--azure);font-weight:600\">Mal de dos et lombalgie</a> : comprendre ce qui entretient la douleur et retrouver du mouvement au quotidien.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": null,
+    "html": "<p><a href=\"/lesions-de-lepaule/\" style=\"color:var(--azure);font-weight:600\">Épaule</a> : mobilité et renforcement après une lésion de la coiffe ou une luxation.</p>",
+    "icon": "fa-dumbbell"
+   },
+   {
+    "h3": null,
+    "html": "<p>Pour les autres motifs de consultation, consultez <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">toutes les pathologies</a>.</p>",
+    "icon": "fa-circle-info"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Remboursement",
+  "h2": "Remboursement",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Avec une ordonnance médicale, la physiothérapie est prise en charge par l'assurance obligatoire des soins (LAMal), l'assurance accidents (LAA), l'assurance invalidité (AI) ou l'assurance militaire (AM). Dans le cadre de la LAMal, la franchise et la quote-part de votre contrat s'appliquent. Apportez votre ordonnance et votre carte d'assuré à la première séance.</p>"
+ },
+ {
+  "tipo": "faq",
+  "h2": "Questions fréquentes",
+  "faq": [
+   {
+    "q": "Avez-vous un cabinet à Yverdon-les-Bains ?",
+    "a_html": "Non. Notre seul cabinet est à Ins, à environ 43 km en ligne droite d'Yverdon. Nous ne voulons pas laisser croire le contraire : c'est pourquoi nous vous conseillons de nous appeler avant de réserver.",
+    "a_text": "Non. Notre seul cabinet est à Ins, à environ 43 km en ligne droite d'Yverdon. Nous ne voulons pas laisser croire le contraire : c'est pourquoi nous vous conseillons de nous appeler avant de réserver."
+   },
+   {
+    "q": "Venez-vous à domicile à Grandson ou à Treycovagnes ?",
+    "a_html": "Ces localités voisines d'Yverdon sont éloignées de notre zone habituelle. La réponse est [À CONFIRMER : déplacements dans la région d'Yverdon et conditions].",
+    "a_text": "Ces localités voisines d'Yverdon sont éloignées de notre zone habituelle. La réponse est [À CONFIRMER : déplacements dans la région d'Yverdon et conditions]."
+   },
+   {
+    "q": "Une ordonnance d'un médecin vaudois est-elle valable à Ins ?",
+    "a_html": "Une prescription médicale établie en Suisse est valable quel que soit le canton du cabinet de physiothérapie. Le remboursement suit les règles de votre assurance (LAMal, LAA, AI ou AM).",
+    "a_text": "Une prescription médicale établie en Suisse est valable quel que soit le canton du cabinet de physiothérapie. Le remboursement suit les règles de votre assurance (LAMal, LAA, AI ou AM)."
+   },
+   {
+    "q": "Le suivi peut-il se faire en français ?",
+    "a_html": "Oui. Yverdon-les-Bains est une ville francophone, et toute la prise en charge à Ins se déroule en français ; nous parlons aussi espagnol.",
+    "a_text": "Oui. Yverdon-les-Bains est une ville francophone, et toute la prise en charge à Ins se déroule en français ; nous parlons aussi espagnol."
+   }
+  ]
+ },
+ {
+  "tipo": "cta",
+  "h2": "Faire le point avant de vous déplacer",
+  "s1": "Décrivez-nous votre situation : nous vous dirons franchement si un suivi à Ins ou à domicile est réaliste depuis Yverdon. <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">Réservez en ligne</a>, appelez le 076 627 38 38 ou écrivez sur WhatsApp au +41 76 627 38 38.",
+  "s2": null
+ },
+ {
+  "tipo": "map"
+ }
+]

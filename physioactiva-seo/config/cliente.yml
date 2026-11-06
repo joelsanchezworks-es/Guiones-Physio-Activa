@@ -1,0 +1,33 @@
+# Fuente única del NAP y de los datos del cliente. Todas las páginas leen de aquí.
+nom: Physio Activa
+adresse: "Rämismatte 21, 3232 Ins"        # [À CONFIRMER] 21 (web + ficha de Google) o 31 (encargo)
+rue: "Rämismatte 21"
+npa: "3232"
+localite: "Ins"
+canton: "BE"
+lieu_cabinet: "InsGym"
+geo: {lat: 46.99819373769458, lng: 7.107723111532297}   # coordenadas del mapa de la plantilla home
+maps_url: "https://www.google.com/maps/search/?api=1&query=46.99819373769458%2C7.107723111532297"
+map_title: "Physio Activa — Rämismatte 21, 3232 Ins"
+telephone: "076 627 38 38"
+telephone_e164: "+41766273838"
+tel_href: "tel:+41766273838"
+whatsapp: "+41766273838"
+whatsapp_href: "https://wa.me/41766273838"
+reservation: "/reservation-en-ligne/"
+onedoc_url: "https://www.onedoc.ch/fr/cabinet-de-physiotherapie/anet/ebdut/physioactiva"   # enlace publicado en el sitio actual
+nous_trouver: "/nous-trouver/"
+contact: "/contact/"
+horaires: "[À CONFIRMER : lun–ven 8h30–19h30 (fiche Google) ou jusqu'à 20h (site)]"
+horaires_schema: {jours: [Monday, Tuesday, Wednesday, Thursday, Friday], ouvre: "08:30", ferme: "19:30"}
+assurances: "LAMal, LAA, AI, AM sur prescription médicale"
+equipe:
+  - nom: Francisco Díaz
+    titre: "[À CONFIRMER : titre et formation]"
+    photo: "https://physioactiva.ch/wp-content/uploads/2025/04/20250401_165707-scaled-1-1024x1024.jpg"
+  - nom: Lucile Combes
+    titre: "[À CONFIRMER : titre et formation]"
+    photo: "https://physioactiva.ch/wp-content/uploads/2025/04/20250401_164916-scaled-1-1024x1024.jpg"
+langues: "français, espagnol"
+langues_codes: [FR, ES]
+avis_google: {note: "5,0", nombre: 19, source: "Fiche Google (DataForSEO business_data, 06.11.2026)"}

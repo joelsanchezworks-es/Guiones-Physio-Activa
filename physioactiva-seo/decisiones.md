@@ -49,3 +49,19 @@ Una línea por decisión. Fecha de la ejecución: 2026-11-06.
 - Hub de patologías: se reutiliza `/pour-les-patients/` («Où avez-vous mal ?») en vez de crear una URL nueva; así no hace falta ninguna 301.
 - Reserva: se propone `/reservation-en-ligne/` como canónica (slug en francés y descriptivo). Requiere aprobación del cliente.
 - `elementor.json`: no se genera en esta ejecución porque no se recibió el JSON de referencia (`lombaire-elementor.json`). Queda pendiente; el resto de archivos por página sí se entregan.
+
+## Fase Elementor (2026-11-06)
+- 25 JSON: 16 del menú (home, à propos, 8 zonas del lote A y 6 del lote B en borrador) + 9 ya redactadas (hub, 7 patologías, reserva). No hay página de zona de Ins: «Physio Ins» del menú enlaza a `/` para no canibalizar la home.
+- Plantillas: `home-design-elementor.json` solo para la home; `lombaire-elementor.json` para todas las demás. `<style>` de cada plantilla sin cambios en la versión por defecto.
+- La receta de cada página (`receta.json`) la genera un script de forma determinista desde `fr.md` (reglas por tipo de sección): H2 con H3 → `why-grid`; listas → tarjetas `wcard` (con icono de alerta en «quand consulter»); procesos → `steps`; texto corrido → `wcard` centrada; hub y home → `serv-grid` con enlace; equipo → `team-grid`; FAQ → `faq-list` (la primera abierta); CTA → `cta-band`; mapa → `map-facade` (enlace a Google Maps, sin iframe).
+- Estilos en línea mínimos solo de espaciado (`margin-top` entre párrafos, ancho máximo de la tarjeta de texto) y el color de los enlaces del texto (`var(--azure)`, variable de la plantilla): la plantilla pone `margin:0` y `color:inherit` a todo y, sin eso, los párrafos se pegaban y los enlaces no se distinguían. No se crea ninguna clase.
+- Home: se quitan el traductor (`data-i18n` + diccionario FR/DE/EN/PT/ES), los servicios y la FAQ generados por JS (ahora HTML estático), las reseñas de ejemplo (`ph-flag`), las cifras sin fuente (`stats`: 4,9 · 74 % · <1 semaine · 20h) y la sección de aseguradoras de ejemplo. La nota real de Google (5,0 · 19 reseñas, DataForSEO 06.11.2026) va en el hero con enlace a la ficha. Su script pasa a ser el de lombaire (reveal + acordeón FAQ): `buildFAQ` de la home no añadía el acordeón a una FAQ estática.
+- Vídeo del hero: `preload="metadata"`, `poster` (Physio-Activa-00036.jpg), `muted playsinline autoplay loop` y `aria-label`.
+- Se elimina la sección `trust` de la plantilla home: sus títulos son `h4` y rompían la jerarquía (H1 → H4). Sus mensajes verificables pasan a las `hero-pills`.
+- Botones: reserva → `/reservation-en-ligne/` (en esa página, el principal → OneDoc, enlace publicado en el sitio actual); teléfono → `tel:+41766273838`; WhatsApp → `https://wa.me/41766273838`. Ningún `href="#"`.
+- IDs de Elementor: 7 hex derivados del slug (SHA-1), deterministas y únicos en el lote. `page_settings: {hide_title: yes}` en todas.
+- Marcadores `[POR CONFIRMAR]` de los textos → `[À CONFIRMER : …]` al construir (ningún texto en español en las páginas).
+- Zonas: datos públicos (comuna, distrito, idioma, hospital de la región, localidades vecinas) aportados con URL de fuente en `config/zonas.yml`, pero no verificados en línea en esta sesión (red restringida): revisarlos antes de publicar. Distancias = línea recta desde Ins; no se dan tiempos de trayecto.
+- Regla antipuerta: similitud máxima entre zonas 8,9 % (shingles de 5 palabras, sin hero, Remboursement, CTA ni mapa) y ≥ 4 datos propios en las 14.
+- SERP por zona: 28 consultas (0,05 USD), registradas en `data/costes.csv` con la ejecución «elementor-2026-11-06».
+- Modo `--css-global`: `global/pa-styles.css` (CSS de lombaire, con la errata `.faq . q-ic` corregida y los `@import` pasados a `<link>`) + `global/pa-scripts.js`; las páginas ligeras (`elementor-css-global.json`) no llevan `<style>` ni `<script>` en línea, salvo la home (hero con vídeo con reglas propias).

@@ -1,0 +1,102 @@
+[
+ {
+  "tipo": "hero",
+  "eyebrow": "Rendez-vous",
+  "h1": "Prendre rendez-vous chez votre physio à Ins",
+  "sub": "Pour prendre rendez-vous chez votre physio à Ins, réservez en ligne via OneDoc, appelez le 076 627 38 38 ou écrivez-nous sur WhatsApp. Les séances ont lieu au cabinet à Ins ou à domicile, dans le Seeland et la région des Trois-Lacs.",
+  "pills": [
+   "En ligne, par téléphone ou WhatsApp",
+   "Au cabinet d'Ins ou à domicile",
+   "Sur prescription médicale"
+  ],
+  "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00036.jpg",
+  "alt": "Cabinet Physio Activa à Ins prêt à accueillir les patients",
+  "video": false,
+  "cta": "Réserver sur OneDoc",
+  "cta_href": "https://www.onedoc.ch/fr/cabinet-de-physiotherapie/anet/ebdut/physioactiva"
+ },
+ {
+  "tipo": "steps",
+  "eyebrow": "Rendez-vous",
+  "h2": "Trois façons de réserver votre rendez-vous physio",
+  "lead": [],
+  "bg": "assur-sec",
+  "steps": [
+   "<strong>En ligne (OneDoc)</strong> : choisissez le type de consultation, le jour et l'heure. <a href=\"https://www.onedoc.ch/fr/cabinet-de-physiotherapie/anet/ebdut/physioactiva\" style=\"color:var(--azure);font-weight:600\">Réserver sur OneDoc</a>",
+   "<strong>Par téléphone</strong> : 076 627 38 38.",
+   "<strong>Par WhatsApp</strong> : +41 76 627 38 38, si vous préférez écrire."
+  ],
+  "after": [
+   "Horaires : du lundi au vendredi, de 8 h 30 à 19 h 30 [À CONFIRMER]."
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "À domicile",
+  "h2": "Au cabinet ou à domicile",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Le cabinet se trouve chez InsGym, Rämismatte 21, 3232 Ins (BE). Si vous ne pouvez pas vous déplacer, après une opération par exemple, nous venons chez vous : découvrez notre <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>. Nous parlons français et espagnol.</p>"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Physio Activa",
+  "h2": "Ce qu'il faut apporter",
+  "lead": [],
+  "bg": null,
+  "cards": [
+   {
+    "h3": null,
+    "html": "<p>votre <strong>ordonnance médicale</strong> (prescription de physiothérapie) ;</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": null,
+    "html": "<p>votre <strong>carte d'assurance</strong> ;</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": null,
+    "html": "<p>si vous en avez, vos comptes rendus médicaux ou d'imagerie.</p>",
+    "icon": "fa-heart-pulse"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Remboursement",
+  "h2": "Remboursement",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>La physiothérapie est remboursée par l'assurance de base (LAMal), l'assurance accident (LAA), l'AI et l'AM, <strong>avec une prescription médicale</strong>.</p>"
+ },
+ {
+  "tipo": "faq",
+  "h2": "Questions fréquentes",
+  "faq": [
+   {
+    "q": "Quel type de consultation choisir ?",
+    "a_html": "Si c'est votre première visite, choisissez « Première consultation » : nous faisons le bilan et fixons avec vous les objectifs du traitement. Les séances de suivi se réservent ensuite de la même façon.",
+    "a_text": "Si c'est votre première visite, choisissez « Première consultation » : nous faisons le bilan et fixons avec vous les objectifs du traitement. Les séances de suivi se réservent ensuite de la même façon."
+   },
+   {
+    "q": "Ai-je besoin d'une ordonnance ?",
+    "a_html": "Pour un remboursement par l'assurance, oui : il faut une prescription médicale. Si vous n'en avez pas encore, appelez-nous ou écrivez-nous et nous vous orientons.",
+    "a_text": "Pour un remboursement par l'assurance, oui : il faut une prescription médicale. Si vous n'en avez pas encore, appelez-nous ou écrivez-nous et nous vous orientons."
+   },
+   {
+    "q": "Puis-je modifier ou annuler mon rendez-vous ?",
+    "a_html": "Oui. Contactez-nous dès que possible par téléphone ou WhatsApp. Délai d'annulation : [À CONFIRMER].",
+    "a_text": "Oui. Contactez-nous dès que possible par téléphone ou WhatsApp. Délai d'annulation : [À CONFIRMER]."
+   },
+   {
+    "q": "Venez-vous à domicile dans ma commune ?",
+    "a_html": "Nous nous déplaçons à Ins, Anet, Sugiez/Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss. Pour une autre commune, demandez-nous.",
+    "a_text": "Nous nous déplaçons à Ins, Anet, Sugiez/Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss. Pour une autre commune, demandez-nous."
+   }
+  ]
+ },
+ {
+  "tipo": "map"
+ }
+]
