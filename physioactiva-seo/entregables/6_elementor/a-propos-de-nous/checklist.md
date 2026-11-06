@@ -3,7 +3,7 @@
 - Lote: A · Plantilla: lombaire · Validación: OK
 - Indexación: index, follow
 
-## Marcadores [À CONFIRMER] (9)
+## Marcadores [À CONFIRMER] (11)
 
 - [À CONFIRMER : titre et formation] — «[À CONFIRMER : titre et formation]»
 - [À CONFIRMER : titre, formation et numéro d'enregistrement NAREG / RCC] — «Francisco est physiothérapeute [À CONFIRMER : titre, formation et numéro d'enregistrement NAREG / RCC].»
@@ -11,8 +11,10 @@
 - [À CONFIRMER : titre et formation] — «[À CONFIRMER : titre et formation]»
 - [À CONFIRMER : titre, formation et numéro d'enregistrement NAREG / RCC] — «Lucile est physiothérapeute [À CONFIRMER : titre, formation et numéro d'enregistrement NAREG / RCC].»
 - [À CONFIRMER] — «Elle parle français et espagnol, ainsi que portugais [À CONFIRMER].»
+- [À CONFIRMER : durée] — «La durée d'une séance est [À CONFIRMER : durée].»
 - [À CONFIRMER : lun–ven 8h30–19h30 ou jusqu'à 20h] — «Horaires : [À CONFIRMER : lun–ven 8h30–19h30 ou jusqu'à 20h].»
-- [À CONFIRMER : titres, formations, enregistrement professionnel] — «Leurs titres et formations sont précisés ici : [À CONFIRMER : titres, formations, enregistrement professionnel].»
+- [À CONFIRMER : titres, formations, enregistrement professionnel] — «Leurs titres et formations seront précisés ici : [À CONFIRMER : titres, formations, enregistrement professionnel].»
+- [À CONFIRMER : tarif appliqué] — «Il suit la structure tarifaire nationale convenue avec les assureurs [À CONFIRMER : tarif appliqué].»
 - [À CONFIRMER] — «Le portugais est [À CONFIRMER].»
 
 ## Publicación
@@ -29,12 +31,12 @@
 | Sección | ¿Está? | Nota |
 |---|---|---|
 | H1 «servicio + ciudad» | sí | Vos physiothérapeutes à Ins : l'équipe Physio Activa |
-| 4 H3 de valor bajo el hero | no | omitida |
+| 4 H3 de valor bajo el hero | sí |  |
 | Qué es / cuándo consultar (+ señales de alarma) | no | página sin patología concreta (hub/reserva/home): no aplica |
 | Tipos según el caso (H2 + H3 por subtipo) | sí |  |
-| Proceso en pasos (H2 + H3) + CTA intermedio | no | no aplica a esta página |
+| Proceso en pasos (H2 + H3) + CTA intermedio | sí |  |
 | Reembolso y coste | no | omitida |
-| FAQ (8-10) | no | 4 preguntas — texto ya validado del módulo 5: no se reescribe (2.5.5); ampliar con preguntas de data/paa_banco.json en una revisión |
-| CTA final en pregunta con la ciudad | no | omitida |
+| FAQ (8-10) | sí | 8 preguntas |
+| CTA final en pregunta con la ciudad | sí |  |
 
-- receta: ciudad en 1 H2 · FAQ 4 · CTA reserva 5 / tel 2 / WhatsApp 2 · palabras visibles 784
+- receta: ciudad en 3 H2 · FAQ 8 · CTA reserva 6 / tel 3 / WhatsApp 3 · palabras visibles 1162

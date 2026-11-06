@@ -3,7 +3,7 @@
   "tipo": "hero",
   "eyebrow": "Physio · Bienne (Biel)",
   "h1": "Physio à Bienne (Biel) : au cabinet d'Ins ou à domicile",
-  "sub": "Vous cherchez un physiothérapeute à Bienne (Biel) qui vous soigne en français ? Physio Activa vous accueille à Ins, à environ 18 km en ligne droite de la ville. Selon votre situation, une prise en charge à domicile peut aussi être organisée [À CONFIRMER : domicile à Bienne]. Les séances prescrites par un médecin sont remboursées, et un rendez-vous se prend en quelques clics.",
+  "sub": "Vous cherchez un physiothérapeute à Bienne (Biel) qui vous soigne en français ? Physio Activa vous accueille à Ins, à environ 18 km en ligne droite de la ville, et une prise en charge à domicile peut être étudiée [À CONFIRMER : domicile à Bienne]. Les séances prescrites par un médecin sont remboursées, et un rendez-vous se prend en quelques clics.",
   "pills": [
    "Cabinet à Ins, à 18,0 km",
    "Sur prescription médicale",
@@ -15,81 +15,142 @@
   "cta": "Prendre rendez-vous"
  },
  {
-  "tipo": "texte",
-  "eyebrow": "À domicile",
-  "h2": "Physiothérapie à domicile à Bienne et environs",
+  "tipo": "grid",
+  "eyebrow": "En bref",
+  "h2": "L'essentiel en bref",
   "lead": [],
   "bg": null,
-  "html": "<p>Bienne est une ville bilingue, où l'allemand et le français se côtoient au quotidien. Si vous préférez être soigné en français sans quitter votre appartement, la <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a> est une piste à discuter avec nous. Elle intéresse surtout les patients qui sortent de l'hôpital, ceux qui ont du mal à monter dans un bus avec des béquilles, ou les parents qui ne peuvent pas s'absenter longtemps. Autour de la ville, Nidau, Brügg, Port, Ipsach et Evilard sont des communes voisines que nous pourrions inclure dans nos tournées [À CONFIRMER : localités desservies, jours de passage et délai du premier rendez-vous].</p>"
+  "cards": [
+   {
+    "h3": "Sur prescription, remboursé LAMal / LAA",
+    "html": "<p>Qu'elle soit rédigée en français ou en allemand par un médecin biennois, l'ordonnance donne droit au remboursement par l'assurance maladie de base ou, après un accident, par l'assurance accidents.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Au cabinet d'Ins ou à domicile",
+    "html": "<p>Vous choisissez : le cabinet, situé dans le même canton de Berne, ou votre appartement si sortir reste compliqué [À CONFIRMER : déplacements à Bienne].</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Bilan et plan de traitement",
+    "html": "<p>Avant tout traitement, nous évaluons la zone douloureuse, votre façon de bouger et vos contraintes de travail ou de sport.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
+    "html": "<p>L'agenda en ligne est ouvert jour et nuit ; une question avant de réserver ? Un message WhatsApp suffit.</p>",
+    "icon": "fa-calendar-check"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Signaux d'alarme",
+  "h2": "Quand consulter un physio, et quand voir d'abord un médecin ?",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>On pousse la porte d'un physiothérapeute pour une nuque tendue par les heures d'écran, une épaule qui accroche, une cheville qui reste fragile après une entorse, un talon douloureux au réveil ou un mal de dos qui revient à chaque déménagement.</p><p style=\"margin-top:12px\">Il faut en revanche voir un médecin en premier si la douleur suit un traumatisme important, si un bras ou une jambe s'affaiblit, si des fourmillements gagnent les deux côtés du corps, si une fièvre ou une perte de poids inexpliquée accompagne les symptômes, ou si un mollet devient rouge, chaud et gonflé. Douleur thoracique, malaise ou trouble soudain de la parole : appelez immédiatement le 144.</p>"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Notre approche",
+  "h2": "Quelle prise en charge selon votre situation ?",
+  "lead": [],
+  "bg": null,
+  "cards": [
+   {
+    "h3": "Au cabinet d'Ins",
+    "html": "<p>Le cabinet se trouve à l'intérieur d'InsGym. Ce cadre permet de passer en quelques pas du traitement manuel aux exercices guidés.</p>",
+    "icon": "fa-location-dot"
+   },
+   {
+    "h3": "À domicile et localités voisines",
+    "html": "<p>La <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a> intéresse surtout les patients qui sortent de l'hôpital, ceux qui peinent à monter dans un bus avec des béquilles, ou les parents qui ne peuvent pas s'absenter longtemps. Nidau, Brügg, Port, Ipsach et Evilard sont des communes voisines que nous pourrions inclure dans nos tournées [À CONFIRMER : localités desservies, jours de passage et délai du premier rendez-vous].</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Après une opération ou une hospitalisation",
+    "html": "<p>Beaucoup de patients de la région sont suivis au Centre hospitalier Bienne. Une fois rentré chez vous, la rééducation continue avec l'ordonnance remise à la sortie ; nous adaptons le programme aux consignes de votre médecin.</p>",
+    "icon": "fa-hospital"
+   },
+   {
+    "h3": "Nuque, épaule, pied et dos",
+    "html": "<p>– <a href=\"/douleur-cervicale-au-cou/\" style=\"color:var(--azure);font-weight:600\">Douleur cervicale</a> : tensions liées à l'écran, aux trajets ou au stress.</p><p style=\"margin-top:12px\">– <a href=\"/lesions-de-lepaule/\" style=\"color:var(--azure);font-weight:600\">Épaule</a> : tendinite, épaule qui accroche ou suites d'une chirurgie.</p><p style=\"margin-top:12px\">– <a href=\"/douleur-pied-cheville-fasciite-plantaire/\" style=\"color:var(--azure);font-weight:600\">Pied et cheville, fasciite plantaire</a> : talon sensible, entorse qui traîne, reprise de la course au bord du lac.</p><p style=\"margin-top:12px\">– <a href=\"/mal-de-dos-lombaire/\" style=\"color:var(--azure);font-weight:600\">Mal de dos et lombalgie</a> : épisodes aigus ou douleurs installées depuis des mois.</p><p style=\"margin-top:12px\">Autres motifs : <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">toutes les pathologies</a>.</p>",
+    "icon": "fa-bone"
+   },
+   {
+    "h3": "Drainage lymphatique",
+    "html": "<p>Après une opération du genou ou de la hanche, en cas de lymphœdème ou de jambes lourdes qui gonflent en fin de journée, le drainage manuel relance la circulation de la lymphe par des gestes lents et légers. Sur prescription, il fait partie du traitement de physiothérapie, à Ins ou chez vous [À CONFIRMER : drainage à domicile à Bienne]. Plus d'informations sur la page <a href=\"/drainage-lymphatique/\" style=\"color:var(--azure);font-weight:600\">drainage lymphatique</a>.</p>",
+    "icon": "fa-shield-heart"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Notre approche",
+  "h2": "Comment se déroule votre prise en charge ?",
+  "lead": [],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Ordonnance",
+    "html": "<p>Votre médecin précise le motif et, si besoin, la mention « à domicile ». Nous acceptons les ordonnances en allemand comme en français.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Bilan",
+    "html": "<p>Entretien, tests de mobilité et de force : nous cherchons ce qui entretient la douleur, pas seulement l'endroit où elle se manifeste.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Séances au cabinet ou à domicile",
+    "html": "<p>Techniques manuelles, exercices actifs et, selon l'indication, drainage.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Autonomie et prévention",
+    "html": "<p>Nous vous confions quelques exercices courts, faciles à caser entre le travail et les trajets, pour que le bénéfice dure.</p>",
+    "icon": "fa-person-walking"
+   }
+  ],
+  "cta_mid": true
  },
  {
   "tipo": "texte",
   "eyebrow": "Accès",
   "h2": "Venir au cabinet d'Ins depuis Bienne",
   "lead": [],
-  "bg": "trust",
-  "html": "<p>Le cabinet se situe à Ins, à environ 18 km en ligne droite du centre de Bienne, à l'intérieur d'InsGym. Cet environnement de salle de sport nous permet de passer facilement d'un traitement manuel à des exercices guidés. Toutes les indications pratiques sont sur <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Beaucoup de Biennois sont suivis au Centre hospitalier Bienne après une intervention ou un séjour hospitalier. Une fois rentré chez vous, la rééducation peut continuer chez nous avec l'ordonnance remise à la sortie ; nous adaptons le programme aux consignes de votre médecin.</p>"
- },
- {
-  "tipo": "grid",
-  "eyebrow": "Ce que nous traitons",
-  "h2": "Ce que nous traitons",
-  "lead": [],
   "bg": null,
-  "cards": [
-   {
-    "h3": null,
-    "html": "<p><a href=\"/douleur-cervicale-au-cou/\" style=\"color:var(--azure);font-weight:600\">Douleur cervicale</a> : tensions de nuque liées à l'écran, aux trajets ou au stress, avec des conseils de posture concrets.</p>",
-    "icon": "fa-location-dot"
-   },
-   {
-    "h3": null,
-    "html": "<p><a href=\"/lesions-de-lepaule/\" style=\"color:var(--azure);font-weight:600\">Épaule</a> : tendinite, épaule qui accroche ou rééducation après une chirurgie.</p>",
-    "icon": "fa-hospital"
-   },
-   {
-    "h3": null,
-    "html": "<p><a href=\"/douleur-pied-cheville-fasciite-plantaire/\" style=\"color:var(--azure);font-weight:600\">Pied et cheville, fasciite plantaire</a> : douleur sous le talon au réveil, entorse de cheville qui traîne, reprise de la course au bord du lac.</p>",
-    "icon": "fa-person-running"
-   },
-   {
-    "h3": null,
-    "html": "<p><a href=\"/mal-de-dos-lombaire/\" style=\"color:var(--azure);font-weight:600\">Mal de dos et lombalgie</a> : épisodes aigus ou douleurs installées depuis des mois.</p>",
-    "icon": "fa-location-dot"
-   },
-   {
-    "h3": null,
-    "html": "<p>Vous ne trouvez pas votre problème ? Consultez <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">toutes les pathologies</a>.</p>",
-    "icon": "fa-circle-info"
-   }
-  ]
+  "html": "<p>Le cabinet se situe à environ 18 km en ligne droite du centre de Bienne. Adresse, plan et indications pratiques : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Bienne est une ville bilingue, où l'allemand et le français se côtoient au quotidien. Chez Physio Activa, l'échange se fait en français, et nous parlons aussi espagnol : inutile de chercher vos mots pour décrire ce que vous ressentez.</p>"
  },
  {
   "tipo": "grid",
-  "eyebrow": "Physio Activa",
-  "h2": "Un soin souvent recherché à Bienne",
-  "lead": [],
-  "bg": "trust",
-  "cards": [
-   {
-    "h3": "Drainage lymphatique à Bienne",
-    "html": "<p>Après une opération au genou ou à la hanche, en cas de lymphœdème ou de jambes lourdes qui gonflent en fin de journée, le drainage lymphatique manuel relance la circulation de la lymphe par des gestes lents et légers. Sur prescription médicale, il fait partie d'un traitement de physiothérapie, au cabinet d'Ins ou à votre domicile biennois [À CONFIRMER : drainage à domicile à Bienne]. Toutes les informations sur notre page <a href=\"/drainage-lymphatique/\" style=\"color:var(--azure);font-weight:600\">drainage lymphatique à Ins</a>.</p>",
-    "icon": "fa-circle-check"
-   }
-  ]
- },
- {
-  "tipo": "texte",
   "eyebrow": "Remboursement",
-  "h2": "Remboursement",
+  "h2": "Remboursement et coût de la physio à Bienne",
   "lead": [],
-  "bg": null,
-  "html": "<p>Avec une prescription médicale, la physiothérapie est prise en charge par l'assurance obligatoire (LAMal), l'assurance accidents (LAA), l'assurance invalidité (AI) ou l'assurance militaire (AM). En LAMal, la franchise et la quote-part restent à votre charge selon votre contrat. Apportez simplement votre ordonnance et votre carte d'assuré lors de la première séance.</p>"
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Assurance de base (LAMal)",
+    "html": "<p>Avec une prescription médicale, la physiothérapie est prise en charge par l'assurance obligatoire des soins (LAMal).</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Accident, AI et AM",
+    "html": "<p>L'assurance accidents (LAA) couvre le traitement après un accident ; l'assurance invalidité (AI) et l'assurance militaire (AM) prennent aussi en charge la physiothérapie prescrite dans leur cadre.</p>",
+    "icon": "fa-stethoscope"
+   },
+   {
+    "h3": "Ce qui détermine ce que vous payez",
+    "html": "<p>La facturation suit la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué]. En LAMal, la franchise et la quote-part de votre contrat restent à votre charge.</p>",
+    "icon": "fa-heart-pulse"
+   }
+  ]
  },
  {
   "tipo": "villes",
   "eyebrow": "Localités voisines",
-  "h2": "Physio près de Bienne : autres localités",
+  "h2": "Autres localités proches",
   "lead": [
    "Vous habitez entre Bienne et le Seeland ? Consultez aussi nos pages locales voisines."
   ],
@@ -119,33 +180,63 @@
  },
  {
   "tipo": "faq",
-  "h2": "Questions fréquentes",
+  "h2": "Questions fréquentes sur la physio à Bienne",
   "faq": [
    {
-    "q": "Bienne est bilingue : dans quelle langue se déroule le traitement ?",
-    "a_html": "Chez Physio Activa, tout se fait en français, et nous parlons aussi espagnol. Une ordonnance établie en allemand par un médecin biennois est parfaitement valable.",
-    "a_text": "Chez Physio Activa, tout se fait en français, et nous parlons aussi espagnol. Une ordonnance établie en allemand par un médecin biennois est parfaitement valable."
+    "q": "Dans quelle langue se déroule le traitement ?",
+    "a_html": "En français, et en espagnol si vous le souhaitez. Pour les patients d'une ville bilingue, c'est l'assurance de comprendre chaque exercice ; une ordonnance établie en allemand reste parfaitement valable.",
+    "a_text": "En français, et en espagnol si vous le souhaitez. Pour les patients d'une ville bilingue, c'est l'assurance de comprendre chaque exercice ; une ordonnance établie en allemand reste parfaitement valable."
    },
    {
-    "q": "Combien de kilomètres entre Bienne et le cabinet ?",
-    "a_html": "Environ 18 km en ligne droite séparent Bienne d'Ins, dans le même canton de Berne.",
-    "a_text": "Environ 18 km en ligne droite séparent Bienne d'Ins, dans le même canton de Berne."
+    "q": "C'est quoi une séance de physiothérapie ?",
+    "a_html": "C'est un rendez-vous individuel où le physiothérapeute traite votre douleur ou votre limitation par le mouvement, des techniques manuelles et des exercices. Le but : retrouver vos gestes habituels.",
+    "a_text": "C'est un rendez-vous individuel où le physiothérapeute traite votre douleur ou votre limitation par le mouvement, des techniques manuelles et des exercices. Le but : retrouver vos gestes habituels."
+   },
+   {
+    "q": "Quelle est la différence entre un kinésithérapeute et un physiothérapeute ?",
+    "a_html": "Il s'agit du même métier : « kinésithérapeute » est le terme utilisé en France, « physiothérapeute » celui employé en Suisse. À Bienne, vous verrez aussi « Physiotherapeut » côté germanophone.",
+    "a_text": "Il s'agit du même métier : « kinésithérapeute » est le terme utilisé en France, « physiothérapeute » celui employé en Suisse. À Bienne, vous verrez aussi « Physiotherapeut » côté germanophone."
+   },
+   {
+    "q": "Combien de kilomètres jusqu'au cabinet ?",
+    "a_html": "Environ 18 km en ligne droite séparent le centre de Bienne d'Ins, deux communes du canton de Berne.",
+    "a_text": "Environ 18 km en ligne droite séparent le centre de Bienne d'Ins, deux communes du canton de Berne."
    },
    {
     "q": "Pouvez-vous venir à Nidau, Port ou Evilard ?",
-    "a_html": "Ces communes voisines de Bienne peuvent entrer dans nos déplacements à domicile [À CONFIRMER : localités desservies]. Indiquez-nous votre adresse au moment de réserver.",
-    "a_text": "Ces communes voisines de Bienne peuvent entrer dans nos déplacements à domicile [À CONFIRMER : localités desservies]. Indiquez-nous votre adresse au moment de réserver."
+    "a_html": "Ces communes voisines peuvent entrer dans nos déplacements à domicile [À CONFIRMER : localités desservies]. Indiquez votre adresse au moment de réserver.",
+    "a_text": "Ces communes voisines peuvent entrer dans nos déplacements à domicile [À CONFIRMER : localités desservies]. Indiquez votre adresse au moment de réserver."
    },
    {
-    "q": "Je sors du Centre hospitalier Bienne : puis-je commencer tout de suite ?",
-    "a_html": "Oui, dès que vous avez l'ordonnance de physiothérapie. Le délai pour la première séance dépend de nos disponibilités [À CONFIRMER : délai du premier rendez-vous].",
-    "a_text": "Oui, dès que vous avez l'ordonnance de physiothérapie. Le délai pour la première séance dépend de nos disponibilités [À CONFIRMER : délai du premier rendez-vous]."
+    "q": "Je sors de l'hôpital : puis-je commencer tout de suite ?",
+    "a_html": "Oui : après un séjour au Centre hospitalier Bienne ou ailleurs, il suffit de l'ordonnance de physiothérapie. Le délai pour la première séance dépend de nos disponibilités [À CONFIRMER : délai du premier rendez-vous].",
+    "a_text": "Oui : après un séjour au Centre hospitalier Bienne ou ailleurs, il suffit de l'ordonnance de physiothérapie. Le délai pour la première séance dépend de nos disponibilités [À CONFIRMER : délai du premier rendez-vous]."
+   },
+   {
+    "q": "Comment savoir si j'ai besoin d'un drainage lymphatique ?",
+    "a_html": "Un gonflement qui persiste après une opération, une jambe ou un bras qui reste lourd et tendu, ou un lymphœdème diagnostiqué sont les situations typiques. C'est votre médecin qui pose l'indication.",
+    "a_text": "Un gonflement qui persiste après une opération, une jambe ou un bras qui reste lourd et tendu, ou un lymphœdème diagnostiqué sont les situations typiques. C'est votre médecin qui pose l'indication."
+   },
+   {
+    "q": "Qui prescrit un drainage lymphatique ?",
+    "a_html": "Votre médecin traitant ou le spécialiste qui vous suit, par exemple après une chirurgie. Le drainage figure alors sur l'ordonnance de physiothérapie.",
+    "a_text": "Votre médecin traitant ou le spécialiste qui vous suit, par exemple après une chirurgie. Le drainage figure alors sur l'ordonnance de physiothérapie."
+   },
+   {
+    "q": "Le drainage lymphatique est-il douloureux ?",
+    "a_html": "Non. Les mouvements sont doux, lents et rythmés. Une zone opérée récemment peut être sensible : nous adaptons la pression.",
+    "a_text": "Non. Les mouvements sont doux, lents et rythmés. Une zone opérée récemment peut être sensible : nous adaptons la pression."
+   },
+   {
+    "q": "Quel est le nouveau tarif pour la physiothérapie ?",
+    "a_html": "Le tarif de la physiothérapie découle d'une structure nationale négociée entre la profession et les assureurs, qui peut évoluer [À CONFIRMER : tarif appliqué et date du dernier changement].",
+    "a_text": "Le tarif de la physiothérapie découle d'une structure nationale négociée entre la profession et les assureurs, qui peut évoluer [À CONFIRMER : tarif appliqué et date du dernier changement]."
    }
   ]
  },
  {
   "tipo": "cta",
-  "h2": "Réserver depuis Bienne ou Biel",
+  "h2": "Besoin d'un physio à Bienne ou dans les environs ?",
   "s1": "Prenez rendez-vous via la <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservation en ligne</a>, au 076 627 38 38 ou par WhatsApp au +41 76 627 38 38 : nous vous répondons en français.",
   "s2": null
  },

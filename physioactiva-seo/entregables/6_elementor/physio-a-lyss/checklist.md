@@ -36,4 +36,4 @@
 | FAQ (8-10) | sí | 9 preguntas |
 | CTA final en pregunta con la ciudad | sí |  |
 
-- receta: ciudad en 5 H2 · FAQ 9 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1465
+- receta: ciudad en 4 H2 · FAQ 9 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1358

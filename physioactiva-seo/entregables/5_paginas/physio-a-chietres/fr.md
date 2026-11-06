@@ -94,7 +94,7 @@ Les séances ont lieu en français ou en espagnol [À CONFIRMER : prise en charg
 Environ 7,6 km en ligne droite, ce qui en fait l'une des zones les plus proches du cabinet. Le plan est sur [Nous trouver](/nous-trouver/).
 
 ### Qu'est-ce que le MTT ?
-Le MTT, ou entraînement thérapeutique médical, désigne un entraînement sur appareils encadré par un physiothérapeute, pour reconstruire force et endurance après une blessure. Nos locaux chez InsGym se prêtent à ce travail [À CONFIRMER : MTT proposé et conditions de prise en charge].
+Le MTT, ou entraînement thérapeutique médical, désigne un entraînement sur appareils encadré par un physiothérapeute, pour reconstruire force et endurance après une blessure. Physio Activa le propose à Ins, dans les locaux de l'InsGym ; voir notre page [MTT et fitness médical](/medical-training-therapy-mtt/).
 
 ### Quel est le rôle d'un physiothérapeute ?
 Évaluer le mouvement, traiter la douleur par des techniques manuelles et des exercices, puis vous rendre autonome.
@@ -123,5 +123,5 @@ Le plus simple est de [réserver en ligne](/reservation-en-ligne/). Vous pouvez 
 - Estructura v2 (receta activaglobals) con 9 FAQ: 6 de `data/paa_banco.json` (MTT, rol del fisio, qué es una sesión, dolor tras la sesión, tarifa en Suiza…) y 3 locales (idioma, distancia, localidades vecinas).
 - Datos de la ficha usados: 7,6 km en línea recta, comuna germanófona, distrito del Lac / Friburgo, hospital HFR Meyriez-Murten (solo como contexto), localidades vecinas (Fräschels, Ried bei Kerzers, Galmiz, Agriswil).
 - Keywords locales (DataForSEO, Google Ads CH, 2026-11-06): sin volumen medible en francés ni servicios locales; se mantiene «physio chiètres».
-- Pendiente: domicilio en Chiètres, localidades cubiertas, días de paso, plazo de primera cita, si se atiende en alemán, si se ofrece MTT y tarifa aplicada.
+- Pendiente: domicilio en Chiètres, localidades cubiertas, días de paso, plazo de primera cita, si se atiende en alemán y tarifa aplicada. (MTT: se ofrece, existe /medical-training-therapy-mtt/.)
 - Lote B: no publicar hasta confirmación del cliente.

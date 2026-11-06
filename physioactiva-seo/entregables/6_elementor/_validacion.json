@@ -12,58 +12,55 @@
  {
   "slug": "a-propos-de-nous",
   "ok": true,
-  "a_confirmer": 9,
+  "a_confirmer": 11,
   "fallos": [],
   "notas": [
    "hero sub 325 car. (plantilla 433; ±20 % = 346–519)",
-   "receta: ciudad en 1 H2 · FAQ 4 · CTA reserva 5 / tel 2 / WhatsApp 2 · palabras visibles 784"
+   "receta: ciudad en 3 H2 · FAQ 8 · CTA reserva 6 / tel 3 / WhatsApp 3 · palabras visibles 1162"
   ]
  },
  {
   "slug": "physio-a-sugiez",
   "ok": true,
-  "a_confirmer": 4,
+  "a_confirmer": 8,
   "fallos": [],
   "notas": [
-   "hero sub 429 car. (plantilla 433; ±20 % = 346–519)",
-   "similitud máx. 8.3 % (con physio-a-morat); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (6)",
-   "receta: ciudad en 4 H2 · FAQ 3 · CTA reserva 3 / tel 2 / WhatsApp 2 · palabras visibles 722"
+   "hero sub 394 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 10.2 % (con physio-a-morat); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (6)",
+   "receta: ciudad en 4 H2 · FAQ 8 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1271"
   ]
  },
  {
   "slug": "physio-a-neuchatel",
-  "ok": false,
-  "a_confirmer": 5,
-  "fallos": [
-   "receta: ciudad nunca en un H3"
-  ],
+  "ok": true,
+  "a_confirmer": 7,
+  "fallos": [],
   "notas": [
-   "hero sub 397 car. (plantilla 433; ±20 % = 346–519)",
-   "similitud máx. 6.9 % (con physio-a-bienne); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (5), FAQ de la SERP local",
-   "H3 con ciudad: Drainage lymphatique à Neuchâtel | Physio du sport à Neuchâtel | Massage thérapeutique à Neuchâtel",
-   "receta: ciudad en 5 H2 · FAQ 4 · CTA reserva 3 / tel 2 / WhatsApp 2 · palabras visibles 842"
+   "hero sub 383 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 8.9 % (con physio-a-lyss); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (5), FAQ de la SERP local",
+   "receta: ciudad en 4 H2 · FAQ 10 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1287"
   ]
  },
  {
   "slug": "physio-a-la-neuveville",
   "ok": true,
-  "a_confirmer": 3,
+  "a_confirmer": 5,
   "fallos": [],
   "notas": [
-   "hero sub 361 car. (plantilla 433; ±20 % = 346–519)",
-   "similitud máx. 5.9 % (con physio-a-morat); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (4)",
-   "receta: ciudad en 3 H2 · FAQ 4 · CTA reserva 3 / tel 2 / WhatsApp 2 · palabras visibles 667"
+   "hero sub 404 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 8.1 % (con physio-a-morat); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (3)",
+   "receta: ciudad en 4 H2 · FAQ 9 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1264"
   ]
  },
  {
   "slug": "physio-a-avenches",
   "ok": true,
-  "a_confirmer": 3,
+  "a_confirmer": 6,
   "fallos": [],
   "notas": [
-   "hero sub 376 car. (plantilla 433; ±20 % = 346–519)",
-   "similitud máx. 6.5 % (con physio-a-yvonand); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (5)",
-   "receta: ciudad en 3 H2 · FAQ 4 · CTA reserva 3 / tel 2 / WhatsApp 2 · palabras visibles 670"
+   "hero sub 419 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 9.5 % (con physio-a-sugiez); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (5)",
+   "receta: ciudad en 4 H2 · FAQ 9 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1270"
   ]
  },
  {
@@ -73,122 +70,107 @@
   "fallos": [],
   "notas": [
    "hero sub 381 car. (plantilla 433; ±20 % = 346–519)",
-   "similitud máx. 4.5 % (con physio-a-morat); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (5)",
-   "receta: ciudad en 5 H2 · FAQ 9 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1465"
+   "similitud máx. 9.0 % (con physio-a-morat); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (5)",
+   "receta: ciudad en 4 H2 · FAQ 9 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1358"
   ]
  },
  {
   "slug": "physio-a-bienne",
-  "ok": false,
-  "a_confirmer": 5,
-  "fallos": [
-   "receta: ciudad nunca en un H3"
-  ],
+  "ok": true,
+  "a_confirmer": 8,
+  "fallos": [],
   "notas": [
-   "hero sub 377 car. (plantilla 433; ±20 % = 346–519)",
-   "similitud máx. 6.9 % (con physio-a-neuchatel); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (5)",
-   "H3 con ciudad: Drainage lymphatique à Bienne",
-   "receta: ciudad en 5 H2 · FAQ 4 · CTA reserva 3 / tel 2 / WhatsApp 2 · palabras visibles 777"
+   "hero sub 349 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 9.1 % (con physio-a-estavayer); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (5)",
+   "receta: ciudad en 4 H2 · FAQ 10 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1359"
   ]
  },
  {
   "slug": "physio-a-fribourg",
-  "ok": false,
-  "a_confirmer": 6,
-  "fallos": [
-   "receta: ciudad nunca en un H3"
-  ],
+  "ok": true,
+  "a_confirmer": 8,
+  "fallos": [],
   "notas": [
-   "hero sub 373 car. (plantilla 433; ±20 % = 346–519)",
-   "similitud máx. 7.3 % (con physio-a-morat); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (4)",
-   "H3 con ciudad: Drainage lymphatique à Fribourg | Massage thérapeutique à Fribourg | Dry needling à Fribourg",
-   "receta: ciudad en 4 H2 · FAQ 4 · CTA reserva 3 / tel 2 / WhatsApp 2 · palabras visibles 839"
+   "hero sub 371 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 8.5 % (con physio-a-morat); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (4)",
+   "receta: ciudad en 4 H2 · FAQ 10 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1345"
   ]
  },
  {
   "slug": "physio-a-payerne",
-  "ok": false,
-  "a_confirmer": 6,
-  "fallos": [
-   "receta: ciudad nunca en un H3"
-  ],
+  "ok": true,
+  "a_confirmer": 9,
+  "fallos": [],
   "notas": [
    "hero sub 380 car. (plantilla 433; ±20 % = 346–519)",
-   "similitud máx. 6.5 % (con physio-a-bienne); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (4), FAQ de la SERP local",
-   "H3 con ciudad: Drainage lymphatique à Payerne",
-   "receta: ciudad en 3 H2 · FAQ 4 · CTA reserva 3 / tel 2 / WhatsApp 2 · palabras visibles 785"
+   "similitud máx. 9.9 % (con physio-a-yverdon); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (3), FAQ de la SERP local",
+   "receta: ciudad en 4 H2 · FAQ 9 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1356"
   ]
  },
  {
   "slug": "physio-a-morat",
   "ok": true,
-  "a_confirmer": 4,
+  "a_confirmer": 9,
   "fallos": [],
   "notas": [
-   "hero sub 411 car. (plantilla 433; ±20 % = 346–519)",
-   "similitud máx. 8.3 % (con physio-a-sugiez); datos propios: distancia, idioma, hospital, localidades vecinas (5)",
-   "receta: ciudad en 4 H2 · FAQ 4 · CTA reserva 3 / tel 2 / WhatsApp 2 · palabras visibles 705"
+   "hero sub 402 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 10.2 % (con physio-a-sugiez); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (5)",
+   "receta: ciudad en 4 H2 · FAQ 9 · CTA reserva 5 / tel 3 / WhatsApp 3 · palabras visibles 1321"
   ]
  },
  {
   "slug": "physio-a-chietres",
   "ok": true,
-  "a_confirmer": 5,
+  "a_confirmer": 9,
   "fallos": [],
   "notas": [
-   "hero sub 309 car. (plantilla 433; ±20 % = 346–519)",
-   "similitud máx. 5.6 % (con physio-a-neuchatel); datos propios: distancia, idioma, distrito/cantón, localidades vecinas (4)",
-   "receta: ciudad en 4 H2 · FAQ 4 · CTA reserva 3 / tel 2 / WhatsApp 2 · palabras visibles 659"
+   "hero sub 315 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 8.7 % (con physio-a-lyss); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (4)",
+   "receta: ciudad en 4 H2 · FAQ 9 · CTA reserva 5 / tel 3 / WhatsApp 3 · palabras visibles 1349"
   ]
  },
  {
   "slug": "physio-a-estavayer",
-  "ok": false,
-  "a_confirmer": 6,
-  "fallos": [
-   "receta: ciudad nunca en un H3"
-  ],
+  "ok": true,
+  "a_confirmer": 10,
+  "fallos": [],
   "notas": [
-   "hero sub 399 car. (plantilla 433; ±20 % = 346–519)",
-   "similitud máx. 8.0 % (con physio-a-yvonand); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (4)",
-   "H3 con ciudad: Drainage lymphatique à Estavayer",
-   "receta: ciudad en 4 H2 · FAQ 4 · CTA reserva 3 / tel 2 / WhatsApp 2 · palabras visibles 781"
+   "hero sub 349 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 9.4 % (con physio-a-payerne); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (4)",
+   "receta: ciudad en 4 H2 · FAQ 10 · CTA reserva 5 / tel 3 / WhatsApp 3 · palabras visibles 1324"
   ]
  },
  {
   "slug": "physio-a-yvonand",
   "ok": true,
-  "a_confirmer": 4,
+  "a_confirmer": 7,
   "fallos": [],
   "notas": [
-   "hero sub 438 car. (plantilla 433; ±20 % = 346–519)",
-   "similitud máx. 8.0 % (con physio-a-estavayer); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (4)",
-   "receta: ciudad en 3 H2 · FAQ 4 · CTA reserva 3 / tel 2 / WhatsApp 2 · palabras visibles 642"
+   "hero sub 351 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 8.8 % (con physio-a-bienne); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (4)",
+   "receta: ciudad en 4 H2 · FAQ 9 · CTA reserva 5 / tel 3 / WhatsApp 3 · palabras visibles 1288"
   ]
  },
  {
   "slug": "physio-a-yverdon",
   "ok": true,
-  "a_confirmer": 4,
+  "a_confirmer": 8,
   "fallos": [],
   "notas": [
-   "hero sub 472 car. (plantilla 433; ±20 % = 346–519)",
-   "similitud máx. 6.3 % (con physio-a-morat); datos propios: idioma, distrito/cantón, hospital, localidades vecinas (4)",
-   "receta: ciudad en 3 H2 · FAQ 4 · CTA reserva 3 / tel 2 / WhatsApp 2 · palabras visibles 875"
+   "hero sub 386 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 9.9 % (con physio-a-payerne); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (4)",
+   "receta: ciudad en 4 H2 · FAQ 9 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1255"
   ]
  },
  {
   "slug": "physio-a-lausanne",
-  "ok": false,
-  "a_confirmer": 6,
-  "fallos": [
-   "receta: ciudad nunca en un H3"
-  ],
+  "ok": true,
+  "a_confirmer": 10,
+  "fallos": [],
   "notas": [
-   "hero sub 441 car. (plantilla 433; ±20 % = 346–519)",
-   "similitud máx. 5.7 % (con physio-a-yverdon); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (4)",
-   "H3 con ciudad: Drainage lymphatique à Lausanne | Massage thérapeutique à Lausanne | Physio du sport à Lausanne | Dry needling à Lausanne",
-   "receta: ciudad en 5 H2 · FAQ 3 · CTA reserva 3 / tel 2 / WhatsApp 2 · palabras visibles 883"
+   "hero sub 414 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 8.6 % (con physio-a-yverdon); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (4)",
+   "receta: ciudad en 4 H2 · FAQ 9 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1280"
   ]
  },
  {
@@ -198,7 +180,7 @@
   "fallos": [],
   "notas": [
    "hero sub 308 car. (plantilla 433; ±20 % = 346–519)",
-   "receta: ciudad en 2 H2 · FAQ 5 · CTA reserva 3 / tel 3 / WhatsApp 3 · palabras visibles 835"
+   "receta: ciudad en 2 H2 · FAQ 8 · CTA reserva 3 / tel 3 / WhatsApp 3 · palabras visibles 982"
   ]
  },
  {
@@ -208,7 +190,7 @@
   "fallos": [],
   "notas": [
    "hero sub 369 car. (plantilla 433; ±20 % = 346–519)",
-   "receta: ciudad en 4 H2 · FAQ 5 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1340"
+   "receta: ciudad en 4 H2 · FAQ 8 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1517"
   ]
  },
  {
@@ -218,7 +200,7 @@
   "fallos": [],
   "notas": [
    "hero sub 382 car. (plantilla 433; ±20 % = 346–519)",
-   "receta: ciudad en 4 H2 · FAQ 6 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1322"
+   "receta: ciudad en 4 H2 · FAQ 8 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1423"
   ]
  },
  {
@@ -228,7 +210,7 @@
   "fallos": [],
   "notas": [
    "hero sub 392 car. (plantilla 433; ±20 % = 346–519)",
-   "receta: ciudad en 4 H2 · FAQ 6 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1309"
+   "receta: ciudad en 4 H2 · FAQ 8 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1431"
   ]
  },
  {
@@ -238,7 +220,7 @@
   "fallos": [],
   "notas": [
    "hero sub 359 car. (plantilla 433; ±20 % = 346–519)",
-   "receta: ciudad en 4 H2 · FAQ 6 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1390"
+   "receta: ciudad en 4 H2 · FAQ 8 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1489"
   ]
  },
  {
@@ -248,7 +230,7 @@
   "fallos": [],
   "notas": [
    "hero sub 417 car. (plantilla 433; ±20 % = 346–519)",
-   "receta: ciudad en 4 H2 · FAQ 6 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1611"
+   "receta: ciudad en 4 H2 · FAQ 8 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1730"
   ]
  },
  {
@@ -258,7 +240,7 @@
   "fallos": [],
   "notas": [
    "hero sub 490 car. (plantilla 433; ±20 % = 346–519)",
-   "receta: ciudad en 4 H2 · FAQ 7 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1619"
+   "receta: ciudad en 4 H2 · FAQ 8 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1675"
   ]
  },
  {
@@ -268,17 +250,17 @@
   "fallos": [],
   "notas": [
    "hero sub 390 car. (plantilla 433; ±20 % = 346–519)",
-   "receta: ciudad en 4 H2 · FAQ 7 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1703"
+   "receta: ciudad en 4 H2 · FAQ 8 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1776"
   ]
  },
  {
   "slug": "reservation-en-ligne",
   "ok": true,
-  "a_confirmer": 2,
+  "a_confirmer": 3,
   "fallos": [],
   "notas": [
    "hero sub 232 car. (plantilla 433; ±20 % = 346–519)",
-   "receta: ciudad en 3 H2 · FAQ 4 · CTA reserva 3 / tel 2 / WhatsApp 2 · palabras visibles 586"
+   "receta: ciudad en 3 H2 · FAQ 8 · CTA reserva 3 / tel 2 / WhatsApp 2 · palabras visibles 767"
   ]
  }
 ]

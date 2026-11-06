@@ -25,7 +25,7 @@
 | Tipos según el caso (H2 + H3 por subtipo) | no | no aplica a esta página |
 | Proceso en pasos (H2 + H3) + CTA intermedio | sí |  |
 | Reembolso y coste | no | omitida |
-| FAQ (8-10) | no | 5 preguntas — texto ya validado del módulo 5: no se reescribe (2.5.5); ampliar con preguntas de data/paa_banco.json en una revisión |
+| FAQ (8-10) | sí | 8 preguntas |
 | CTA final en pregunta con la ciudad | sí |  |
 
-- receta: ciudad en 2 H2 · FAQ 5 · CTA reserva 3 / tel 3 / WhatsApp 3 · palabras visibles 835
+- receta: ciudad en 2 H2 · FAQ 8 · CTA reserva 3 / tel 3 / WhatsApp 3 · palabras visibles 982

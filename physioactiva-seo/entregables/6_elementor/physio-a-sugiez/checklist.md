@@ -3,12 +3,16 @@
 - Lote: A · Plantilla: lombaire · Validación: OK
 - Indexación: index, follow
 
-## Marcadores [À CONFIRMER] (4)
+## Marcadores [À CONFIRMER] (8)
 
-- [À CONFIRMER : domicile toujours proposé à Sugiez] — «Vous pouvez venir au cabinet ou, sur ordonnance médicale, recevoir votre physio chez vous dans le Mont-Vully [À CONFIRMER : domicile toujours proposé à Sugiez].»
-- [À CONFIRMER : liste des villages et jours de passage dans le Vully] — «Notre site mentionne déjà des visites à domicile à Sugiez, Praz, Môtier, Lugnorre et Guévaux ; pour Nant, Salavaux ou Cudrefin, demandez-nous simplement si votre adresse est desservie [À CONFIRMER : liste des villages et jours de passage dans le Vully].»
+- [À CONFIRMER : domicile toujours proposé à Sugiez] — «Vous venez au cabinet ou, sur ordonnance, vous recevez votre physio chez vous dans le Mont-Vully [À CONFIRMER : domicile toujours proposé à Sugiez].»
+- [À CONFIRMER : villages et jours de passage dans le Vully] — «Pour qui ne peut pas se déplacer, une visite à la maison est possible sur prescription [À CONFIRMER : villages et jours de passage dans le Vully].»
+- [À CONFIRMER : liste des villages desservis] — «Pour Nant, Salavaux ou Cudrefin, demandez simplement si votre adresse est desservie [À CONFIRMER : liste des villages desservis].»
 - [À CONFIRMER : arrêt et horaires à vérifier pour Sugiez] — «Notre site indique aussi un accès en train par la ligne Fribourg–Morat–Ins [À CONFIRMER : arrêt et horaires à vérifier pour Sugiez].»
-- [À CONFIRMER : jours de passage dans le Mont-Vully] — «Les jours de passage restent à fixer avec vous [À CONFIRMER : jours de passage dans le Mont-Vully].»
+- [À CONFIRMER : tarif appliqué] — «Les séances sont facturées selon la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué].»
+- [À CONFIRMER : tarif appliqué] — «Les séances prescrites suivent la structure tarifaire nationale convenue avec les assureurs [À CONFIRMER : tarif appliqué] ; avec une ordonnance, il vous reste la franchise et la quote-part LAMal.»
+- [À CONFIRMER : jours de passage dans le Mont-Vully] — «Les jours de passage restent à convenir avec vous [À CONFIRMER : jours de passage dans le Mont-Vully].»
+- [À CONFIRMER : domicile après une opération] — «Nous reprenons la rééducation au cabinet ou chez vous si vous ne pouvez pas encore conduire [À CONFIRMER : domicile après une opération].»
 
 ## Publicación
 
@@ -24,12 +28,12 @@
 | Sección | ¿Está? | Nota |
 |---|---|---|
 | H1 «servicio + ciudad» | sí | Physio à Sugiez et dans le Vully : au cabinet d'Ins ou à domicile |
-| 4 H3 de valor bajo el hero | no | omitida |
-| Qué es / cuándo consultar (+ señales de alarma) | no | página sin patología concreta (hub/reserva/home): no aplica |
+| 4 H3 de valor bajo el hero | sí |  |
+| Qué es / cuándo consultar (+ señales de alarma) | sí |  |
 | Tipos según el caso (H2 + H3 por subtipo) | sí |  |
-| Proceso en pasos (H2 + H3) + CTA intermedio | no | no aplica a esta página |
+| Proceso en pasos (H2 + H3) + CTA intermedio | sí |  |
 | Reembolso y coste | sí |  |
-| FAQ (8-10) | no | 3 preguntas — texto ya validado del módulo 5: no se reescribe (2.5.5); ampliar con preguntas de data/paa_banco.json en una revisión |
-| CTA final en pregunta con la ciudad | no | omitida |
+| FAQ (8-10) | sí | 8 preguntas |
+| CTA final en pregunta con la ciudad | sí |  |
 
-- receta: ciudad en 4 H2 · FAQ 3 · CTA reserva 3 / tel 2 / WhatsApp 2 · palabras visibles 722
+- receta: ciudad en 4 H2 · FAQ 8 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1271

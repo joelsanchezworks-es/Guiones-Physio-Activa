@@ -1,15 +1,18 @@
 # Checklist — /physio-a-bienne/
 
-- Lote: A · Plantilla: lombaire · Validación: ERRORES: receta: ciudad nunca en un H3
+- Lote: A · Plantilla: lombaire · Validación: OK
 - Indexación: index, follow
 
-## Marcadores [À CONFIRMER] (5)
+## Marcadores [À CONFIRMER] (8)
 
-- [À CONFIRMER : domicile à Bienne] — «Selon votre situation, une prise en charge à domicile peut aussi être organisée [À CONFIRMER : domicile à Bienne].»
-- [À CONFIRMER : localités desservies, jours de passage et délai du premier rendez-vous] — «Autour de la ville, Nidau, Brügg, Port, Ipsach et Evilard sont des communes voisines que nous pourrions inclure dans nos tournées [À CONFIRMER : localités desservies, jours de passage et délai du premier rendez-vous].»
-- [À CONFIRMER : drainage à domicile à Bienne] — «Sur prescription médicale, il fait partie d'un traitement de physiothérapie, au cabinet d'Ins ou à votre domicile biennois [À CONFIRMER : drainage à domicile à Bienne].»
-- [À CONFIRMER : localités desservies] — «Ces communes voisines de Bienne peuvent entrer dans nos déplacements à domicile [À CONFIRMER : localités desservies].»
+- [À CONFIRMER : domicile à Bienne] — «Vous cherchez un physiothérapeute à Bienne (Biel) qui vous soigne en français ? Physio Activa vous accueille à Ins, à environ 18 km en ligne droite de la ville, et une prise en charge à domicile peut être étudiée [À CONFIRMER : domicile à Bienne].»
+- [À CONFIRMER : déplacements à Bienne] — «Vous choisissez : le cabinet, situé dans le même canton de Berne, ou votre appartement si sortir reste compliqué [À CONFIRMER : déplacements à Bienne].»
+- [À CONFIRMER : localités desservies, jours de passage et délai du premier rendez-vous] — «Nidau, Brügg, Port, Ipsach et Evilard sont des communes voisines que nous pourrions inclure dans nos tournées [À CONFIRMER : localités desservies, jours de passage et délai du premier rendez-vous].»
+- [À CONFIRMER : drainage à domicile à Bienne] — «Sur prescription, il fait partie du traitement de physiothérapie, à Ins ou chez vous [À CONFIRMER : drainage à domicile à Bienne].»
+- [À CONFIRMER : tarif appliqué] — «La facturation suit la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué].»
+- [À CONFIRMER : localités desservies] — «Ces communes voisines peuvent entrer dans nos déplacements à domicile [À CONFIRMER : localités desservies].»
 - [À CONFIRMER : délai du premier rendez-vous] — «Le délai pour la première séance dépend de nos disponibilités [À CONFIRMER : délai du premier rendez-vous].»
+- [À CONFIRMER : tarif appliqué et date du dernier changement] — «Le tarif de la physiothérapie découle d'une structure nationale négociée entre la profession et les assureurs, qui peut évoluer [À CONFIRMER : tarif appliqué et date du dernier changement].»
 
 ## Publicación
 
@@ -25,12 +28,12 @@
 | Sección | ¿Está? | Nota |
 |---|---|---|
 | H1 «servicio + ciudad» | sí | Physio à Bienne (Biel) : au cabinet d'Ins ou à domicile |
-| 4 H3 de valor bajo el hero | no | omitida |
-| Qué es / cuándo consultar (+ señales de alarma) | no | página sin patología concreta (hub/reserva/home): no aplica |
+| 4 H3 de valor bajo el hero | sí |  |
+| Qué es / cuándo consultar (+ señales de alarma) | sí |  |
 | Tipos según el caso (H2 + H3 por subtipo) | sí |  |
-| Proceso en pasos (H2 + H3) + CTA intermedio | no | no aplica a esta página |
+| Proceso en pasos (H2 + H3) + CTA intermedio | sí |  |
 | Reembolso y coste | sí |  |
-| FAQ (8-10) | no | 4 preguntas — texto ya validado del módulo 5: no se reescribe (2.5.5); ampliar con preguntas de data/paa_banco.json en una revisión |
-| CTA final en pregunta con la ciudad | no | omitida |
+| FAQ (8-10) | sí | 10 preguntas |
+| CTA final en pregunta con la ciudad | sí |  |
 
-- receta: ciudad en 5 H2 · FAQ 4 · CTA reserva 3 / tel 2 / WhatsApp 2 · palabras visibles 777
+- receta: ciudad en 4 H2 · FAQ 10 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1359

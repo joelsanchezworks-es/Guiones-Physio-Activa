@@ -3,7 +3,7 @@
   "tipo": "hero",
   "eyebrow": "Physio · Yvonand",
   "h1": "Physio à Yvonand : au cabinet d'Ins ou à domicile",
-  "sub": "Une ordonnance de physiothérapie en poche et un domicile à Yvonand ? Physio Activa travaille depuis Ins, à environ 35,9 km en ligne droite, et vous propose des séances au cabinet ; le déplacement à domicile reste à confirmer pour votre secteur [À CONFIRMER : domicile à Yvonand]. Que la physiothérapie ait lieu à Yvonand, chez vous, ou à Ins, les séances prescrites sont remboursées, et un rendez-vous se prend en quelques clics en ligne.",
+  "sub": "Une ordonnance de physiothérapie en poche et un domicile à Yvonand ? Physio Activa travaille depuis Ins, à environ 35,9 km en ligne droite, et vous reçoit au cabinet ; le déplacement chez vous reste à confirmer pour votre secteur [À CONFIRMER : domicile à Yvonand]. Les séances prescrites sont remboursées et un rendez-vous se prend en quelques clics.",
   "pills": [
    "Cabinet à Ins, à 35,9 km",
    "Sur prescription médicale",
@@ -15,67 +15,137 @@
   "cta": "Prendre rendez-vous"
  },
  {
-  "tipo": "texte",
-  "eyebrow": "À domicile",
-  "h2": "Physiothérapie à domicile à Yvonand et environs",
+  "tipo": "grid",
+  "eyebrow": "En bref",
+  "h2": "L'essentiel en bref",
   "lead": [],
   "bg": null,
-  "html": "<p>À environ 35,9 km du cabinet, un passage à domicile n'y a de sens que si plusieurs patients du même secteur sont suivis le même jour. Chêne-Pâquier, Démoret, Rovray et Cheyres-Châbles seraient alors concernés [À CONFIRMER : localités desservies et jours de passage]. Cette option vise les patients alités, très limités dans leurs déplacements ou en convalescence. Détails pratiques : <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>.</p>"
+  "cards": [
+   {
+    "h3": "Sur prescription, remboursé LAMal / LAA",
+    "html": "<p>Habiter le canton de Vaud et se soigner dans le canton de Berne ne pose aucun problème : la prescription médicale suffit pour la LAMal comme pour la LAA.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Au cabinet d'Ins ou à domicile",
+    "html": "<p>La rééducation se fait surtout au cabinet. Un passage dans le Nord vaudois n'aurait de sens qu'en regroupant plusieurs patients le même jour [À CONFIRMER : domicile et jours de passage].</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Bilan et plan de traitement",
+    "html": "<p>Parce que la distance est importante, nous définissons dès le départ un plan qui mise sur votre travail personnel entre les séances.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
+    "html": "<p>Un créneau en ligne sur la <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservation</a>, un appel au 076 627 38 38 ou un message WhatsApp au +41 76 627 38 38.</p>",
+    "icon": "fa-calendar-check"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Signaux d'alarme",
+  "h2": "Quand consulter un physio, et quand voir d'abord un médecin ?",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Torticolis qui revient, raideur de la nuque après la conduite ou le télétravail, hanche arthrosique qui raccourcit les promenades, lombalgie qui traîne depuis des mois, genou qui lâche à la descente des escaliers : voilà le type de gênes pour lesquelles un physiothérapeute apporte une aide concrète. La préparation et les suites d'une prothèse de hanche en font aussi partie.</p><p style=\"margin-top:12px\">C'est votre médecin qui pose l'indication et signe l'ordonnance. Consultez-le d'abord, ou appelez le 144 en urgence, si :\n- la douleur de nuque s'accompagne de vertiges, de troubles de la parole ou de la vision ;\n- une hanche ou un genou devient brusquement impossible à charger ;\n- le mal de dos s'accompagne d'une perte de force ou de sensibilité ;\n- vous avez de la fièvre, des sueurs nocturnes ou une douleur qui augmente sans raison.</p>"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Notre approche",
+  "h2": "Quelle prise en charge selon votre situation ?",
+  "lead": [],
+  "bg": null,
+  "cards": [
+   {
+    "h3": "Au cabinet d'Ins",
+    "html": "<p>Nous exerçons dans les locaux d'InsGym, où un programme d'exercices se construit sur place puis se poursuit en autonomie. Cela permet d'espacer les séances quand l'évolution le permet, un vrai avantage depuis Yvonand.</p>",
+    "icon": "fa-location-dot"
+   },
+   {
+    "h3": "À domicile et localités voisines",
+    "html": "<p>À environ 35,9 km du cabinet, un passage chez vous dépendra du nombre de patients suivis dans le secteur. Chêne-Pâquier, Démoret, Rovray et Cheyres-Châbles seraient alors concernés [À CONFIRMER : localités desservies]. Cette option vise les patients alités ou très limités dans leurs déplacements : <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Après une opération ou une hospitalisation",
+    "html": "<p>Si votre intervention ou votre séjour a eu lieu à l'eHnv d'Yverdon-les-Bains, l'hôpital de la région, nous reprenons la rééducation sur la base de l'ordonnance de sortie.</p>",
+    "icon": "fa-hospital"
+   },
+   {
+    "h3": "Nuque, hanche, dos et genou",
+    "html": "<p>– <a href=\"/douleur-cervicale-au-cou/\" style=\"color:var(--azure);font-weight:600\">Douleur cervicale</a> : torticolis, nuque raide, tensions liées à l'écran ou au volant.</p><p style=\"margin-top:12px\">– <a href=\"/douleur-de-hanche-protheses/\" style=\"color:var(--azure);font-weight:600\">Hanche et prothèses</a> : arthrose, préparation et suites d'une prothèse totale.</p><p style=\"margin-top:12px\">– <a href=\"/mal-de-dos-lombaire/\" style=\"color:var(--azure);font-weight:600\">Mal de dos et lombalgie</a> : douleur aiguë ou chronique, éducation à la douleur, renforcement du tronc.</p><p style=\"margin-top:12px\">– <a href=\"/douleur-du-genou-lesions-de-la-cheville/\" style=\"color:var(--azure);font-weight:600\">Genou</a> : douleurs rotuliennes, lésions ligamentaires, reprise du sport.</p><p style=\"margin-top:12px\">Pour un autre problème : <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">toutes les pathologies</a>.</p>",
+    "icon": "fa-bone"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Notre approche",
+  "h2": "Comment se déroule votre prise en charge ?",
+  "lead": [],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Ordonnance",
+    "html": "<p>Votre médecin, à Yvonand, à Yverdon ou ailleurs, mentionne la physiothérapie et le motif. Une photo envoyée par WhatsApp nous permet de préparer votre dossier.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Bilan",
+    "html": "<p>Le premier rendez-vous est plus long : nous écoutons votre histoire, testons vos mouvements et choisissons avec vous un objectif réaliste, comme marcher une heure sans douleur.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Séances au cabinet ou à domicile",
+    "html": "<p>Traitement manuel, exercices progressifs et conseils posturaux se complètent. Nous regroupons volontiers les rendez-vous selon vos contraintes de déplacement.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Autonomie et prévention",
+    "html": "<p>Chaque exercice appris au cabinet est noté pour être refait chez vous. Plus vous devenez autonome, moins les trajets sont nécessaires.</p>",
+    "icon": "fa-person-walking"
+   }
+  ],
+  "cta_mid": true
  },
  {
   "tipo": "texte",
   "eyebrow": "Accès",
   "h2": "Venir au cabinet d'Ins depuis Yvonand",
   "lead": [],
-  "bg": "trust",
-  "html": "<p>Le cabinet d'Ins est à environ 35,9 km en ligne droite d'Yvonand. Nous exerçons dans les locaux d'InsGym, où un programme d'exercices peut être construit sur place et poursuivi ensuite en autonomie, ce qui permet d'espacer les séances quand l'évolution le permet. Pour préparer votre venue : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Si votre opération ou votre séjour hospitalier a eu lieu à l'eHnv d'Yverdon-les-Bains, nous pouvons reprendre la rééducation avec l'ordonnance de sortie. Les consultations se font en français, la langue d'Yvonand, ou en espagnol.</p>"
+  "bg": null,
+  "html": "<p>Le cabinet d'Ins est à environ 35,9 km en ligne droite d'Yvonand, commune du district du Jura-Nord vaudois. Pour préparer votre venue, consultez <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Les consultations se tiennent en français, la langue d'Yvonand, ou en espagnol. Pour les patients suivis à l'eHnv, la transition vers notre cabinet se fait simplement avec l'ordonnance.</p>"
  },
  {
   "tipo": "grid",
-  "eyebrow": "Ce que nous traitons",
-  "h2": "Ce que nous traitons",
+  "eyebrow": "Remboursement",
+  "h2": "Remboursement et coût de la physio à Yvonand",
   "lead": [],
-  "bg": null,
+  "bg": "trust",
   "cards": [
    {
-    "h3": null,
-    "html": "<p><a href=\"/douleur-cervicale-au-cou/\" style=\"color:var(--azure);font-weight:600\">Douleur cervicale</a> : torticolis, raideur de la nuque, tensions liées au télétravail ou à la conduite.</p>",
-    "icon": "fa-bolt"
+    "h3": "Assurance de base (LAMal)",
+    "html": "<p>L'assurance obligatoire des soins couvre la physiothérapie prescrite partout en Suisse. Votre domicile vaudois n'empêche pas un traitement dans un cabinet bernois.</p>",
+    "icon": "fa-file-medical"
    },
    {
-    "h3": null,
-    "html": "<p><a href=\"/douleur-de-hanche-protheses/\" style=\"color:var(--azure);font-weight:600\">Hanche et prothèses</a> : arthrose de hanche, préparation et suites d'une prothèse totale.</p>",
-    "icon": "fa-hospital"
+    "h3": "Accident, AI et AM",
+    "html": "<p>En cas d'accident, l'assurance accidents (LAA) prend en charge les séances prescrites ; l'AI et l'assurance militaire (AM) aussi, chacune dans son domaine.</p>",
+    "icon": "fa-stethoscope"
    },
    {
-    "h3": null,
-    "html": "<p><a href=\"/mal-de-dos-lombaire/\" style=\"color:var(--azure);font-weight:600\">Mal de dos et lombalgie</a> : lombalgie chronique ou aiguë, éducation à la douleur et renforcement du tronc.</p>",
-    "icon": "fa-dumbbell"
-   },
-   {
-    "h3": null,
-    "html": "<p><a href=\"/douleur-du-genou-lesions-de-la-cheville/\" style=\"color:var(--azure);font-weight:600\">Genou</a> : douleurs rotuliennes, lésions ligamentaires, reprise du sport.</p>",
-    "icon": "fa-person-running"
-   },
-   {
-    "h3": null,
-    "html": "<p>Pour un autre problème : <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">toutes les pathologies</a>.</p>",
-    "icon": "fa-circle-info"
+    "h3": "Ce qui détermine ce que vous payez",
+    "html": "<p>Sous LAMal, vous assumez la franchise et la quote-part. Le prix de la séance suit la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué].</p>",
+    "icon": "fa-heart-pulse"
    }
   ]
  },
  {
-  "tipo": "texte",
-  "eyebrow": "Remboursement",
-  "h2": "Remboursement",
-  "lead": [],
-  "bg": "trust",
-  "html": "<p>La physiothérapie prescrite par un médecin est prise en charge par l'assurance de base (LAMal), l'assurance accidents (LAA), l'AI ou l'AM. Avec la LAMal, la franchise et la quote-part restent à votre charge. Apportez l'ordonnance et votre carte d'assuré à la première séance.</p>"
- },
- {
   "tipo": "villes",
   "eyebrow": "Localités voisines",
-  "h2": "Physio près de Yvonand : autres localités",
+  "h2": "Autres localités proches",
   "lead": [
    "Vous habitez entre Yvonand et le Seeland ? Consultez aussi nos pages locales voisines."
   ],
@@ -105,33 +175,58 @@
  },
  {
   "tipo": "faq",
-  "h2": "Questions fréquentes",
+  "h2": "Questions fréquentes sur la physio à Yvonand",
   "faq": [
    {
     "q": "J'habite dans le canton de Vaud : puis-je être suivi à Ins, dans le canton de Berne ?",
-    "a_html": "Oui. La LAMal est une assurance fédérale : la prise en charge sur ordonnance ne dépend pas du canton où vous habitez. Pensez simplement à apporter votre ordonnance et votre carte d'assuré.",
-    "a_text": "Oui. La LAMal est une assurance fédérale : la prise en charge sur ordonnance ne dépend pas du canton où vous habitez. Pensez simplement à apporter votre ordonnance et votre carte d'assuré."
+    "a_html": "Oui. La LAMal est une assurance fédérale : la prise en charge sur ordonnance ne dépend pas de votre canton. Apportez simplement l'ordonnance et votre carte d'assuré.",
+    "a_text": "Oui. La LAMal est une assurance fédérale : la prise en charge sur ordonnance ne dépend pas de votre canton. Apportez simplement l'ordonnance et votre carte d'assuré."
    },
    {
-    "q": "Quelle distance entre Yvonand et le cabinet ?",
-    "a_html": "Environ 35,9 km en ligne droite. Le plan d'accès figure sur la page <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.",
-    "a_text": "Environ 35,9 km en ligne droite. Le plan d'accès figure sur la page Nous trouver ."
+    "q": "Quelle distance entre la commune et le cabinet ?",
+    "a_html": "Environ 35,9 km en ligne droite. C'est l'une de nos zones les plus éloignées, d'où l'accent mis sur les exercices à domicile.",
+    "a_text": "Environ 35,9 km en ligne droite. C'est l'une de nos zones les plus éloignées, d'où l'accent mis sur les exercices à domicile."
    },
    {
-    "q": "Assurez-vous le suivi après une opération à l'eHnv d'Yverdon ?",
-    "a_html": "Oui, la rééducation peut commencer dès réception de l'ordonnance de physiothérapie [À CONFIRMER : délai pour une première séance et domicile possible à Yvonand].",
-    "a_text": "Oui, la rééducation peut commencer dès réception de l'ordonnance de physiothérapie [À CONFIRMER : délai pour une première séance et domicile possible à Yvonand]."
+    "q": "Quelle est la différence entre un kinésithérapeute et un physiothérapeute ?",
+    "a_html": "Il s'agit du même métier : en Suisse, le titre reconnu est celui de physiothérapeute, alors qu'en France on parle plutôt de masseur-kinésithérapeute.",
+    "a_text": "Il s'agit du même métier : en Suisse, le titre reconnu est celui de physiothérapeute, alors qu'en France on parle plutôt de masseur-kinésithérapeute."
    },
    {
-    "q": "Passez-vous à Démoret ou à Rovray ?",
-    "a_html": "Ces communes voisines d'Yvonand seraient regroupées avec les visites du secteur si le domicile y est proposé [À CONFIRMER : localités et jours de passage].",
-    "a_text": "Ces communes voisines d'Yvonand seraient regroupées avec les visites du secteur si le domicile y est proposé [À CONFIRMER : localités et jours de passage]."
+    "q": "Comment se passe une séance de physiothérapie ?",
+    "a_html": "Après un court point sur l'évolution, le physiothérapeute traite la zone douloureuse puis vous fait travailler activement. La fin de séance sert à revoir votre programme personnel.",
+    "a_text": "Après un court point sur l'évolution, le physiothérapeute traite la zone douloureuse puis vous fait travailler activement. La fin de séance sert à revoir votre programme personnel."
+   },
+   {
+    "q": "Quand faire de la physiothérapie ?",
+    "a_html": "Dès qu'une douleur ou une limitation dure et gêne votre quotidien, ou après une opération. Mieux vaut ne pas attendre que la gêne devienne chronique : parlez-en à votre médecin.",
+    "a_text": "Dès qu'une douleur ou une limitation dure et gêne votre quotidien, ou après une opération. Mieux vaut ne pas attendre que la gêne devienne chronique : parlez-en à votre médecin."
+   },
+   {
+    "q": "Est-ce que la physiothérapie est remboursée ?",
+    "a_html": "Oui, à condition d'avoir une prescription médicale : LAMal, LAA, AI ou AM selon l'origine du problème, franchise et quote-part déduites en LAMal.",
+    "a_text": "Oui, à condition d'avoir une prescription médicale : LAMal, LAA, AI ou AM selon l'origine du problème, franchise et quote-part déduites en LAMal."
+   },
+   {
+    "q": "Quel est le prix d'une séance de physiothérapie en Suisse ?",
+    "a_html": "Il est fixé par une structure tarifaire nationale convenue avec les assureurs, et non librement par chaque cabinet [À CONFIRMER : tarif appliqué].",
+    "a_text": "Il est fixé par une structure tarifaire nationale convenue avec les assureurs, et non librement par chaque cabinet [À CONFIRMER : tarif appliqué]."
+   },
+   {
+    "q": "Assurez-vous le suivi après une opération à l'eHnv ?",
+    "a_html": "Oui, la rééducation peut commencer dès réception de l'ordonnance de physiothérapie [À CONFIRMER : délai pour une première séance et domicile possible].",
+    "a_text": "Oui, la rééducation peut commencer dès réception de l'ordonnance de physiothérapie [À CONFIRMER : délai pour une première séance et domicile possible]."
+   },
+   {
+    "q": "Passez-vous à Démoret, Rovray ou Chêne-Pâquier ?",
+    "a_html": "Ces communes voisines seraient regroupées avec les visites du secteur si le domicile y est proposé [À CONFIRMER : localités et jours de passage].",
+    "a_text": "Ces communes voisines seraient regroupées avec les visites du secteur si le domicile y est proposé [À CONFIRMER : localités et jours de passage]."
    }
   ]
  },
  {
   "tipo": "cta",
-  "h2": "Une question avant de réserver ?",
+  "h2": "Besoin d'un physio à Yvonand ou dans les environs ?",
   "s1": "Écrivez-nous sur WhatsApp au +41 76 627 38 38 ou appelez le 076 627 38 38. Si tout est clair, choisissez directement votre créneau sur la page de <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservation en ligne</a>.",
   "s2": null
  },

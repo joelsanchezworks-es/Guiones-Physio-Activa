@@ -1,15 +1,17 @@
 # Checklist — /physio-a-neuchatel/
 
-- Lote: A · Plantilla: lombaire · Validación: ERRORES: receta: ciudad nunca en un H3
+- Lote: A · Plantilla: lombaire · Validación: OK
 - Indexación: index, follow
 
-## Marcadores [À CONFIRMER] (5)
+## Marcadores [À CONFIRMER] (7)
 
-- [À CONFIRMER : zone desservie à domicile] — «Vous cherchez un physiothérapeute à Neuchâtel ou sur le Littoral ? Physio Activa vous reçoit dans son cabinet d'Ins, à environ 13,4 km en ligne droite de la ville, et propose des séances à domicile en ville et dans les quartiers voisins [À CONFIRMER : zone des»
-- [À CONFIRMER : communes du Littoral desservies et jours de passage] — «Les communes du Littoral comme Hauterive, Saint-Blaise, La Tène (Marin-Epagnier), Auvernier ou Peseux sont proches, mais leur prise en charge à domicile doit être vérifiée au cas par cas [À CONFIRMER : communes du Littoral desservies et jours de passage].»
+- [À CONFIRMER : zone desservie à domicile] — «Vous cherchez un physiothérapeute à Neuchâtel ou sur le Littoral ? Physio Activa vous reçoit dans son cabinet d'Ins, à environ 13,4 km en ligne droite de la ville, et propose des séances à domicile dans plusieurs quartiers [À CONFIRMER : zone desservie à domic»
+- [À CONFIRMER : quartiers et jours de passage] — «Au cabinet si vous êtes mobile, chez vous si sortir demande trop d'énergie : notre page actuelle cite Serrières, La Coudre, Monruz et Vauseyon [À CONFIRMER : quartiers et jours de passage].»
+- [À CONFIRMER : drainage à domicile] — «Jambes gonflées après une opération, lymphœdème, œdème qui tarde à se résorber : le drainage lymphatique manuel agit par des manœuvres lentes et douces, sur prescription [À CONFIRMER : drainage à domicile].»
 - [À CONFIRMER : fréquence et arrêt] — «Notre site mentionne la ligne de train Neuchâtel–Fribourg–Morat–Ins pour venir sans voiture [À CONFIRMER : fréquence et arrêt].»
-- [À CONFIRMER : drainage à domicile à Neuchâtel] — «Prescrit par le médecin, il s'intègre à un traitement de physiothérapie, au cabinet d'Ins ou chez vous [À CONFIRMER : drainage à domicile à Neuchâtel].»
-- [À CONFIRMER : information tarifaire à communiquer] — «Pour le montant exact, contactez-nous [À CONFIRMER : information tarifaire à communiquer].»
+- [À CONFIRMER : tarif appliqué] — «Les séances sont facturées selon la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué].»
+- [À CONFIRMER : communes desservies] — «Leur prise en charge à domicile se vérifie au cas par cas [À CONFIRMER : communes desservies].»
+- [À CONFIRMER : tarif appliqué] — «Il découle de la structure tarifaire nationale négociée entre la profession et les assureurs, et non d'un prix libre fixé par chaque cabinet [À CONFIRMER : tarif appliqué].»
 
 ## Publicación
 
@@ -25,12 +27,12 @@
 | Sección | ¿Está? | Nota |
 |---|---|---|
 | H1 «servicio + ciudad» | sí | Physio à Neuchâtel : au cabinet d'Ins ou à domicile |
-| 4 H3 de valor bajo el hero | no | omitida |
-| Qué es / cuándo consultar (+ señales de alarma) | no | página sin patología concreta (hub/reserva/home): no aplica |
+| 4 H3 de valor bajo el hero | sí |  |
+| Qué es / cuándo consultar (+ señales de alarma) | sí |  |
 | Tipos según el caso (H2 + H3 por subtipo) | sí |  |
-| Proceso en pasos (H2 + H3) + CTA intermedio | no | no aplica a esta página |
+| Proceso en pasos (H2 + H3) + CTA intermedio | sí |  |
 | Reembolso y coste | sí |  |
-| FAQ (8-10) | no | 4 preguntas — texto ya validado del módulo 5: no se reescribe (2.5.5); ampliar con preguntas de data/paa_banco.json en una revisión |
-| CTA final en pregunta con la ciudad | no | omitida |
+| FAQ (8-10) | sí | 10 preguntas |
+| CTA final en pregunta con la ciudad | sí |  |
 
-- receta: ciudad en 5 H2 · FAQ 4 · CTA reserva 3 / tel 2 / WhatsApp 2 · palabras visibles 842
+- receta: ciudad en 4 H2 · FAQ 10 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1287

@@ -38,17 +38,18 @@
   "tipo": "apropos",
   "componentes": [
    "hero",
+   "grid",
    "team",
    "grid",
-   "texte",
-   "texte",
    "grid",
+   "texte",
+   "texte",
    "villes",
    "faq",
    "cta",
    "map"
   ],
-  "a_confirmer": 11
+  "a_confirmer": 14
  },
  {
   "slug": "physio-a-sugiez",
@@ -61,16 +62,18 @@
   "tipo": "zona",
   "componentes": [
    "hero",
-   "texte",
-   "texte",
    "grid",
    "texte",
+   "grid",
+   "grid",
+   "texte",
+   "grid",
    "villes",
    "faq",
    "cta",
    "map"
   ],
-  "a_confirmer": 5
+  "a_confirmer": 11
  },
  {
   "slug": "physio-a-neuchatel",
@@ -83,17 +86,18 @@
   "tipo": "zona",
   "componentes": [
    "hero",
-   "texte",
+   "grid",
    "texte",
    "grid",
    "grid",
    "texte",
+   "grid",
    "villes",
    "faq",
    "cta",
    "map"
   ],
-  "a_confirmer": 6
+  "a_confirmer": 9
  },
  {
   "slug": "physio-a-la-neuveville",
@@ -106,16 +110,18 @@
   "tipo": "zona",
   "componentes": [
    "hero",
-   "texte",
-   "texte",
    "grid",
    "texte",
+   "grid",
+   "grid",
+   "texte",
+   "grid",
    "villes",
    "faq",
    "cta",
    "map"
   ],
-  "a_confirmer": 4
+  "a_confirmer": 7
  },
  {
   "slug": "physio-a-avenches",
@@ -128,16 +134,18 @@
   "tipo": "zona",
   "componentes": [
    "hero",
-   "texte",
-   "texte",
    "grid",
    "texte",
+   "grid",
+   "grid",
+   "texte",
+   "grid",
    "villes",
    "faq",
    "cta",
    "map"
   ],
-  "a_confirmer": 4
+  "a_confirmer": 9
  },
  {
   "slug": "physio-a-lyss",
@@ -174,17 +182,18 @@
   "tipo": "zona",
   "componentes": [
    "hero",
-   "texte",
+   "grid",
    "texte",
    "grid",
    "grid",
    "texte",
+   "grid",
    "villes",
    "faq",
    "cta",
    "map"
   ],
-  "a_confirmer": 7
+  "a_confirmer": 11
  },
  {
   "slug": "physio-a-fribourg",
@@ -197,17 +206,18 @@
   "tipo": "zona",
   "componentes": [
    "hero",
-   "texte",
+   "grid",
    "texte",
    "grid",
    "grid",
    "texte",
+   "grid",
    "villes",
    "faq",
    "cta",
    "map"
   ],
-  "a_confirmer": 8
+  "a_confirmer": 10
  },
  {
   "slug": "physio-a-payerne",
@@ -220,17 +230,18 @@
   "tipo": "zona",
   "componentes": [
    "hero",
-   "texte",
+   "grid",
    "texte",
    "grid",
    "grid",
    "texte",
+   "grid",
    "villes",
    "faq",
    "cta",
    "map"
   ],
-  "a_confirmer": 9
+  "a_confirmer": 13
  },
  {
   "slug": "physio-a-morat",
@@ -243,16 +254,18 @@
   "tipo": "zona",
   "componentes": [
    "hero",
-   "texte",
-   "texte",
    "grid",
    "texte",
+   "grid",
+   "grid",
+   "texte",
+   "grid",
    "villes",
    "faq",
    "cta",
    "map"
   ],
-  "a_confirmer": 6
+  "a_confirmer": 14
  },
  {
   "slug": "physio-a-chietres",
@@ -265,16 +278,18 @@
   "tipo": "zona",
   "componentes": [
    "hero",
-   "texte",
-   "texte",
    "grid",
    "texte",
+   "grid",
+   "grid",
+   "texte",
+   "grid",
    "villes",
    "faq",
    "cta",
    "map"
   ],
-  "a_confirmer": 7
+  "a_confirmer": 13
  },
  {
   "slug": "physio-a-estavayer",
@@ -287,17 +302,18 @@
   "tipo": "zona",
   "componentes": [
    "hero",
-   "texte",
+   "grid",
    "texte",
    "grid",
    "grid",
    "texte",
+   "grid",
    "villes",
    "faq",
    "cta",
    "map"
   ],
-  "a_confirmer": 9
+  "a_confirmer": 15
  },
  {
   "slug": "physio-a-yvonand",
@@ -310,16 +326,18 @@
   "tipo": "zona",
   "componentes": [
    "hero",
-   "texte",
-   "texte",
    "grid",
    "texte",
+   "grid",
+   "grid",
+   "texte",
+   "grid",
    "villes",
    "faq",
    "cta",
    "map"
   ],
-  "a_confirmer": 6
+  "a_confirmer": 10
  },
  {
   "slug": "physio-a-yverdon",
@@ -327,22 +345,23 @@
   "plantilla": "lombaire",
   "lote": "B",
   "title": "Physio à Yverdon – à domicile ou à Ins | Physio Activa",
-  "meta": "Physio à Yverdon : pas de cabinet sur place, nous recevons à Ins (43 km) ; domicile à confirmer. Remboursé sur ordonnance LAMal, LAA. Contactez-nous.",
+  "meta": "Physio à Yverdon : pas de cabinet sur place, nous recevons à Ins (43,5 km) ; domicile à confirmer. Remboursé sur ordonnance LAMal, LAA. Contactez-nous.",
   "h1": "Physio à Yverdon-les-Bains : au cabinet d'Ins ou à domicile",
   "tipo": "zona",
   "componentes": [
    "hero",
-   "texte",
+   "grid",
    "texte",
    "grid",
    "grid",
    "texte",
+   "grid",
    "villes",
    "faq",
    "cta",
    "map"
   ],
-  "a_confirmer": 5
+  "a_confirmer": 10
  },
  {
   "slug": "physio-a-lausanne",
@@ -355,17 +374,18 @@
   "tipo": "zona",
   "componentes": [
    "hero",
-   "texte",
+   "grid",
    "texte",
    "grid",
    "grid",
    "texte",
+   "grid",
    "villes",
    "faq",
    "cta",
    "map"
   ],
-  "a_confirmer": 7
+  "a_confirmer": 12
  },
  {
   "slug": "pour-les-patients",
@@ -588,6 +608,6 @@
    "cta",
    "map"
   ],
-  "a_confirmer": 3
+  "a_confirmer": 5
  }
 ]

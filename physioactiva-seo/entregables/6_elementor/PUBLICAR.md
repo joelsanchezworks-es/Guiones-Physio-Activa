@@ -43,7 +43,7 @@ La publicación se hace a mano. Orden: técnica → reserva → home → hub y p
 
 ## 01. `/reservation-en-ligne/` — lote C
 
-Archivo: `reservation-en-ligne/elementor.json` · Marcadores [À CONFIRMER]: 2 (ver `reservation-en-ligne/checklist.md`)
+Archivo: `reservation-en-ligne/elementor.json` · Marcadores [À CONFIRMER]: 3 (ver `reservation-en-ligne/checklist.md`)
 
 - [ ] **Copia de seguridad:** la página ya existe → Elementor → Guardar como plantilla → Exportar (guardar el .json con fecha)
 - [ ] **Borrador de prueba:** crear página `reservation-en-ligne-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -293,7 +293,7 @@ Estado: publicable tras revisión
 
 ## 11. `/a-propos-de-nous/` — lote A
 
-Archivo: `a-propos-de-nous/elementor.json` · Marcadores [À CONFIRMER]: 9 (ver `a-propos-de-nous/checklist.md`)
+Archivo: `a-propos-de-nous/elementor.json` · Marcadores [À CONFIRMER]: 11 (ver `a-propos-de-nous/checklist.md`)
 
 - [ ] **Copia de seguridad:** la página ya existe → Elementor → Guardar como plantilla → Exportar (guardar el .json con fecha)
 - [ ] **Borrador de prueba:** crear página `a-propos-de-nous-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -318,7 +318,7 @@ Estado: publicable tras revisión
 
 ## 12. `/physio-a-sugiez/` — lote A
 
-Archivo: `physio-a-sugiez/elementor.json` · Marcadores [À CONFIRMER]: 4 (ver `physio-a-sugiez/checklist.md`)
+Archivo: `physio-a-sugiez/elementor.json` · Marcadores [À CONFIRMER]: 8 (ver `physio-a-sugiez/checklist.md`)
 
 - [ ] **Copia de seguridad:** la página ya existe → Elementor → Guardar como plantilla → Exportar (guardar el .json con fecha)
 - [ ] **Borrador de prueba:** crear página `physio-a-sugiez-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -343,7 +343,7 @@ Estado: publicable tras revisión
 
 ## 13. `/physio-a-neuchatel/` — lote A
 
-Archivo: `physio-a-neuchatel/elementor.json` · Marcadores [À CONFIRMER]: 5 (ver `physio-a-neuchatel/checklist.md`)
+Archivo: `physio-a-neuchatel/elementor.json` · Marcadores [À CONFIRMER]: 7 (ver `physio-a-neuchatel/checklist.md`)
 
 - [ ] **Copia de seguridad:** la página ya existe → Elementor → Guardar como plantilla → Exportar (guardar el .json con fecha)
 - [ ] **Borrador de prueba:** crear página `physio-a-neuchatel-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -368,7 +368,7 @@ Estado: publicable tras revisión
 
 ## 14. `/physio-a-la-neuveville/` — lote A
 
-Archivo: `physio-a-la-neuveville/elementor.json` · Marcadores [À CONFIRMER]: 3 (ver `physio-a-la-neuveville/checklist.md`)
+Archivo: `physio-a-la-neuveville/elementor.json` · Marcadores [À CONFIRMER]: 5 (ver `physio-a-la-neuveville/checklist.md`)
 
 - [ ] **Copia de seguridad:** página nueva: no hace falta
 - [ ] **Borrador de prueba:** crear página `physio-a-la-neuveville-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -393,7 +393,7 @@ Estado: publicable tras revisión
 
 ## 15. `/physio-a-avenches/` — lote A
 
-Archivo: `physio-a-avenches/elementor.json` · Marcadores [À CONFIRMER]: 3 (ver `physio-a-avenches/checklist.md`)
+Archivo: `physio-a-avenches/elementor.json` · Marcadores [À CONFIRMER]: 6 (ver `physio-a-avenches/checklist.md`)
 
 - [ ] **Copia de seguridad:** página nueva: no hace falta
 - [ ] **Borrador de prueba:** crear página `physio-a-avenches-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -443,7 +443,7 @@ Estado: publicable tras revisión
 
 ## 17. `/physio-a-bienne/` — lote A
 
-Archivo: `physio-a-bienne/elementor.json` · Marcadores [À CONFIRMER]: 5 (ver `physio-a-bienne/checklist.md`)
+Archivo: `physio-a-bienne/elementor.json` · Marcadores [À CONFIRMER]: 8 (ver `physio-a-bienne/checklist.md`)
 
 - [ ] **Copia de seguridad:** página nueva: no hace falta
 - [ ] **Borrador de prueba:** crear página `physio-a-bienne-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -468,7 +468,7 @@ Estado: publicable tras revisión
 
 ## 18. `/physio-a-fribourg/` — lote A
 
-Archivo: `physio-a-fribourg/elementor.json` · Marcadores [À CONFIRMER]: 6 (ver `physio-a-fribourg/checklist.md`)
+Archivo: `physio-a-fribourg/elementor.json` · Marcadores [À CONFIRMER]: 8 (ver `physio-a-fribourg/checklist.md`)
 
 - [ ] **Copia de seguridad:** página nueva: no hace falta
 - [ ] **Borrador de prueba:** crear página `physio-a-fribourg-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -493,7 +493,7 @@ Estado: publicable tras revisión
 
 ## 19. `/physio-a-payerne/` — lote A
 
-Archivo: `physio-a-payerne/elementor.json` · Marcadores [À CONFIRMER]: 6 (ver `physio-a-payerne/checklist.md`)
+Archivo: `physio-a-payerne/elementor.json` · Marcadores [À CONFIRMER]: 9 (ver `physio-a-payerne/checklist.md`)
 
 - [ ] **Copia de seguridad:** página nueva: no hace falta
 - [ ] **Borrador de prueba:** crear página `physio-a-payerne-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -518,7 +518,7 @@ Estado: publicable tras revisión
 
 ## 20. `/physio-a-morat/` — lote B · BORRADOR (noindex hasta confirmación)
 
-Archivo: `physio-a-morat/elementor.json` · Marcadores [À CONFIRMER]: 4 (ver `physio-a-morat/checklist.md`)
+Archivo: `physio-a-morat/elementor.json` · Marcadores [À CONFIRMER]: 9 (ver `physio-a-morat/checklist.md`)
 
 - [ ] **Copia de seguridad:** página nueva: no hace falta
 - [ ] **Borrador de prueba:** crear página `physio-a-morat-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -543,7 +543,7 @@ Estado: borrador — noindex hasta confirmación
 
 ## 21. `/physio-a-chietres/` — lote B · BORRADOR (noindex hasta confirmación)
 
-Archivo: `physio-a-chietres/elementor.json` · Marcadores [À CONFIRMER]: 5 (ver `physio-a-chietres/checklist.md`)
+Archivo: `physio-a-chietres/elementor.json` · Marcadores [À CONFIRMER]: 9 (ver `physio-a-chietres/checklist.md`)
 
 - [ ] **Copia de seguridad:** página nueva: no hace falta
 - [ ] **Borrador de prueba:** crear página `physio-a-chietres-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -568,7 +568,7 @@ Estado: borrador — noindex hasta confirmación
 
 ## 22. `/physio-a-estavayer/` — lote B · BORRADOR (noindex hasta confirmación)
 
-Archivo: `physio-a-estavayer/elementor.json` · Marcadores [À CONFIRMER]: 6 (ver `physio-a-estavayer/checklist.md`)
+Archivo: `physio-a-estavayer/elementor.json` · Marcadores [À CONFIRMER]: 10 (ver `physio-a-estavayer/checklist.md`)
 
 - [ ] **Copia de seguridad:** página nueva: no hace falta
 - [ ] **Borrador de prueba:** crear página `physio-a-estavayer-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -593,7 +593,7 @@ Estado: borrador — noindex hasta confirmación
 
 ## 23. `/physio-a-yvonand/` — lote B · BORRADOR (noindex hasta confirmación)
 
-Archivo: `physio-a-yvonand/elementor.json` · Marcadores [À CONFIRMER]: 4 (ver `physio-a-yvonand/checklist.md`)
+Archivo: `physio-a-yvonand/elementor.json` · Marcadores [À CONFIRMER]: 7 (ver `physio-a-yvonand/checklist.md`)
 
 - [ ] **Copia de seguridad:** página nueva: no hace falta
 - [ ] **Borrador de prueba:** crear página `physio-a-yvonand-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -618,7 +618,7 @@ Estado: borrador — noindex hasta confirmación
 
 ## 24. `/physio-a-yverdon/` — lote B · BORRADOR (noindex hasta confirmación)
 
-Archivo: `physio-a-yverdon/elementor.json` · Marcadores [À CONFIRMER]: 4 (ver `physio-a-yverdon/checklist.md`)
+Archivo: `physio-a-yverdon/elementor.json` · Marcadores [À CONFIRMER]: 8 (ver `physio-a-yverdon/checklist.md`)
 
 - [ ] **Copia de seguridad:** página nueva: no hace falta
 - [ ] **Borrador de prueba:** crear página `physio-a-yverdon-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -630,7 +630,7 @@ Archivo: `physio-a-yverdon/elementor.json` · Marcadores [À CONFIRMER]: 4 (ver 
 
 ```
 SEO title (54/60): Physio à Yverdon – à domicile ou à Ins | Physio Activa
-Meta description (149/155): Physio à Yverdon : pas de cabinet sur place, nous recevons à Ins (43 km) ; domicile à confirmer. Remboursé sur ordonnance LAMal, LAA. Contactez-nous.
+Meta description (151/155): Physio à Yverdon : pas de cabinet sur place, nous recevons à Ins (43,5 km) ; domicile à confirmer. Remboursé sur ordonnance LAMal, LAA. Contactez-nous.
 Slug: /physio-a-yverdon/
 Focus keyphrase: physio yverdon
 H1: Physio à Yverdon-les-Bains : au cabinet d'Ins ou à domicile
@@ -643,7 +643,7 @@ Estado: borrador — noindex hasta confirmación
 
 ## 25. `/physio-a-lausanne/` — lote B · BORRADOR (noindex hasta confirmación)
 
-Archivo: `physio-a-lausanne/elementor.json` · Marcadores [À CONFIRMER]: 6 (ver `physio-a-lausanne/checklist.md`)
+Archivo: `physio-a-lausanne/elementor.json` · Marcadores [À CONFIRMER]: 10 (ver `physio-a-lausanne/checklist.md`)
 
 - [ ] **Copia de seguridad:** página nueva: no hace falta
 - [ ] **Borrador de prueba:** crear página `physio-a-lausanne-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar

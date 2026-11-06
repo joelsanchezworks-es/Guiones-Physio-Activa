@@ -3,7 +3,7 @@
   "tipo": "hero",
   "eyebrow": "Physio · Avenches",
   "h1": "Physiothérapie à Avenches : au cabinet d'Ins ou à domicile",
-  "sub": "Habitant d'Avenches, vous êtes à environ 14,8 km en ligne droite de Physio Activa, installé à Ins. Selon votre situation, les séances de physio ont lieu au cabinet ou à votre domicile [À CONFIRMER : déplacements à Avenches]. Prescrites par un médecin, les séances sont remboursées par votre assurance ; un rendez-vous se prend en quelques clics, par téléphone ou par WhatsApp.",
+  "sub": "Habitant d'Avenches, vous êtes à environ 14,8 km en ligne droite de Physio Activa, installé à Ins. Selon votre situation, les séances de physio ont lieu au cabinet ou à votre domicile [À CONFIRMER : déplacements à Avenches]. Prescrites par un médecin, elles sont remboursées par votre assurance, même si vous êtes assuré dans le canton de Vaud ; un rendez-vous se prend en quelques clics, par téléphone ou par WhatsApp.",
   "pills": [
    "Cabinet à Ins, à 14,8 km",
    "Sur prescription médicale",
@@ -15,69 +15,137 @@
   "cta": "Prendre rendez-vous"
  },
  {
-  "tipo": "texte",
-  "eyebrow": "À domicile",
-  "h2": "Physiothérapie à domicile à Avenches et environs",
+  "tipo": "grid",
+  "eyebrow": "En bref",
+  "h2": "L'essentiel en bref",
   "lead": [],
   "bg": null,
-  "html": "<p>Les localités voisines d'Avenches sont Faoug, Donatyre, Oleyres, Salavaux et Domdidier. Salavaux, au bord du lac de Morat, est aussi proche du Vully ; pour les autres villages, la possibilité d'un passage à domicile reste à confirmer [À CONFIRMER : villages desservis autour d'Avenches et jours de passage].</p><p style=\"margin-top:12px\">À qui s'adresse ce service ? Aux patients qui ne peuvent pas se rendre au cabinet sans aide : convalescence après une hospitalisation, troubles de l'équilibre, douleurs qui rendent la conduite impossible. Un membre de la famille peut nous contacter pour vous. En savoir plus : <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>.</p>"
+  "cards": [
+   {
+    "h3": "Sur prescription, remboursé LAMal / LAA",
+    "html": "<p>Un médecin vaudois peut prescrire des séances réalisées dans le canton de Berne : l'assurance de base, l'assurance accidents, l'AI ou l'AM remboursent selon les mêmes règles fédérales.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Au cabinet d'Ins ou à domicile",
+    "html": "<p>Au cabinet pour profiter du matériel d'entraînement, chez vous pendant une convalescence difficile [À CONFIRMER : domicile dans la Broye-Vully].</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Bilan et plan de traitement",
+    "html": "<p>Le bilan fixe un point de départ mesurable, amplitude du genou, distance de marche, douleur au réveil, pour suivre vos progrès.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
+    "html": "<p>Réservez sur l'agenda en ligne ou contactez-nous au 076 627 38 38, également sur WhatsApp.</p>",
+    "icon": "fa-calendar-check"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Signaux d'alarme",
+  "h2": "Quand consulter un physio, et quand voir d'abord un médecin ?",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Dans la région, beaucoup de demandes concernent la rééducation après une prothèse de hanche ou de genou, une sciatique qui irradie dans la fesse, une épaule gelée ou une coiffe des rotateurs abîmée, une cheville instable. Dans tous les cas, c'est le médecin qui pose le diagnostic et rédige la prescription.</p><p style=\"margin-top:12px\">Consultez rapidement un médecin si une jambe opérée devient chaude, rouge et gonflée, si la cicatrice coule, si la fièvre apparaît, ou si une douleur au dos s'accompagne d'une faiblesse nouvelle. Douleur thoracique, gêne respiratoire brutale ou trouble de la parole : composez le 144.</p>"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Notre approche",
+  "h2": "Quelle prise en charge selon votre situation ?",
+  "lead": [],
+  "bg": null,
+  "cards": [
+   {
+    "h3": "Après une prothèse de hanche ou de genou",
+    "html": "<p>C'est le cas où un suivi régulier fait le plus la différence : récupérer la force, l'équilibre et une marche sans boiterie. Voir <a href=\"/douleur-de-hanche-protheses/\" style=\"color:var(--azure);font-weight:600\">hanche et prothèses</a> et <a href=\"/douleur-du-genou-lesions-de-la-cheville/\" style=\"color:var(--azure);font-weight:600\">genou</a>, qui traite aussi l'arthrose et l'entorse de cheville.</p>",
+    "icon": "fa-hospital"
+   },
+   {
+    "h3": "Sciatique et douleurs lombaires",
+    "html": "<p>En phase aiguë, nous soulageons ; ensuite, nous reconstruisons la tolérance à la position assise et au port de charge. Détails sur <a href=\"/sciatique-hernie-discale/\" style=\"color:var(--azure);font-weight:600\">sciatique et hernie discale</a>.</p>",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": "Épaule raide ou opérée",
+    "html": "<p>Épaule gelée, lésion de la coiffe, suites d'une luxation : la page <a href=\"/lesions-de-lepaule/\" style=\"color:var(--azure);font-weight:600\">épaule</a> présente notre approche.</p>",
+    "icon": "fa-hospital"
+   },
+   {
+    "h3": "Visites à la maison dans les villages",
+    "html": "<p>Pour les patients qui ne peuvent pas venir sans aide : troubles de l'équilibre, douleur qui empêche de conduire, sortie récente de l'hôpital. En savoir plus : <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>.</p><p style=\"margin-top:12px\">Vous ne trouvez pas votre cas ? Consultez <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">toutes les pathologies</a>.</p>",
+    "icon": "fa-house-medical"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Notre approche",
+  "h2": "Comment se déroule votre prise en charge ?",
+  "lead": [],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Ordonnance",
+    "html": "<p>Elle peut être rédigée par votre généraliste, votre chirurgien ou l'hôpital à la sortie ; son canton n'a pas d'importance.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Bilan",
+    "html": "<p>Nous mesurons ce qui est limité et vous expliquons pourquoi, avant de choisir les techniques.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Séances au cabinet ou à domicile",
+    "html": "<p>Les exercices progressent avec vous, dans le respect des consignes chirurgicales.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Autonomie et prévention",
+    "html": "<p>Un programme à domicile vous permet de conserver les acquis une fois l'ordonnance terminée.</p>",
+    "icon": "fa-person-walking"
+   }
+  ],
+  "cta_mid": true
  },
  {
   "tipo": "texte",
   "eyebrow": "Accès",
   "h2": "Venir au cabinet d'Ins depuis Avenches",
   "lead": [],
-  "bg": "trust",
-  "html": "<p>Avenches est une commune vaudoise du district de la Broye-Vully. Notre cabinet, lui, se trouve dans le canton de Berne, à l'InsGym, Rämismatte 21, 3232 Ins, à environ 14,8 km en ligne droite. Accès et parking : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">L'hôpital de référence de la région est le HIB – Hôpital intercantonal de la Broye, à Payerne. Après une intervention ou un séjour là-bas, la rééducation peut se poursuivre à Ins ou chez vous, sur prescription médicale.</p>"
+  "bg": null,
+  "html": "<p>Notre cabinet se trouve à l'InsGym, Rämismatte 21, 3232 Ins, à environ 14,8 km en ligne droite de la cité romaine. Accès et parking : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Avenches est une commune vaudoise francophone du district de la Broye-Vully, et nous vous recevons en français. L'hôpital de référence de la région est le HIB – Hôpital intercantonal de la Broye, à Payerne : après une intervention ou un séjour là-bas, la rééducation peut se poursuivre à Ins ou chez vous, sur prescription médicale.</p>"
  },
  {
   "tipo": "grid",
-  "eyebrow": "Ce que nous traitons",
-  "h2": "Ce que nous traitons",
-  "lead": [
-   "Nous avons choisi ici les situations où un suivi régulier fait le plus la différence :"
-  ],
-  "bg": null,
+  "eyebrow": "Remboursement",
+  "h2": "Remboursement et coût de la physio à Avenches",
+  "lead": [],
+  "bg": "trust",
   "cards": [
    {
-    "h3": null,
-    "html": "<p><a href=\"/douleur-de-hanche-protheses/\" style=\"color:var(--azure);font-weight:600\">Hanche et prothèses</a> : récupération de la marche et de la force après une prothèse totale de hanche.</p>",
-    "icon": "fa-hospital"
+    "h3": "Assurance de base (LAMal)",
+    "html": "<p>Sur prescription médicale, l'assurance obligatoire prend en charge la physiothérapie, y compris pour un assuré vaudois traité dans le canton de Berne.</p>",
+    "icon": "fa-file-medical"
    },
    {
-    "h3": null,
-    "html": "<p><a href=\"/sciatique-hernie-discale/\" style=\"color:var(--azure);font-weight:600\">Sciatique et hernie discale</a> : douleur irradiant dans la fesse ou la jambe, phase aiguë puis reprise d'activité.</p>",
-    "icon": "fa-bolt"
+    "h3": "Accident, AI et AM",
+    "html": "<p>Après un accident, l'assurance accidents (LAA) intervient ; l'assurance invalidité (AI) et l'assurance militaire (AM) couvrent aussi les séances prescrites dans leur domaine.</p>",
+    "icon": "fa-stethoscope"
    },
    {
-    "h3": null,
-    "html": "<p><a href=\"/douleur-du-genou-lesions-de-la-cheville/\" style=\"color:var(--azure);font-weight:600\">Genou</a> : arthrose, prothèse de genou, entorse ou instabilité de la cheville.</p>",
-    "icon": "fa-location-dot"
-   },
-   {
-    "h3": null,
-    "html": "<p><a href=\"/lesions-de-lepaule/\" style=\"color:var(--azure);font-weight:600\">Épaule</a> : coiffe des rotateurs, épaule gelée, suites d'une luxation.</p>",
-    "icon": "fa-person-walking"
-   },
-   {
-    "h3": null,
-    "html": "<p>Vous ne trouvez pas votre cas ? Consultez <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">toutes les pathologies</a>.</p>",
-    "icon": "fa-circle-info"
+    "h3": "Ce qui détermine ce que vous payez",
+    "html": "<p>Avec la LAMal, la franchise et la quote-part restent à votre charge selon votre contrat. Les séances suivent la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué]. Apportez votre ordonnance et votre carte d'assuré.</p>",
+    "icon": "fa-heart-pulse"
    }
   ]
  },
  {
-  "tipo": "texte",
-  "eyebrow": "Remboursement",
-  "h2": "Remboursement",
-  "lead": [],
-  "bg": "trust",
-  "html": "<p>Sur prescription médicale, la physiothérapie est prise en charge par l'assurance de base (LAMal), l'assurance accidents (LAA), l'assurance invalidité (AI) ou l'assurance militaire (AM). Avec la LAMal, la franchise et la quote-part restent à votre charge. Apportez votre ordonnance et votre carte d'assuré à la première séance.</p>"
- },
- {
   "tipo": "villes",
   "eyebrow": "Localités voisines",
-  "h2": "Physio près de Avenches : autres localités",
+  "h2": "Autres localités proches",
   "lead": [
    "Vous habitez entre Avenches et le Seeland ? Consultez aussi nos pages locales voisines."
   ],
@@ -107,7 +175,7 @@
  },
  {
   "tipo": "faq",
-  "h2": "Questions fréquentes",
+  "h2": "Questions fréquentes sur la physio à Avenches",
   "faq": [
    {
     "q": "J'habite dans le canton de Vaud : mon assurance rembourse-t-elle un cabinet bernois ?",
@@ -115,25 +183,50 @@
     "a_text": "Oui. L'assurance de base est régie par une loi fédérale, la LAMal ; une ordonnance établie par un médecin vaudois est valable pour un traitement à Ins."
    },
    {
-    "q": "Quelle distance entre Avenches et le cabinet ?",
-    "a_html": "Environ 14,8 km en ligne droite, jusqu'à l'InsGym, Rämismatte 21, à Ins.",
-    "a_text": "Environ 14,8 km en ligne droite, jusqu'à l'InsGym, Rämismatte 21, à Ins."
+    "q": "Quel est le tarif d'une consultation de physiothérapie en Suisse ?",
+    "a_html": "Il n'y a pas de prix fixé librement par chaque cabinet : la physiothérapie prescrite est facturée selon une structure tarifaire nationale négociée avec les assureurs [À CONFIRMER : tarif appliqué]. Ce qui varie pour vous, c'est la franchise et la quote-part de votre contrat.",
+    "a_text": "Il n'y a pas de prix fixé librement par chaque cabinet : la physiothérapie prescrite est facturée selon une structure tarifaire nationale négociée avec les assureurs [À CONFIRMER : tarif appliqué]. Ce qui varie pour vous, c'est la franchise et la quote-part de votre contrat."
    },
    {
-    "q": "Faites-vous des visites à Faoug ou à Domdidier ?",
-    "a_html": "Ces villages entourent Avenches, mais nous devons encore confirmer s'ils font partie de notre zone à domicile [À CONFIRMER : Faoug, Domdidier, Donatyre, Oleyres].",
-    "a_text": "Ces villages entourent Avenches, mais nous devons encore confirmer s'ils font partie de notre zone à domicile [À CONFIRMER : Faoug, Domdidier, Donatyre, Oleyres]."
+    "q": "Faites-vous des visites à Faoug, Salavaux ou Domdidier ?",
+    "a_html": "Ces villages entourent la commune, tout comme Donatyre et Oleyres, mais nous devons encore confirmer s'ils font partie de notre zone à domicile [À CONFIRMER : villages desservis et jours de passage]. Salavaux, au bord du lac de Morat, est aussi proche du Vully.",
+    "a_text": "Ces villages entourent la commune, tout comme Donatyre et Oleyres, mais nous devons encore confirmer s'ils font partie de notre zone à domicile [À CONFIRMER : villages desservis et jours de passage]. Salavaux, au bord du lac de Morat, est aussi proche du Vully."
    },
    {
-    "q": "Combien de temps dure le traitement après une prothèse de hanche ?",
-    "a_html": "Cela dépend de l'opération, de votre condition et des consignes du chirurgien. Le nombre de séances figure sur l'ordonnance et peut être renouvelé par le médecin si nécessaire.",
-    "a_text": "Cela dépend de l'opération, de votre condition et des consignes du chirurgien. Le nombre de séances figure sur l'ordonnance et peut être renouvelé par le médecin si nécessaire."
+    "q": "Quels sont les problèmes de lymphe possibles après une opération ?",
+    "a_html": "Un œdème persistant, une sensation de lourdeur ou un lymphœdème peuvent apparaître, surtout après une chirurgie touchant les ganglions. Parlez-en à votre médecin : il peut prescrire un <a href=\"/drainage-lymphatique/\" style=\"color:var(--azure);font-weight:600\">drainage lymphatique manuel</a> intégré à la physiothérapie.",
+    "a_text": "Un œdème persistant, une sensation de lourdeur ou un lymphœdème peuvent apparaître, surtout après une chirurgie touchant les ganglions. Parlez-en à votre médecin : il peut prescrire un drainage lymphatique manuel intégré à la physiothérapie."
+   },
+   {
+    "q": "Est-ce normal d'avoir plus mal après une séance de physio ?",
+    "a_html": "Une gêne musculaire légère le lendemain, comme après un effort inhabituel, est fréquente et passagère. Une douleur forte, qui augmente ou s'accompagne de gonflement, doit nous être signalée pour ajuster le traitement.",
+    "a_text": "Une gêne musculaire légère le lendemain, comme après un effort inhabituel, est fréquente et passagère. Une douleur forte, qui augmente ou s'accompagne de gonflement, doit nous être signalée pour ajuster le traitement."
+   },
+   {
+    "q": "Je sors du HIB à Payerne : par où commencer ?",
+    "a_html": "Demandez l'ordonnance à la sortie, gardez les consignes de l'hôpital, puis réservez. Si vous ne pouvez pas encore conduire, signalez-le pour envisager le domicile.",
+    "a_text": "Demandez l'ordonnance à la sortie, gardez les consignes de l'hôpital, puis réservez. Si vous ne pouvez pas encore conduire, signalez-le pour envisager le domicile."
+   },
+   {
+    "q": "Qui peut aller en centre de rééducation ?",
+    "a_html": "L'admission est décidée par le médecin ou l'hôpital, en général après une opération lourde ou une longue hospitalisation, lorsque le retour direct à la maison n'est pas possible. Ensuite, la physio ambulatoire au cabinet ou à domicile prend le relais.",
+    "a_text": "L'admission est décidée par le médecin ou l'hôpital, en général après une opération lourde ou une longue hospitalisation, lorsque le retour direct à la maison n'est pas possible. Ensuite, la physio ambulatoire au cabinet ou à domicile prend le relais."
+   },
+   {
+    "q": "Qu'est-ce que le programme MTT ?",
+    "a_html": "La MTT (Medizinische Trainingstherapie, entraînement thérapeutique médical) est un entraînement sur appareils encadré par un physiothérapeute, pour reconstruire la force après une blessure. Nous disposons du matériel d'InsGym [À CONFIRMER : MTT proposée au cabinet].",
+    "a_text": "La MTT (Medizinische Trainingstherapie, entraînement thérapeutique médical) est un entraînement sur appareils encadré par un physiothérapeute, pour reconstruire la force après une blessure. Nous disposons du matériel d'InsGym [À CONFIRMER : MTT proposée au cabinet]."
+   },
+   {
+    "q": "Quelle distance jusqu'au cabinet d'Ins ?",
+    "a_html": "Environ 14,8 km en ligne droite, jusqu'à l'InsGym, Rämismatte 21, à Ins, dans le canton de Berne.",
+    "a_text": "Environ 14,8 km en ligne droite, jusqu'à l'InsGym, Rämismatte 21, à Ins, dans le canton de Berne."
    }
   ]
  },
  {
   "tipo": "cta",
-  "h2": "Démarrer votre rééducation depuis la Broye",
+  "h2": "Besoin d'un physio à Avenches ou dans les environs ?",
   "s1": "Fixez votre premier rendez-vous avec la <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservation en ligne</a>, par téléphone au 076 627 38 38 ou via WhatsApp au +41 76 627 38 38.",
   "s2": null
  },

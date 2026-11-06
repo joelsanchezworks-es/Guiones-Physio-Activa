@@ -3,11 +3,13 @@
 - Lote: A · Plantilla: lombaire · Validación: OK
 - Indexación: index, follow
 
-## Marcadores [À CONFIRMER] (3)
+## Marcadores [À CONFIRMER] (5)
 
 - [À CONFIRMER : domicile à La Neuveville] — «Physio Activa vous accueille à Ins et peut envisager des visites à domicile [À CONFIRMER : domicile à La Neuveville].»
-- [À CONFIRMER : localités desservies et jours de passage] — «Nous n'avons pas encore de tournée fixe annoncée dans ce secteur : indiquez-nous votre adresse et nous vous dirons ce qui est possible [À CONFIRMER : localités desservies et jours de passage].»
+- [À CONFIRMER : localités et jours de passage] — «Une séance chez vous reste possible si le trajet est trop difficile [À CONFIRMER : localités et jours de passage].»
+- [À CONFIRMER : tarif appliqué] — «Les séances suivent la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué].»
 - [À CONFIRMER : couverture du Plateau de Diesse et du Landeron] — «Contactez-nous avec votre adresse [À CONFIRMER : couverture du Plateau de Diesse et du Landeron].»
+- [À CONFIRMER : tarif appliqué] — «Nous appliquons la version en vigueur [À CONFIRMER : tarif appliqué] ; votre part dépend de votre franchise et de la quote-part.»
 
 ## Publicación
 
@@ -23,12 +25,12 @@
 | Sección | ¿Está? | Nota |
 |---|---|---|
 | H1 «servicio + ciudad» | sí | Physio à La Neuveville : au cabinet d'Ins ou à domicile |
-| 4 H3 de valor bajo el hero | no | omitida |
-| Qué es / cuándo consultar (+ señales de alarma) | no | página sin patología concreta (hub/reserva/home): no aplica |
+| 4 H3 de valor bajo el hero | sí |  |
+| Qué es / cuándo consultar (+ señales de alarma) | sí |  |
 | Tipos según el caso (H2 + H3 por subtipo) | sí |  |
-| Proceso en pasos (H2 + H3) + CTA intermedio | no | no aplica a esta página |
+| Proceso en pasos (H2 + H3) + CTA intermedio | sí |  |
 | Reembolso y coste | sí |  |
-| FAQ (8-10) | no | 4 preguntas — texto ya validado del módulo 5: no se reescribe (2.5.5); ampliar con preguntas de data/paa_banco.json en una revisión |
-| CTA final en pregunta con la ciudad | no | omitida |
+| FAQ (8-10) | sí | 9 preguntas |
+| CTA final en pregunta con la ciudad | sí |  |
 
-- receta: ciudad en 3 H2 · FAQ 4 · CTA reserva 3 / tel 2 / WhatsApp 2 · palabras visibles 667
+- receta: ciudad en 4 H2 · FAQ 9 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1264

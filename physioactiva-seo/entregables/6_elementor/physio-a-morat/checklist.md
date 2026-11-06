@@ -3,12 +3,17 @@
 - Lote: B · Plantilla: lombaire · Validación: OK
 - Indexación: NOINDEX hasta la confirmación del cliente
 
-## Marcadores [À CONFIRMER] (4)
+## Marcadores [À CONFIRMER] (9)
 
-- [À CONFIRMER : déplacements à Morat] — «Vous habitez Morat et vous cherchez un physiothérapeute qui vous reçoit en français ? Le cabinet Physio Activa se trouve à Ins, à environ 8,7 km en ligne droite de la vieille ville, et des séances à domicile sont possibles selon les disponibilités [À CONFIRMER»
-- [À CONFIRMER : localités desservies et jours de passage] — «Dans ce cas, nous pouvons envisager de venir chez vous à Morat, mais aussi à Meyriez, Muntelier, Greng, Courgevaux ou Galmiz [À CONFIRMER : localités desservies et jours de passage].»
-- [À CONFIRMER : domicile à Morat et délai pour une première séance] — «Oui, dès que vous avez une ordonnance de physiothérapie, nous pouvons prendre le relais au cabinet ou, si c'est nécessaire, à domicile [À CONFIRMER : domicile à Morat et délai pour une première séance].»
-- [À CONFIRMER : liste définitive des localités et jours de passage] — «Ces localités voisines de Morat font partie de la zone que nous envisageons de couvrir à domicile [À CONFIRMER : liste définitive des localités et jours de passage].»
+- [À CONFIRMER : déplacements à domicile à Morat] — «Vous habitez Morat et vous cherchez un physiothérapeute qui vous reçoit en français ? Physio Activa vous accueille à Ins, à environ 8,7 km en ligne droite de la vieille ville, et peut se déplacer chez vous selon les disponibilités [À CONFIRMER : déplacements à»
+- [À CONFIRMER : domicile à Morat et jours de passage] — «La majorité des rééducations se fait chez InsGym ; pour les Moratois qui ne peuvent plus se déplacer, le domicile est envisagé [À CONFIRMER : domicile à Morat et jours de passage].»
+- [À CONFIRMER : localités desservies et jours de passage] — «Avec des cannes, un déambulateur ou une grande fatigue, nous pouvons envisager de venir à Morat, à Meyriez, Muntelier, Greng, Courgevaux ou Galmiz [À CONFIRMER : localités desservies et jours de passage], avec des exercices pensés pour votre logement.»
+- [À CONFIRMER : tarif appliqué] — «Les séances sont facturées selon la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué].»
+- [À CONFIRMER : domicile à Morat] — «La première sert au bilan ; les suivantes alternent traitement manuel et exercices, au cabinet ou chez vous [À CONFIRMER : domicile à Morat].»
+- [À CONFIRMER : délai pour une première séance] — «Oui : avec l'ordonnance de sortie de l'HFR Meyriez-Murten, nous poursuivons la rééducation [À CONFIRMER : délai pour une première séance].»
+- [À CONFIRMER : conditions de prise en charge] — «Voir massage thérapeutique [À CONFIRMER : conditions de prise en charge].»
+- [À CONFIRMER : tarif appliqué] — «Il existe une structure tarifaire nationale pour la physiothérapie, convenue avec les assureurs [À CONFIRMER : tarif appliqué].»
+- [À CONFIRMER : localités et jours de passage] — «Elles font partie de la zone envisagée à domicile, avec Meyriez et Galmiz [À CONFIRMER : localités et jours de passage].»
 
 ## Publicación
 
@@ -24,12 +29,12 @@
 | Sección | ¿Está? | Nota |
 |---|---|---|
 | H1 «servicio + ciudad» | sí | Physio à Morat (Murten) : au cabinet d'Ins ou à domicile |
-| 4 H3 de valor bajo el hero | no | omitida |
-| Qué es / cuándo consultar (+ señales de alarma) | no | página sin patología concreta (hub/reserva/home): no aplica |
+| 4 H3 de valor bajo el hero | sí |  |
+| Qué es / cuándo consultar (+ señales de alarma) | sí |  |
 | Tipos según el caso (H2 + H3 por subtipo) | sí |  |
-| Proceso en pasos (H2 + H3) + CTA intermedio | no | no aplica a esta página |
+| Proceso en pasos (H2 + H3) + CTA intermedio | sí |  |
 | Reembolso y coste | sí |  |
-| FAQ (8-10) | no | 4 preguntas — texto ya validado del módulo 5: no se reescribe (2.5.5); ampliar con preguntas de data/paa_banco.json en una revisión |
-| CTA final en pregunta con la ciudad | no | omitida |
+| FAQ (8-10) | sí | 9 preguntas |
+| CTA final en pregunta con la ciudad | sí |  |
 
-- receta: ciudad en 4 H2 · FAQ 4 · CTA reserva 3 / tel 2 / WhatsApp 2 · palabras visibles 705
+- receta: ciudad en 4 H2 · FAQ 9 · CTA reserva 5 / tel 3 / WhatsApp 3 · palabras visibles 1321

@@ -1,16 +1,20 @@
 # Checklist — /physio-a-estavayer/
 
-- Lote: B · Plantilla: lombaire · Validación: ERRORES: receta: ciudad nunca en un H3
+- Lote: B · Plantilla: lombaire · Validación: OK
 - Indexación: NOINDEX hasta la confirmación del cliente
 
-## Marcadores [À CONFIRMER] (6)
+## Marcadores [À CONFIRMER] (10)
 
 - [À CONFIRMER : domicile à Estavayer] — «Physio Activa vous accueille au cabinet d'Ins et étudie la possibilité de séances à domicile dans la Broye [À CONFIRMER : domicile à Estavayer].»
-- [À CONFIRMER : couverture de ces localités et jours de passage] — «Pour Estavayer, cela pourrait concerner aussi Font, Cheyres-Châbles, Sévaz et Les Montets [À CONFIRMER : couverture de ces localités et jours de passage].»
-- [À CONFIRMER : drainage à domicile dans la Broye fribourgeoise] — «Vu les 26,4 km qui séparent Estavayer du cabinet, il se fera en principe à Ins, le domicile restant [À CONFIRMER : drainage à domicile dans la Broye fribourgeoise].»
-- [À CONFIRMER : domicile à Estavayer] — «Si ce n'est pas le cas, le domicile peut être une option [À CONFIRMER : domicile à Estavayer].»
-- [À CONFIRMER : délai pour une première séance] — «Avec l'ordonnance de physiothérapie remise par le médecin, nous pouvons organiser la suite de votre rééducation [À CONFIRMER : délai pour une première séance].»
-- [À CONFIRMER : localités desservies et jours de passage] — «Ces villages proches d'Estavayer pourraient être regroupés avec les visites à domicile du secteur [À CONFIRMER : localités desservies et jours de passage].»
+- [À CONFIRMER : jours de passage dans la Broye] — «Le domicile ne pourra être proposé que certains jours [À CONFIRMER : jours de passage dans la Broye].»
+- [À CONFIRMER : couverture et jours de passage] — «À plus de 25 km du cabinet, le domicile se planifie en regroupant les patients d'un même secteur : Font, Cheyres-Châbles, Sévaz ou Les Montets pourraient être concernés [À CONFIRMER : couverture et jours de passage].»
+- [À CONFIRMER : drainage à domicile dans la Broye] — «Depuis Estavayer, il se fera en principe à Ins [À CONFIRMER : drainage à domicile dans la Broye].»
+- [À CONFIRMER : tarif appliqué] — «Le montant facturé suit la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué].»
+- [À CONFIRMER : domicile à Estavayer] — «Sinon, le domicile peut être une option [À CONFIRMER : domicile à Estavayer].»
+- [À CONFIRMER : horaires du cabinet] — «La distance et les horaires comptent aussi [À CONFIRMER : horaires du cabinet].»
+- [À CONFIRMER : délai pour une première séance] — «Avec l'ordonnance remise par le médecin, nous organisons la suite de votre rééducation [À CONFIRMER : délai pour une première séance].»
+- [À CONFIRMER : tarif appliqué] — «Il découle de la structure tarifaire nationale, identique pour tous les assureurs ; vous payez franchise et quote-part [À CONFIRMER : tarif appliqué].»
+- [À CONFIRMER : localités desservies et jours de passage] — «Ces villages voisins pourraient être regroupés avec les visites à domicile du secteur, comme Sévaz et Les Montets [À CONFIRMER : localités desservies et jours de passage].»
 
 ## Publicación
 
@@ -26,12 +30,12 @@
 | Sección | ¿Está? | Nota |
 |---|---|---|
 | H1 «servicio + ciudad» | sí | Physio à Estavayer-le-Lac : au cabinet d'Ins ou à domicile |
-| 4 H3 de valor bajo el hero | no | omitida |
-| Qué es / cuándo consultar (+ señales de alarma) | no | página sin patología concreta (hub/reserva/home): no aplica |
+| 4 H3 de valor bajo el hero | sí |  |
+| Qué es / cuándo consultar (+ señales de alarma) | sí |  |
 | Tipos según el caso (H2 + H3 por subtipo) | sí |  |
-| Proceso en pasos (H2 + H3) + CTA intermedio | no | no aplica a esta página |
+| Proceso en pasos (H2 + H3) + CTA intermedio | sí |  |
 | Reembolso y coste | sí |  |
-| FAQ (8-10) | no | 4 preguntas — texto ya validado del módulo 5: no se reescribe (2.5.5); ampliar con preguntas de data/paa_banco.json en una revisión |
-| CTA final en pregunta con la ciudad | no | omitida |
+| FAQ (8-10) | sí | 10 preguntas |
+| CTA final en pregunta con la ciudad | sí |  |
 
-- receta: ciudad en 4 H2 · FAQ 4 · CTA reserva 3 / tel 2 / WhatsApp 2 · palabras visibles 781
+- receta: ciudad en 4 H2 · FAQ 10 · CTA reserva 5 / tel 3 / WhatsApp 3 · palabras visibles 1324

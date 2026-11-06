@@ -3,7 +3,7 @@
   "tipo": "hero",
   "eyebrow": "Physio · Morat (Murten)",
   "h1": "Physio à Morat (Murten) : au cabinet d'Ins ou à domicile",
-  "sub": "Vous habitez Morat et vous cherchez un physiothérapeute qui vous reçoit en français ? Le cabinet Physio Activa se trouve à Ins, à environ 8,7 km en ligne droite de la vieille ville, et des séances à domicile sont possibles selon les disponibilités [À CONFIRMER : déplacements à Morat]. Sur prescription médicale, la physiothérapie est remboursée ; la réservation se fait en ligne, par téléphone ou par WhatsApp.",
+  "sub": "Vous habitez Morat et vous cherchez un physiothérapeute qui vous reçoit en français ? Physio Activa vous accueille à Ins, à environ 8,7 km en ligne droite de la vieille ville, et peut se déplacer chez vous selon les disponibilités [À CONFIRMER : déplacements à domicile à Morat]. Sur prescription médicale, les séances sont remboursées ; le rendez-vous se prend en ligne, par téléphone ou par WhatsApp.",
   "pills": [
    "Cabinet à Ins, à 8,7 km",
    "Sur prescription médicale",
@@ -15,67 +15,137 @@
   "cta": "Prendre rendez-vous"
  },
  {
-  "tipo": "texte",
-  "eyebrow": "À domicile",
-  "h2": "Physiothérapie à domicile à Morat et environs",
+  "tipo": "grid",
+  "eyebrow": "En bref",
+  "h2": "L'essentiel en bref",
   "lead": [],
   "bg": null,
-  "html": "<p>Pour une personne qui sort de l'hôpital, qui marche avec des cannes ou qui ne conduit plus, se déplacer jusqu'au cabinet peut être le principal obstacle à la rééducation. Dans ce cas, nous pouvons envisager de venir chez vous à Morat, mais aussi à Meyriez, Muntelier, Greng, Courgevaux ou Galmiz [À CONFIRMER : localités desservies et jours de passage]. Le matériel nécessaire aux exercices est apporté sur place et le programme est pensé pour votre logement. Toutes les modalités sont décrites sur notre page <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>.</p>"
+  "cards": [
+   {
+    "h3": "Sur prescription, remboursé LAMal / LAA",
+    "html": "<p>Avec une ordonnance, la physiothérapie est prise en charge par l'assurance de base ou, après un accident, par l'assurance accidents, où que votre médecin exerce.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Au cabinet d'Ins ou à domicile",
+    "html": "<p>La majorité des rééducations se fait chez InsGym ; pour les Moratois qui ne peuvent plus se déplacer, le domicile est envisagé [À CONFIRMER : domicile à Morat et jours de passage].</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Bilan et plan de traitement",
+    "html": "<p>Un entretien et quelques tests ouvrent le premier rendez-vous ; vous repartez avec des objectifs et vos premiers exercices.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
+    "html": "<p>Choisissez un créneau sur la <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservation en ligne</a>, appelez le 076 627 38 38 ou envoyez la photo de votre ordonnance par WhatsApp.</p>",
+    "icon": "fa-calendar-check"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Signaux d'alarme",
+  "h2": "Quand consulter un physio, et quand voir d'abord un médecin ?",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>On pense au physiothérapeute quand une gêne ne passe pas avec le repos : un dos qui se bloque, un genou qui gonfle après la promenade, une épaule qui empêche d'enfiler une veste, des pertes d'équilibre. La physio est aussi l'étape naturelle après une prothèse, une fracture ou une longue immobilisation.</p><p style=\"margin-top:12px\">Un médecin établit d'abord l'ordonnance. Voyez-le sans attendre dans ces cas :\n- chute suivie d'une jambe ou d'un bras inutilisable ;\n- mal de dos avec fièvre, faiblesse d'une jambe ou troubles pour uriner ;\n- mollet chaud, rouge et enflé après une opération ;\n- douleur thoracique, essoufflement inhabituel ou malaise.</p><p style=\"margin-top:12px\">En cas d'urgence vitale, composez le 144.</p>"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Notre approche",
+  "h2": "Quelle prise en charge selon votre situation ?",
+  "lead": [],
+  "bg": null,
+  "cards": [
+   {
+    "h3": "Au cabinet d'Ins",
+    "html": "<p>Les appareils d'InsGym permettent de travailler force, endurance et équilibre. Si vous conduisez ou si un proche vous accompagne depuis Morat, c'est la formule la plus complète.</p>",
+    "icon": "fa-location-dot"
+   },
+   {
+    "h3": "À domicile et localités voisines",
+    "html": "<p>Avec des cannes, un déambulateur ou une grande fatigue, nous pouvons envisager de venir à Morat, à Meyriez, Muntelier, Greng, Courgevaux ou Galmiz [À CONFIRMER : localités desservies et jours de passage], avec des exercices pensés pour votre logement. Voir <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Après une opération ou une hospitalisation",
+    "html": "<p>Dans le district du Lac, beaucoup de patients quittent l'HFR Meyriez-Murten avec une ordonnance de physiothérapie. Nous poursuivons la rééducation selon les consignes de sortie, au rythme que la cicatrisation autorise.</p>",
+    "icon": "fa-hospital"
+   },
+   {
+    "h3": "Douleurs de la hanche, du genou, de l'épaule ou du dos",
+    "html": "<p>– <a href=\"/douleur-de-hanche-protheses/\" style=\"color:var(--azure);font-weight:600\">Hanche et prothèses</a> : remise en charge progressive et travail de la marche après la pose d'une prothèse.</p><p style=\"margin-top:12px\">– <a href=\"/douleur-du-genou-lesions-de-la-cheville/\" style=\"color:var(--azure);font-weight:600\">Genou</a> : récupérer mobilité et force après une entorse, une ménisectomie ou une prothèse.</p><p style=\"margin-top:12px\">– <a href=\"/lesions-de-lepaule/\" style=\"color:var(--azure);font-weight:600\">Épaule</a> : tendinopathies, raideur, suites d'une chirurgie de la coiffe des rotateurs.</p><p style=\"margin-top:12px\">– <a href=\"/mal-de-dos-lombaire/\" style=\"color:var(--azure);font-weight:600\">Mal de dos et lombalgie</a> : reprendre les gestes du quotidien sans appréhension.</p><p style=\"margin-top:12px\">Pour un autre motif, consultez <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">toutes les pathologies</a>.</p>",
+    "icon": "fa-bolt"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Notre approche",
+  "h2": "Comment se déroule votre prise en charge ?",
+  "lead": [],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Ordonnance",
+    "html": "<p>Votre médecin de famille ou votre chirurgien la rédige ; apportez-la avec la carte d'assuré ou envoyez-la par WhatsApp.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Bilan",
+    "html": "<p>Nous faisons le point sur ce que vous voulez retrouver : monter vos escaliers, porter vos courses, remonter sur le vélo. Des tests de mobilité et de force servent de repères.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Séances au cabinet ou à domicile",
+    "html": "<p>Techniques manuelles, exercices guidés et conseils ; chez vous, nous apportons le petit matériel utile.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Autonomie et prévention",
+    "html": "<p>Un programme court à faire à la maison, ajusté au fil des rendez-vous, vous aide à continuer seul.</p>",
+    "icon": "fa-person-walking"
+   }
+  ],
+  "cta_mid": true
  },
  {
   "tipo": "texte",
   "eyebrow": "Accès",
   "h2": "Venir au cabinet d'Ins depuis Morat",
   "lead": [],
-  "bg": "trust",
-  "html": "<p>Ins se situe à environ 8,7 km en ligne droite de Morat. Le cabinet est installé dans les locaux d'InsGym, au Rämismatte, ce qui permet de travailler les exercices avec de vrais appareils d'entraînement. Itinéraire et plan d'accès : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Morat est une commune majoritairement germanophone avec une minorité francophone. Si vous préférez expliquer vos douleurs et suivre vos exercices dans votre langue, nos consultations ont lieu en français (et en espagnol). Après une hospitalisation ou une opération à l'HFR Meyriez-Murten, nous pouvons assurer la suite de votre rééducation sur la base de l'ordonnance remise à la sortie.</p>"
+  "bg": null,
+  "html": "<p>Ins se trouve à environ 8,7 km en ligne droite de Morat, juste de l'autre côté de la limite entre les cantons de Fribourg et de Berne. Le cabinet est installé chez InsGym, au Rämismatte ; l'itinéraire et le plan d'accès sont sur <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Morat est une commune majoritairement germanophone, avec une minorité francophone. Si vous préférez expliquer vos douleurs et comprendre vos exercices dans votre langue, nos consultations se tiennent en français, et aussi en espagnol. Pour une rééducation qui s'étend sur plusieurs rendez-vous, pouvoir tout comprendre dans sa langue compte vraiment.</p>"
  },
  {
   "tipo": "grid",
-  "eyebrow": "Ce que nous traitons",
-  "h2": "Ce que nous traitons",
+  "eyebrow": "Remboursement",
+  "h2": "Remboursement et coût de la physio à Morat",
   "lead": [],
-  "bg": null,
+  "bg": "trust",
   "cards": [
    {
-    "h3": null,
-    "html": "<p><a href=\"/douleur-de-hanche-protheses/\" style=\"color:var(--azure);font-weight:600\">Hanche et prothèses</a> : remise en charge progressive et travail de la marche après la pose d'une prothèse.</p>",
-    "icon": "fa-hospital"
+    "h3": "Assurance de base (LAMal)",
+    "html": "<p>Sur ordonnance, l'assurance obligatoire des soins rembourse la physiothérapie, même si vous vivez dans le canton de Fribourg et que le cabinet est dans celui de Berne.</p>",
+    "icon": "fa-file-medical"
    },
    {
-    "h3": null,
-    "html": "<p><a href=\"/douleur-du-genou-lesions-de-la-cheville/\" style=\"color:var(--azure);font-weight:600\">Genou</a> : récupération de la mobilité et de la force après une entorse, une ménisectomie ou une prothèse.</p>",
-    "icon": "fa-hospital"
+    "h3": "Accident, AI et AM",
+    "html": "<p>Après un accident, l'assurance accidents (LAA) prend le relais. L'AI et l'assurance militaire (AM) couvrent elles aussi la physiothérapie prescrite.</p>",
+    "icon": "fa-stethoscope"
    },
    {
-    "h3": null,
-    "html": "<p><a href=\"/lesions-de-lepaule/\" style=\"color:var(--azure);font-weight:600\">Épaule</a> : tendinopathies, raideur ou rééducation après une chirurgie de la coiffe.</p>",
-    "icon": "fa-hospital"
-   },
-   {
-    "h3": null,
-    "html": "<p><a href=\"/mal-de-dos-lombaire/\" style=\"color:var(--azure);font-weight:600\">Mal de dos et lombalgie</a> : exercices adaptés pour reprendre les gestes du quotidien sans appréhension.</p>",
-    "icon": "fa-dumbbell"
-   },
-   {
-    "h3": null,
-    "html": "<p>Pour les autres motifs de consultation, voir <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">toutes les pathologies</a>.</p>",
-    "icon": "fa-shield-heart"
+    "h3": "Ce qui détermine ce que vous payez",
+    "html": "<p>Avec la LAMal, votre franchise et la quote-part restent à votre charge. Les séances sont facturées selon la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué].</p>",
+    "icon": "fa-heart-pulse"
    }
   ]
  },
  {
-  "tipo": "texte",
-  "eyebrow": "Remboursement",
-  "h2": "Remboursement",
-  "lead": [],
-  "bg": "trust",
-  "html": "<p>La physiothérapie prescrite par un médecin est prise en charge par l'assurance de base (LAMal), l'assurance accidents (LAA), l'AI ou l'AM. Avec la LAMal, la franchise et la quote-part restent à votre charge. Apportez l'ordonnance et votre carte d'assuré à la première séance.</p>"
- },
- {
   "tipo": "villes",
   "eyebrow": "Localités voisines",
-  "h2": "Physio près de Morat : autres localités",
+  "h2": "Autres localités proches",
   "lead": [
    "Vous habitez entre Morat et le Seeland ? Consultez aussi nos pages locales voisines."
   ],
@@ -105,34 +175,59 @@
  },
  {
   "tipo": "faq",
-  "h2": "Questions fréquentes",
+  "h2": "Questions fréquentes sur la physio à Morat",
   "faq": [
    {
     "q": "Les séances se déroulent-elles en français ?",
-    "a_html": "Oui. Les consultations ont lieu en français, et aussi en espagnol si vous le souhaitez. C'est souvent apprécié par les habitants francophones de Morat, commune majoritairement germanophone.",
-    "a_text": "Oui. Les consultations ont lieu en français, et aussi en espagnol si vous le souhaitez. C'est souvent apprécié par les habitants francophones de Morat, commune majoritairement germanophone."
+    "a_html": "Oui, et en espagnol si vous le souhaitez. Dans une commune majoritairement germanophone, c'est un confort pour comprendre chaque conseil.",
+    "a_text": "Oui, et en espagnol si vous le souhaitez. Dans une commune majoritairement germanophone, c'est un confort pour comprendre chaque conseil."
    },
    {
-    "q": "À quelle distance le cabinet se trouve-t-il de Morat ?",
-    "a_html": "Le cabinet d'Ins est à environ 8,7 km en ligne droite de Morat. L'adresse exacte et le plan sont sur la page <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.",
-    "a_text": "Le cabinet d'Ins est à environ 8,7 km en ligne droite de Morat. L'adresse exacte et le plan sont sur la page Nous trouver ."
+    "q": "Quand faire de la physiothérapie ?",
+    "a_html": "Quand une douleur ou une raideur persiste et limite vos activités, ou après une opération. Après une chirurgie, on commence dès que le chirurgien l'autorise.",
+    "a_text": "Quand une douleur ou une raideur persiste et limite vos activités, ou après une opération. Après une chirurgie, on commence dès que le chirurgien l'autorise."
    },
    {
-    "q": "Pouvez-vous suivre ma rééducation après une opération à l'HFR Meyriez-Murten ?",
-    "a_html": "Oui, dès que vous avez une ordonnance de physiothérapie, nous pouvons prendre le relais au cabinet ou, si c'est nécessaire, à domicile [À CONFIRMER : domicile à Morat et délai pour une première séance].",
-    "a_text": "Oui, dès que vous avez une ordonnance de physiothérapie, nous pouvons prendre le relais au cabinet ou, si c'est nécessaire, à domicile [À CONFIRMER : domicile à Morat et délai pour une première séance]."
+    "q": "Comment se passe une séance de physiothérapie ?",
+    "a_html": "La première sert au bilan ; les suivantes alternent traitement manuel et exercices, au cabinet ou chez vous [À CONFIRMER : domicile à Morat]. Chaque exercice vous est montré, puis répété avec vous jusqu'à ce que vous puissiez le faire seul.",
+    "a_text": "La première sert au bilan ; les suivantes alternent traitement manuel et exercices, au cabinet ou chez vous [À CONFIRMER : domicile à Morat]. Chaque exercice vous est montré, puis répété avec vous jusqu'à ce que vous puissiez le faire seul."
    },
    {
-    "q": "Venez-vous aussi à Muntelier ou à Courgevaux ?",
-    "a_html": "Ces localités voisines de Morat font partie de la zone que nous envisageons de couvrir à domicile [À CONFIRMER : liste définitive des localités et jours de passage].",
-    "a_text": "Ces localités voisines de Morat font partie de la zone que nous envisageons de couvrir à domicile [À CONFIRMER : liste définitive des localités et jours de passage]."
+    "q": "Pouvez-vous prendre le relais après un séjour à l'hôpital ?",
+    "a_html": "Oui : avec l'ordonnance de sortie de l'HFR Meyriez-Murten, nous poursuivons la rééducation [À CONFIRMER : délai pour une première séance].",
+    "a_text": "Oui : avec l'ordonnance de sortie de l'HFR Meyriez-Murten, nous poursuivons la rééducation [À CONFIRMER : délai pour une première séance]."
+   },
+   {
+    "q": "Quels sont les problèmes de lymphe possibles après une opération ?",
+    "a_html": "Un gonflement peut persister après une prothèse ou une chirurgie touchant les ganglions (œdème, voire lymphœdème). Le médecin peut prescrire un <a href=\"/drainage-lymphatique/\" style=\"color:var(--azure);font-weight:600\">drainage lymphatique</a> manuel ; un gonflement brutal et chaud se montre vite au médecin.",
+    "a_text": "Un gonflement peut persister après une prothèse ou une chirurgie touchant les ganglions (œdème, voire lymphœdème). Le médecin peut prescrire un drainage lymphatique manuel ; un gonflement brutal et chaud se montre vite au médecin."
+   },
+   {
+    "q": "C'est quoi un massage thérapeutique ?",
+    "a_html": "Un massage à but de soin : relâcher une tension, diminuer une douleur, préparer le mouvement. Voir <a href=\"/massage-therapeutique/\" style=\"color:var(--azure);font-weight:600\">massage thérapeutique</a> [À CONFIRMER : conditions de prise en charge].",
+    "a_text": "Un massage à but de soin : relâcher une tension, diminuer une douleur, préparer le mouvement. Voir massage thérapeutique [À CONFIRMER : conditions de prise en charge]."
+   },
+   {
+    "q": "Est-ce que la physiothérapie est remboursée en Suisse ?",
+    "a_html": "Oui, sur prescription : LAMal pour la maladie, LAA pour l'accident, AI ou AM selon le cas. La franchise et la quote-part de la LAMal restent dues, comme pour une consultation chez le médecin.",
+    "a_text": "Oui, sur prescription : LAMal pour la maladie, LAA pour l'accident, AI ou AM selon le cas. La franchise et la quote-part de la LAMal restent dues, comme pour une consultation chez le médecin."
+   },
+   {
+    "q": "Quel est le nouveau tarif pour la physiothérapie ?",
+    "a_html": "Il existe une structure tarifaire nationale pour la physiothérapie, convenue avec les assureurs [À CONFIRMER : tarif appliqué].",
+    "a_text": "Il existe une structure tarifaire nationale pour la physiothérapie, convenue avec les assureurs [À CONFIRMER : tarif appliqué]."
+   },
+   {
+    "q": "Venez-vous aussi à Muntelier, Greng ou Courgevaux ?",
+    "a_html": "Elles font partie de la zone envisagée à domicile, avec Meyriez et Galmiz [À CONFIRMER : localités et jours de passage].",
+    "a_text": "Elles font partie de la zone envisagée à domicile, avec Meyriez et Galmiz [À CONFIRMER : localités et jours de passage]."
    }
   ]
  },
  {
   "tipo": "cta",
-  "h2": "Votre rééducation en français, près de Morat",
-  "s1": "Indiquez-nous votre situation et votre ordonnance : nous vous proposerons une séance au cabinet ou à domicile. <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">Réservez en ligne</a>, appelez le 076 627 38 38 ou écrivez sur WhatsApp au +41 76 627 38 38.",
+  "h2": "Besoin d'un physio à Morat ou dans les environs ?",
+  "s1": "Décrivez-nous votre situation et votre ordonnance : nous vous proposerons une séance au cabinet ou à domicile. <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">Réservez en ligne</a>, appelez le 076 627 38 38 ou écrivez sur WhatsApp au +41 76 627 38 38.",
   "s2": null
  },
  {

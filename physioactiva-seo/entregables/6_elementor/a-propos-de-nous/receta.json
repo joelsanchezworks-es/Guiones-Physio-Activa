@@ -15,13 +15,42 @@
   "cta": "Prendre rendez-vous"
  },
  {
+  "tipo": "grid",
+  "eyebrow": "En bref",
+  "h2": "L'essentiel en bref",
+  "lead": [],
+  "bg": null,
+  "cards": [
+   {
+    "h3": "Sur prescription, remboursé LAMal / LAA",
+    "html": "<p>Avec une ordonnance médicale, les séances sont prises en charge par l'assurance maladie (LAMal), l'assurance accidents (LAA), l'AI ou l'AM.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Au cabinet ou à domicile",
+    "html": "<p>Le cabinet se trouve dans l'InsGym, avec un espace d'entraînement. Si vous ne pouvez pas vous déplacer, nous venons chez vous dans le Seeland et les Trois-Lacs.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Bilan et plan de traitement",
+    "html": "<p>Nous commençons par vous écouter et vous examiner, puis nous définissons avec vous un plan adapté à vos objectifs.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
+    "html": "<p>Réservez en ligne, appelez le 076 627 38 38 ou écrivez-nous sur WhatsApp au +41 76 627 38 38.</p>",
+    "icon": "fa-calendar-check"
+   }
+  ]
+ },
+ {
   "tipo": "team",
   "eyebrow": "Notre équipe",
   "h2": "Notre équipe",
   "lead": [
-   "Physio Activa est née d'une idée simple : placer la personne au cœur des soins et rendre une physiothérapie attentive accessible dans toute la région des Trois-Lacs."
+   "Physio Activa est née d'une idée simple : placer la personne au cœur des soins et rendre une physiothérapie attentive accessible dans toute la région des Trois-Lacs, entre le lac de Morat, le lac de Neuchâtel et le lac de Bienne."
   ],
-  "bg": null,
+  "bg": "trust",
   "membres": [
    {
     "nom": "Francisco Díaz",
@@ -42,37 +71,62 @@
   "eyebrow": "Notre approche",
   "h2": "Notre approche",
   "lead": [],
-  "bg": "trust",
+  "bg": null,
   "cards": [
    {
     "h3": "Le bilan d'abord",
-    "html": "<p>Avant de traiter, nous vous écoutons et nous vous évaluons : vos symptômes, votre histoire médicale, vos activités, puis la mobilité, la force et des tests fonctionnels. C'est ce bilan qui oriente la suite.</p>",
+    "html": "<p>Avant de traiter, nous cherchons à comprendre : d'où vient la douleur, ce qui l'aggrave, ce que vous ne pouvez plus faire. C'est ce bilan qui oriente la suite, pas un protocole générique.</p>",
     "icon": "fa-clipboard-list"
    },
    {
     "h3": "Un traitement actif",
-    "html": "<p>Nous combinons les techniques manuelles et l'exercice thérapeutique. Vous participez à chaque séance, plutôt que de la subir.</p>",
+    "html": "<p>Nous combinons les techniques manuelles et l'exercice thérapeutique. Vous participez à chaque séance plutôt que de la subir, et l'espace d'entraînement de l'InsGym permet de travailler la force et l'équilibre sur place.</p>",
     "icon": "fa-stethoscope"
    },
    {
     "h3": "Un plan individualisé",
-    "html": "<p>Pas de protocole générique : le plan est défini avec vous, selon vos objectifs (travail, sport, gestes du quotidien), puis ajusté au fil des séances.</p>",
+    "html": "<p>Le plan est défini avec vous, selon ce que vous voulez retrouver (travail, sport, gestes du quotidien), puis ajusté au fil des séances. Nous accompagnons les troubles de l'appareil locomoteur, par exemple le <a href=\"/mal-de-dos-lombaire/\" style=\"color:var(--azure);font-weight:600\">mal de dos et la lombalgie</a>, la <a href=\"/sciatique-hernie-discale/\" style=\"color:var(--azure);font-weight:600\">sciatique et la hernie discale</a>, les <a href=\"/lesions-de-lepaule/\" style=\"color:var(--azure);font-weight:600\">lésions de l'épaule</a> ou la <a href=\"/douleur-du-genou-lesions-de-la-cheville/\" style=\"color:var(--azure);font-weight:600\">douleur du genou et de la cheville</a>. Liste complète dans notre <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">guide des pathologies</a>.</p>",
     "icon": "fa-heart-pulse"
-   },
-   {
-    "h3": "Votre autonomie",
-    "html": "<p>Nous vous montrons des exercices à poursuivre chez vous, pour que vous ne dépendiez pas indéfiniment du physiothérapeute.</p>",
-    "icon": "fa-person-walking"
    }
   ]
  },
  {
+  "tipo": "grid",
+  "eyebrow": "Notre approche",
+  "h2": "Comment se déroule votre prise en charge ?",
+  "lead": [],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Ordonnance",
+    "html": "<p>Votre médecin vous remet une prescription qui indique le nombre de séances et, si nécessaire, la mention « à domicile ». Apportez-la avec votre carte d'assuré.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Bilan",
+    "html": "<p>La première séance commence par un entretien (symptômes, histoire médicale, activités), suivi d'un examen de la mobilité, de la force et de tests fonctionnels.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Séances au cabinet ou à domicile",
+    "html": "<p>Le traitement peut commencer dès la première séance, à l'InsGym ou chez vous. La durée d'une séance est [À CONFIRMER : durée].</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Autonomie et prévention",
+    "html": "<p>Nous vous montrons des exercices à poursuivre chez vous, pour consolider les progrès et ne pas dépendre indéfiniment du physiothérapeute.</p>",
+    "icon": "fa-person-walking"
+   }
+  ],
+  "cta_mid": true
+ },
+ {
   "tipo": "texte",
   "eyebrow": "Physio Activa",
-  "h2": "Le cabinet à Ins (InsGym)",
+  "h2": "Le cabinet à Ins et la zone desservie",
   "lead": [],
   "bg": null,
-  "html": "<p>Le cabinet se trouve à Rämismatte 21, 3232 Ins, dans le bâtiment de l'InsGym. Il dispose de salles de traitement et d'un espace d'entraînement, utile pour la rééducation active. Plan et accès : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Si vous ne pouvez pas vous déplacer, la <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a> est possible à Ins et dans les environs : Anet, Sugiez et Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss. L'ordonnance doit alors préciser les séances à domicile.</p><p style=\"margin-top:12px\">Horaires : [À CONFIRMER : lun–ven 8h30–19h30 ou jusqu'à 20h].</p>"
+  "html": "<p>Le cabinet se trouve à Rämismatte 21, 3232 Ins, dans le bâtiment de l'InsGym : salles de traitement et espace d'entraînement pour la rééducation active. Plan et accès : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>. Horaires : [À CONFIRMER : lun–ven 8h30–19h30 ou jusqu'à 20h].</p><p style=\"margin-top:12px\">Si vous ne pouvez pas vous déplacer, la <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a> est possible à Ins et dans les environs : Anet, Sugiez et Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss.</p>"
  },
  {
   "tipo": "texte",
@@ -80,43 +134,7 @@
   "h2": "Assurances et prescription",
   "lead": [],
   "bg": "trust",
-  "html": "<p>Sur prescription médicale, la physiothérapie est prise en charge par l'assurance obligatoire des soins (LAMal), l'assurance accidents (LAA), l'assurance invalidité (AI) ou l'assurance militaire (AM). Dans le cadre de la LAMal, la franchise et la quote-part de votre contrat s'appliquent. Apportez votre ordonnance et votre carte d'assuré à la première séance.</p>"
- },
- {
-  "tipo": "grid",
-  "eyebrow": "Ce que nous traitons",
-  "h2": "Ce que nous traitons",
-  "lead": [
-   "Nous accompagnons les douleurs et les troubles de l'appareil locomoteur, après un accident, une opération ou lorsque la douleur s'installe. Quelques exemples :"
-  ],
-  "bg": null,
-  "cards": [
-   {
-    "h3": null,
-    "html": "<p><a href=\"/mal-de-dos-lombaire/\" style=\"color:var(--azure);font-weight:600\">mal de dos et lombalgie</a> ;</p>",
-    "icon": "fa-bone"
-   },
-   {
-    "h3": null,
-    "html": "<p><a href=\"/sciatique-hernie-discale/\" style=\"color:var(--azure);font-weight:600\">sciatique et hernie discale</a> ;</p>",
-    "icon": "fa-bone"
-   },
-   {
-    "h3": null,
-    "html": "<p><a href=\"/lesions-de-lepaule/\" style=\"color:var(--azure);font-weight:600\">lésions et douleurs de l'épaule</a> ;</p>",
-    "icon": "fa-bolt"
-   },
-   {
-    "h3": null,
-    "html": "<p><a href=\"/douleur-du-genou-lesions-de-la-cheville/\" style=\"color:var(--azure);font-weight:600\">douleur du genou et lésions de la cheville</a>.</p>",
-    "icon": "fa-bolt"
-   },
-   {
-    "h3": null,
-    "html": "<p>Retrouvez la liste complète dans notre <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">guide des pathologies</a>.</p>",
-    "icon": "fa-circle-info"
-   }
-  ]
+  "html": "<p>Sur prescription médicale, la physiothérapie est prise en charge par l'assurance obligatoire des soins (LAMal), l'assurance accidents (LAA), l'assurance invalidité (AI) ou l'assurance militaire (AM). Dans le cadre de la LAMal, la franchise et la quote-part de votre contrat s'appliquent. Les séances sont facturées selon la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs.</p>"
  },
  {
   "tipo": "villes",
@@ -167,34 +185,54 @@
  },
  {
   "tipo": "faq",
-  "h2": "Questions fréquentes",
+  "h2": "Questions fréquentes sur Physio Activa à Ins",
   "faq": [
    {
     "q": "Qui sont les physiothérapeutes de Physio Activa ?",
-    "a_html": "Francisco Díaz et Lucile Combes. Leurs titres et formations sont précisés ici : [À CONFIRMER : titres, formations, enregistrement professionnel].",
-    "a_text": "Francisco Díaz et Lucile Combes. Leurs titres et formations sont précisés ici : [À CONFIRMER : titres, formations, enregistrement professionnel]."
+    "a_html": "Francisco Díaz et Lucile Combes. Leurs titres et formations seront précisés ici : [À CONFIRMER : titres, formations, enregistrement professionnel].",
+    "a_text": "Francisco Díaz et Lucile Combes. Leurs titres et formations seront précisés ici : [À CONFIRMER : titres, formations, enregistrement professionnel]."
+   },
+   {
+    "q": "Comment se passe une séance de physiothérapie ?",
+    "a_html": "Un entretien, un bilan de vos mouvements, puis le traitement : techniques manuelles et exercices. Vous repartez avec des exercices à faire chez vous.",
+    "a_text": "Un entretien, un bilan de vos mouvements, puis le traitement : techniques manuelles et exercices. Vous repartez avec des exercices à faire chez vous."
+   },
+   {
+    "q": "Quelle est la différence entre un kiné et un physiothérapeute ?",
+    "a_html": "C'est le même métier : « kiné » (kinésithérapeute) est le terme utilisé en France, physiothérapeute celui employé en Suisse.",
+    "a_text": "C'est le même métier : « kiné » (kinésithérapeute) est le terme utilisé en France, physiothérapeute celui employé en Suisse."
+   },
+   {
+    "q": "Est-ce que la physiothérapie est remboursée en Suisse ?",
+    "a_html": "Oui, avec une ordonnance médicale : par la LAMal, la LAA, l'AI ou l'AM selon votre situation. Sans prescription, les séances sont à votre charge.",
+    "a_text": "Oui, avec une ordonnance médicale : par la LAMal, la LAA, l'AI ou l'AM selon votre situation. Sans prescription, les séances sont à votre charge."
+   },
+   {
+    "q": "Quel est le tarif d'une séance de physiothérapie ?",
+    "a_html": "Il suit la structure tarifaire nationale convenue avec les assureurs [À CONFIRMER : tarif appliqué]. Avec une ordonnance, vous payez seulement la franchise et la quote-part prévues par votre contrat LAMal.",
+    "a_text": "Il suit la structure tarifaire nationale convenue avec les assureurs [À CONFIRMER : tarif appliqué]. Avec une ordonnance, vous payez seulement la franchise et la quote-part prévues par votre contrat LAMal."
+   },
+   {
+    "q": "Comment choisir son physiothérapeute ?",
+    "a_html": "Vérifiez qu'il est reconnu pour facturer à l'assurance, qu'il commence par un bilan, qu'il parle votre langue et qu'il peut vous suivre au rythme prescrit, au cabinet ou à domicile.",
+    "a_text": "Vérifiez qu'il est reconnu pour facturer à l'assurance, qu'il commence par un bilan, qu'il parle votre langue et qu'il peut vous suivre au rythme prescrit, au cabinet ou à domicile."
+   },
+   {
+    "q": "Vous déplacez-vous à domicile ?",
+    "a_html": "Oui, dans le Seeland et les Trois-Lacs, notamment à Morat, Neuchâtel, Bienne et dans le Vully, si votre ordonnance le précise. Contactez-nous pour vérifier votre adresse.",
+    "a_text": "Oui, dans le Seeland et les Trois-Lacs, notamment à Morat, Neuchâtel, Bienne et dans le Vully, si votre ordonnance le précise. Contactez-nous pour vérifier votre adresse."
    },
    {
     "q": "Dans quelles langues pouvez-vous me recevoir ?",
     "a_html": "En français et en espagnol. Le portugais est [À CONFIRMER].",
     "a_text": "En français et en espagnol. Le portugais est [À CONFIRMER]."
-   },
-   {
-    "q": "Faut-il une ordonnance ?",
-    "a_html": "Pour un remboursement par la LAMal, la LAA, l'AI ou l'AM, oui. Sans prescription médicale, les séances sont à votre charge.",
-    "a_text": "Pour un remboursement par la LAMal, la LAA, l'AI ou l'AM, oui. Sans prescription médicale, les séances sont à votre charge."
-   },
-   {
-    "q": "Vous déplacez-vous à domicile ?",
-    "a_html": "Oui, à Ins et dans le Seeland et les Trois-Lacs, notamment à Morat, Neuchâtel, Bienne et dans le Vully. Contactez-nous pour vérifier votre adresse.",
-    "a_text": "Oui, à Ins et dans le Seeland et les Trois-Lacs, notamment à Morat, Neuchâtel, Bienne et dans le Vully. Contactez-nous pour vérifier votre adresse."
    }
   ]
  },
  {
   "tipo": "cta",
-  "h2": "Faisons connaissance",
-  "s1": "Vous souhaitez commencer un traitement ou poser une question avant de réserver ? <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">Réservez en ligne</a>, appelez le 076 627 38 38 ou écrivez-nous sur WhatsApp au +41 76 627 38 38.",
+  "h2": "Envie de commencer un traitement à Ins ou dans les environs ?",
+  "s1": "Vous souhaitez réserver ou poser une question avant de vous lancer ? <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">Réservez en ligne</a>, appelez le 076 627 38 38 ou écrivez-nous sur WhatsApp au +41 76 627 38 38.",
   "s2": null
  },
  {

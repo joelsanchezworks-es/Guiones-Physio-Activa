@@ -185,6 +185,21 @@
     "q": "Les séances peuvent-elles avoir lieu à domicile ?",
     "a_html": "Oui, à Ins et dans le Seeland et la région des Trois-Lacs (Anet, Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne, Lyss), si votre situation le justifie.",
     "a_text": "Oui, à Ins et dans le Seeland et la région des Trois-Lacs (Anet, Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne, Lyss), si votre situation le justifie."
+   },
+   {
+    "q": "Quel est le rôle d'un physiothérapeute ?",
+    "a_html": "Le physiothérapeute évalue vos mouvements et votre fonction, puis vous accompagne avec des exercices, des techniques manuelles et des conseils pour le quotidien. L'objectif est de vous aider à bouger avec moins de douleur et à gagner en autonomie, selon votre situation. Le diagnostic médical reste du ressort du médecin.",
+    "a_text": "Le physiothérapeute évalue vos mouvements et votre fonction, puis vous accompagne avec des exercices, des techniques manuelles et des conseils pour le quotidien. L'objectif est de vous aider à bouger avec moins de douleur et à gagner en autonomie, selon votre situation. Le diagnostic médical reste du ressort du médecin."
+   },
+   {
+    "q": "Quelle est la différence entre un kinésithérapeute et un physiothérapeute ?",
+    "a_html": "Il s'agit du même métier : en Suisse, on parle de physiothérapeute, alors qu'en France on dit plutôt kinésithérapeute ou kiné. Le nom change selon le pays et la formation.",
+    "a_text": "Il s'agit du même métier : en Suisse, on parle de physiothérapeute, alors qu'en France on dit plutôt kinésithérapeute ou kiné. Le nom change selon le pays et la formation."
+   },
+   {
+    "q": "Quand faire de la physiothérapie ?",
+    "a_html": "Par exemple pour une douleur qui dure ou revient, une raideur, après une blessure ou une opération, ou pour retrouver de l'autonomie au quotidien. Votre médecin vous prescrit la physiothérapie si elle est indiquée. En cas de signe d'alarme, consultez d'abord un médecin.",
+    "a_text": "Par exemple pour une douleur qui dure ou revient, une raideur, après une blessure ou une opération, ou pour retrouver de l'autonomie au quotidien. Votre médecin vous prescrit la physiothérapie si elle est indiquée. En cas de signe d'alarme, consultez d'abord un médecin."
    }
   ]
  },

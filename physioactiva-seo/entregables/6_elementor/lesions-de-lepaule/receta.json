@@ -260,6 +260,16 @@
     "q": "Une douleur à l'épaule gauche est-elle grave ?",
     "a_html": "Le plus souvent, elle vient des tendons, des muscles ou de l'articulation. Associée à une douleur dans la poitrine, un essoufflement ou des sueurs, elle impose d'appeler le 144.",
     "a_text": "Le plus souvent, elle vient des tendons, des muscles ou de l'articulation. Associée à une douleur dans la poitrine, un essoufflement ou des sueurs, elle impose d'appeler le 144."
+   },
+   {
+    "q": "Comment soulager une épaule qui fait mal ?",
+    "a_html": "Garder l'épaule mobile dans la limite de la douleur est généralement préférable à l'immobilisation complète, et il peut être utile de réduire temporairement les gestes qui la déclenchent. Si la douleur persiste, un bilan en physiothérapie permet d'adapter les exercices. Une douleur après une chute ou avec une déformation nécessite un avis médical.",
+    "a_text": "Garder l'épaule mobile dans la limite de la douleur est généralement préférable à l'immobilisation complète, et il peut être utile de réduire temporairement les gestes qui la déclenchent. Si la douleur persiste, un bilan en physiothérapie permet d'adapter les exercices. Une douleur après une chute ou avec une déformation nécessite un avis médical."
+   },
+   {
+    "q": "Pourquoi la douleur de l'épaule descend-elle dans le bras et la main ?",
+    "a_html": "Une douleur qui descend dans le bras peut venir de l'épaule elle-même, mais aussi d'un nerf irrité au niveau du cou, surtout avec des fourmillements dans la main. Le médecin pose le diagnostic. Associée à une douleur dans la poitrine, un essoufflement ou des sueurs, appelez le 144.",
+    "a_text": "Une douleur qui descend dans le bras peut venir de l'épaule elle-même, mais aussi d'un nerf irrité au niveau du cou, surtout avec des fourmillements dans la main. Le médecin pose le diagnostic. Associée à une douleur dans la poitrine, un essoufflement ou des sueurs, appelez le 144."
    }
   ]
  },

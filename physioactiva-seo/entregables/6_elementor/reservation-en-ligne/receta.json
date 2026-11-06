@@ -169,6 +169,26 @@
     "q": "Venez-vous à domicile dans ma commune ?",
     "a_html": "Nous nous déplaçons à Ins, Anet, Sugiez/Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss. Pour une autre commune, demandez-nous.",
     "a_text": "Nous nous déplaçons à Ins, Anet, Sugiez/Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss. Pour une autre commune, demandez-nous."
+   },
+   {
+    "q": "Comment se passe une séance de physiothérapie ?",
+    "a_html": "La première séance commence par un entretien sur vos douleurs et vos antécédents, puis un examen de vos mouvements. Nous fixons ensuite ensemble des objectifs et commençons le traitement : exercices, techniques manuelles et conseils. Durée d'une séance : [À CONFIRMER].",
+    "a_text": "La première séance commence par un entretien sur vos douleurs et vos antécédents, puis un examen de vos mouvements. Nous fixons ensuite ensemble des objectifs et commençons le traitement : exercices, techniques manuelles et conseils. Durée d'une séance : [À CONFIRMER]."
+   },
+   {
+    "q": "Est-ce que la physiothérapie est remboursée en Suisse ?",
+    "a_html": "Oui, avec une prescription médicale, par l'assurance de base (LAMal), l'assurance accident (LAA), l'AI ou l'AM. La franchise et la quote-part dépendent de votre contrat d'assurance.",
+    "a_text": "Oui, avec une prescription médicale, par l'assurance de base (LAMal), l'assurance accident (LAA), l'AI ou l'AM. La franchise et la quote-part dépendent de votre contrat d'assurance."
+   },
+   {
+    "q": "Comment choisir son physiothérapeute ?",
+    "a_html": "Regardez s'il traite votre problème, s'il peut venir à domicile si vous ne pouvez pas vous déplacer, et dans quelle langue vous souhaitez être suivi. N'hésitez pas à nous appeler pour poser vos questions avant de réserver.",
+    "a_text": "Regardez s'il traite votre problème, s'il peut venir à domicile si vous ne pouvez pas vous déplacer, et dans quelle langue vous souhaitez être suivi. N'hésitez pas à nous appeler pour poser vos questions avant de réserver."
+   },
+   {
+    "q": "Est-ce normal d'avoir plus mal après une séance de physio ?",
+    "a_html": "Une légère gêne ou des courbatures dans les heures qui suivent peuvent arriver, surtout après des exercices nouveaux. Parlez-en lors de la séance suivante pour adapter le traitement. Une douleur forte qui s'aggrave, un gonflement important ou de la fièvre nécessitent un avis médical.",
+    "a_text": "Une légère gêne ou des courbatures dans les heures qui suivent peuvent arriver, surtout après des exercices nouveaux. Parlez-en lors de la séance suivante pour adapter le traitement. Une douleur forte qui s'aggrave, un gonflement important ou de la fièvre nécessitent un avis médical."
    }
   ]
  },

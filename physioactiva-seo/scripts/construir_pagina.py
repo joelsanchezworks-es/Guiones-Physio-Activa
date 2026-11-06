@@ -70,7 +70,7 @@ ICONOS = [(r"urgence|alarme|médecin|144", "fa-triangle-exclamation"), (r"domici
           (r"douleur|aigu|lumbago|crise", "fa-bolt"), (r"nerf|sciatique|hernie|disque|vertèbre|dos|colonne", "fa-bone"),
           (r"équipe|physiothérapeute|thérapeute", "fa-user-doctor"), (r"rendez-vous|réserv|séance", "fa-calendar-check")]
 CICLO = ["fa-circle-check", "fa-stethoscope", "fa-heart-pulse", "fa-person-walking", "fa-shield-heart", "fa-notes-medical"]
-EYEBROW = [(r"urgence|médecin", "Signaux d'alarme"), (r"rembours", "Remboursement"), (r"domicile", "À domicile"),
+EYEBROW = [(r"essentiel|en bref", "En bref"), (r"urgence|médecin", "Signaux d'alarme"), (r"rembours", "Remboursement"), (r"domicile", "À domicile"),
            (r"venir|cabinet d'ins|accès", "Accès"), (r"déroulement|séance|se passe", "Vos séances"), (r"traitons|pathologies|traitées", "Ce que nous traitons"),
            (r"physiothérapie peut|traitement|prise en charge|aider|approche", "Notre approche"), (r"symptôme", "Symptômes"),
            (r"qu'est-ce|comprendre|définition|c'est quoi", "Comprendre"), (r"équipe", "Notre équipe"), (r"cause", "Causes"),
@@ -606,7 +606,7 @@ def receta(slug, url, plantilla, lote, carpeta, foto, alt, idx_zona=0):
     i_faq = next((i for i, x in enumerate(R) if x["tipo"] == "faq"), len(R) - 1)
     if tipo == "zona":
         k = meta["zona"]
-        R.insert(i_faq, {"tipo": "villes", "eyebrow": "Localités voisines", "h2": f"Physio près de {esc(zona['nom_fr'])} : autres localités",
+        R.insert(i_faq, {"tipo": "villes", "eyebrow": "Localités voisines", "h2": "Autres localités proches",
                          "lead": [f"Vous habitez entre {esc(zona['nom_fr'])} et le Seeland ? Consultez aussi nos pages locales voisines."],
                          "liens": [("Physio à Ins (Anet)", "/")] + liens_zones(zonas_cercanas(k)),
                          "note": f"Cabinet unique : {CLI['adresse']}."})

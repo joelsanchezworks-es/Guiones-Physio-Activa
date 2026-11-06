@@ -3,12 +3,16 @@
 - Lote: B · Plantilla: lombaire · Validación: OK
 - Indexación: NOINDEX hasta la confirmación del cliente
 
-## Marcadores [À CONFIRMER] (4)
+## Marcadores [À CONFIRMER] (8)
 
-- [À CONFIRMER : déplacements à Yverdon-les-Bains possibles ou non] — «Notre unique adresse se trouve à Ins (Rämismatte 21), à environ 43 km en ligne droite, et les visites à domicile à Yverdon sont [À CONFIRMER : déplacements à Yverdon-les-Bains possibles ou non].»
-- [À CONFIRMER : couverture de ces localités, jours de passage et délai du premier rendez-vous] — «Une physiothérapie à Yverdon même ou dans les communes voisines, comme Grandson, Montagny-près-Yverdon, Cheseaux-Noréaz ou Treycovagnes, reste donc [À CONFIRMER : couverture de ces localités, jours de passage et délai du premier rendez-vous].»
-- [À CONFIRMER : drainage à domicile dans la région d'Yverdon] — «Comme les séances peuvent être rapprochées, les 43 km jusqu'à Ins pèsent lourd : nous vous dirons franchement si un suivi est réaliste [À CONFIRMER : drainage à domicile dans la région d'Yverdon].»
-- [À CONFIRMER : déplacements dans la région d'Yverdon et conditions] — «La réponse est [À CONFIRMER : déplacements dans la région d'Yverdon et conditions].»
+- [À CONFIRMER : déplacements à Yverdon-les-Bains possibles ou non] — «Notre seule adresse est à Ins (Rämismatte 21), à environ 43,5 km en ligne droite, et les visites à domicile à Yverdon restent [À CONFIRMER : déplacements à Yverdon-les-Bains possibles ou non].»
+- [À CONFIRMER : physiothérapie à domicile à Yverdon-les-Bains et environs] — «Pour le Nord vaudois, le domicile n'est pas acquis : [À CONFIRMER : physiothérapie à domicile à Yverdon-les-Bains et environs].»
+- [À CONFIRMER : couverture de ces localités, jours de passage et délai du premier rendez-vous] — «Grandson, Montagny-près-Yverdon, Cheseaux-Noréaz ou Treycovagnes sortent de notre zone habituelle (Seeland et Trois-Lacs) : [À CONFIRMER : couverture de ces localités, jours de passage et délai du premier rendez-vous].»
+- [À CONFIRMER : drainage à domicile dans la région d'Yverdon] — «Pour un œdème ou un lymphœdème après une chirurgie ou un traitement oncologique, sur ordonnance et souvent à un rythme serré : la distance devient déterminante [À CONFIRMER : drainage à domicile dans la région d'Yverdon].»
+- [À CONFIRMER : possible ou non] — «Techniques manuelles et exercices, à Ins ; le domicile autour d'Yverdon est [À CONFIRMER : possible ou non].»
+- [À CONFIRMER : tarif appliqué] — «Les séances sont facturées selon la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué].»
+- [À CONFIRMER : tarif appliqué] — «Il découle de la structure tarifaire nationale convenue avec les assureurs [À CONFIRMER : tarif appliqué].»
+- [À CONFIRMER : déplacements dans la région d'Yverdon et conditions] — «Réponse : [À CONFIRMER : déplacements dans la région d'Yverdon et conditions].»
 
 ## Publicación
 
@@ -24,12 +28,12 @@
 | Sección | ¿Está? | Nota |
 |---|---|---|
 | H1 «servicio + ciudad» | sí | Physio à Yverdon-les-Bains : au cabinet d'Ins ou à domicile |
-| 4 H3 de valor bajo el hero | no | omitida |
-| Qué es / cuándo consultar (+ señales de alarma) | no | página sin patología concreta (hub/reserva/home): no aplica |
+| 4 H3 de valor bajo el hero | sí |  |
+| Qué es / cuándo consultar (+ señales de alarma) | sí |  |
 | Tipos según el caso (H2 + H3 por subtipo) | sí |  |
-| Proceso en pasos (H2 + H3) + CTA intermedio | no | no aplica a esta página |
+| Proceso en pasos (H2 + H3) + CTA intermedio | sí |  |
 | Reembolso y coste | sí |  |
-| FAQ (8-10) | no | 4 preguntas — texto ya validado del módulo 5: no se reescribe (2.5.5); ampliar con preguntas de data/paa_banco.json en una revisión |
-| CTA final en pregunta con la ciudad | no | omitida |
+| FAQ (8-10) | sí | 9 preguntas |
+| CTA final en pregunta con la ciudad | sí |  |
 
-- receta: ciudad en 3 H2 · FAQ 4 · CTA reserva 3 / tel 2 / WhatsApp 2 · palabras visibles 875
+- receta: ciudad en 4 H2 · FAQ 9 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1255

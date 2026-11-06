@@ -3,10 +3,11 @@
 - Lote: C · Plantilla: lombaire · Validación: OK
 - Indexación: index, follow
 
-## Marcadores [À CONFIRMER] (2)
+## Marcadores [À CONFIRMER] (3)
 
 - [À CONFIRMER] — «Horaires : du lundi au vendredi, de 8 h 30 à 19 h 30 [À CONFIRMER].»
 - [À CONFIRMER] — «Délai d'annulation : [À CONFIRMER].»
+- [À CONFIRMER] — «Durée d'une séance : [À CONFIRMER].»
 
 ## Publicación
 
@@ -27,7 +28,7 @@
 | Tipos según el caso (H2 + H3 por subtipo) | no | no aplica a esta página |
 | Proceso en pasos (H2 + H3) + CTA intermedio | no | no aplica a esta página |
 | Reembolso y coste | sí |  |
-| FAQ (8-10) | no | 4 preguntas — texto ya validado del módulo 5: no se reescribe (2.5.5); ampliar con preguntas de data/paa_banco.json en una revisión |
+| FAQ (8-10) | sí | 8 preguntas |
 | CTA final en pregunta con la ciudad | sí |  |
 
-- receta: ciudad en 3 H2 · FAQ 4 · CTA reserva 3 / tel 2 / WhatsApp 2 · palabras visibles 586
+- receta: ciudad en 3 H2 · FAQ 8 · CTA reserva 3 / tel 2 / WhatsApp 2 · palabras visibles 767

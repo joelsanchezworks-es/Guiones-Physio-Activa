@@ -299,6 +299,21 @@
     "q": "Faut-il une ordonnance pour la physio ?",
     "a_html": "Oui : pour un remboursement LAMal, LAA, AI ou AM, une prescription médicale est nécessaire.",
     "a_text": "Oui : pour un remboursement LAMal, LAA, AI ou AM, une prescription médicale est nécessaire."
+   },
+   {
+    "q": "Qu'est-ce qu'une lombalgie ?",
+    "a_html": "C'est une douleur située dans le bas du dos, au niveau des vertèbres lombaires. Elle est le plus souvent d'origine mécanique (muscles, articulations, disques) et peut être aiguë, comme un lumbago, ou durer plus longtemps. Le médecin pose le diagnostic ; le physiothérapeute évalue ensuite les mouvements et la fonction.",
+    "a_text": "C'est une douleur située dans le bas du dos, au niveau des vertèbres lombaires. Elle est le plus souvent d'origine mécanique (muscles, articulations, disques) et peut être aiguë, comme un lumbago, ou durer plus longtemps. Le médecin pose le diagnostic ; le physiothérapeute évalue ensuite les mouvements et la fonction."
+   },
+   {
+    "q": "Comment savoir si c'est une douleur au dos ou aux reins ?",
+    "a_html": "Une douleur du dos varie en général avec les mouvements et les positions. Une douleur qui ne change pas en bougeant, avec de la fièvre, des brûlures en urinant ou une douleur au ventre, peut venir des reins ou d'un autre organe : consultez d'abord votre médecin.",
+    "a_text": "Une douleur du dos varie en général avec les mouvements et les positions. Une douleur qui ne change pas en bougeant, avec de la fièvre, des brûlures en urinant ou une douleur au ventre, peut venir des reins ou d'un autre organe : consultez d'abord votre médecin."
+   },
+   {
+    "q": "Qu'est-ce que la radiculalgie lombaire ?",
+    "a_html": "C'est une douleur qui descend du bas du dos vers la fesse, la cuisse ou le pied, parce qu'une racine nerveuse est irritée ; la sciatique en est la forme la plus connue. Une perte de force ou des troubles pour uriner imposent de consulter un médecin en urgence. Voir aussi notre page <a href=\"/sciatique-hernie-discale/\" style=\"color:var(--azure);font-weight:600\">sciatique et hernie discale</a>.",
+    "a_text": "C'est une douleur qui descend du bas du dos vers la fesse, la cuisse ou le pied, parce qu'une racine nerveuse est irritée ; la sciatique en est la forme la plus connue. Une perte de force ou des troubles pour uriner imposent de consulter un médecin en urgence. Voir aussi notre page sciatique et hernie discale ."
    }
   ]
  },

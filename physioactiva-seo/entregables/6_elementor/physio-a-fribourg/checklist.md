@@ -1,16 +1,18 @@
 # Checklist — /physio-a-fribourg/
 
-- Lote: A · Plantilla: lombaire · Validación: ERRORES: receta: ciudad nunca en un H3
+- Lote: A · Plantilla: lombaire · Validación: OK
 - Indexación: index, follow
 
-## Marcadores [À CONFIRMER] (6)
+## Marcadores [À CONFIRMER] (8)
 
 - [À CONFIRMER : domicile à Fribourg] — «Après une opération ou en cas de mobilité réduite, recevoir son physiothérapeute chez soi à Fribourg peut simplifier la rééducation [À CONFIRMER : domicile à Fribourg].»
-- [À CONFIRMER : localités desservies et jours de passage] — «En plus de la ville, Villars-sur-Glâne, Marly, Givisiez et Granges-Paccot sont les localités voisines que nous pourrions couvrir [À CONFIRMER : localités desservies et jours de passage].»
-- [À CONFIRMER : drainage à domicile à Fribourg] — «Sur ordonnance, le drainage s'intègre à votre traitement de physiothérapie, à Ins ou chez vous selon votre mobilité [À CONFIRMER : drainage à domicile à Fribourg].»
-- [À CONFIRMER : dry needling aussi à domicile] — «Les séances ont lieu au cabinet d'Ins [À CONFIRMER : dry needling aussi à domicile].»
+- [À CONFIRMER : tournées en Sarine] — «Le domicile est pensé pour les patients que le déplacement fatigue ou met en danger ; les autres profitent de l'espace d'entraînement du cabinet [À CONFIRMER : tournées en Sarine].»
+- [À CONFIRMER : localités desservies et jours de passage] — «Outre la ville, Villars-sur-Glâne, Marly, Givisiez et Granges-Paccot sont les localités voisines que nous pourrions couvrir [À CONFIRMER : localités desservies et jours de passage].»
+- [À CONFIRMER : drainage à domicile à Fribourg] — «Sur ordonnance, le drainage s'intègre au traitement, à Ins ou chez vous selon votre mobilité [À CONFIRMER : drainage à domicile à Fribourg].»
+- [À CONFIRMER : dry needling aussi à domicile] — «Elle se pratique au cabinet d'Ins [À CONFIRMER : dry needling aussi à domicile].»
+- [À CONFIRMER : tarif appliqué] — «Les séances sont facturées selon la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué].»
 - [À CONFIRMER : localités desservies] — «Ces deux communes voisines de Fribourg font partie des zones envisagées pour les visites à domicile [À CONFIRMER : localités desservies].»
-- [À CONFIRMER : délai du premier rendez-vous] — «Le délai pour la première séance est à vérifier avec nous [À CONFIRMER : délai du premier rendez-vous].»
+- [À CONFIRMER : délai du premier rendez-vous] — «Si vous avez été opéré à l'HFR Fribourg, suivez les consignes de votre chirurgien : la rééducation démarre en général dès le retour à domicile, avec l'ordonnance de physiothérapie [À CONFIRMER : délai du premier rendez-vous].»
 
 ## Publicación
 
@@ -26,12 +28,12 @@
 | Sección | ¿Está? | Nota |
 |---|---|---|
 | H1 «servicio + ciudad» | sí | Physiothérapie à Fribourg : au cabinet d'Ins ou à domicile |
-| 4 H3 de valor bajo el hero | no | omitida |
-| Qué es / cuándo consultar (+ señales de alarma) | no | página sin patología concreta (hub/reserva/home): no aplica |
+| 4 H3 de valor bajo el hero | sí |  |
+| Qué es / cuándo consultar (+ señales de alarma) | sí |  |
 | Tipos según el caso (H2 + H3 por subtipo) | sí |  |
-| Proceso en pasos (H2 + H3) + CTA intermedio | no | no aplica a esta página |
+| Proceso en pasos (H2 + H3) + CTA intermedio | sí |  |
 | Reembolso y coste | sí |  |
-| FAQ (8-10) | no | 4 preguntas — texto ya validado del módulo 5: no se reescribe (2.5.5); ampliar con preguntas de data/paa_banco.json en una revisión |
-| CTA final en pregunta con la ciudad | no | omitida |
+| FAQ (8-10) | sí | 10 preguntas |
+| CTA final en pregunta con la ciudad | sí |  |
 
-- receta: ciudad en 4 H2 · FAQ 4 · CTA reserva 3 / tel 2 / WhatsApp 2 · palabras visibles 839
+- receta: ciudad en 4 H2 · FAQ 10 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1345

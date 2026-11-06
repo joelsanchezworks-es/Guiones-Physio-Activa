@@ -3,7 +3,7 @@
   "tipo": "hero",
   "eyebrow": "Physio · Lausanne",
   "h1": "Physio à Lausanne : au cabinet d'Ins ou à domicile",
-  "sub": "Vous habitez Lausanne et vous cherchez un physio ? Physio Activa est installé à Ins, dans le Seeland bernois, à environ 65 km en ligne droite de la capitale vaudoise : nous n'avons ni centre ni cabinet de physiothérapie à Lausanne. Une prise en charge à domicile sur place est [À CONFIRMER : déplacements à Lausanne possibles ou non]. Sur ordonnance, les séances sont remboursées (LAMal, LAA, AI, AM) ; le plus simple est de nous téléphoner.",
+  "sub": "Vous habitez Lausanne et cherchez un physio ? Physio Activa est installé à Ins, dans le Seeland bernois, à environ 65 km en ligne droite de la capitale vaudoise : nous n'avons ni centre ni cabinet de physiothérapie à Lausanne. Un suivi à domicile sur place est [À CONFIRMER : déplacements à Lausanne possibles ou non]. Les séances prescrites par un médecin sont remboursées ; le plus simple est de nous téléphoner.",
   "pills": [
    "Cabinet à Ins, à 65,0 km",
    "Sur prescription médicale",
@@ -15,98 +15,157 @@
   "cta": "Prendre rendez-vous"
  },
  {
-  "tipo": "texte",
-  "eyebrow": "À domicile",
-  "h2": "Physiothérapie à domicile à Lausanne et environs",
+  "tipo": "grid",
+  "eyebrow": "En bref",
+  "h2": "L'essentiel en bref",
   "lead": [],
   "bg": null,
-  "html": "<p>Pour un traitement régulier, la distance compte : plusieurs séances par semaine depuis Ins jusqu'à Lausanne, Pully, Prilly, Renens ou Épalinges ne sont pas toujours réalistes. Si vous cherchez un physiothérapeute à Lausanne pour un suivi rapproché, nous préférons le dire honnêtement. Les éventuels jours de passage dans l'agglomération lausannoise sont [À CONFIRMER : couverture, fréquence et délai du premier rendez-vous].</p><p style=\"margin-top:12px\">Le domicile garde son sens pour une personne qui ne peut pas sortir de chez elle ; l'ordonnance doit alors préciser « à domicile ». Voir notre page <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>.</p>"
+  "cards": [
+   {
+    "h3": "Sur prescription, remboursé LAMal / LAA",
+    "html": "<p>Maladie, accident, invalidité ou assurance militaire : avec une ordonnance, la LAMal, la LAA, l'AI ou l'AM couvrent la physiothérapie, que le médecin consulte au CHUV ou en ville.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Au cabinet d'Ins ou à domicile",
+    "html": "<p>Nous recevons à Ins. Pour l'agglomération lausannoise, la visite à domicile dépend de [À CONFIRMER : couverture et fréquence possibles].</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Bilan et plan de traitement",
+    "html": "<p>Avant toute technique, un examen de votre problème ; ensuite, un plan écrit avec vous, revu au fil des séances.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
+    "html": "<p>Agenda en ligne, téléphone au 076 627 38 38 ou WhatsApp. À 65 km, un premier échange évite un déplacement inutile.</p>",
+    "icon": "fa-calendar-check"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Signaux d'alarme",
+  "h2": "Quand consulter un physio, et quand voir d'abord un médecin ?",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Une sciatique qui descend dans la jambe, une nuque bloquée après des heures d'écran, une épaule douloureuse au sport ou une lombalgie qui revient : ce sont des motifs typiques.</p><p style=\"margin-top:12px\">Certaines situations relèvent d'abord du médecin : douleur après un traumatisme violent, engourdissement du bassin ou des organes génitaux, faiblesse qui s'aggrave, perte de poids inexpliquée, douleur constante même au repos. En cas d'urgence vitale, composez le 144.</p>"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Notre approche",
+  "h2": "Quelle prise en charge selon votre situation ?",
+  "lead": [],
+  "bg": null,
+  "cards": [
+   {
+    "h3": "Si vous séjournez dans le Seeland",
+    "html": "<p>Le cabinet d'Ins, dans l'InsGym, a du sens si vous travaillez, étudiez ou passez vos vacances dans la région des Trois-Lacs.</p>",
+    "icon": "fa-circle-check"
+   },
+   {
+    "h3": "À domicile et communes voisines",
+    "html": "<p>Plusieurs séances par semaine depuis Ins jusqu'à Pully, Prilly, Renens ou Épalinges ne sont pas toujours réalistes, et nous préférons le dire. Jours de passage : [À CONFIRMER : couverture, fréquence et délai du premier rendez-vous]. La mention « à domicile » doit figurer sur l'ordonnance ; voir <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Après une intervention au CHUV",
+    "html": "<p>La rééducation peut se poursuivre chez nous si vous résidez temporairement dans le Seeland, sur la base de votre prescription de sortie.</p>",
+    "icon": "fa-heart-pulse"
+   },
+   {
+    "h3": "Dos, nuque, sciatique et épaule",
+    "html": "<p>– <a href=\"/sciatique-hernie-discale/\" style=\"color:var(--azure);font-weight:600\">Sciatique et hernie discale</a> : soulager la jambe, puis reprendre l'effort pas à pas.</p><p style=\"margin-top:12px\">– <a href=\"/douleur-cervicale-au-cou/\" style=\"color:var(--azure);font-weight:600\">Douleur cervicale</a> : tensions liées à l'écran ou au stress.</p><p style=\"margin-top:12px\">– <a href=\"/lesions-de-lepaule/\" style=\"color:var(--azure);font-weight:600\">Épaule</a> : amplitude et force du bras.</p><p style=\"margin-top:12px\">– <a href=\"/mal-de-dos-lombaire/\" style=\"color:var(--azure);font-weight:600\">Mal de dos et lombalgie</a> : un programme adapté à votre quotidien.</p><p style=\"margin-top:12px\">Liste complète : <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">toutes les pathologies</a>.</p>",
+    "icon": "fa-bone"
+   },
+   {
+    "h3": "Drainage lymphatique",
+    "html": "<p>Prescrit pour un lymphœdème ou un gonflement persistant après une opération, il demande souvent des séances rapprochées, un rythme difficile à tenir depuis Lausanne [À CONFIRMER : drainage à domicile dans l'agglomération lausannoise]. Présentation : <a href=\"/drainage-lymphatique/\" style=\"color:var(--azure);font-weight:600\">drainage lymphatique chez Physio Activa</a>.</p>",
+    "icon": "fa-shield-heart"
+   },
+   {
+    "h3": "Massage thérapeutique",
+    "html": "<p>Il cible contractures et tensions de nuque ou de dos, au cabinet d'Ins [À CONFIRMER : conditions de remboursement du massage sur ordonnance]. Détails : <a href=\"/massage-therapeutique/\" style=\"color:var(--azure);font-weight:600\">massage thérapeutique</a>.</p>",
+    "icon": "fa-hand-holding-heart"
+   },
+   {
+    "h3": "Physio du sport",
+    "html": "<p>Coureurs ou joueurs de club : après une déchirure ou une ligamentoplastie, la reprise se prépare par du renforcement progressif sur les machines d'InsGym. Voir <a href=\"/physio-du-sport/\" style=\"color:var(--azure);font-weight:600\">physio du sport</a>.</p>",
+    "icon": "fa-person-running"
+   },
+   {
+    "h3": "Dry needling",
+    "html": "<p>La puncture sèche traite des points gâchettes avec une aiguille fine et stérile, sans injection, en complément d'une séance [À CONFIRMER : dry needling à domicile]. En savoir plus : <a href=\"/physioactiva-puncture-seche/\" style=\"color:var(--azure);font-weight:600\">puncture sèche (dry needling)</a>.</p>",
+    "icon": "fa-stethoscope"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Notre approche",
+  "h2": "Comment se déroule votre prise en charge ?",
+  "lead": [],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Ordonnance",
+    "html": "<p>Le médecin lausannois qui vous suit rédige la prescription ; elle reste valable pour un cabinet bernois.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Bilan",
+    "html": "<p>Nous questionnons votre quotidien et votre historique, puis nous observons comment vous bougez et ce qui déclenche la douleur.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Séances au cabinet ou à domicile",
+    "html": "<p>Thérapie manuelle et exercice se combinent au cabinet d'Ins ; à Lausanne même, le domicile reste [À CONFIRMER : possible ou non].</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Autonomie et prévention",
+    "html": "<p>Un programme personnel vous permet de continuer seul et de mieux gérer les rechutes, un vrai atout quand on vit à 65 km.</p>",
+    "icon": "fa-person-walking"
+   }
+  ],
+  "cta_mid": true
  },
  {
   "tipo": "texte",
   "eyebrow": "Accès",
   "h2": "Venir au cabinet d'Ins depuis Lausanne",
   "lead": [],
-  "bg": "trust",
-  "html": "<p>Le cabinet se trouve dans le bâtiment de l'InsGym, à environ 65 km en ligne droite de Lausanne. Cette option convient surtout si vous séjournez ou travaillez dans la région des Trois-Lacs. Accès : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>. Bonne nouvelle pour les Lausannois : malgré l'adresse bernoise, les séances se font en français.</p><p style=\"margin-top:12px\">Après une opération ou une hospitalisation au CHUV, la rééducation peut se poursuivre chez nous si vous résidez temporairement dans le Seeland, sur la base de votre prescription de sortie.</p>"
- },
- {
-  "tipo": "grid",
-  "eyebrow": "Ce que nous traitons",
-  "h2": "Ce que nous traitons",
-  "lead": [],
   "bg": null,
-  "cards": [
-   {
-    "h3": null,
-    "html": "<p><a href=\"/sciatique-hernie-discale/\" style=\"color:var(--azure);font-weight:600\">Sciatique et hernie discale</a> : soulager la jambe et la région lombaire, puis reprendre progressivement l'effort.</p>",
-    "icon": "fa-bone"
-   },
-   {
-    "h3": null,
-    "html": "<p><a href=\"/douleur-cervicale-au-cou/\" style=\"color:var(--azure);font-weight:600\">Douleur cervicale</a> : nuque raide, tensions liées au travail sur écran ou au stress.</p>",
-    "icon": "fa-bolt"
-   },
-   {
-    "h3": null,
-    "html": "<p><a href=\"/lesions-de-lepaule/\" style=\"color:var(--azure);font-weight:600\">Épaule</a> : retrouver l'amplitude et la force du bras.</p>",
-    "icon": "fa-heart-pulse"
-   },
-   {
-    "h3": null,
-    "html": "<p><a href=\"/mal-de-dos-lombaire/\" style=\"color:var(--azure);font-weight:600\">Mal de dos et lombalgie</a> : un plan d'exercices adapté à votre quotidien.</p>",
-    "icon": "fa-dumbbell"
-   },
-   {
-    "h3": null,
-    "html": "<p>La liste complète se trouve sur <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">toutes les pathologies</a>.</p>",
-    "icon": "fa-circle-info"
-   }
-  ]
+  "html": "<p>Le cabinet, dans le bâtiment de l'InsGym, est à environ 65 km en ligne droite de Lausanne, chef-lieu du district de Lausanne. Accès : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>. Bonne nouvelle pour les Lausannois, venus d'une ville francophone : malgré l'adresse bernoise, tout se fait en français, et l'espagnol est aussi possible.</p>"
  },
  {
   "tipo": "grid",
-  "eyebrow": "Soins proposés",
-  "h2": "Nos soins spécifiques, vus depuis Lausanne",
-  "lead": [
-   "Physio, physiothérapie ou « kiné », selon le mot que vous utilisez : ces soins font partie de notre pratique, avec la même contrainte de distance."
-  ],
-  "bg": "trust",
-  "cards": [
-   {
-    "h3": "Drainage lymphatique à Lausanne",
-    "html": "<p>Prescrit pour un lymphœdème ou un gonflement qui persiste après une intervention, le drainage lymphatique manuel demande souvent plusieurs séances rapprochées. À environ 65 km d'Ins, ce rythme est difficile à tenir depuis Lausanne : il a surtout du sens si vous séjournez dans le Seeland [À CONFIRMER : drainage à domicile dans l'agglomération lausannoise]. Présentation du soin : <a href=\"/drainage-lymphatique/\" style=\"color:var(--azure);font-weight:600\">drainage lymphatique chez Physio Activa</a>.</p>",
-    "icon": "fa-circle-check"
-   },
-   {
-    "h3": "Massage thérapeutique à Lausanne",
-    "html": "<p>Il cible les contractures et les tensions de nuque ou de dos qui gênent le quotidien. Il a lieu au cabinet d'Ins [À CONFIRMER : conditions de remboursement du massage sur ordonnance]. Détails : <a href=\"/massage-therapeutique/\" style=\"color:var(--azure);font-weight:600\">massage thérapeutique</a>.</p>",
-    "icon": "fa-hand-holding-heart"
-   },
-   {
-    "h3": "Physio du sport à Lausanne",
-    "html": "<p>Coureurs, joueurs de club ou sportifs occasionnels : après une déchirure ou une ligamentoplastie, la reprise se prépare par du renforcement et des efforts progressifs sur les machines d'InsGym, donc à Ins. Notre approche : <a href=\"/physio-du-sport/\" style=\"color:var(--azure);font-weight:600\">physio du sport</a>.</p>",
-    "icon": "fa-person-running"
-   },
-   {
-    "h3": "Dry needling à Lausanne",
-    "html": "<p>Le dry needling, ou puncture sèche, traite des points gâchettes musculaires avec une aiguille fine et stérile, sans injection de produit. Il peut compléter une séance pour une douleur d'épaule, de nuque ou de mollet, en principe au cabinet d'Ins [À CONFIRMER : dry needling à domicile]. En savoir plus : <a href=\"/physioactiva-puncture-seche/\" style=\"color:var(--azure);font-weight:600\">puncture sèche (dry needling)</a>.</p>",
-    "icon": "fa-person-walking"
-   }
-  ]
- },
- {
-  "tipo": "texte",
   "eyebrow": "Remboursement",
-  "h2": "Remboursement",
+  "h2": "Remboursement et coût de la physio à Lausanne",
   "lead": [],
-  "bg": null,
-  "html": "<p>Avec une ordonnance médicale, la physiothérapie est prise en charge par l'assurance obligatoire des soins (LAMal), l'assurance accidents (LAA), l'assurance invalidité (AI) ou l'assurance militaire (AM). Dans le cadre de la LAMal, la franchise et la quote-part de votre contrat s'appliquent. Apportez votre ordonnance et votre carte d'assuré à la première séance.</p>"
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Assurance de base (LAMal)",
+    "html": "<p>Avec une ordonnance médicale, l'assurance obligatoire des soins (LAMal) prend en charge la physiothérapie. La franchise et la quote-part de votre contrat s'appliquent.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Accident, AI et AM",
+    "html": "<p>Après un accident, l'assurance accidents (LAA) intervient ; l'assurance invalidité (AI) et l'assurance militaire (AM) couvrent aussi les séances dans leur domaine. Apportez ordonnance et carte d'assuré à la première séance.</p>",
+    "icon": "fa-stethoscope"
+   },
+   {
+    "h3": "Ce qui détermine ce que vous payez",
+    "html": "<p>Les séances sont facturées selon la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué]. Votre part dépend de la franchise, de la quote-part et de l'assurance concernée.</p>",
+    "icon": "fa-heart-pulse"
+   }
+  ]
  },
  {
   "tipo": "villes",
   "eyebrow": "Localités voisines",
-  "h2": "Physio près de Lausanne : autres localités",
+  "h2": "Autres localités proches",
   "lead": [
    "Vous habitez entre Lausanne et le Seeland ? Consultez aussi nos pages locales voisines."
   ],
@@ -136,29 +195,59 @@
  },
  {
   "tipo": "faq",
-  "h2": "Questions fréquentes",
+  "h2": "Questions fréquentes sur la physio à Lausanne",
   "faq": [
    {
-    "q": "À quelle distance de Lausanne se trouve le cabinet ?",
+    "q": "À quelle distance se trouve le cabinet ?",
     "a_html": "Environ 65 km en ligne droite séparent Lausanne d'Ins.",
     "a_text": "Environ 65 km en ligne droite séparent Lausanne d'Ins."
    },
    {
+    "q": "Comment choisir son physiothérapeute ?",
+    "a_html": "Vérifiez qu'il peut vous suivre au rythme prescrit : sur plusieurs semaines, la proximité compte autant que la spécialité, une question honnête à se poser depuis Lausanne.",
+    "a_text": "Vérifiez qu'il peut vous suivre au rythme prescrit : sur plusieurs semaines, la proximité compte autant que la spécialité, une question honnête à se poser depuis Lausanne."
+   },
+   {
+    "q": "Quand faire de la physiothérapie ?",
+    "a_html": "Quand une douleur ou une raideur limite vos gestes, après une opération ou un accident, ou pour préparer une reprise sportive. Votre médecin décide de la prescription.",
+    "a_text": "Quand une douleur ou une raideur limite vos gestes, après une opération ou un accident, ou pour préparer une reprise sportive. Votre médecin décide de la prescription."
+   },
+   {
+    "q": "Comment appelle-t-on un kinésithérapeute en Suisse ?",
+    "a_html": "Physiothérapeute. « Kiné » est le mot employé en France pour le même métier.",
+    "a_text": "Physiothérapeute. « Kiné » est le mot employé en France pour le même métier."
+   },
+   {
+    "q": "Quel est le prix d'une séance de physiothérapie en Suisse ?",
+    "a_html": "Il est fixé par la structure tarifaire nationale [À CONFIRMER : tarif appliqué] ; avec une ordonnance, vous ne payez que votre franchise et votre quote-part.",
+    "a_text": "Il est fixé par la structure tarifaire nationale [À CONFIRMER : tarif appliqué] ; avec une ordonnance, vous ne payez que votre franchise et votre quote-part."
+   },
+   {
+    "q": "Le drainage lymphatique est-il remboursé en Suisse ?",
+    "a_html": "Oui, s'il est prescrit par un médecin et réalisé par un physiothérapeute, dans le cadre de la LAMal. Sans ordonnance, il reste à votre charge.",
+    "a_text": "Oui, s'il est prescrit par un médecin et réalisé par un physiothérapeute, dans le cadre de la LAMal. Sans ordonnance, il reste à votre charge."
+   },
+   {
+    "q": "Pourquoi faire du dry needling ?",
+    "a_html": "Pour relâcher un point gâchette qui entretient une douleur musculaire, à l'épaule, à la nuque ou au mollet, en complément des exercices.",
+    "a_text": "Pour relâcher un point gâchette qui entretient une douleur musculaire, à l'épaule, à la nuque ou au mollet, en complément des exercices."
+   },
+   {
     "q": "Pouvez-vous venir à Pully, Prilly ou Renens ?",
-    "a_html": "Ces communes voisines de Lausanne sont loin de notre zone habituelle de déplacement (Seeland et Trois-Lacs). La réponse dépend de [À CONFIRMER : déplacements dans l'agglomération lausannoise].",
-    "a_text": "Ces communes voisines de Lausanne sont loin de notre zone habituelle de déplacement (Seeland et Trois-Lacs). La réponse dépend de [À CONFIRMER : déplacements dans l'agglomération lausannoise]."
+    "a_html": "Ces communes sont loin de notre zone habituelle (Seeland et Trois-Lacs) : [À CONFIRMER : déplacements dans l'agglomération lausannoise].",
+    "a_text": "Ces communes sont loin de notre zone habituelle (Seeland et Trois-Lacs) : [À CONFIRMER : déplacements dans l'agglomération lausannoise]."
    },
    {
     "q": "Ma prescription me permet-elle de consulter dans le canton de Berne ?",
-    "a_html": "Oui, une ordonnance établie par un médecin en Suisse vous permet de consulter un physiothérapeute dans un autre canton. Le remboursement suit les règles de votre assurance.",
-    "a_text": "Oui, une ordonnance établie par un médecin en Suisse vous permet de consulter un physiothérapeute dans un autre canton. Le remboursement suit les règles de votre assurance."
+    "a_html": "Oui, une ordonnance établie par un médecin en Suisse permet de consulter un physiothérapeute dans un autre canton.",
+    "a_text": "Oui, une ordonnance établie par un médecin en Suisse permet de consulter un physiothérapeute dans un autre canton."
    }
   ]
  },
  {
   "tipo": "cta",
-  "h2": "Une question sur votre situation à Lausanne ?",
-  "s1": "Expliquez-nous vos besoins : nous vous répondons sans détour, même si la distance rend un suivi chez nous peu pratique. <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">Réservation en ligne</a>, téléphone 076 627 38 38, WhatsApp +41 76 627 38 38.",
+  "h2": "Besoin d'un physio à Lausanne ou dans les environs ?",
+  "s1": "Expliquez-nous vos besoins : nous répondons sans détour, même si la distance complique un suivi. <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">Réservation en ligne</a>, téléphone 076 627 38 38, WhatsApp +41 76 627 38 38.",
   "s2": null
  },
  {
