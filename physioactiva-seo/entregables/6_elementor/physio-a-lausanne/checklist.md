@@ -3,10 +3,13 @@
 - Lote: B · Plantilla: lombaire · Validación: OK
 - Indexación: NOINDEX hasta la confirmación del cliente
 
-## Marcadores [À CONFIRMER] (3)
+## Marcadores [À CONFIRMER] (6)
 
 - [À CONFIRMER : déplacements à Lausanne possibles ou non] — «Une prise en charge à domicile sur place est [À CONFIRMER : déplacements à Lausanne possibles ou non].»
 - [À CONFIRMER : couverture, fréquence et délai du premier rendez-vous] — «Les éventuels jours de passage dans l'agglomération lausannoise sont [À CONFIRMER : couverture, fréquence et délai du premier rendez-vous].»
+- [À CONFIRMER : drainage à domicile dans l'agglomération lausannoise] — «À environ 65 km d'Ins, ce rythme est difficile à tenir depuis Lausanne : il a surtout du sens si vous séjournez dans le Seeland [À CONFIRMER : drainage à domicile dans l'agglomération lausannoise].»
+- [À CONFIRMER : conditions de remboursement du massage sur ordonnance] — «Il a lieu au cabinet d'Ins [À CONFIRMER : conditions de remboursement du massage sur ordonnance].»
+- [À CONFIRMER : dry needling à domicile] — «Il peut compléter une séance pour une douleur d'épaule, de nuque ou de mollet, en principe au cabinet d'Ins [À CONFIRMER : dry needling à domicile].»
 - [À CONFIRMER : déplacements dans l'agglomération lausannoise] — «La réponse dépend de [À CONFIRMER : déplacements dans l'agglomération lausannoise].»
 
 ## Publicación

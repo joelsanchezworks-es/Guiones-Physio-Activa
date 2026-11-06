@@ -74,7 +74,8 @@ EYEBROW = [(r"urgence|médecin", "Signaux d'alarme"), (r"rembours", "Rembourseme
            (r"venir|cabinet d'ins|accès", "Accès"), (r"déroulement|séance|se passe", "Vos séances"), (r"traitons|pathologies|traitées", "Ce que nous traitons"),
            (r"physiothérapie peut|traitement|prise en charge|aider|approche", "Notre approche"), (r"symptôme", "Symptômes"),
            (r"qu'est-ce|comprendre|définition|c'est quoi", "Comprendre"), (r"équipe", "Notre équipe"), (r"cause", "Causes"),
-           (r"exercice|prévenir|prévention|conseils", "Conseils"), (r"réserver|rendez-vous|prendre", "Rendez-vous"), (r"assurance", "Assurances")]
+           (r"exercice|prévenir|prévention|conseils", "Conseils"), (r"réserver|rendez-vous|prendre", "Rendez-vous"), (r"assurance", "Assurances"),
+           (r"drainage|massage|aiguille|needling|techniques|soins|sport", "Soins proposés"), (r"plus qu'un|plan", "Notre approche")]
 
 
 def eid(*parts):

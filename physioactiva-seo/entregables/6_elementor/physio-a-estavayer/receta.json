@@ -3,7 +3,7 @@
   "tipo": "hero",
   "eyebrow": "Physio · Estavayer-le-Lac",
   "h1": "Physio à Estavayer-le-Lac : au cabinet d'Ins ou à domicile",
-  "sub": "Estavayer-le-Lac se trouve à environ 26,4 km en ligne droite d'Ins, dans la Broye fribourgeoise. Physio Activa vous accueille au cabinet d'Ins et étudie la possibilité de séances à domicile dans la Broye [À CONFIRMER : domicile à Estavayer]. La physiothérapie est remboursée sur prescription médicale, et vous pouvez réserver en ligne à toute heure.",
+  "sub": "Estavayer-le-Lac se trouve à environ 26,4 km en ligne droite d'Ins, dans la Broye fribourgeoise. Physio Activa vous accueille au cabinet d'Ins et étudie la possibilité de séances à domicile dans la Broye [À CONFIRMER : domicile à Estavayer]. Que votre physiothérapie se fasse à Estavayer-le-Lac ou à Ins, elle est remboursée sur prescription médicale, et vous pouvez réserver en ligne à toute heure.",
   "pills": [
    "Cabinet à Ins, à 26,4 km",
    "Sur prescription médicale",
@@ -67,11 +67,25 @@
   ]
  },
  {
+  "tipo": "grid",
+  "eyebrow": "Physio Activa",
+  "h2": "Un service à connaître depuis Estavayer",
+  "lead": [],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Drainage lymphatique à Estavayer",
+    "html": "<p>Après une opération du genou ou de la hanche, une entorse sévère ou en cas de lymphœdème, un gonflement peut persister plusieurs semaines : c'est la situation type pour un drainage lymphatique manuel, prescrit par le médecin. Vu les 26,4 km qui séparent Estavayer du cabinet, il se fera en principe à Ins, le domicile restant [À CONFIRMER : drainage à domicile dans la Broye fribourgeoise]. Pour comprendre la technique : <a href=\"/drainage-lymphatique/\" style=\"color:var(--azure);font-weight:600\">le drainage lymphatique chez Physio Activa</a>.</p>",
+    "icon": "fa-circle-check"
+   }
+  ]
+ },
+ {
   "tipo": "texte",
   "eyebrow": "Remboursement",
   "h2": "Remboursement",
   "lead": [],
-  "bg": "trust",
+  "bg": null,
   "html": "<p>La physiothérapie prescrite par un médecin est prise en charge par l'assurance de base (LAMal), l'assurance accidents (LAA), l'AI ou l'AM. Avec la LAMal, la franchise et la quote-part restent à votre charge. Apportez l'ordonnance et votre carte d'assuré à la première séance.</p>"
  },
  {

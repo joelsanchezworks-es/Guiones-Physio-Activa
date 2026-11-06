@@ -2,8 +2,8 @@
  {
   "tipo": "hero",
   "eyebrow": "Physio · Sugiez (Mont-Vully)",
-  "h1": "Physio à Sugiez : au cabinet d'Ins ou à domicile",
-  "sub": "Sugiez se trouve à environ 4,9 km en ligne droite de notre cabinet d'Ins : c'est l'une des localités les plus proches de Physio Activa. Vous pouvez venir au cabinet ou, sur ordonnance médicale, recevoir votre physio chez vous dans le Mont-Vully [À CONFIRMER : domicile toujours proposé à Sugiez]. Avec une prescription, les séances sont remboursées, et vous réservez en ligne, par téléphone ou par WhatsApp.",
+  "h1": "Physio à Sugiez et dans le Vully : au cabinet d'Ins ou à domicile",
+  "sub": "Sugiez se trouve à environ 4,9 km en ligne droite de notre cabinet d'Ins : pour une physio dans le Vully, difficile de trouver plus proche que Physio Activa. Vous pouvez venir au cabinet ou, sur ordonnance médicale, recevoir votre physio chez vous dans le Mont-Vully [À CONFIRMER : domicile toujours proposé à Sugiez]. Avec une prescription, les séances sont remboursées, et vous réservez en ligne, par téléphone ou par WhatsApp.",
   "pills": [
    "Cabinet à Ins, à 4,9 km",
    "Sur prescription médicale",
@@ -17,7 +17,7 @@
  {
   "tipo": "texte",
   "eyebrow": "À domicile",
-  "h2": "Physiothérapie à domicile à Sugiez et environs",
+  "h2": "Physiothérapie à domicile à Sugiez et dans le Vully",
   "lead": [],
   "bg": null,
   "html": "<p>Le Mont-Vully regroupe plusieurs villages au bord du lac de Morat. Notre site mentionne déjà des visites à domicile à Sugiez, Praz, Môtier, Lugnorre et Guévaux ; pour Nant, Salavaux ou Cudrefin, demandez-nous simplement si votre adresse est desservie [À CONFIRMER : liste des villages et jours de passage dans le Vully].</p><p style=\"margin-top:12px\">Le domicile s'adresse surtout aux personnes pour qui le trajet est un obstacle : retour à la maison après une hospitalisation, convalescence après une opération, suites d'une chute, ou aîné qui ne conduit plus. Souvent, c'est un proche qui prend contact pour organiser les séances. Tous les détails se trouvent sur la page <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>.</p>"

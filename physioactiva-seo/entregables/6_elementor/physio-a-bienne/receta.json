@@ -3,7 +3,7 @@
   "tipo": "hero",
   "eyebrow": "Physio · Bienne (Biel)",
   "h1": "Physio à Bienne (Biel) : au cabinet d'Ins ou à domicile",
-  "sub": "Pour une physiothérapie en français depuis Bienne (Biel), Physio Activa vous accueille à Ins, à environ 18 km en ligne droite de la ville. Selon votre situation, une prise en charge à domicile peut aussi être organisée [À CONFIRMER : domicile à Bienne]. Les séances prescrites par un médecin sont remboursées, et un rendez-vous se prend en quelques clics.",
+  "sub": "Vous cherchez un physiothérapeute à Bienne (Biel) qui vous soigne en français ? Physio Activa vous accueille à Ins, à environ 18 km en ligne droite de la ville. Selon votre situation, une prise en charge à domicile peut aussi être organisée [À CONFIRMER : domicile à Bienne]. Les séances prescrites par un médecin sont remboursées, et un rendez-vous se prend en quelques clics.",
   "pills": [
    "Cabinet à Ins, à 18,0 km",
    "Sur prescription médicale",
@@ -65,11 +65,25 @@
   ]
  },
  {
+  "tipo": "grid",
+  "eyebrow": "Physio Activa",
+  "h2": "Un soin souvent recherché à Bienne",
+  "lead": [],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Drainage lymphatique à Bienne",
+    "html": "<p>Après une opération au genou ou à la hanche, en cas de lymphœdème ou de jambes lourdes qui gonflent en fin de journée, le drainage lymphatique manuel relance la circulation de la lymphe par des gestes lents et légers. Sur prescription médicale, il fait partie d'un traitement de physiothérapie, au cabinet d'Ins ou à votre domicile biennois [À CONFIRMER : drainage à domicile à Bienne]. Toutes les informations sur notre page <a href=\"/drainage-lymphatique/\" style=\"color:var(--azure);font-weight:600\">drainage lymphatique à Ins</a>.</p>",
+    "icon": "fa-circle-check"
+   }
+  ]
+ },
+ {
   "tipo": "texte",
   "eyebrow": "Remboursement",
   "h2": "Remboursement",
   "lead": [],
-  "bg": "trust",
+  "bg": null,
   "html": "<p>Avec une prescription médicale, la physiothérapie est prise en charge par l'assurance obligatoire (LAMal), l'assurance accidents (LAA), l'assurance invalidité (AI) ou l'assurance militaire (AM). En LAMal, la franchise et la quote-part restent à votre charge selon votre contrat. Apportez simplement votre ordonnance et votre carte d'assuré lors de la première séance.</p>"
  },
  {

@@ -3,10 +3,11 @@
 - Lote: B · Plantilla: lombaire · Validación: OK
 - Indexación: NOINDEX hasta la confirmación del cliente
 
-## Marcadores [À CONFIRMER] (5)
+## Marcadores [À CONFIRMER] (6)
 
 - [À CONFIRMER : domicile à Estavayer] — «Physio Activa vous accueille au cabinet d'Ins et étudie la possibilité de séances à domicile dans la Broye [À CONFIRMER : domicile à Estavayer].»
 - [À CONFIRMER : couverture de ces localités et jours de passage] — «Pour Estavayer, cela pourrait concerner aussi Font, Cheyres-Châbles, Sévaz et Les Montets [À CONFIRMER : couverture de ces localités et jours de passage].»
+- [À CONFIRMER : drainage à domicile dans la Broye fribourgeoise] — «Vu les 26,4 km qui séparent Estavayer du cabinet, il se fera en principe à Ins, le domicile restant [À CONFIRMER : drainage à domicile dans la Broye fribourgeoise].»
 - [À CONFIRMER : domicile à Estavayer] — «Si ce n'est pas le cas, le domicile peut être une option [À CONFIRMER : domicile à Estavayer].»
 - [À CONFIRMER : délai pour une première séance] — «Avec l'ordonnance de physiothérapie remise par le médecin, nous pouvons organiser la suite de votre rééducation [À CONFIRMER : délai pour une première séance].»
 - [À CONFIRMER : localités desservies et jours de passage] — «Ces villages proches d'Estavayer pourraient être regroupés avec les visites à domicile du secteur [À CONFIRMER : localités desservies et jours de passage].»

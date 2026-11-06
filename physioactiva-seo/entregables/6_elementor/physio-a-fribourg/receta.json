@@ -2,7 +2,7 @@
  {
   "tipo": "hero",
   "eyebrow": "Physio · Fribourg",
-  "h1": "Physio à Fribourg : au cabinet d'Ins ou à domicile",
+  "h1": "Physiothérapie à Fribourg : au cabinet d'Ins ou à domicile",
   "sub": "Après une opération ou en cas de mobilité réduite, recevoir son physiothérapeute chez soi à Fribourg peut simplifier la rééducation [À CONFIRMER : domicile à Fribourg]. Notre cabinet, lui, se trouve à Ins, à environ 22,6 km en ligne droite. Dans les deux cas, une prescription médicale suffit pour le remboursement, et vous réservez en ligne, par téléphone ou par WhatsApp.",
   "pills": [
    "Cabinet à Ins, à 22,6 km",
@@ -17,10 +17,10 @@
  {
   "tipo": "texte",
   "eyebrow": "À domicile",
-  "h2": "Physiothérapie à domicile à Fribourg et environs",
+  "h2": "Physio à domicile à Fribourg et environs",
   "lead": [],
   "bg": null,
-  "html": "<p>La physiothérapie à domicile s'adresse en priorité aux personnes pour qui un déplacement représente un effort ou un risque : retour à la maison après la pose d'une prothèse, chute récente, fatigue importante, difficulté à conduire. En plus de la ville, Villars-sur-Glâne, Marly, Givisiez et Granges-Paccot sont les localités voisines que nous pourrions couvrir [À CONFIRMER : localités desservies et jours de passage]. Plus d'informations sur notre page <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>.</p>"
+  "html": "<p>La physio à domicile, ou « kiné » comme on dit souvent en France, s'adresse en priorité aux personnes pour qui un déplacement représente un effort ou un risque : retour à la maison après la pose d'une prothèse, chute récente, fatigue importante, difficulté à conduire. En plus de la ville, Villars-sur-Glâne, Marly, Givisiez et Granges-Paccot sont les localités voisines que nous pourrions couvrir [À CONFIRMER : localités desservies et jours de passage]. Plus d'informations sur notre page <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>.</p>"
  },
  {
   "tipo": "texte",
@@ -28,7 +28,7 @@
   "h2": "Venir au cabinet d'Ins depuis Fribourg",
   "lead": [],
   "bg": "trust",
-  "html": "<p>Si vous êtes mobile, le cabinet d'Ins est à environ 22,6 km en ligne droite de Fribourg. Nous travaillons dans les locaux d'InsGym, avec l'équipement nécessaire pour renforcer progressivement les muscles et reprendre confiance dans le mouvement. Itinéraire et adresse : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Fribourg est une ville bilingue à majorité francophone, chef-lieu du district de la Sarine. Notre équipe parle français et espagnol. Pour les patients opérés ou hospitalisés à l'HFR Fribourg – Hôpital cantonal, nous reprenons la rééducation à partir de l'ordonnance de sortie et des indications du chirurgien.</p>"
+  "html": "<p>Si vous êtes mobile, le cabinet d'Ins est à environ 22,6 km en ligne droite de Fribourg. Nous travaillons dans les locaux d'InsGym, équipés pour renforcer progressivement les muscles. Itinéraire et adresse : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Fribourg est une ville bilingue à majorité francophone, chef-lieu du district de la Sarine. Notre équipe parle français et espagnol. Pour les patients opérés ou hospitalisés à l'HFR Fribourg – Hôpital cantonal, nous reprenons la rééducation à partir de l'ordonnance de sortie et des indications du chirurgien.</p>"
  },
  {
   "tipo": "grid",
@@ -65,11 +65,35 @@
   ]
  },
  {
+  "tipo": "grid",
+  "eyebrow": "Soins proposés",
+  "h2": "Drainage, massage, aiguilles : d'autres techniques pour les Fribourgeois",
+  "lead": [],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Drainage lymphatique à Fribourg",
+    "html": "<p>Il s'adresse aux personnes qui gardent un œdème après une chirurgie ou une liposuccion, et aux patients atteints de lymphœdème. Sur ordonnance, le drainage s'intègre à votre traitement de physiothérapie, à Ins ou chez vous selon votre mobilité [À CONFIRMER : drainage à domicile à Fribourg]. Voir la page <a href=\"/drainage-lymphatique/\" style=\"color:var(--azure);font-weight:600\">drainage lymphatique manuel</a>.</p>",
+    "icon": "fa-circle-check"
+   },
+   {
+    "h3": "Massage thérapeutique à Fribourg",
+    "html": "<p>Contrairement à un massage de détente, il cible une contracture ou une zone de tension qui gêne vos mouvements. Nous l'associons à des exercices, dans un plan de physiothérapie prescrit par votre médecin. Plus de détails sur le <a href=\"/massage-therapeutique/\" style=\"color:var(--azure);font-weight:600\">massage thérapeutique</a>.</p>",
+    "icon": "fa-hand-holding-heart"
+   },
+   {
+    "h3": "Dry needling à Fribourg",
+    "html": "<p>La puncture sèche utilise de fines aiguilles stériles pour relâcher les points gâchettes d'un muscle, par exemple dans la nuque ou le bas du dos. Ce n'est pas de l'acupuncture ; une ordonnance est nécessaire. Les séances ont lieu au cabinet d'Ins [À CONFIRMER : dry needling aussi à domicile]. Découvrez la <a href=\"/physioactiva-puncture-seche/\" style=\"color:var(--azure);font-weight:600\">puncture sèche (dry needling)</a>.</p>",
+    "icon": "fa-heart-pulse"
+   }
+  ]
+ },
+ {
   "tipo": "texte",
   "eyebrow": "Remboursement",
   "h2": "Remboursement",
   "lead": [],
-  "bg": "trust",
+  "bg": null,
   "html": "<p>Avec une prescription médicale, la physiothérapie est prise en charge par l'assurance obligatoire (LAMal), l'assurance accidents (LAA), l'assurance invalidité (AI) ou l'assurance militaire (AM). En LAMal, la franchise et la quote-part restent à votre charge selon votre contrat. Apportez simplement votre ordonnance et votre carte d'assuré lors de la première séance.</p>"
  },
  {

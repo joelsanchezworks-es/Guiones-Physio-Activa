@@ -3,7 +3,7 @@
   "tipo": "hero",
   "eyebrow": "Physio · Neuchâtel",
   "h1": "Physio à Neuchâtel : au cabinet d'Ins ou à domicile",
-  "sub": "Vous cherchez un physiothérapeute depuis Neuchâtel ? Physio Activa vous reçoit dans son cabinet d'Ins, à environ 13,4 km en ligne droite de la ville, et propose des séances à domicile en ville et dans les quartiers voisins [À CONFIRMER : zone desservie à domicile]. Sur ordonnance, l'assurance rembourse le traitement ; la réservation se fait en ligne, par téléphone ou via WhatsApp.",
+  "sub": "Vous cherchez un physiothérapeute à Neuchâtel ou sur le Littoral ? Physio Activa vous reçoit dans son cabinet d'Ins, à environ 13,4 km en ligne droite de la ville, et propose des séances à domicile en ville et dans les quartiers voisins [À CONFIRMER : zone desservie à domicile]. Sur ordonnance, l'assurance rembourse le traitement ; la réservation se fait en ligne, par téléphone ou via WhatsApp.",
   "pills": [
    "Cabinet à Ins, à 13,4 km",
    "Sur prescription médicale",
@@ -20,7 +20,7 @@
   "h2": "Physiothérapie à domicile à Neuchâtel et environs",
   "lead": [],
   "bg": null,
-  "html": "<p>Notre page actuelle cite Serrières, La Coudre, Monruz et Vauseyon parmi les quartiers où nous nous rendons. Les communes du Littoral comme Hauterive, Saint-Blaise, La Tène (Marin-Epagnier), Auvernier ou Peseux sont proches, mais leur prise en charge à domicile doit être vérifiée au cas par cas [À CONFIRMER : communes du Littoral desservies et jours de passage].</p><p style=\"margin-top:12px\">Ce service convient lorsque sortir de chez soi demande trop d'énergie : rééducation après une intervention, perte d'équilibre, maladie qui limite les déplacements. Le traitement se déroule alors dans votre propre environnement, ce qui permet de travailler sur les gestes du quotidien. Plus d'informations sur la <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>.</p>"
+  "html": "<p>Notre page actuelle cite Serrières, La Coudre, Monruz et Vauseyon parmi les quartiers où nous nous rendons. Les communes du Littoral comme Hauterive, Saint-Blaise, La Tène (Marin-Epagnier), Auvernier ou Peseux sont proches, mais leur prise en charge à domicile doit être vérifiée au cas par cas [À CONFIRMER : communes du Littoral desservies et jours de passage].</p><p style=\"margin-top:12px\">Ce service convient lorsque sortir de chez soi demande trop d'énergie : rééducation après une intervention, perte d'équilibre, maladie qui limite les déplacements. Chez vous, nous travaillons directement sur les gestes du quotidien. Plus d'informations sur la <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>.</p>"
  },
  {
   "tipo": "texte",
@@ -35,7 +35,7 @@
   "eyebrow": "Ce que nous traitons",
   "h2": "Ce que nous traitons",
   "lead": [
-   "En ville, les journées passées assis et les trajets pendulaires laissent souvent des traces. Les consultations les plus fréquentes :"
+   "Journées assises et trajets pendulaires laissent des traces. Motifs fréquents :"
   ],
   "bg": null,
   "cards": [
@@ -72,11 +72,35 @@
   ]
  },
  {
+  "tipo": "grid",
+  "eyebrow": "Soins proposés",
+  "h2": "Au-delà de la rééducation : trois soins demandés à Neuchâtel",
+  "lead": [],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Drainage lymphatique à Neuchâtel",
+    "html": "<p>Jambes gonflées après une opération, lymphœdème, œdème qui tarde à se résorber : le drainage lymphatique manuel agit par des manœuvres lentes et douces. Prescrit par le médecin, il s'intègre à un traitement de physiothérapie, au cabinet d'Ins ou chez vous [À CONFIRMER : drainage à domicile à Neuchâtel]. Détails sur notre page <a href=\"/drainage-lymphatique/\" style=\"color:var(--azure);font-weight:600\">drainage lymphatique manuel</a>.</p>",
+    "icon": "fa-circle-check"
+   },
+   {
+    "h3": "Physio du sport à Neuchâtel",
+    "html": "<p>Coureur, cycliste ou joueur de club blessé ? Après un bilan du mouvement, la rééducation devient progressivement active jusqu'à la reprise de l'entraînement, au cabinet, avec le matériel d'InsGym. Voir la <a href=\"/physio-du-sport/\" style=\"color:var(--azure);font-weight:600\">physiothérapie du sport</a>.</p>",
+    "icon": "fa-person-running"
+   },
+   {
+    "h3": "Massage thérapeutique à Neuchâtel",
+    "html": "<p>Il cible les contractures de la nuque ou du dos qui limitent le mouvement, au sein d'un plan de physiothérapie sur ordonnance. En savoir plus sur le <a href=\"/massage-therapeutique/\" style=\"color:var(--azure);font-weight:600\">massage thérapeutique</a>.</p>",
+    "icon": "fa-hand-holding-heart"
+   }
+  ]
+ },
+ {
   "tipo": "texte",
   "eyebrow": "Remboursement",
   "h2": "Remboursement",
   "lead": [],
-  "bg": "trust",
+  "bg": null,
   "html": "<p>Sur prescription médicale, la physiothérapie est prise en charge par l'assurance de base (LAMal), l'assurance accidents (LAA), l'assurance invalidité (AI) ou l'assurance militaire (AM). Avec la LAMal, la franchise et la quote-part restent à votre charge. Apportez votre ordonnance et votre carte d'assuré à la première séance.</p>"
  },
  {
@@ -121,13 +145,13 @@
    },
    {
     "q": "Quel est le tarif d'une séance de physiothérapie ?",
-    "a_html": "Les séances prescrites sont facturées directement selon le tarif conventionnel de physiothérapie en vigueur en Suisse. Pour le montant exact et une éventuelle participation de votre part, contactez-nous [À CONFIRMER : information tarifaire à communiquer].",
-    "a_text": "Les séances prescrites sont facturées directement selon le tarif conventionnel de physiothérapie en vigueur en Suisse. Pour le montant exact et une éventuelle participation de votre part, contactez-nous [À CONFIRMER : information tarifaire à communiquer]."
+    "a_html": "Les séances prescrites sont facturées selon le tarif conventionnel de physiothérapie en vigueur en Suisse. Pour le montant exact, contactez-nous [À CONFIRMER : information tarifaire à communiquer].",
+    "a_text": "Les séances prescrites sont facturées selon le tarif conventionnel de physiothérapie en vigueur en Suisse. Pour le montant exact, contactez-nous [À CONFIRMER : information tarifaire à communiquer]."
    },
    {
     "q": "Quel est le rôle d'un physiothérapeute ?",
-    "a_html": "Le physiothérapeute évalue votre mouvement, traite la douleur par des techniques manuelles et vous guide dans des exercices adaptés. Le diagnostic médical reste du ressort du médecin.",
-    "a_text": "Le physiothérapeute évalue votre mouvement, traite la douleur par des techniques manuelles et vous guide dans des exercices adaptés. Le diagnostic médical reste du ressort du médecin."
+    "a_html": "Le physiothérapeute évalue votre mouvement, traite la douleur manuellement et vous guide dans des exercices adaptés. Le diagnostic médical reste du ressort du médecin.",
+    "a_text": "Le physiothérapeute évalue votre mouvement, traite la douleur manuellement et vous guide dans des exercices adaptés. Le diagnostic médical reste du ressort du médecin."
    },
    {
     "q": "Un résident neuchâtelois peut-il se faire soigner dans le canton de Berne ?",

@@ -9,7 +9,7 @@ zona: "yverdon"
 
 # Physio à Yverdon-les-Bains : au cabinet d'Ins ou à domicile
 
-Vous cherchez un physiothérapeute à Yverdon-les-Bains ? Soyons clairs dès le départ : Physio Activa n'y a pas de cabinet. Notre unique adresse se trouve à Ins (Rämismatte 21), à environ 43 km en ligne droite, et les visites à domicile à Yverdon sont [À CONFIRMER : déplacements à Yverdon-les-Bains possibles ou non]. Sur ordonnance, la physiothérapie est remboursée par la LAMal, la LAA, l'AI ou l'AM ; pour vérifier ce qui est possible pour vous, appelez-nous ou réservez en ligne.
+Vous cherchez un physiothérapeute à Yverdon-les-Bains ? Soyons clairs dès le départ : Physio Activa n'y a pas de cabinet. Notre unique adresse se trouve à Ins (Rämismatte 21), à environ 43 km en ligne droite, et les visites à domicile à Yverdon sont [À CONFIRMER : déplacements à Yverdon-les-Bains possibles ou non]. Sur ordonnance, la physiothérapie est remboursée par la LAMal, la LAA, l'AI ou l'AM ; pour vérifier ce qui est possible, appelez-nous ou réservez en ligne.
 
 ## Physiothérapie à domicile à Yverdon-les-Bains et environs
 
@@ -19,7 +19,7 @@ Le domicile s'adresse surtout aux personnes qui ne peuvent pas se déplacer (ret
 
 ## Venir au cabinet d'Ins depuis Yverdon-les-Bains
 
-Si vous pouvez vous déplacer, par exemple parce que vous travaillez dans le Seeland ou que vous y passez régulièrement, le cabinet se trouve à environ 43 km en ligne droite d'Yverdon, dans le bâtiment de l'InsGym, avec un espace d'entraînement pour les exercices. Ins se trouve dans le canton de Berne, mais vous y êtes accueilli en français comme à Yverdon. L'adresse, le plan et les accès figurent sur la page [Nous trouver](/nous-trouver/).
+Si vous pouvez vous déplacer, par exemple parce que vous travaillez dans le Seeland ou que vous y passez régulièrement, le cabinet se trouve à environ 43 km en ligne droite d'Yverdon, dans le bâtiment de l'InsGym, avec un espace d'entraînement pour les exercices. Ins se trouve dans le canton de Berne, mais vous y êtes accueilli en français comme à Yverdon. Plan et accès : [Nous trouver](/nous-trouver/).
 
 Vous sortez de l'eHnv à Yverdon-les-Bains après une hospitalisation ou une intervention ? Nous pouvons assurer la suite de la rééducation sur la base de la prescription remise à votre sortie.
 

@@ -3,10 +3,11 @@
 - Lote: B · Plantilla: lombaire · Validación: OK
 - Indexación: NOINDEX hasta la confirmación del cliente
 
-## Marcadores [À CONFIRMER] (3)
+## Marcadores [À CONFIRMER] (4)
 
 - [À CONFIRMER : déplacements à Yverdon-les-Bains possibles ou non] — «Notre unique adresse se trouve à Ins (Rämismatte 21), à environ 43 km en ligne droite, et les visites à domicile à Yverdon sont [À CONFIRMER : déplacements à Yverdon-les-Bains possibles ou non].»
-- [À CONFIRMER : couverture de ces localités, jours de passage et délai du premier rendez-vous] — «Une prise en charge à Yverdon ou dans les communes voisines, comme Grandson, Montagny-près-Yverdon, Cheseaux-Noréaz ou Treycovagnes, reste donc [À CONFIRMER : couverture de ces localités, jours de passage et délai du premier rendez-vous].»
+- [À CONFIRMER : couverture de ces localités, jours de passage et délai du premier rendez-vous] — «Une physiothérapie à Yverdon même ou dans les communes voisines, comme Grandson, Montagny-près-Yverdon, Cheseaux-Noréaz ou Treycovagnes, reste donc [À CONFIRMER : couverture de ces localités, jours de passage et délai du premier rendez-vous].»
+- [À CONFIRMER : drainage à domicile dans la région d'Yverdon] — «Comme les séances peuvent être rapprochées, les 43 km jusqu'à Ins pèsent lourd : nous vous dirons franchement si un suivi est réaliste [À CONFIRMER : drainage à domicile dans la région d'Yverdon].»
 - [À CONFIRMER : déplacements dans la région d'Yverdon et conditions] — «La réponse est [À CONFIRMER : déplacements dans la région d'Yverdon et conditions].»
 
 ## Publicación

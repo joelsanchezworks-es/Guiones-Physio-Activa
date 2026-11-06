@@ -5,7 +5,7 @@
 
 ## Marcadores [À CONFIRMER] (3)
 
-- [À CONFIRMER : déplacements à Avenches] — «Selon votre situation, la physiothérapie peut se faire au cabinet ou à votre domicile [À CONFIRMER : déplacements à Avenches].»
+- [À CONFIRMER : déplacements à Avenches] — «Selon votre situation, les séances de physio ont lieu au cabinet ou à votre domicile [À CONFIRMER : déplacements à Avenches].»
 - [À CONFIRMER : villages desservis autour d'Avenches et jours de passage] — «Salavaux, au bord du lac de Morat, est aussi proche du Vully ; pour les autres villages, la possibilité d'un passage à domicile reste à confirmer [À CONFIRMER : villages desservis autour d'Avenches et jours de passage].»
 - [À CONFIRMER : Faoug, Domdidier, Donatyre, Oleyres] — «Ces villages entourent Avenches, mais nous devons encore confirmer s'ils font partie de notre zone à domicile [À CONFIRMER : Faoug, Domdidier, Donatyre, Oleyres].»
 

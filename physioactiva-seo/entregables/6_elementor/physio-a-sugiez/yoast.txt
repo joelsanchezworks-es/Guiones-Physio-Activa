@@ -1,8 +1,8 @@
-SEO title (53/60): Physio à Sugiez – à domicile ou à Ins | Physio Activa
-Meta description (145/155): Physio à Sugiez et dans le Mont-Vully : au cabinet d'Ins ou à domicile, remboursé sur ordonnance (LAMal, LAA). Réservez en ligne ou par WhatsApp.
+SEO title (58/60): Physio à Sugiez et Vully – domicile ou Ins | Physio Activa
+Meta description (150/155): Physio dans le Vully, à Sugiez et alentour : au cabinet d'Ins ou à domicile, remboursé sur ordonnance (LAMal, LAA). Réservez en ligne ou par WhatsApp.
 Slug: /physio-a-sugiez/
-Focus keyphrase: physio sugiez
-H1: Physio à Sugiez : au cabinet d'Ins ou à domicile
+Focus keyphrase: physio vully
+H1: Physio à Sugiez et dans le Vully : au cabinet d'Ins ou à domicile
 Indexación: index, follow
 Canonical: https://physioactiva.ch/physio-a-sugiez/
 Estado: publicable tras revisión

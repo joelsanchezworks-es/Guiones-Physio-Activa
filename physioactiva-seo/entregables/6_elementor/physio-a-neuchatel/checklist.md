@@ -3,12 +3,13 @@
 - Lote: A · Plantilla: lombaire · Validación: OK
 - Indexación: index, follow
 
-## Marcadores [À CONFIRMER] (4)
+## Marcadores [À CONFIRMER] (5)
 
-- [À CONFIRMER : zone desservie à domicile] — «Vous cherchez un physiothérapeute depuis Neuchâtel ? Physio Activa vous reçoit dans son cabinet d'Ins, à environ 13,4 km en ligne droite de la ville, et propose des séances à domicile en ville et dans les quartiers voisins [À CONFIRMER : zone desservie à domic»
+- [À CONFIRMER : zone desservie à domicile] — «Vous cherchez un physiothérapeute à Neuchâtel ou sur le Littoral ? Physio Activa vous reçoit dans son cabinet d'Ins, à environ 13,4 km en ligne droite de la ville, et propose des séances à domicile en ville et dans les quartiers voisins [À CONFIRMER : zone des»
 - [À CONFIRMER : communes du Littoral desservies et jours de passage] — «Les communes du Littoral comme Hauterive, Saint-Blaise, La Tène (Marin-Epagnier), Auvernier ou Peseux sont proches, mais leur prise en charge à domicile doit être vérifiée au cas par cas [À CONFIRMER : communes du Littoral desservies et jours de passage].»
 - [À CONFIRMER : fréquence et arrêt] — «Notre site mentionne la ligne de train Neuchâtel–Fribourg–Morat–Ins pour venir sans voiture [À CONFIRMER : fréquence et arrêt].»
-- [À CONFIRMER : information tarifaire à communiquer] — «Pour le montant exact et une éventuelle participation de votre part, contactez-nous [À CONFIRMER : information tarifaire à communiquer].»
+- [À CONFIRMER : drainage à domicile à Neuchâtel] — «Prescrit par le médecin, il s'intègre à un traitement de physiothérapie, au cabinet d'Ins ou chez vous [À CONFIRMER : drainage à domicile à Neuchâtel].»
+- [À CONFIRMER : information tarifaire à communiquer] — «Pour le montant exact, contactez-nous [À CONFIRMER : information tarifaire à communiquer].»
 
 ## Publicación
 

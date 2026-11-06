@@ -23,18 +23,18 @@
   "a_confirmer": 4,
   "fallos": [],
   "notas": [
-   "hero sub 407 car. (plantilla 433; ±20 % = 346–519)",
-   "similitud máx. 11.4 % (con physio-a-morat); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (6)"
+   "hero sub 429 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 8.3 % (con physio-a-morat); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (6)"
   ]
  },
  {
   "slug": "physio-a-neuchatel",
   "ok": true,
-  "a_confirmer": 4,
+  "a_confirmer": 5,
   "fallos": [],
   "notas": [
-   "hero sub 383 car. (plantilla 433; ±20 % = 346–519)",
-   "similitud máx. 10.7 % (con physio-a-chietres); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (5), FAQ de la SERP local"
+   "hero sub 397 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 6.9 % (con physio-a-bienne); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (5), FAQ de la SERP local"
   ]
  },
  {
@@ -44,7 +44,7 @@
   "fallos": [],
   "notas": [
    "hero sub 361 car. (plantilla 433; ±20 % = 346–519)",
-   "similitud máx. 9.9 % (con physio-a-morat); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (4)"
+   "similitud máx. 5.9 % (con physio-a-morat); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (4)"
   ]
  },
  {
@@ -53,8 +53,8 @@
   "a_confirmer": 3,
   "fallos": [],
   "notas": [
-   "hero sub 377 car. (plantilla 433; ±20 % = 346–519)",
-   "similitud máx. 11.1 % (con physio-a-fribourg); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (5)"
+   "hero sub 376 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 6.5 % (con physio-a-yvonand); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (5)"
   ]
  },
  {
@@ -64,37 +64,37 @@
   "fallos": [],
   "notas": [
    "hero sub 339 car. (plantilla 433; ±20 % = 346–519)",
-   "similitud máx. 11.5 % (con physio-a-chietres); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (5)"
+   "similitud máx. 7.9 % (con physio-a-morat); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (5)"
   ]
  },
  {
   "slug": "physio-a-bienne",
   "ok": true,
-  "a_confirmer": 4,
+  "a_confirmer": 5,
   "fallos": [],
   "notas": [
-   "hero sub 355 car. (plantilla 433; ±20 % = 346–519)",
-   "similitud máx. 10.1 % (con physio-a-neuchatel); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (5)"
+   "hero sub 377 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 6.9 % (con physio-a-neuchatel); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (5)"
   ]
  },
  {
   "slug": "physio-a-fribourg",
   "ok": true,
-  "a_confirmer": 4,
+  "a_confirmer": 6,
   "fallos": [],
   "notas": [
    "hero sub 373 car. (plantilla 433; ±20 % = 346–519)",
-   "similitud máx. 12.5 % (con physio-a-morat); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (4)"
+   "similitud máx. 7.3 % (con physio-a-morat); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (4)"
   ]
  },
  {
   "slug": "physio-a-payerne",
   "ok": true,
-  "a_confirmer": 5,
+  "a_confirmer": 6,
   "fallos": [],
   "notas": [
-   "hero sub 343 car. (plantilla 433; ±20 % = 346–519)",
-   "similitud máx. 9.3 % (con physio-a-bienne); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (4), FAQ de la SERP local"
+   "hero sub 380 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 6.5 % (con physio-a-bienne); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (4), FAQ de la SERP local"
   ]
  },
  {
@@ -104,7 +104,7 @@
   "fallos": [],
   "notas": [
    "hero sub 411 car. (plantilla 433; ±20 % = 346–519)",
-   "similitud máx. 12.5 % (con physio-a-fribourg); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (5)"
+   "similitud máx. 8.3 % (con physio-a-sugiez); datos propios: distancia, idioma, hospital, localidades vecinas (5)"
   ]
  },
  {
@@ -114,17 +114,17 @@
   "fallos": [],
   "notas": [
    "hero sub 309 car. (plantilla 433; ±20 % = 346–519)",
-   "similitud máx. 11.5 % (con physio-a-lyss); datos propios: distancia, idioma, distrito/cantón, localidades vecinas (4)"
+   "similitud máx. 6.9 % (con physio-a-lyss); datos propios: distancia, idioma, distrito/cantón, localidades vecinas (4)"
   ]
  },
  {
   "slug": "physio-a-estavayer",
   "ok": true,
-  "a_confirmer": 5,
+  "a_confirmer": 6,
   "fallos": [],
   "notas": [
-   "hero sub 349 car. (plantilla 433; ±20 % = 346–519)",
-   "similitud máx. 13.6 % (con physio-a-yvonand); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (4)"
+   "hero sub 399 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 8.0 % (con physio-a-yvonand); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (4)"
   ]
  },
  {
@@ -133,28 +133,28 @@
   "a_confirmer": 4,
   "fallos": [],
   "notas": [
-   "hero sub 375 car. (plantilla 433; ±20 % = 346–519)",
-   "similitud máx. 13.6 % (con physio-a-estavayer); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (4)"
+   "hero sub 438 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 8.0 % (con physio-a-estavayer); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (4)"
   ]
  },
  {
   "slug": "physio-a-yverdon",
   "ok": true,
-  "a_confirmer": 3,
+  "a_confirmer": 4,
   "fallos": [],
   "notas": [
-   "hero sub 444 car. (plantilla 433; ±20 % = 346–519)",
-   "similitud máx. 10.8 % (con physio-a-fribourg); datos propios: idioma, distrito/cantón, hospital, localidades vecinas (4)"
+   "hero sub 472 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 6.3 % (con physio-a-morat); datos propios: idioma, distrito/cantón, hospital, localidades vecinas (4)"
   ]
  },
  {
   "slug": "physio-a-lausanne",
   "ok": true,
-  "a_confirmer": 3,
+  "a_confirmer": 6,
   "fallos": [],
   "notas": [
-   "hero sub 480 car. (plantilla 433; ±20 % = 346–519)",
-   "similitud máx. 10.1 % (con physio-a-yverdon); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (4)"
+   "hero sub 441 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 5.7 % (con physio-a-yverdon); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (4)"
   ]
  },
  {

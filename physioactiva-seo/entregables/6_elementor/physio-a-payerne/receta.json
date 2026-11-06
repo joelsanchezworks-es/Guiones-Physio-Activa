@@ -3,7 +3,7 @@
   "tipo": "hero",
   "eyebrow": "Physio · Payerne",
   "h1": "Physio à Payerne : au cabinet d'Ins ou à domicile",
-  "sub": "Payerne se situe à environ 24,1 km en ligne droite de notre cabinet d'Ins ; pour les patients de la Broye, des séances à domicile peuvent être envisagées [À CONFIRMER : domicile à Payerne]. La physiothérapie prescrite par un médecin est remboursée par votre assurance. Pour fixer un rendez-vous, utilisez notre agenda en ligne ou appelez-nous.",
+  "sub": "Vous cherchez un physiothérapeute à Payerne ? Notre cabinet d'Ins se situe à environ 24,1 km en ligne droite et, pour les patients de la Broye, des séances à domicile peuvent être envisagées [À CONFIRMER : domicile à Payerne]. La physiothérapie prescrite par un médecin est remboursée par votre assurance. Pour fixer un rendez-vous, utilisez notre agenda en ligne ou appelez-nous.",
   "pills": [
    "Cabinet à Ins, à 24,1 km",
    "Sur prescription médicale",
@@ -34,7 +34,9 @@
   "tipo": "grid",
   "eyebrow": "Ce que nous traitons",
   "h2": "Ce que nous traitons",
-  "lead": [],
+  "lead": [
+   "Quelques motifs de consultation en physiothérapie à Payerne et dans la Broye :"
+  ],
   "bg": null,
   "cards": [
    {
@@ -65,11 +67,25 @@
   ]
  },
  {
+  "tipo": "grid",
+  "eyebrow": "Physio Activa",
+  "h2": "Un soin ciblé pour les jambes et les bras gonflés",
+  "lead": [],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Drainage lymphatique à Payerne",
+    "html": "<p>Le drainage lymphatique manuel s'adresse aux personnes qui gardent un membre enflé, par exemple après la pose d'une prothèse, une fracture ou le traitement d'un cancer. Il se pratique sur prescription médicale, au cabinet d'Ins ou chez vous si le domicile est possible dans la Broye [À CONFIRMER : drainage à domicile à Payerne]. Indications et déroulement : <a href=\"/drainage-lymphatique/\" style=\"color:var(--azure);font-weight:600\">notre page sur le drainage lymphatique</a>.</p>",
+    "icon": "fa-circle-check"
+   }
+  ]
+ },
+ {
   "tipo": "texte",
   "eyebrow": "Remboursement",
   "h2": "Remboursement",
   "lead": [],
-  "bg": "trust",
+  "bg": null,
   "html": "<p>Avec une prescription médicale, la physiothérapie est prise en charge par l'assurance obligatoire (LAMal), l'assurance accidents (LAA), l'assurance invalidité (AI) ou l'assurance militaire (AM). En LAMal, la franchise et la quote-part restent à votre charge selon votre contrat. Apportez simplement votre ordonnance et votre carte d'assuré lors de la première séance.</p>"
  },
  {

@@ -60,10 +60,10 @@
 - ✔ JSON-LD y NAP = cliente.yml
 - ✔ title ≤ 60 y meta ≤ 155
 - ✔ zona: similitud < 40 % y ≥ 4 datos
-- ℹ hero sub 407 car. (plantilla 433; ±20 % = 346–519)
-- ℹ similitud máx. 11.4 % (con physio-a-morat); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (6)
+- ℹ hero sub 429 car. (plantilla 433; ±20 % = 346–519)
+- ℹ similitud máx. 8.3 % (con physio-a-morat); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (6)
 
-## ✅ physio-a-neuchatel (/physio-a-neuchatel/) · lote A · plantilla lombaire · [À CONFIRMER]: 4
+## ✅ physio-a-neuchatel (/physio-a-neuchatel/) · lote A · plantilla lombaire · [À CONFIRMER]: 5
 
 - ✔ JSON válido
 - ✔ estructura raíz
@@ -81,8 +81,8 @@
 - ✔ JSON-LD y NAP = cliente.yml
 - ✔ title ≤ 60 y meta ≤ 155
 - ✔ zona: similitud < 40 % y ≥ 4 datos
-- ℹ hero sub 383 car. (plantilla 433; ±20 % = 346–519)
-- ℹ similitud máx. 10.7 % (con physio-a-chietres); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (5), FAQ de la SERP local
+- ℹ hero sub 397 car. (plantilla 433; ±20 % = 346–519)
+- ℹ similitud máx. 6.9 % (con physio-a-bienne); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (5), FAQ de la SERP local
 
 ## ✅ physio-a-la-neuveville (/physio-a-la-neuveville/) · lote A · plantilla lombaire · [À CONFIRMER]: 3
 
@@ -103,7 +103,7 @@
 - ✔ title ≤ 60 y meta ≤ 155
 - ✔ zona: similitud < 40 % y ≥ 4 datos
 - ℹ hero sub 361 car. (plantilla 433; ±20 % = 346–519)
-- ℹ similitud máx. 9.9 % (con physio-a-morat); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (4)
+- ℹ similitud máx. 5.9 % (con physio-a-morat); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (4)
 
 ## ✅ physio-a-avenches (/physio-a-avenches/) · lote A · plantilla lombaire · [À CONFIRMER]: 3
 
@@ -123,8 +123,8 @@
 - ✔ JSON-LD y NAP = cliente.yml
 - ✔ title ≤ 60 y meta ≤ 155
 - ✔ zona: similitud < 40 % y ≥ 4 datos
-- ℹ hero sub 377 car. (plantilla 433; ±20 % = 346–519)
-- ℹ similitud máx. 11.1 % (con physio-a-fribourg); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (5)
+- ℹ hero sub 376 car. (plantilla 433; ±20 % = 346–519)
+- ℹ similitud máx. 6.5 % (con physio-a-yvonand); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (5)
 
 ## ✅ physio-a-lyss (/physio-a-lyss/) · lote A · plantilla lombaire · [À CONFIRMER]: 4
 
@@ -145,9 +145,9 @@
 - ✔ title ≤ 60 y meta ≤ 155
 - ✔ zona: similitud < 40 % y ≥ 4 datos
 - ℹ hero sub 339 car. (plantilla 433; ±20 % = 346–519)
-- ℹ similitud máx. 11.5 % (con physio-a-chietres); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (5)
+- ℹ similitud máx. 7.9 % (con physio-a-morat); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (5)
 
-## ✅ physio-a-bienne (/physio-a-bienne/) · lote A · plantilla lombaire · [À CONFIRMER]: 4
+## ✅ physio-a-bienne (/physio-a-bienne/) · lote A · plantilla lombaire · [À CONFIRMER]: 5
 
 - ✔ JSON válido
 - ✔ estructura raíz
@@ -165,10 +165,10 @@
 - ✔ JSON-LD y NAP = cliente.yml
 - ✔ title ≤ 60 y meta ≤ 155
 - ✔ zona: similitud < 40 % y ≥ 4 datos
-- ℹ hero sub 355 car. (plantilla 433; ±20 % = 346–519)
-- ℹ similitud máx. 10.1 % (con physio-a-neuchatel); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (5)
+- ℹ hero sub 377 car. (plantilla 433; ±20 % = 346–519)
+- ℹ similitud máx. 6.9 % (con physio-a-neuchatel); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (5)
 
-## ✅ physio-a-fribourg (/physio-a-fribourg/) · lote A · plantilla lombaire · [À CONFIRMER]: 4
+## ✅ physio-a-fribourg (/physio-a-fribourg/) · lote A · plantilla lombaire · [À CONFIRMER]: 6
 
 - ✔ JSON válido
 - ✔ estructura raíz
@@ -187,9 +187,9 @@
 - ✔ title ≤ 60 y meta ≤ 155
 - ✔ zona: similitud < 40 % y ≥ 4 datos
 - ℹ hero sub 373 car. (plantilla 433; ±20 % = 346–519)
-- ℹ similitud máx. 12.5 % (con physio-a-morat); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (4)
+- ℹ similitud máx. 7.3 % (con physio-a-morat); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (4)
 
-## ✅ physio-a-payerne (/physio-a-payerne/) · lote A · plantilla lombaire · [À CONFIRMER]: 5
+## ✅ physio-a-payerne (/physio-a-payerne/) · lote A · plantilla lombaire · [À CONFIRMER]: 6
 
 - ✔ JSON válido
 - ✔ estructura raíz
@@ -207,8 +207,8 @@
 - ✔ JSON-LD y NAP = cliente.yml
 - ✔ title ≤ 60 y meta ≤ 155
 - ✔ zona: similitud < 40 % y ≥ 4 datos
-- ℹ hero sub 343 car. (plantilla 433; ±20 % = 346–519)
-- ℹ similitud máx. 9.3 % (con physio-a-bienne); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (4), FAQ de la SERP local
+- ℹ hero sub 380 car. (plantilla 433; ±20 % = 346–519)
+- ℹ similitud máx. 6.5 % (con physio-a-bienne); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (4), FAQ de la SERP local
 
 ## ✅ physio-a-morat (/physio-a-morat/) · lote B · plantilla lombaire · [À CONFIRMER]: 4
 
@@ -229,7 +229,7 @@
 - ✔ title ≤ 60 y meta ≤ 155
 - ✔ zona: similitud < 40 % y ≥ 4 datos
 - ℹ hero sub 411 car. (plantilla 433; ±20 % = 346–519)
-- ℹ similitud máx. 12.5 % (con physio-a-fribourg); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (5)
+- ℹ similitud máx. 8.3 % (con physio-a-sugiez); datos propios: distancia, idioma, hospital, localidades vecinas (5)
 
 ## ✅ physio-a-chietres (/physio-a-chietres/) · lote B · plantilla lombaire · [À CONFIRMER]: 5
 
@@ -250,9 +250,9 @@
 - ✔ title ≤ 60 y meta ≤ 155
 - ✔ zona: similitud < 40 % y ≥ 4 datos
 - ℹ hero sub 309 car. (plantilla 433; ±20 % = 346–519)
-- ℹ similitud máx. 11.5 % (con physio-a-lyss); datos propios: distancia, idioma, distrito/cantón, localidades vecinas (4)
+- ℹ similitud máx. 6.9 % (con physio-a-lyss); datos propios: distancia, idioma, distrito/cantón, localidades vecinas (4)
 
-## ✅ physio-a-estavayer (/physio-a-estavayer/) · lote B · plantilla lombaire · [À CONFIRMER]: 5
+## ✅ physio-a-estavayer (/physio-a-estavayer/) · lote B · plantilla lombaire · [À CONFIRMER]: 6
 
 - ✔ JSON válido
 - ✔ estructura raíz
@@ -270,8 +270,8 @@
 - ✔ JSON-LD y NAP = cliente.yml
 - ✔ title ≤ 60 y meta ≤ 155
 - ✔ zona: similitud < 40 % y ≥ 4 datos
-- ℹ hero sub 349 car. (plantilla 433; ±20 % = 346–519)
-- ℹ similitud máx. 13.6 % (con physio-a-yvonand); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (4)
+- ℹ hero sub 399 car. (plantilla 433; ±20 % = 346–519)
+- ℹ similitud máx. 8.0 % (con physio-a-yvonand); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (4)
 
 ## ✅ physio-a-yvonand (/physio-a-yvonand/) · lote B · plantilla lombaire · [À CONFIRMER]: 4
 
@@ -291,31 +291,10 @@
 - ✔ JSON-LD y NAP = cliente.yml
 - ✔ title ≤ 60 y meta ≤ 155
 - ✔ zona: similitud < 40 % y ≥ 4 datos
-- ℹ hero sub 375 car. (plantilla 433; ±20 % = 346–519)
-- ℹ similitud máx. 13.6 % (con physio-a-estavayer); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (4)
+- ℹ hero sub 438 car. (plantilla 433; ±20 % = 346–519)
+- ℹ similitud máx. 8.0 % (con physio-a-estavayer); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (4)
 
-## ✅ physio-a-yverdon (/physio-a-yverdon/) · lote B · plantilla lombaire · [À CONFIRMER]: 3
-
-- ✔ JSON válido
-- ✔ estructura raíz
-- ✔ IDs 7 hex únicos en el archivo
-- ✔ HTML bien cerrado
-- ✔ <style> idéntico a la plantilla
-- ✔ sin href="#"
-- ✔ sin data-i18n
-- ✔ solo clases de la plantilla
-- ✔ FAQ visible = JSON-LD
-- ✔ un solo H1 y sin saltos
-- ✔ enlaces internos a URL final (sin 301/404 ni a borradores B)
-- ✔ sin texto de la plantilla original
-- ✔ sin lorem/TODO/español
-- ✔ JSON-LD y NAP = cliente.yml
-- ✔ title ≤ 60 y meta ≤ 155
-- ✔ zona: similitud < 40 % y ≥ 4 datos
-- ℹ hero sub 444 car. (plantilla 433; ±20 % = 346–519)
-- ℹ similitud máx. 10.8 % (con physio-a-fribourg); datos propios: idioma, distrito/cantón, hospital, localidades vecinas (4)
-
-## ✅ physio-a-lausanne (/physio-a-lausanne/) · lote B · plantilla lombaire · [À CONFIRMER]: 3
+## ✅ physio-a-yverdon (/physio-a-yverdon/) · lote B · plantilla lombaire · [À CONFIRMER]: 4
 
 - ✔ JSON válido
 - ✔ estructura raíz
@@ -333,8 +312,29 @@
 - ✔ JSON-LD y NAP = cliente.yml
 - ✔ title ≤ 60 y meta ≤ 155
 - ✔ zona: similitud < 40 % y ≥ 4 datos
-- ℹ hero sub 480 car. (plantilla 433; ±20 % = 346–519)
-- ℹ similitud máx. 10.1 % (con physio-a-yverdon); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (4)
+- ℹ hero sub 472 car. (plantilla 433; ±20 % = 346–519)
+- ℹ similitud máx. 6.3 % (con physio-a-morat); datos propios: idioma, distrito/cantón, hospital, localidades vecinas (4)
+
+## ✅ physio-a-lausanne (/physio-a-lausanne/) · lote B · plantilla lombaire · [À CONFIRMER]: 6
+
+- ✔ JSON válido
+- ✔ estructura raíz
+- ✔ IDs 7 hex únicos en el archivo
+- ✔ HTML bien cerrado
+- ✔ <style> idéntico a la plantilla
+- ✔ sin href="#"
+- ✔ sin data-i18n
+- ✔ solo clases de la plantilla
+- ✔ FAQ visible = JSON-LD
+- ✔ un solo H1 y sin saltos
+- ✔ enlaces internos a URL final (sin 301/404 ni a borradores B)
+- ✔ sin texto de la plantilla original
+- ✔ sin lorem/TODO/español
+- ✔ JSON-LD y NAP = cliente.yml
+- ✔ title ≤ 60 y meta ≤ 155
+- ✔ zona: similitud < 40 % y ≥ 4 datos
+- ℹ hero sub 441 car. (plantilla 433; ±20 % = 346–519)
+- ℹ similitud máx. 5.7 % (con physio-a-yverdon); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (4)
 
 ## ✅ pour-les-patients (/pour-les-patients/) · lote C · plantilla lombaire · [À CONFIRMER]: 0
 

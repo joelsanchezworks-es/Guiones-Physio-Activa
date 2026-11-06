@@ -1,8 +1,8 @@
-SEO title (55/60): Physio à Fribourg – à domicile ou à Ins | Physio Activa
-Meta description (147/155): Physiothérapie à Fribourg : séances à domicile ou au cabinet d'Ins, remboursées avec ordonnance (LAMal, LAA, AI, AM). Appelez ou réservez en ligne.
+SEO title (59/60): Physiothérapie à Fribourg – domicile ou Ins | Physio Activa
+Meta description (151/155): Physiothérapie à Fribourg : physio à domicile ou au cabinet d'Ins, drainage lymphatique, remboursée sur ordonnance (LAMal, LAA, AI). Réservez en ligne.
 Slug: /physio-a-fribourg/
 Focus keyphrase: physiothérapie fribourg
-H1: Physio à Fribourg : au cabinet d'Ins ou à domicile
+H1: Physiothérapie à Fribourg : au cabinet d'Ins ou à domicile
 Indexación: index, follow
 Canonical: https://physioactiva.ch/physio-a-fribourg/
 Estado: publicable tras revisión

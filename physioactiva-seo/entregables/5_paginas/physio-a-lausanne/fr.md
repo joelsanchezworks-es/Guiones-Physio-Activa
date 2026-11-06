@@ -75,6 +75,6 @@ Expliquez-nous vos besoins : nous vous répondons sans détour, même si la dist
 - Keywords locales (DataForSEO, Google Ads CH, 2026-11-06): physio lausanne 880 (principal), physiothérapeute lausanne 480, physiothérapie lausanne 170, kiné lausanne 140 (una mención), centre/cabinet de physiothérapie lausanne 20+10, y nueva sección: drainage lymphatique lausanne 590, massage thérapeutique lausanne 90, physio sport lausanne 50, dry needling lausanne 40.
 - BORRADOR: no publicar sin confirmación del cliente; Lausanne no figura en la zona a domicilio de la home y está a 65 km.
 - Datos de la ficha usados: 65 km en línea recta, distrito de Lausanne (cantón de Vaud), idioma francófono, hospital CHUV, localidades vecinas Pully, Prilly, Renens, Épalinges.
-- `faq_locales_serp` vacío: FAQ basada en distancia, idioma, localidades vecinas y reembolso.
+- `faq_locales_serp` vacío: FAQ basada en distancia, localidades vecinas y reembolso (la pregunta de idiomas se ha quitado para dejar sitio a los servicios; el francés se menciona en «Venir au cabinet»).
 - Pendiente [À CONFIRMER]: domicilio en Lausanne y alrededores, días de paso, plazo del primer rendez-vous.
 - Valorar con el cliente si compensa publicar esta página: la intención de búsqueda es local y el cabinet está lejos.

@@ -3,10 +3,11 @@
 - Lote: A · Plantilla: lombaire · Validación: OK
 - Indexación: index, follow
 
-## Marcadores [À CONFIRMER] (4)
+## Marcadores [À CONFIRMER] (5)
 
 - [À CONFIRMER : domicile à Bienne] — «Selon votre situation, une prise en charge à domicile peut aussi être organisée [À CONFIRMER : domicile à Bienne].»
 - [À CONFIRMER : localités desservies, jours de passage et délai du premier rendez-vous] — «Autour de la ville, Nidau, Brügg, Port, Ipsach et Evilard sont des communes voisines que nous pourrions inclure dans nos tournées [À CONFIRMER : localités desservies, jours de passage et délai du premier rendez-vous].»
+- [À CONFIRMER : drainage à domicile à Bienne] — «Sur prescription médicale, il fait partie d'un traitement de physiothérapie, au cabinet d'Ins ou à votre domicile biennois [À CONFIRMER : drainage à domicile à Bienne].»
 - [À CONFIRMER : localités desservies] — «Ces communes voisines de Bienne peuvent entrer dans nos déplacements à domicile [À CONFIRMER : localités desservies].»
 - [À CONFIRMER : délai du premier rendez-vous] — «Le délai pour la première séance dépend de nos disponibilités [À CONFIRMER : délai du premier rendez-vous].»
 
