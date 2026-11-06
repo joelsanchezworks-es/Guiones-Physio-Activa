@@ -47,7 +47,7 @@ Notre site mentionne déjà des visites à Sugiez, Praz, Môtier, Lugnorre et Gu
 
 ### Retour d'hospitalisation ou d'opération
 
-Convalescence, suites d'une chute, aîné qui ne conduit plus : la rééducation reprend dès que le médecin a établi l'ordonnance, au cabinet ou à la maison selon votre mobilité.
+Convalescence, suites d'une chute, aîné qui ne conduit plus : la rééducation reprend dès l'ordonnance, au cabinet ou à la maison.
 
 ### Dos, genou, épaule, hanche
 
@@ -66,11 +66,11 @@ Votre médecin de famille ou votre chirurgien rédige la prescription de physiot
 
 ### Bilan
 
-Nous évaluons la douleur, la mobilité et la force, puis nous expliquons simplement ce que nous avons trouvé et ce que nous proposons.
+Nous évaluons douleur, mobilité et force, puis expliquons simplement ce que nous proposons.
 
 ### Séances au cabinet ou à domicile
 
-Techniques manuelles, exercices guidés et conseils pratiques se combinent selon votre cas, à Ins ou chez vous.
+Techniques manuelles, exercices guidés et conseils se combinent selon votre cas.
 
 ### Autonomie et prévention
 
