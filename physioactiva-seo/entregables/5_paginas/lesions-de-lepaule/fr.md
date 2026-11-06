@@ -88,6 +88,14 @@ C'est une inflammation puis une rétraction de la capsule de l'épaule, qui limi
 
 Le plus souvent, elle vient des tendons, des muscles ou de l'articulation. Associée à une douleur dans la poitrine, un essoufflement ou des sueurs, elle impose d'appeler le 144.
 
+### Comment soulager une épaule qui fait mal ?
+
+Garder l'épaule mobile dans la limite de la douleur est généralement préférable à l'immobilisation complète, et il peut être utile de réduire temporairement les gestes qui la déclenchent. Si la douleur persiste, un bilan en physiothérapie permet d'adapter les exercices. Une douleur après une chute ou avec une déformation nécessite un avis médical.
+
+### Pourquoi la douleur de l'épaule descend-elle dans le bras et la main ?
+
+Une douleur qui descend dans le bras peut venir de l'épaule elle-même, mais aussi d'un nerf irrité au niveau du cou, surtout avec des fourmillements dans la main. Le médecin pose le diagnostic. Associée à une douleur dans la poitrine, un essoufflement ou des sueurs, appelez le 144.
+
 ## Prendre rendez-vous pour votre épaule à Ins
 
 Vous avez une ordonnance ou des questions sur votre douleur à l'épaule ? Appelez-nous au **076 627 38 38**, écrivez-nous sur **WhatsApp au +41 76 627 38 38** ou [réservez votre séance en ligne](/reservation-en-ligne/).
@@ -99,3 +107,4 @@ Vous avez une ordonnance ou des questions sur votre douleur à l'épaule ? Appel
 - Ondas de choque solo para tendinopatía calcificante y con la fórmula «peut être proposé selon l'indication».
 - Añadidas respuesta directa (GEO), anatomía de los 4 músculos, señales de alarma (dolor torácico irradiado al hombro/brazo izquierdo → 144, traumatismo con deformidad) y FAQ basada en las preguntas reales de Google.
 - [POR CONFIRMAR]: duración de una sesión; titulaciones del equipo (no se mencionan). Revisar si se mantiene la mención a SLAP/bursitis del texto actual (retirada por falta de detalle).
+- FAQ ampliada a 8 preguntas con preguntas reales de Google (PAA del `brief.json` de la página): «Comment soulager une épaule qui fait mal ?»; «Pourquoi la douleur de l'épaule descend-elle dans le bras et la main ?».

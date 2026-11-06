@@ -107,6 +107,14 @@ Les médicaments relèvent de votre médecin ou de votre pharmacien. Demandez to
 
 Oui, avec des techniques et des exercices adaptés à la grossesse, et en lien avec votre médecin ou votre sage-femme.
 
+### Comment savoir si on a une hernie discale ?
+
+Une douleur qui descend dans la jambe, parfois avec des fourmillements ou une faiblesse, peut faire penser à une hernie discale, mais d'autres causes existent. Seul le médecin peut poser le diagnostic, après un examen et, si nécessaire, une imagerie. Des troubles pour uriner ou une perte de force qui s'aggrave imposent de consulter en urgence.
+
+### Qu'est-ce qui cause la douleur au nerf sciatique ?
+
+Elle vient le plus souvent de l'irritation d'une racine du nerf sciatique au niveau du bas du dos, par exemple par une hernie discale. D'autres causes existent, comme un rétrécissement du canal lombaire. Le médecin en recherche l'origine ; le physiothérapeute adapte ensuite le traitement.
+
 ## Prenez rendez-vous
 
 Une douleur qui descend dans la jambe ? Appelez-nous au **076 627 38 38**, écrivez-nous sur **WhatsApp au +41 76 627 38 38** ou [réservez votre séance en ligne](/reservation-en-ligne/). Physio Activa, physiothérapie à Ins et à domicile dans le Seeland.
@@ -118,3 +126,4 @@ Une douleur qui descend dans la jambe ? Appelez-nous au **076 627 38 38**, écri
 - No se dan pautas de ejercicios; solo el enfoque general. Se desmonta con prudencia la promesa «soulager en 60 secondes» que se busca en Google.
 - Las preguntas sobre hernia cervical (C5-C6) y dorsal no se tratan aquí: encajan mejor en la página de cervicales.
 - [POR CONFIRMAR]: duración de la sesión; si el equipo trata embarazo con formación específica; titulaciones del equipo si se quieren mencionar.
+- FAQ ampliada a 8 preguntas con preguntas reales de Google (PAA del `brief.json` de la página): «Comment savoir si on a une hernie discale ?»; «Qu'est-ce qui cause la douleur au nerf sciatique ?».

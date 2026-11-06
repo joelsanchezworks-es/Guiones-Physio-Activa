@@ -97,6 +97,14 @@ Les deux stabilisent le genou. Après une rupture du ligament croisé antérieur
 
 Rester actif est recommandé. Des exercices adaptés de renforcement et de mobilité peuvent aider à diminuer la douleur et à faciliter la marche ; le traitement médical est discuté avec votre médecin.
 
+### Qu'est-ce qu'une méniscectomie ?
+
+C'est une intervention chirurgicale, généralement par arthroscopie, qui consiste à retirer la partie abîmée du ménisque. L'indication est posée par le chirurgien. Après l'opération, la physiothérapie vise à retrouver la mobilité, la force et la confiance dans le genou, selon ses consignes.
+
+### Qu'est-ce qu'une fissure horizontale du ménisque ?
+
+C'est une fissure qui sépare le ménisque en deux couches, l'une au-dessus de l'autre. Elle est souvent liée à l'usure avec l'âge et peut provoquer une douleur, un gonflement ou une gêne en s'accroupissant. Le diagnostic se fait chez le médecin, en général avec une IRM.
+
 ## Prenez rendez-vous pour votre genou
 
 Appelez-nous au **076 627 38 38**, écrivez-nous sur **WhatsApp au +41 76 627 38 38** ou [réservez votre séance de physiothérapie en ligne](/reservation-en-ligne/).
@@ -108,3 +116,4 @@ Appelez-nous au **076 627 38 38**, écrivez-nous sur **WhatsApp au +41 76 627 38
 - Se añaden respuesta directa tras el H1 (GEO), secciones de LCA, artrosis y postoperatorio, señales de alarma (bloqueo, derrame tras trauma, fiebre, trombosis) y FAQ basadas en las preguntas reales del brief.
 - No se dan duraciones de hospitalización ni número de sesiones tras prótesis: dependen del cirujano y de cada caso.
 - `[POR CONFIRMAR]`: titulaciones del equipo (no se citan en la página) y si el título anterior con «lésions de la cheville» debe mantenerse por enlaces externos (el slug sí se mantiene).
+- FAQ ampliada a 8 preguntas con preguntas reales de Google (PAA del `brief.json` de la página): «Qu'est-ce qu'une méniscectomie ?»; «Qu'est-ce qu'une fissure horizontale du ménisque ?».

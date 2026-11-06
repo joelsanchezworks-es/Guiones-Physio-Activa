@@ -89,6 +89,14 @@ La toux sollicite les muscles du cou et augmente la pression dans la colonne, ce
 
 C'est une irritation du nerf grand occipital, avec des douleurs vives à l'arrière du crâne, souvent d'un seul côté. Après le diagnostic médical, la physiothérapie peut agir sur les tensions de la nuque.
 
+### Quelle douleur ressent-on lors d'une cervicalgie ?
+
+Le plus souvent, une douleur et une raideur de la nuque, parfois vers les épaules ou entre les omoplates, qui augmentent avec certains mouvements de la tête. Des maux de tête peuvent s'y associer. L'intensité et l'évolution varient selon chaque personne.
+
+### Quels sont les signes d'une atteinte du rachis cervical ?
+
+Douleur et raideur du cou, parfois avec une douleur, des fourmillements ou une faiblesse qui descendent dans le bras. Une perte de force, des troubles de l'équilibre, des vertiges inhabituels ou une douleur après un choc doivent être évalués rapidement par un médecin.
+
 ## Prendre rendez-vous pour une cervicalgie à Ins
 
 Vous avez une ordonnance ou des questions sur votre douleur cervicale ? Appelez-nous au **076 627 38 38**, écrivez-nous sur **WhatsApp au +41 76 627 38 38** ou [réservez votre séance en ligne](/reservation-en-ligne/).
@@ -101,3 +109,4 @@ Vous avez une ordonnance ou des questions sur votre douleur cervicale ? Appelez-
 - «Reconnus par toutes les assurances maladie» se sustituye por LAMal / LAA / AI / AM con prescripción médica.
 - Enlaces internos con anchors descriptivos a thérapie manuelle, massage, puncture sèche, ATM, domicile y reserva.
 - [POR CONFIRMAR]: duración de una sesión; titulaciones del equipo (no se mencionan).
+- FAQ ampliada a 8 preguntas con preguntas reales de Google (PAA del `brief.json` de la página): «Quelle douleur ressent-on lors d'une cervicalgie ?»; «Quels sont les signes d'une atteinte du rachis cervical ?».

@@ -15,7 +15,7 @@ Vous cherchez un physiothérapeute à Neuchâtel ou sur le Littoral ? Physio Act
 
 ### Sur prescription, remboursé LAMal / LAA
 
-La physiothérapie neuchâteloise ou bernoise est couverte de la même façon : une prescription médicale, et votre caisse maladie ou votre assurance accidents prend en charge les séances.
+Une prescription médicale suffit : caisse maladie ou assurance accidents prend en charge les séances, que le cabinet soit neuchâtelois ou bernois.
 
 ### Au cabinet d'Ins ou à domicile
 
@@ -27,11 +27,11 @@ Nous analysons d'abord ce qui coince, posture, force, mobilité, puis nous propo
 
 ### Rendez-vous en ligne, par téléphone ou WhatsApp
 
-L'agenda en ligne reste ouvert le soir ; le 076 627 38 38 et WhatsApp conviennent si vous préférez poser une question avant.
+Agenda en ligne, 076 627 38 38 ou WhatsApp si vous préférez poser une question avant.
 
 ## Quand consulter un physio, et quand voir d'abord un médecin ?
 
-Journées assises au bureau, trajets pendulaires, sport après le travail : les motifs les plus fréquents sont la nuque raide devant l'écran, la sciatique qui rend la chaise pénible, l'épaule qui ne monte plus, le talon douloureux du coureur. Votre médecin établit le diagnostic et la prescription ; nous construisons ensuite la rééducation.
+Journées assises au bureau, trajets pendulaires, sport après le travail : les motifs les plus fréquents sont la nuque raide devant l'écran, la sciatique qui rend la chaise pénible, l'épaule qui ne monte plus, le talon douloureux du coureur.
 
 Certaines situations demandent un avis médical avant toute séance : douleur après un accident important, engourdissement des deux jambes, perte de contrôle de la vessie, fièvre associée au mal de dos, gonflement chaud et rouge d'un mollet. En cas d'urgence vitale, composez le 144.
 
@@ -43,7 +43,7 @@ Pour les douleurs liées à la posture, nous associons traitement manuel et exer
 
 ### Après une chirurgie ou un séjour hospitalier
 
-Après une intervention, la rééducation suit les consignes du chirurgien : mobilisation, renforcement, retour progressif aux gestes du quotidien. L'[épaule](/lesions-de-lepaule/) opérée en est un exemple fréquent.
+La rééducation suit les consignes du chirurgien : mobilisation, renforcement, retour aux gestes du quotidien. L'[épaule](/lesions-de-lepaule/) opérée en est un exemple fréquent.
 
 ### Mobilité réduite, séances à la maison
 
@@ -65,7 +65,7 @@ Il cible les contractures de la nuque ou du dos qui limitent le mouvement, au se
 
 ### Ordonnance
 
-Elle peut venir de votre généraliste, d'un spécialiste ou de l'hôpital à la sortie.
+Généraliste, spécialiste ou hôpital à la sortie peuvent la rédiger.
 
 ### Bilan
 
@@ -73,7 +73,7 @@ Questions, tests, premiers gestes : vous savez dès la première séance ce que 
 
 ### Séances au cabinet ou à domicile
 
-Le contenu évolue avec vos progrès ; nous adaptons la charge et les techniques à chaque rendez-vous.
+Charge et techniques évoluent avec vos progrès.
 
 ### Autonomie et prévention
 
@@ -103,7 +103,7 @@ Avec la LAMal, la franchise et la quote-part restent à votre charge. Les séanc
 
 ### Quel est le rôle d'un physiothérapeute ?
 
-Il évalue votre mouvement, traite la douleur par des techniques manuelles et vous guide dans des exercices adaptés. Le diagnostic reste du ressort du médecin, avec qui nous restons en contact si le traitement doit être ajusté.
+Il évalue votre mouvement, traite la douleur par des techniques manuelles et vous guide dans des exercices adaptés. Le diagnostic reste du ressort du médecin.
 
 ### Est-ce que la physiothérapie est remboursée ?
 
@@ -115,7 +115,7 @@ Ces communes du Littoral, comme Hauterive et La Tène (Marin-Epagnier), sont voi
 
 ### Quel est le prix d'une séance de physiothérapie en Suisse ?
 
-Il découle de la structure tarifaire nationale négociée entre la profession et les assureurs, et non d'un prix libre fixé par chaque cabinet [À CONFIRMER : tarif appliqué]. Sur ordonnance, c'est l'assurance qui règle la facture.
+Il découle de la structure tarifaire nationale négociée entre la profession et les assureurs, et non d'un prix libre fixé par chaque cabinet [À CONFIRMER : tarif appliqué].
 
 ### Comment savoir si j'ai besoin d'un drainage lymphatique ?
 
@@ -127,7 +127,7 @@ Votre médecin traitant, un spécialiste ou l'hôpital à votre sortie, par exem
 
 ### Quelle est la différence entre un massage thérapeutique et un massage de détente ?
 
-Le massage thérapeutique répond à un problème précis, une contracture ou une tension qui limite le mouvement, et s'intègre à un traitement prescrit. Le massage de détente vise le bien-être et n'est pas pris en charge par l'assurance de base.
+Le massage thérapeutique répond à un problème précis, une contracture ou une tension qui limite le mouvement, et s'intègre à un traitement prescrit. Le massage de détente vise le bien-être, sans prise en charge par l'assurance de base.
 
 ### Un résident d'un autre canton peut-il se faire soigner dans le canton de Berne ?
 
@@ -135,7 +135,7 @@ Oui. La LAMal étant fédérale, vos séances sur ordonnance sont remboursées d
 
 ### C'est quoi une séance de physiothérapie ?
 
-Un rendez-vous individuel qui associe bilan, traitement manuel, exercices et conseils. Prévoyez une tenue confortable, surtout si nous travaillons sur la course ou le renforcement.
+Un rendez-vous individuel qui associe bilan, traitement manuel, exercices et conseils. Prévoyez une tenue confortable.
 
 ### Après une hospitalisation à Pourtalès, quand commencer ?
 

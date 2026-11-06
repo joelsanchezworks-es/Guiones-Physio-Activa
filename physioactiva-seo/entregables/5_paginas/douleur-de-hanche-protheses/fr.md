@@ -104,6 +104,10 @@ Cette douleur latérale peut être liée aux tendons ou aux tissus situés sur l
 
 Évitez de forcer et consultez si le blocage persiste. Si cela survient après une chute ou avec une prothèse, contactez rapidement un médecin.
 
+### Quels sont les symptômes d'une douleur à la hanche ?
+
+La douleur peut se situer dans l'aine, sur le côté de la hanche ou dans la fesse, et parfois descendre vers la cuisse ou le genou. Elle s'accompagne souvent d'une raideur, d'une gêne pour marcher, mettre ses chaussettes ou se relever. Après une chute, en cas de fièvre ou si vous ne pouvez plus vous appuyer sur la jambe, consultez rapidement un médecin.
+
 ## Prenez rendez-vous
 
 Vous allez être opéré, vous sortez de l'hôpital ou votre hanche vous fait mal ? Appelez-nous au **076 627 38 38**, écrivez-nous sur **WhatsApp au +41 76 627 38 38** ou [réservez votre rendez-vous en ligne](/reservation-en-ligne/). Au cabinet à Ins ou à domicile.
@@ -115,3 +119,4 @@ Vous allez être opéré, vous sortez de l'hôpital ou votre hanche vous fait ma
 - El ángulo fuerte es la rehabilitación a domicilio tras la cirugía; se enlazan post-operatorio, MTT, geriátrica, terapia manual, domicilio y reserva.
 - Se ha omitido «pubalgie»: no encaja con la intención de esta página.
 - [POR CONFIRMAR]: duración de cada sesión; si la ordonnance debe indicar expresamente «à domicile» para el reembolso.
+- FAQ ampliada a 8 preguntas con preguntas reales de Google (PAA del `brief.json` de la página): «Quels sont les symptômes d'une douleur à la hanche ?».

@@ -68,6 +68,18 @@ Consultez rapidement un médecin ou les urgences en cas de perte de force qui s'
 
 Oui, à Ins et dans le Seeland et la région des Trois-Lacs (Anet, Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne, Lyss), si votre situation le justifie.
 
+### Quel est le rôle d'un physiothérapeute ?
+
+Le physiothérapeute évalue vos mouvements et votre fonction, puis vous accompagne avec des exercices, des techniques manuelles et des conseils pour le quotidien. L'objectif est de vous aider à bouger avec moins de douleur et à gagner en autonomie, selon votre situation. Le diagnostic médical reste du ressort du médecin.
+
+### Quelle est la différence entre un kinésithérapeute et un physiothérapeute ?
+
+Il s'agit du même métier : en Suisse, on parle de physiothérapeute, alors qu'en France on dit plutôt kinésithérapeute ou kiné. Le nom change selon le pays et la formation.
+
+### Quand faire de la physiothérapie ?
+
+Par exemple pour une douleur qui dure ou revient, une raideur, après une blessure ou une opération, ou pour retrouver de l'autonomie au quotidien. Votre médecin vous prescrit la physiothérapie si elle est indiquée. En cas de signe d'alarme, consultez d'abord un médecin.
+
 ## Prendre rendez-vous
 
 Au cabinet à Ins (InsGym, Rämismatte 21) ou à domicile :
@@ -83,3 +95,4 @@ Au cabinet à Ins (InsGym, Rämismatte 21) ou à domicile :
 - La página de rodilla tiene el slug /douleur-du-genou-lesions-de-la-cheville/ y la de pie /douleur-pied-cheville-fasciite-plantaire/: el anchor de rodilla menciona la cheville para ser fiel al slug; conviene revisar si ese contenido se reparte entre las dos páginas para evitar canibalización.
 - Añadidas FAQ (5 preguntas) con señales de alarma y CTA con teléfono, WhatsApp y reserva. El brief no traía keywords ni PAA para este hub: la keyword «pathologies physiothérapie» no tiene volumen medido.
 - No quedan `[POR CONFIRMAR]` en esta página; confirmar que las páginas de cadera, suelo pélvico y ATM existen con esos slugs antes de publicar.
+- FAQ ampliada a 8 preguntas con preguntas reales de Google (`data/paa_banco.json` (este hub no tiene PAA en su brief)): «Quel est le rôle d'un physiothérapeute ?»; «Quelle est la différence entre un kinésithérapeute et un physiothérapeute ?»; «Quand faire de la physiothérapie ?».

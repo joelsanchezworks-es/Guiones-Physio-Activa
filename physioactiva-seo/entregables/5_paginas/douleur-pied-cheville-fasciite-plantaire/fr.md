@@ -117,6 +117,10 @@ Rouler une balle ou une bouteille froide sous le pied peut apporter un soulageme
 
 Elles peuvent être une option pour certaines fasciites plantaires et tendinopathies qui persistent. Leur indication est discutée selon votre situation, en complément des exercices.
 
+### Quels sont les symptômes de la fasciite plantaire ?
+
+Une douleur sous le talon, souvent plus forte aux premiers pas le matin ou après être resté assis, qui peut diminuer en marchant puis revenir en fin de journée. Une douleur après un traumatisme, un talon gonflé et rouge ou de la fièvre nécessitent un avis médical.
+
 ## Prenez rendez-vous pour votre pied ou votre cheville
 
 Appelez-nous au **076 627 38 38**, écrivez-nous sur **WhatsApp au +41 76 627 38 38** ou [réservez votre séance de physiothérapie en ligne](/reservation-en-ligne/).
@@ -128,3 +132,4 @@ Appelez-nous au **076 627 38 38**, écrivez-nous sur **WhatsApp au +41 76 627 38
 - Señales de alarma incluidas: no poder apoyar tras trauma, «coup de fouet» (posible rotura de Aquiles), pantorrilla hinchada/caliente/roja (posible trombosis), fiebre, deformidad y dolor óseo localizado (posible fractura de estrés).
 - No se dan tiempos de curación ni número de sesiones (pregunta frecuente «temps de guérison»): se responde que depende de cada caso.
 - `[POR CONFIRMAR]`: titulaciones del equipo (no citadas) y si la clínica tiene aparato de ondas de choque disponible también para fascitis plantar; enlazar esta página desde el menú y desde la página de rodilla.
+- FAQ ampliada a 8 preguntas con preguntas reales de Google (PAA del `brief.json` de la página): «Quels sont les symptômes de la fasciite plantaire ?».

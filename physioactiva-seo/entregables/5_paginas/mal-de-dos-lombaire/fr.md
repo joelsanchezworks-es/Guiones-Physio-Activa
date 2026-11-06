@@ -96,6 +96,18 @@ Une douleur d'un seul côté est fréquente et souvent musculaire ou articulaire
 
 Oui : pour un remboursement LAMal, LAA, AI ou AM, une prescription médicale est nécessaire.
 
+### Qu'est-ce qu'une lombalgie ?
+
+C'est une douleur située dans le bas du dos, au niveau des vertèbres lombaires. Elle est le plus souvent d'origine mécanique (muscles, articulations, disques) et peut être aiguë, comme un lumbago, ou durer plus longtemps. Le médecin pose le diagnostic ; le physiothérapeute évalue ensuite les mouvements et la fonction.
+
+### Comment savoir si c'est une douleur au dos ou aux reins ?
+
+Une douleur du dos varie en général avec les mouvements et les positions. Une douleur qui ne change pas en bougeant, avec de la fièvre, des brûlures en urinant ou une douleur au ventre, peut venir des reins ou d'un autre organe : consultez d'abord votre médecin.
+
+### Qu'est-ce que la radiculalgie lombaire ?
+
+C'est une douleur qui descend du bas du dos vers la fesse, la cuisse ou le pied, parce qu'une racine nerveuse est irritée ; la sciatique en est la forme la plus connue. Une perte de force ou des troubles pour uriner imposent de consulter un médecin en urgence. Voir aussi notre page [sciatique et hernie discale](/sciatique-hernie-discale/).
+
 ## Prenez rendez-vous pour votre dos
 
 Vous avez une ordonnance ou une question ? Appelez-nous au **076 627 38 38**, écrivez-nous sur **WhatsApp au +41 76 627 38 38** ou [réservez votre séance en ligne](/reservation-en-ligne/). Physio Activa, physiothérapie à Ins et à domicile.
@@ -107,3 +119,4 @@ Vous avez une ordonnance ou une question ? Appelez-nous au **076 627 38 38**, é
 - La parte de hernia y ciática se ha resumido y enlazada a la nueva página `/sciatique-hernie-discale/` para no canibalizarla.
 - Se han añadido señales de alarma (red flags), diferencia espalda/riñón y zona de domicilio.
 - [POR CONFIRMAR]: duración de la sesión; si se mantiene «premier rendez-vous dans la semaine» (eliminado hasta confirmarlo); titulaciones del equipo si se quieren mencionar.
+- FAQ ampliada a 8 preguntas con preguntas reales de Google (PAA del `brief.json` de la página): «Qu'est-ce qu'une lombalgie ?»; «Comment savoir si c'est une douleur au dos ou aux reins ?»; «Qu'est-ce que la radiculalgie lombaire ?».
