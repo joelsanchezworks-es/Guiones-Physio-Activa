@@ -82,6 +82,14 @@ def eid(*parts):
     return hashlib.sha1("|".join(parts).encode()).hexdigest()[:7]
 
 
+WA_PAGINA = {"href": None}
+
+
+def wa(texto_pagina):
+    from urllib.parse import quote
+    return CLI["whatsapp_href"] + "?text=" + quote(f"Bonjour, je souhaite prendre rendez-vous chez Physio Activa ({texto_pagina}).")
+
+
 def esc(s):
     return H.escape(s, quote=True)
 
@@ -224,7 +232,8 @@ def c_hero(r):
       <p class="sub">{r['sub']}</p>
       <div class="hero-cta">
         <a class="btn" href="{CLI['reservation']}"><i class="fa-solid fa-calendar-check"></i> <span>Réserver en ligne</span></a>
-        <a class="btn ghost" href="{CLI['whatsapp_href']}"><i class="fa-brands fa-whatsapp"></i> <span>WhatsApp</span></a>
+        <a class="btn ghost" href="{esc(WA_PAGINA['href'])}"><i class="fa-brands fa-whatsapp"></i> <span>WhatsApp</span></a>
+        <a class="btn ghost" href="{CLI['tel_href']}"><i class="fa-solid fa-phone"></i> <span>{esc(CLI['telephone'])}</span></a>
       </div>
       <div class="hero-pills">{pills}</div>
       <a class="hero-rating" href="{GBP}" target="_blank" rel="noopener"><span class="num">{CLI['avis_google']['note']}</span><span class="stars">★★★★★</span><span>{CLI['avis_google']['nombre']} avis Google</span></a>
@@ -239,7 +248,8 @@ def c_hero(r):
       <p class="sub">{r['sub']}</p>
       <div class="hero-cta">
         <a class="btn" href="{r.get('cta_href', CLI['reservation'])}"><i class="fa-solid fa-calendar-check"></i> <span>{esc(r.get('cta', 'Prendre rendez-vous'))}</span></a>
-        <a class="btn ghost" href="{CLI['whatsapp_href']}"><i class="fa-brands fa-whatsapp"></i> <span>WhatsApp</span></a>
+        <a class="btn ghost" href="{esc(WA_PAGINA['href'])}"><i class="fa-brands fa-whatsapp"></i> <span>WhatsApp</span></a>
+        <a class="btn ghost" href="{CLI['tel_href']}"><i class="fa-solid fa-phone"></i> <span>{esc(CLI['telephone'])}</span></a>
       </div>
       <div class="hero-pills">{pills}</div>
     </div>
@@ -259,7 +269,17 @@ def c_grid(r):
         h3 = f"<h3>{c['h3']}</h3>" if c.get("h3") else ""
         cards += f'<div class="wcard reveal"><div class="wic"><i class="fa-solid {c["icon"]}"></i></div>{h3}{c["html"]}</div>'
     bg = f' class="{r["bg"]}"' if r.get("bg") else ""
-    return f'<section{bg}>\n  {cab(r)}\n  <div class="wrap"><div class="why-grid">{cards}</div></div>\n</section>'
+    mid = cta_mid(r)
+    return f'<section{bg}>\n  {cab(r)}\n  <div class="wrap"><div class="why-grid">{cards}</div>{mid}</div>\n</section>'
+
+
+def cta_mid(r):
+    mid = ""
+    if r.get("cta_mid"):
+        mid = (f'<div class="center" style="margin-top:42px"><a class="btn" href="{CLI["reservation"]}"><i class="fa-solid fa-calendar-check"></i> Prendre rendez-vous en ligne</a> '
+               f'<a class="btn outline" href="{CLI["tel_href"]}"><i class="fa-solid fa-phone"></i> {esc(CLI["telephone"])}</a> '
+               f'<a class="btn outline" href="{esc(WA_PAGINA["href"])}"><i class="fa-brands fa-whatsapp"></i> WhatsApp</a></div>')
+    return mid
 
 
 def c_texte(r):
@@ -282,7 +302,7 @@ def c_serv(r):
         cards += (f'<div class="scard reveal"><div class="sic">{sic}</div><h3>{esc(c["h3"])}</h3><p>{c["p"]}</p>'
                   f'<a class="more" href="{c["href"]}"><span>{esc(c.get("more", "En savoir plus"))}</span> <i class="fa-solid fa-arrow-right"></i></a></div>')
     bg = f' class="{r["bg"]}"' if r.get("bg") else ""
-    return f'<section{bg}>\n  {cab(r)}\n  <div class="wrap"><div class="serv-grid">{cards}</div></div>\n</section>'
+    return f'<section{bg}>\n  {cab(r)}\n  <div class="wrap"><div class="serv-grid">{cards}</div>{cta_mid(r)}</div>\n</section>'
 
 
 def c_team(r):
@@ -317,7 +337,7 @@ def c_cta(r):
     <p class="s1">{r['s1']}</p>{s2}
     <div class="cta-actions">
       <a class="btn primary" href="{CLI['reservation']}"><i class="fa-solid fa-calendar-check"></i> <span>Prendre rendez-vous en ligne</span></a>
-      <a class="btn ghost" href="{CLI['whatsapp_href']}"><i class="fa-brands fa-whatsapp"></i> <span>Contacter par WhatsApp</span></a>
+      <a class="btn ghost" href="{esc(WA_PAGINA['href'])}"><i class="fa-brands fa-whatsapp"></i> <span>Contacter par WhatsApp</span></a>
       <a class="btn ghost" href="{CLI['tel_href']}"><i class="fa-solid fa-phone"></i> <span>{esc(CLI['telephone'])}</span></a>
     </div>
   </div>
@@ -351,6 +371,20 @@ DESC_PATO = {
     "/douleur-pied-cheville-fasciite-plantaire/": "Fasciite plantaire, entorse de la cheville, tendinite d'Achille ou périostite.",
     "/douleur-de-hanche-protheses/": "Arthrose de la hanche et rééducation après une prothèse de hanche.",
 }
+PASOS = [("Ordonnance", "Votre médecin prescrit la physiothérapie ; apportez l'ordonnance et votre carte d'assuré à la première séance.", "fa-file-medical"),
+         ("Bilan", "Un entretien et un examen permettent de comprendre l'origine de vos symptômes et de fixer des objectifs avec vous.", "fa-clipboard-list"),
+         ("Séances au cabinet ou à domicile", "Le traitement se déroule au cabinet d'Ins ou chez vous, selon votre situation et la prescription.", "fa-house-medical"),
+         ("Autonomie et prévention", "Des exercices à poursuivre seul et des conseils pour le quotidien, afin de limiter les récidives.", "fa-person-walking")]
+VALEURS = [("Sur prescription, remboursé LAMal / LAA", "Avec une ordonnance médicale, les séances sont prises en charge par la LAMal, la LAA, l'AI ou l'AM.", "fa-file-medical"),
+           ("Au cabinet ou à domicile", "Cabinet à l'InsGym, Rämismatte 21 à Ins, et séances à domicile dans le Seeland et les Trois-Lacs.", "fa-house-medical"),
+           ("Bilan et plan de traitement", "La première séance commence par un entretien et un bilan ; les objectifs et le plan sont définis avec vous.", "fa-clipboard-list"),
+           ("Rendez-vous en ligne, par téléphone ou WhatsApp", "Réservation sur OneDoc, au 076 627 38 38 ou par WhatsApp au +41 76 627 38 38.", "fa-calendar-check")]
+SUJET = {"mal-de-dos-lombaire": "le mal de dos", "douleur-cervicale-au-cou": "la douleur cervicale", "lesions-de-lepaule": "l'épaule",
+         "douleur-du-genou-lesions-de-la-cheville": "le genou", "sciatique-hernie-discale": "la sciatique",
+         "douleur-pied-cheville-fasciite-plantaire": "le pied et la cheville", "douleur-de-hanche-protheses": "la hanche"}
+CTA_Q = {"mal-de-dos-lombaire": "Mal de dos", "douleur-cervicale-au-cou": "Douleur à la nuque", "lesions-de-lepaule": "Douleur à l'épaule",
+         "douleur-du-genou-lesions-de-la-cheville": "Douleur au genou", "sciatique-hernie-discale": "Sciatique",
+         "douleur-pied-cheville-fasciite-plantaire": "Douleur au pied ou à la cheville", "douleur-de-hanche-protheses": "Douleur ou prothèse de hanche"}
 SERVICIOS_HOME = [  # iconos de servicio de la plantilla home (2025/05/N.png) → páginas de servicio existentes (200)
     (1, "Physiothérapie générale", "Douleurs, raideurs et rééducation de l'appareil locomoteur, sur prescription médicale.", "/physio-generale/"),
     (2, "Physiothérapie à domicile", "Les séances se déroulent chez vous lorsque vous ne pouvez pas vous déplacer.", "/physiotherapeute-a-domicile/"),
@@ -406,6 +440,7 @@ def receta(slug, url, plantilla, lote, carpeta, foto, alt, idx_zona=0):
     if tipo == "zona":
         foto = FOTO_ZONA[idx_zona % len(FOTO_ZONA)]
         alt = ALT_ZONA[foto]
+    WA_PAGINA["href"] = wa(texto(h1).split(" : ")[0])
     intro_p = [b for b in intro if b.name == "p" and not re.search(r"Téléphone\s*:|^\s*<a", inline(b)) and "reservation-en-ligne" not in inline(b)[:60]]
     intro_html = " ".join(inline(b) for b in intro_p)
     lim = 520 if plantilla == "lombaire" else 430   # plantilla: sub de lombaire ≈ 433 car. y de la home ≈ 300 (+20 % / +40 % home)
@@ -438,12 +473,18 @@ def receta(slug, url, plantilla, lote, carpeta, foto, alt, idx_zona=0):
         if re.match(r"questions fréquentes", texto(s["h2"]), re.I):
             faq = s
     cta = secs[-1] if secs and secs[-1] is not faq else None
+    if tipo == "patologia":
+        alarma = next((x for x in secs if re.search(r"urgence|quand consulter un médecin|signaux d'alarme", texto(x["h2"]), re.I)), None)
+        if alarma and secs.index(alarma) > 1:
+            secs.remove(alarma); secs.insert(1, alarma)
     bg_toggle = False
     for s in secs:
         if s is faq or s is cta:
             continue
         h2t = texto(s["h2"])
         h2h = inline(s["h2"])
+        if tipo in ("patologia", "hub", "reserva") and re.match(r"remboursement", h2t, re.I) and "Ins" not in h2t:
+            h2t = h2h = "Remboursement et coût de la physio à Ins"
         intro_b, subs, listas = estructura(s["bloques"])
         overflow = pend_lead
         lead = pend_lead + [inline(b) for b in intro_b if b.name == "p"]
@@ -486,7 +527,7 @@ def receta(slug, url, plantilla, lote, carpeta, foto, alt, idx_zona=0):
                 a = next(c.find("a") for c in x["contenido"] if isinstance(c, Tag) and c.find("a"))
                 cards.append({"h3": texto(x["h3"]), "p": re.sub(r"</?p[^>]*>", " ", p_bloques(x["contenido"])).strip(),
                               "href": fix_href(a["href"]), "icon": icono(texto(x["h3"]), len(cards)), "more": "Lire la page"})
-            R.append({"tipo": "serv", **base, "cards": cards})
+            R.append({"tipo": "serv", **base, "cards": cards, "cta_mid": True})
             continue
         if re.search(r"rembours", h2t, re.I) and plantilla == "lombaire" and listas:
             R.append({"tipo": "steps", **base, "bg": "assur-sec", "steps": [inline(li) for li in listas[0].find_all("li", recursive=False)],
@@ -495,6 +536,12 @@ def receta(slug, url, plantilla, lote, carpeta, foto, alt, idx_zona=0):
         if re.search(r"déroulement|se passe|étapes|comment réserver|réserver", h2t, re.I) and listas and not subs and plantilla == "lombaire":
             R.append({"tipo": "steps", **base, "bg": "assur-sec", "steps": [inline(li) for li in listas[0].find_all("li", recursive=False)],
                       "after": [inline(b) for b in s["bloques"] if b.name == "p" and b not in intro_b]})
+            continue
+        es_proceso = re.search(r"déroule|déroulement|comment se passe|prise en charge \?", h2t, re.I)
+        if es_proceso and not subs and tipo in ("patologia", "hub", "reserva"):
+            textos = [inline(b) for b in s["bloques"] if b.name == "p"]
+            R.append({"tipo": "grid", **{**base, "lead": overflow + textos}, "cta_mid": True,
+                      "cards": [{"h3": t, "html": f"<p>{esc(d)}</p>", "icon": ic} for t, d, ic in PASOS]})
             continue
         if subs:
             cards = []
@@ -507,6 +554,9 @@ def receta(slug, url, plantilla, lote, carpeta, foto, alt, idx_zona=0):
             if despues(s["bloques"], intro_b):
                 cards.append({"h3": None, "html": espaciar("".join(f"<p>{a}</p>" for a in despues(s["bloques"], intro_b))), "icon": "fa-circle-info"})
             cards += [{"h3": inline(x["h3"]), "html": p_bloques(x["contenido"]), "icon": icono(texto(x["h3"]), len(cards) + i)} for i, x in enumerate(subs)]
+            if es_proceso:
+                R.append({"tipo": "grid", **base, "cards": cards, "cta_mid": True})
+                continue
             # listas o párrafos sueltos tras las h3 ya van dentro de la última tarjeta
             R.append({"tipo": "grid", **base, "cards": cards})
             continue
@@ -527,13 +577,30 @@ def receta(slug, url, plantilla, lote, carpeta, foto, alt, idx_zona=0):
         R.append({"tipo": "texte", **{**base, "lead": overflow}, "html": html_ or espaciar("".join(f"<p>{l}</p>" for l in lead))})
     if faq:
         _, subs, _ = estructura(faq["bloques"])
-        R.append({"tipo": "faq", "h2": texto(faq["h2"]),
+        h2faq = texto(faq["h2"])
+        if tipo == "patologia" and carpeta in SUJET:
+            h2faq = f"Questions fréquentes sur {SUJET[carpeta]} et la physio à Ins"
+        elif tipo in ("hub", "reserva") and not re.search(r"\bIns\b", h2faq):
+            h2faq = "Questions fréquentes sur la physio à Ins" if tipo == "hub" else "Questions fréquentes sur la réservation à Ins"
+        R.append({"tipo": "faq", "h2": h2faq,
                   "faq": [{"q": texto(x["h3"]), "a_html": " ".join(inline(c) if c.name == "p" else " ".join(inline(li) for li in c.find_all("li")) for c in x["contenido"] if isinstance(c, Tag)),
                            "a_text": " ".join(texto(c) for c in x["contenido"] if isinstance(c, Tag))} for x in subs]})
     if cta:
         ps = [b for b in cta["bloques"] if b.name == "p"]
-        R.append({"tipo": "cta", "h2": texto(cta["h2"]), "s1": inline(ps[0]) if ps else "Contactez-nous pour une séance au cabinet à Ins ou à domicile.",
+        h2cta = texto(cta["h2"])
+        if tipo == "patologia" and carpeta in CTA_Q:
+            h2cta = f"{CTA_Q[carpeta]} : besoin d'un physio à Ins ou dans les environs ?"
+        elif tipo == "hub":
+            h2cta = "Besoin d'un physio à Ins ou dans les environs ?"
+        R.append({"tipo": "cta", "h2": h2cta, "s1": inline(ps[0]) if ps else "Contactez-nous pour une séance au cabinet à Ins ou à domicile.",
                   "s2": inline(ps[1]) if len(ps) > 1 else None})
+    if tipo == "reserva" and not any(x["tipo"] == "cta" for x in R):
+        R.append({"tipo": "cta", "h2": "Besoin d'un physio à Ins ou dans les environs ?",
+                  "s1": "Réservez en ligne, appelez-nous ou écrivez-nous sur WhatsApp : nous vous proposons une séance au cabinet d'Ins ou à domicile.", "s2": None})
+    # 4 H3 de valor bajo el hero (las zonas y À propos los traen en su fr.md)
+    if tipo in ("home", "patologia", "hub", "reserva"):
+        R.insert(1, {"tipo": "grid", "eyebrow": "En bref", "h2": "L'essentiel avant de prendre rendez-vous", "lead": [], "bg": "trust",
+                     "cards": [{"h3": t, "html": f"<p>{esc(d)}</p>", "icon": ic} for t, d, ic in VALEURS]})
     R.append({"tipo": "map"})
     # --- enlazado local hacia las páginas de zona (solo lote A: las del lote B están en noindex) ---
     i_faq = next((i for i, x in enumerate(R) if x["tipo"] == "faq"), len(R) - 1)
@@ -544,7 +611,7 @@ def receta(slug, url, plantilla, lote, carpeta, foto, alt, idx_zona=0):
                          "liens": [("Physio à Ins (Anet)", "/")] + liens_zones(zonas_cercanas(k)),
                          "note": f"Cabinet unique : {CLI['adresse']}."})
     elif tipo in ("patologia", "hub", "reserva", "apropos"):
-        R.insert(i_faq, {"tipo": "villes", "eyebrow": "Près de chez vous", "h2": "Physio au cabinet d'Ins ou à domicile dans la région",
+        R.insert(i_faq, {"tipo": "villes", "eyebrow": "Près de chez vous", "h2": "Physio au cabinet ou à domicile dans votre région",
                          "lead": ["Informations locales pour les patients des Trois-Lacs et du Seeland : distance, accès et soins à domicile."],
                          "liens": [("Physio à Ins (Anet)", "/")] + liens_zones(sorted(ZA, key=lambda x: ZON[x]["km_depuis_ins"])),
                          "note": f"Cabinet unique : {CLI['adresse']}."})
@@ -553,7 +620,7 @@ def receta(slug, url, plantilla, lote, carpeta, foto, alt, idx_zona=0):
                   "p": esc(f"À {str(ZON[x]['km_depuis_ins']).replace('.', ',')} km d'Ins · {ZON[x]['district']}, canton de {ZON[x]['canton']}.")}
                  for x in sorted(ZA, key=lambda x: ZON[x]["km_depuis_ins"])]
         i_serv = max(i for i, x in enumerate(R) if x["tipo"] == "serv") + 1
-        R.insert(i_serv, {"tipo": "serv", "eyebrow": "Nos zones", "h2": "Votre physio à Ins et dans les Trois-Lacs",
+        R.insert(i_serv, {"tipo": "serv", "eyebrow": "Nos zones", "h2": "Nos zones : Seeland et Trois-Lacs",
                           "lead": ["Un seul cabinet, à Ins (Anet), et des pages locales pour les patients de la région : distance, accès, soins à domicile et questions fréquentes."],
                           "bg": None, "cards": cards})
     if tipo == "home":  # galería del cabinet (mismas fotos que la plantilla, alt descriptivos) antes de la FAQ
@@ -562,7 +629,7 @@ def receta(slug, url, plantilla, lote, carpeta, foto, alt, idx_zona=0):
                "imgs": [(FOTOS["insgym"], "Espace d'entraînement de l'InsGym à Ins"), (FOTOS["salle"], "Salle de traitement du cabinet Physio Activa"),
                         (FOTOS["jambe"], "Physiothérapeute mobilisant la jambe d'un patient"), (FOTOS["fitness"], "Salle de fitness médical (MTT)"),
                         (FOTOS["senior"], "Exercice de rééducation avec bande élastique")]}
-        i = next(i for i, x in enumerate(R) if x["tipo"] == "faq")
+        i = next((i + 1 for i, x in enumerate(R) if x["tipo"] == "team"), next(i for i, x in enumerate(R) if x["tipo"] == "faq"))
         R.insert(i, gal)
     return meta, R
 

@@ -16,6 +16,35 @@
  },
  {
   "tipo": "grid",
+  "eyebrow": "En bref",
+  "h2": "L'essentiel avant de prendre rendez-vous",
+  "lead": [],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Sur prescription, remboursé LAMal / LAA",
+    "html": "<p>Avec une ordonnance médicale, les séances sont prises en charge par la LAMal, la LAA, l&#x27;AI ou l&#x27;AM.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Au cabinet ou à domicile",
+    "html": "<p>Cabinet à l&#x27;InsGym, Rämismatte 21 à Ins, et séances à domicile dans le Seeland et les Trois-Lacs.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Bilan et plan de traitement",
+    "html": "<p>La première séance commence par un entretien et un bilan ; les objectifs et le plan sont définis avec vous.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
+    "html": "<p>Réservation sur OneDoc, au 076 627 38 38 ou par WhatsApp au +41 76 627 38 38.</p>",
+    "icon": "fa-calendar-check"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
   "eyebrow": "Comprendre",
   "h2": "Qu'est-ce que la sciatique ?",
   "lead": [
@@ -37,53 +66,12 @@
  },
  {
   "tipo": "grid",
-  "eyebrow": "Symptômes",
-  "h2": "Symptômes d'une hernie discale et de la sciatique",
-  "lead": [
-   "Les symptômes varient d'une personne à l'autre. Les plus fréquents sont :"
-  ],
-  "bg": "trust",
-  "cards": [
-   {
-    "h3": null,
-    "html": "<p>une douleur dans la fesse, l'arrière de la cuisse, le mollet ou le pied, souvent d'un seul côté ;</p>",
-    "icon": "fa-bolt"
-   },
-   {
-    "h3": null,
-    "html": "<p>une douleur dans la jambe parfois plus forte que la douleur dans le dos ;</p>",
-    "icon": "fa-bolt"
-   },
-   {
-    "h3": null,
-    "html": "<p>des fourmillements, des picotements ou une sensation d'engourdissement ;</p>",
-    "icon": "fa-heart-pulse"
-   },
-   {
-    "h3": null,
-    "html": "<p>une douleur qui augmente en position assise prolongée, en toussant ou en éternuant ;</p>",
-    "icon": "fa-bolt"
-   },
-   {
-    "h3": null,
-    "html": "<p>parfois une diminution de la force dans le pied ou les orteils.</p>",
-    "icon": "fa-shield-heart"
-   },
-   {
-    "h3": "Comment savoir si j'ai une hernie discale ?",
-    "html": "<p>Ces signes orientent, mais seuls l'examen médical et, si nécessaire, l'imagerie confirment une hernie discale. Le bilan de physio évalue la mobilité, la force, la sensibilité et les réflexes pour adapter le traitement et repérer ce qui nécessite un avis médical.</p><p style=\"margin-top:12px\">Une douleur limitée au bas du dos, sans irradiation dans la jambe, relève plutôt d'une lombalgie : voir notre page <a href=\"/mal-de-dos-lombaire/\" style=\"color:var(--azure);font-weight:600\">mal de dos et lombalgie</a>.</p>",
-    "icon": "fa-bone"
-   }
-  ]
- },
- {
-  "tipo": "grid",
   "eyebrow": "Signaux d'alarme",
   "h2": "Quand consulter un médecin en urgence ?",
   "lead": [
    "Certains signes peuvent indiquer une compression importante des nerfs (syndrome de la queue de cheval) ou une autre affection sérieuse. <strong>Consultez immédiatement un médecin ou les urgences</strong> si vous constatez :"
   ],
-  "bg": null,
+  "bg": "trust",
   "cards": [
    {
     "h3": null,
@@ -119,6 +107,47 @@
     "h3": null,
     "html": "<p>une douleur après un traumatisme important, ou une douleur nocturne intense qui ne cède pas.</p>",
     "icon": "fa-triangle-exclamation"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Symptômes",
+  "h2": "Symptômes d'une hernie discale et de la sciatique",
+  "lead": [
+   "Les symptômes varient d'une personne à l'autre. Les plus fréquents sont :"
+  ],
+  "bg": null,
+  "cards": [
+   {
+    "h3": null,
+    "html": "<p>une douleur dans la fesse, l'arrière de la cuisse, le mollet ou le pied, souvent d'un seul côté ;</p>",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": null,
+    "html": "<p>une douleur dans la jambe parfois plus forte que la douleur dans le dos ;</p>",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": null,
+    "html": "<p>des fourmillements, des picotements ou une sensation d'engourdissement ;</p>",
+    "icon": "fa-heart-pulse"
+   },
+   {
+    "h3": null,
+    "html": "<p>une douleur qui augmente en position assise prolongée, en toussant ou en éternuant ;</p>",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": null,
+    "html": "<p>parfois une diminution de la force dans le pied ou les orteils.</p>",
+    "icon": "fa-shield-heart"
+   },
+   {
+    "h3": "Comment savoir si j'ai une hernie discale ?",
+    "html": "<p>Ces signes orientent, mais seuls l'examen médical et, si nécessaire, l'imagerie confirment une hernie discale. Le bilan de physio évalue la mobilité, la force, la sensibilité et les réflexes pour adapter le traitement et repérer ce qui nécessite un avis médical.</p><p style=\"margin-top:12px\">Une douleur limitée au bas du dos, sans irradiation dans la jambe, relève plutôt d'une lombalgie : voir notre page <a href=\"/mal-de-dos-lombaire/\" style=\"color:var(--azure);font-weight:600\">mal de dos et lombalgie</a>.</p>",
+    "icon": "fa-bone"
    }
   ]
  },
@@ -169,12 +198,36 @@
   ]
  },
  {
-  "tipo": "texte",
+  "tipo": "grid",
   "eyebrow": "Vos séances",
   "h2": "Déroulement des séances",
-  "lead": [],
+  "lead": [
+   "La première séance commence par un entretien (symptômes, ce qui les aggrave ou les soulage, examens déjà faits, antécédents), suivi d'un examen de la mobilité, de la force, de la sensibilité et de tests neurologiques simples. Nous définissons ensuite des objectifs concrets. Si un signe nécessite un avis médical, nous vous orientons vers votre médecin. Le nombre de séances dépend de votre situation et est réévalué régulièrement. Durée d'une séance : [À CONFIRMER]."
+  ],
   "bg": null,
-  "html": "<p>La première séance commence par un entretien (symptômes, ce qui les aggrave ou les soulage, examens déjà faits, antécédents), suivi d'un examen de la mobilité, de la force, de la sensibilité et de tests neurologiques simples. Nous définissons ensuite des objectifs concrets. Si un signe nécessite un avis médical, nous vous orientons vers votre médecin. Le nombre de séances dépend de votre situation et est réévalué régulièrement. Durée d'une séance : [À CONFIRMER].</p>"
+  "cta_mid": true,
+  "cards": [
+   {
+    "h3": "Ordonnance",
+    "html": "<p>Votre médecin prescrit la physiothérapie ; apportez l&#x27;ordonnance et votre carte d&#x27;assuré à la première séance.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Bilan",
+    "html": "<p>Un entretien et un examen permettent de comprendre l&#x27;origine de vos symptômes et de fixer des objectifs avec vous.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Séances au cabinet ou à domicile",
+    "html": "<p>Le traitement se déroule au cabinet d&#x27;Ins ou chez vous, selon votre situation et la prescription.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Autonomie et prévention",
+    "html": "<p>Des exercices à poursuivre seul et des conseils pour le quotidien, afin de limiter les récidives.</p>",
+    "icon": "fa-person-walking"
+   }
+  ]
  },
  {
   "tipo": "texte",
@@ -187,7 +240,7 @@
  {
   "tipo": "texte",
   "eyebrow": "Remboursement",
-  "h2": "Remboursement LAMal / LAA et ordonnance",
+  "h2": "Remboursement et coût de la physio à Ins",
   "lead": [],
   "bg": null,
   "html": "<p>La physiothérapie est remboursée par l'assurance de base (LAMal), l'assurance accident (LAA), l'AI et l'AM <strong>avec une prescription médicale</strong>. Votre médecin établit l'ordonnance ; vous nous contactez ensuite pour planifier la première séance.</p>"
@@ -195,7 +248,7 @@
  {
   "tipo": "villes",
   "eyebrow": "Près de chez vous",
-  "h2": "Physio au cabinet d'Ins ou à domicile dans la région",
+  "h2": "Physio au cabinet ou à domicile dans votre région",
   "lead": [
    "Informations locales pour les patients des Trois-Lacs et du Seeland : distance, accès et soins à domicile."
   ],
@@ -241,7 +294,7 @@
  },
  {
   "tipo": "faq",
-  "h2": "Questions fréquentes",
+  "h2": "Questions fréquentes sur la sciatique et la physio à Ins",
   "faq": [
    {
     "q": "Combien de temps dure une sciatique ou une protrusion discale ?",
@@ -277,7 +330,7 @@
  },
  {
   "tipo": "cta",
-  "h2": "Prenez rendez-vous",
+  "h2": "Sciatique : besoin d'un physio à Ins ou dans les environs ?",
   "s1": "Une douleur qui descend dans la jambe ? Appelez-nous au <strong>076 627 38 38</strong>, écrivez-nous sur <strong>WhatsApp au +41 76 627 38 38</strong> ou <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservez votre séance en ligne</a>. Physio Activa, physiothérapie à Ins et à domicile dans le Seeland.",
   "s2": null
  },

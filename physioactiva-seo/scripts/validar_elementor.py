@@ -121,6 +121,25 @@ for p in PAGINAS:
         z = sim[slug]
         checks["zona: similitud < 40 % y ≥ 4 datos"] = z["ok"]
         notas.append(f"similitud máx. {z['similitud_max']} % (con {z['con']}); datos propios: {', '.join(z['datos_propios'])}")
+    # receta activaglobals: ciudad nunca en un H3; ciudad en ~3 H2; CTA repetidos; FAQ
+    _Z = __import__("construir_pagina").ZON
+    if slug.startswith("physio-a-"):
+        _z = _Z[slug[len("physio-a-"):]]
+        ciudades = [_z["nom_fr"], _z["commune"].split("/")[0]] + [x for x in re.split(r"[()/ ]+", _z["nom_titre"]) if len(x) > 3 and x[0].isupper()]
+    else:
+        ciudades = ["Ins", "Anet"]
+    rx_c = re.compile(r"(?<![\wÀ-ÿ])(" + "|".join(re.escape(c) for c in ciudades) + r")(?![\wÀ-ÿ])")
+    h3_ciudad = [x.get_text(" ", strip=True) for x in soup.find_all("h3") if rx_c.search(x.get_text(" ", strip=True))
+                 and not x.find_parent(class_="scard") and not x.find_parent(class_="member")]
+    checks["receta: ciudad nunca en un H3"] = not h3_ciudad
+    if h3_ciudad: notas.append("H3 con ciudad: " + " | ".join(h3_ciudad[:4]))
+    h2s = [x.get_text(" ", strip=True) for x in soup.find_all("h2")]
+    n_h2c = sum(1 for t in h2s if rx_c.search(t))
+    n_res = sum(1 for a in soup.select("a[href]") if a["href"] in (CLI["reservation"], CLI.get("onedoc_url")))
+    n_tel = sum(1 for a in soup.select("a[href^='tel:']"))
+    n_wa = sum(1 for a in soup.select("a[href*='wa.me']"))
+    checks["receta: CTA repetidos (reserva ≥ 3, teléfono ≥ 2, WhatsApp ≥ 2)"] = n_res >= 3 and n_tel >= 2 and n_wa >= 2
+    notas.append(f"receta: ciudad en {n_h2c} H2 · FAQ {len(faq_vis)} · CTA reserva {n_res} / tel {n_tel} / WhatsApp {n_wa} · palabras visibles {len(vis.split())}")
     n_conf = vis.count("[À CONFIRMER")
     ok = all(checks.values())
     filas.append((slug, ok, checks, notas, lote, url, plantilla, n_conf))

@@ -16,6 +16,35 @@
  },
  {
   "tipo": "grid",
+  "eyebrow": "En bref",
+  "h2": "L'essentiel avant de prendre rendez-vous",
+  "lead": [],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Sur prescription, remboursé LAMal / LAA",
+    "html": "<p>Avec une ordonnance médicale, les séances sont prises en charge par la LAMal, la LAA, l&#x27;AI ou l&#x27;AM.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Au cabinet ou à domicile",
+    "html": "<p>Cabinet à l&#x27;InsGym, Rämismatte 21 à Ins, et séances à domicile dans le Seeland et les Trois-Lacs.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Bilan et plan de traitement",
+    "html": "<p>La première séance commence par un entretien et un bilan ; les objectifs et le plan sont définis avec vous.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
+    "html": "<p>Réservation sur OneDoc, au 076 627 38 38 ou par WhatsApp au +41 76 627 38 38.</p>",
+    "icon": "fa-calendar-check"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
   "eyebrow": "Comprendre",
   "h2": "Qu'est-ce que la coiffe des rotateurs ?",
   "lead": [
@@ -34,66 +63,6 @@
     "icon": "fa-stethoscope"
    }
   ]
- },
- {
-  "tipo": "grid",
-  "eyebrow": "Notre approche",
-  "h2": "Comment la physiothérapie peut aider",
-  "lead": [
-   "L'objectif est de soulager la douleur, puis de restaurer progressivement la mobilité et la force de l'épaule. Selon votre situation, le traitement peut comprendre :"
-  ],
-  "bg": "trust",
-  "cards": [
-   {
-    "h3": null,
-    "html": "<p>la <a href=\"/therapie-manuelle/\" style=\"color:var(--azure);font-weight:600\">thérapie manuelle de l'épaule</a> pour améliorer la mobilité articulaire ;</p>",
-    "icon": "fa-hand-holding-heart"
-   },
-   {
-    "h3": null,
-    "html": "<p>des <strong>exercices de renforcement de la coiffe des rotateurs</strong> et des muscles de l'omoplate, progressifs et adaptés à la douleur ;</p>",
-    "icon": "fa-dumbbell"
-   },
-   {
-    "h3": null,
-    "html": "<p>l'<a href=\"/medical-training-therapy-mtt/\" style=\"color:var(--azure);font-weight:600\">entraînement thérapeutique médical (MTT)</a> pour reprendre force et endurance ;</p>",
-    "icon": "fa-dumbbell"
-   },
-   {
-    "h3": null,
-    "html": "<p>la <a href=\"/physiotherapie-post-operatoire/\" style=\"color:var(--azure);font-weight:600\">rééducation après une opération de la coiffe des rotateurs</a>, selon le protocole du chirurgien ;</p>",
-    "icon": "fa-hospital"
-   },
-   {
-    "h3": null,
-    "html": "<p>en cas de tendinopathie calcifiante, la <a href=\"/physioactiva-ondes-de-choc/\" style=\"color:var(--azure);font-weight:600\">thérapie par ondes de choc</a> peut être proposée selon l'indication ;</p>",
-    "icon": "fa-shield-heart"
-   }
-  ]
- },
- {
-  "tipo": "texte",
-  "eyebrow": "Vos séances",
-  "h2": "Déroulement des séances",
-  "lead": [],
-  "bg": null,
-  "html": "<p>La première séance commence par un entretien (début de la douleur, gestes qui la provoquent, sommeil, travail, sport, examens), puis une évaluation de la mobilité, de la force et des tests de la coiffe des rotateurs. Ensemble, nous définissons des objectifs concrets : lever le bras, porter, dormir sur le côté.</p><p style=\"margin-top:12px\">Le nombre de séances dépend de votre évolution et il est réévalué régulièrement. Durée d'une séance : [À CONFIRMER].</p>"
- },
- {
-  "tipo": "texte",
-  "eyebrow": "À domicile",
-  "h2": "Au cabinet à Ins ou à domicile",
-  "lead": [],
-  "bg": "trust",
-  "html": "<p>Nous vous recevons au cabinet, à l'InsGym, Rämismatte 21, 3232 Ins. Si vous ne pouvez pas conduire, la <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a> est possible à Ins, dans le Seeland et la région des Trois-Lacs : Anet, Sugiez/Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss. Séances en français ou en espagnol.</p>"
- },
- {
-  "tipo": "texte",
-  "eyebrow": "Remboursement",
-  "h2": "Remboursement LAMal / LAA et ordonnance",
-  "lead": [],
-  "bg": null,
-  "html": "<p>La physiothérapie est remboursée par l'assurance de base (LAMal), par l'assurance accident (LAA) après une chute ou un accident, ainsi que par l'AI et l'AM, <strong>avec une prescription médicale</strong>. Demandez une ordonnance de physiothérapie à votre médecin ou à votre orthopédiste.</p>"
  },
  {
   "tipo": "grid",
@@ -127,9 +96,94 @@
   ]
  },
  {
+  "tipo": "grid",
+  "eyebrow": "Notre approche",
+  "h2": "Comment la physiothérapie peut aider",
+  "lead": [
+   "L'objectif est de soulager la douleur, puis de restaurer progressivement la mobilité et la force de l'épaule. Selon votre situation, le traitement peut comprendre :"
+  ],
+  "bg": null,
+  "cards": [
+   {
+    "h3": null,
+    "html": "<p>la <a href=\"/therapie-manuelle/\" style=\"color:var(--azure);font-weight:600\">thérapie manuelle de l'épaule</a> pour améliorer la mobilité articulaire ;</p>",
+    "icon": "fa-hand-holding-heart"
+   },
+   {
+    "h3": null,
+    "html": "<p>des <strong>exercices de renforcement de la coiffe des rotateurs</strong> et des muscles de l'omoplate, progressifs et adaptés à la douleur ;</p>",
+    "icon": "fa-dumbbell"
+   },
+   {
+    "h3": null,
+    "html": "<p>l'<a href=\"/medical-training-therapy-mtt/\" style=\"color:var(--azure);font-weight:600\">entraînement thérapeutique médical (MTT)</a> pour reprendre force et endurance ;</p>",
+    "icon": "fa-dumbbell"
+   },
+   {
+    "h3": null,
+    "html": "<p>la <a href=\"/physiotherapie-post-operatoire/\" style=\"color:var(--azure);font-weight:600\">rééducation après une opération de la coiffe des rotateurs</a>, selon le protocole du chirurgien ;</p>",
+    "icon": "fa-hospital"
+   },
+   {
+    "h3": null,
+    "html": "<p>en cas de tendinopathie calcifiante, la <a href=\"/physioactiva-ondes-de-choc/\" style=\"color:var(--azure);font-weight:600\">thérapie par ondes de choc</a> peut être proposée selon l'indication ;</p>",
+    "icon": "fa-shield-heart"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Vos séances",
+  "h2": "Déroulement des séances",
+  "lead": [
+   "La première séance commence par un entretien (début de la douleur, gestes qui la provoquent, sommeil, travail, sport, examens), puis une évaluation de la mobilité, de la force et des tests de la coiffe des rotateurs. Ensemble, nous définissons des objectifs concrets : lever le bras, porter, dormir sur le côté.",
+   "Le nombre de séances dépend de votre évolution et il est réévalué régulièrement. Durée d'une séance : [À CONFIRMER]."
+  ],
+  "bg": "trust",
+  "cta_mid": true,
+  "cards": [
+   {
+    "h3": "Ordonnance",
+    "html": "<p>Votre médecin prescrit la physiothérapie ; apportez l&#x27;ordonnance et votre carte d&#x27;assuré à la première séance.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Bilan",
+    "html": "<p>Un entretien et un examen permettent de comprendre l&#x27;origine de vos symptômes et de fixer des objectifs avec vous.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Séances au cabinet ou à domicile",
+    "html": "<p>Le traitement se déroule au cabinet d&#x27;Ins ou chez vous, selon votre situation et la prescription.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Autonomie et prévention",
+    "html": "<p>Des exercices à poursuivre seul et des conseils pour le quotidien, afin de limiter les récidives.</p>",
+    "icon": "fa-person-walking"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "À domicile",
+  "h2": "Au cabinet à Ins ou à domicile",
+  "lead": [],
+  "bg": null,
+  "html": "<p>Nous vous recevons au cabinet, à l'InsGym, Rämismatte 21, 3232 Ins. Si vous ne pouvez pas conduire, la <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a> est possible à Ins, dans le Seeland et la région des Trois-Lacs : Anet, Sugiez/Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss. Séances en français ou en espagnol.</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Remboursement",
+  "h2": "Remboursement et coût de la physio à Ins",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>La physiothérapie est remboursée par l'assurance de base (LAMal), par l'assurance accident (LAA) après une chute ou un accident, ainsi que par l'AI et l'AM, <strong>avec une prescription médicale</strong>. Demandez une ordonnance de physiothérapie à votre médecin ou à votre orthopédiste.</p>"
+ },
+ {
   "tipo": "villes",
   "eyebrow": "Près de chez vous",
-  "h2": "Physio au cabinet d'Ins ou à domicile dans la région",
+  "h2": "Physio au cabinet ou à domicile dans votre région",
   "lead": [
    "Informations locales pour les patients des Trois-Lacs et du Seeland : distance, accès et soins à domicile."
   ],
@@ -175,7 +229,7 @@
  },
  {
   "tipo": "faq",
-  "h2": "Questions fréquentes",
+  "h2": "Questions fréquentes sur l'épaule et la physio à Ins",
   "faq": [
    {
     "q": "Quels sont les symptômes d'une lésion de la coiffe des rotateurs ?",
@@ -211,7 +265,7 @@
  },
  {
   "tipo": "cta",
-  "h2": "Prendre rendez-vous pour votre épaule à Ins",
+  "h2": "Douleur à l'épaule : besoin d'un physio à Ins ou dans les environs ?",
   "s1": "Vous avez une ordonnance ou des questions sur votre douleur à l'épaule ? Appelez-nous au <strong>076 627 38 38</strong>, écrivez-nous sur <strong>WhatsApp au +41 76 627 38 38</strong> ou <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservez votre séance en ligne</a>.",
   "s2": null
  },

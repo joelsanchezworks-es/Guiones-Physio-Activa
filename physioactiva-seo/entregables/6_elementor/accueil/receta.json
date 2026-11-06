@@ -2,7 +2,7 @@
  {
   "tipo": "hero",
   "eyebrow": "Physiothérapie à Ins (Anet)",
-  "h1": "Physio à Ins (Anet) : physiothérapie au cabinet et à domicile",
+  "h1": "Physio à Ins (Anet)",
   "sub": "Physio Activa est un cabinet de physio à Ins (Anet), dans le bâtiment de l'InsGym, Rämismatte 21. Nos physiothérapeutes vous reçoivent au cabinet ou se déplacent à domicile dans le Seeland et la région des Trois-Lacs. Sur prescription médicale, les séances sont prises en charge par la LAMal, la LAA, l'AI ou l'AM.",
   "pills": [
    "Au cabinet d'Ins ou à domicile",
@@ -15,6 +15,35 @@
   "cta": "Prendre rendez-vous"
  },
  {
+  "tipo": "grid",
+  "eyebrow": "En bref",
+  "h2": "L'essentiel avant de prendre rendez-vous",
+  "lead": [],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Sur prescription, remboursé LAMal / LAA",
+    "html": "<p>Avec une ordonnance médicale, les séances sont prises en charge par la LAMal, la LAA, l&#x27;AI ou l&#x27;AM.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Au cabinet ou à domicile",
+    "html": "<p>Cabinet à l&#x27;InsGym, Rämismatte 21 à Ins, et séances à domicile dans le Seeland et les Trois-Lacs.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Bilan et plan de traitement",
+    "html": "<p>La première séance commence par un entretien et un bilan ; les objectifs et le plan sont définis avec vous.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
+    "html": "<p>Réservation sur OneDoc, au 076 627 38 38 ou par WhatsApp au +41 76 627 38 38.</p>",
+    "icon": "fa-calendar-check"
+   }
+  ]
+ },
+ {
   "tipo": "texte",
   "eyebrow": "Physio Activa",
   "h2": "Votre physio à Ins, près de chez vous",
@@ -23,12 +52,57 @@
   "html": "<p>Vous cherchez une physio autour de vous, entre le lac de Morat, le lac de Neuchâtel et le lac de Bienne ? Notre cabinet de physiothérapie à Ins est facile d'accès depuis Anet, Chiètres, Morat ou le Vully. Il dispose de salles de traitement et d'un espace d'entraînement, pour que la rééducation ne s'arrête pas à la table de traitement.</p><p style=\"margin-top:12px\">Nous vous recevons en français et en espagnol. Les horaires d'ouverture et les délais de rendez-vous sont indiqués lors de la réservation : [À CONFIRMER].</p>"
  },
  {
-  "tipo": "texte",
-  "eyebrow": "À domicile",
-  "h2": "Physiothérapie à domicile dans le Seeland et les Trois-Lacs",
-  "lead": [],
+  "tipo": "team",
+  "eyebrow": "Notre équipe",
+  "h2": "Notre équipe de physiothérapeutes",
+  "lead": [
+   "Francisco Díaz et Lucile Combes sont physiothérapeutes chez Physio Activa (formation et titres : [À CONFIRMER]). Ils vous accueillent en français et en espagnol, au cabinet comme à domicile, avec une prise en charge personnalisée."
+  ],
   "bg": "trust",
-  "html": "<p>Vous ne pouvez pas vous déplacer, par exemple après une opération, une hospitalisation ou en raison de votre âge ? La <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a> vous permet de suivre votre traitement chez vous. Nous nous déplaçons à Ins et dans les environs : Anet, Sugiez et Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss. Les séances à domicile nécessitent, elles aussi, une prescription médicale qui le précise.</p>"
+  "membres": [
+   {
+    "nom": "Francisco Díaz",
+    "titre": "[À CONFIRMER : titre et formation]",
+    "photo": "https://physioactiva.ch/wp-content/uploads/2025/04/20250401_165707-scaled-1-1024x1024.jpg",
+    "html": "<p>Physiothérapeute chez Physio Activa, au cabinet d'Ins et à domicile.</p>"
+   },
+   {
+    "nom": "Lucile Combes",
+    "titre": "[À CONFIRMER : titre et formation]",
+    "photo": "https://physioactiva.ch/wp-content/uploads/2025/04/20250401_164916-scaled-1-1024x1024.jpg",
+    "html": "<p>Physiothérapeute chez Physio Activa, au cabinet d'Ins et à domicile.</p>"
+   }
+  ]
+ },
+ {
+  "tipo": "gallery",
+  "eyebrow": "Le cabinet",
+  "h2": "Un espace de soins et de mouvement à Ins",
+  "lead": [
+   "Des salles de traitement et un espace d'entraînement au sein de l'InsGym, Rämismatte 21."
+  ],
+  "imgs": [
+   [
+    "https://physioactiva.ch/wp-content/uploads/2025/06/fxbtrjhiol.jpg",
+    "Espace d'entraînement de l'InsGym à Ins"
+   ],
+   [
+    "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00036.jpg",
+    "Salle de traitement du cabinet Physio Activa"
+   ],
+   [
+    "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00031.jpg",
+    "Physiothérapeute mobilisant la jambe d'un patient"
+   ],
+   [
+    "https://physioactiva.ch/wp-content/uploads/2025/06/Centerbild_IMG_9184-scaled-1.jpg",
+    "Salle de fitness médical (MTT)"
+   ],
+   [
+    "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00032.jpg",
+    "Exercice de rééducation avec bande élastique"
+   ]
+  ]
  },
  {
   "tipo": "serv",
@@ -145,7 +219,7 @@
  {
   "tipo": "serv",
   "eyebrow": "Nos zones",
-  "h2": "Votre physio à Ins et dans les Trois-Lacs",
+  "h2": "Nos zones : Seeland et Trois-Lacs",
   "lead": [
    "Un seul cabinet, à Ins (Anet), et des pages locales pour les patients de la région : distance, accès, soins à domicile et questions fréquentes."
   ],
@@ -210,6 +284,39 @@
   ]
  },
  {
+  "tipo": "grid",
+  "eyebrow": "Vos séances",
+  "h2": "Comment se passe une séance de physiothérapie ?",
+  "lead": [],
+  "bg": null,
+  "cards": [
+   {
+    "h3": "Entretien",
+    "html": "<p>La première séance commence par un entretien : vos symptômes, votre histoire médicale, vos activités et ce que vous souhaitez retrouver.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Bilan et objectifs",
+    "html": "<p>Le physiothérapeute réalise ensuite un bilan (mobilité, force, posture, tests fonctionnels) et définit avec vous des objectifs et un plan de traitement.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Traitement et exercices",
+    "html": "<p>Le traitement peut commencer dès cette première séance. La durée d'une séance est de [À CONFIRMER]. Le nombre de séances dépend de votre situation et de la prescription de votre médecin.</p>",
+    "icon": "fa-dumbbell"
+   }
+  ],
+  "cta_mid": true
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "À domicile",
+  "h2": "Physiothérapie à domicile dans le Seeland et les Trois-Lacs",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Vous ne pouvez pas vous déplacer, par exemple après une opération, une hospitalisation ou en raison de votre âge ? La <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a> vous permet de suivre votre traitement chez vous. Nous nous déplaçons à Ins et dans les environs : Anet, Sugiez et Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss. Les séances à domicile nécessitent, elles aussi, une prescription médicale qui le précise.</p>"
+ },
+ {
   "tipo": "texte",
   "eyebrow": "Soins proposés",
   "h2": "Plus qu'un massage : un plan de rééducation",
@@ -219,76 +326,15 @@
  },
  {
   "tipo": "texte",
-  "eyebrow": "Vos séances",
-  "h2": "Comment se passe une séance de physiothérapie ?",
-  "lead": [],
-  "bg": "trust",
-  "html": "<p>La première séance commence par un entretien : vos symptômes, votre histoire médicale, vos activités et ce que vous souhaitez retrouver. Le physiothérapeute réalise ensuite un bilan (mobilité, force, posture, tests fonctionnels) et définit avec vous des objectifs et un plan de traitement. Le traitement peut commencer dès cette première séance. La durée d'une séance est de [À CONFIRMER]. Le nombre de séances dépend de votre situation et de la prescription de votre médecin.</p>"
- },
- {
-  "tipo": "texte",
   "eyebrow": "Remboursement",
   "h2": "Remboursement : LAMal, LAA, AI et AM",
   "lead": [],
-  "bg": null,
+  "bg": "trust",
   "html": "<p>Avec une ordonnance médicale, la physiothérapie est prise en charge par l'assurance obligatoire des soins (LAMal), l'assurance accidents (LAA), l'assurance invalidité (AI) ou l'assurance militaire (AM). Dans le cadre de la LAMal, la franchise et la quote-part de votre contrat s'appliquent. Pensez à apporter votre ordonnance et votre carte d'assuré à la première séance.</p>"
  },
  {
-  "tipo": "team",
-  "eyebrow": "Notre équipe",
-  "h2": "Notre équipe de physiothérapeutes",
-  "lead": [
-   "Francisco Díaz et Lucile Combes sont physiothérapeutes chez Physio Activa (formation et titres : [À CONFIRMER]). Ils vous accueillent en français et en espagnol, au cabinet comme à domicile, avec une prise en charge personnalisée."
-  ],
-  "bg": "trust",
-  "membres": [
-   {
-    "nom": "Francisco Díaz",
-    "titre": "[À CONFIRMER : titre et formation]",
-    "photo": "https://physioactiva.ch/wp-content/uploads/2025/04/20250401_165707-scaled-1-1024x1024.jpg",
-    "html": "<p>Physiothérapeute chez Physio Activa, au cabinet d'Ins et à domicile.</p>"
-   },
-   {
-    "nom": "Lucile Combes",
-    "titre": "[À CONFIRMER : titre et formation]",
-    "photo": "https://physioactiva.ch/wp-content/uploads/2025/04/20250401_164916-scaled-1-1024x1024.jpg",
-    "html": "<p>Physiothérapeute chez Physio Activa, au cabinet d'Ins et à domicile.</p>"
-   }
-  ]
- },
- {
-  "tipo": "gallery",
-  "eyebrow": "Le cabinet",
-  "h2": "Un espace de soins et de mouvement à Ins",
-  "lead": [
-   "Des salles de traitement et un espace d'entraînement au sein de l'InsGym, Rämismatte 21."
-  ],
-  "imgs": [
-   [
-    "https://physioactiva.ch/wp-content/uploads/2025/06/fxbtrjhiol.jpg",
-    "Espace d'entraînement de l'InsGym à Ins"
-   ],
-   [
-    "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00036.jpg",
-    "Salle de traitement du cabinet Physio Activa"
-   ],
-   [
-    "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00031.jpg",
-    "Physiothérapeute mobilisant la jambe d'un patient"
-   ],
-   [
-    "https://physioactiva.ch/wp-content/uploads/2025/06/Centerbild_IMG_9184-scaled-1.jpg",
-    "Salle de fitness médical (MTT)"
-   ],
-   [
-    "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00032.jpg",
-    "Exercice de rééducation avec bande élastique"
-   ]
-  ]
- },
- {
   "tipo": "faq",
-  "h2": "Questions fréquentes",
+  "h2": "Questions fréquentes sur la physio à Ins",
   "faq": [
    {
     "q": "Faut-il une ordonnance pour aller chez le physio ?",
@@ -314,12 +360,37 @@
     "q": "Comment prendre rendez-vous ?",
     "a_html": "Vous pouvez réserver directement en ligne, nous appeler au 076 627 38 38 ou nous écrire sur WhatsApp au +41 76 627 38 38.",
     "a_text": "Vous pouvez réserver directement en ligne, nous appeler au 076 627 38 38 ou nous écrire sur WhatsApp au +41 76 627 38 38."
+   },
+   {
+    "q": "Est-ce que la physiothérapie est remboursée en Suisse ?",
+    "a_html": "Oui, lorsqu'elle est prescrite par un médecin. L'assurance de base (LAMal) prend en charge les séances prescrites, sous réserve de votre franchise et de votre quote-part ; après un accident, c'est l'assurance accidents (LAA) qui intervient.",
+    "a_text": "Oui, lorsqu'elle est prescrite par un médecin. L'assurance de base (LAMal) prend en charge les séances prescrites, sous réserve de votre franchise et de votre quote-part ; après un accident, c'est l'assurance accidents (LAA) qui intervient."
+   },
+   {
+    "q": "Quand faire de la physiothérapie ?",
+    "a_html": "Lorsqu'une douleur ou une raideur dure, limite vos gestes du quotidien ou revient régulièrement, après un accident, une opération ou une hospitalisation, et chaque fois que votre médecin la prescrit. En cas de signes inhabituels (fièvre, perte de force, douleur très intense), consultez d'abord un médecin.",
+    "a_text": "Lorsqu'une douleur ou une raideur dure, limite vos gestes du quotidien ou revient régulièrement, après un accident, une opération ou une hospitalisation, et chaque fois que votre médecin la prescrit. En cas de signes inhabituels (fièvre, perte de force, douleur très intense), consultez d'abord un médecin."
+   },
+   {
+    "q": "Quel est le rôle d'un physiothérapeute ?",
+    "a_html": "Le physiothérapeute évalue vos mouvements et vos capacités, puis traite par le mouvement : exercices, techniques manuelles et conseils pour le quotidien. Le diagnostic médical reste du ressort du médecin, avec qui il travaille sur prescription.",
+    "a_text": "Le physiothérapeute évalue vos mouvements et vos capacités, puis traite par le mouvement : exercices, techniques manuelles et conseils pour le quotidien. Le diagnostic médical reste du ressort du médecin, avec qui il travaille sur prescription."
+   },
+   {
+    "q": "Comment choisir son physiothérapeute ?",
+    "a_html": "Vérifiez qu'il est reconnu par les assurances pour que les séances soient remboursées, qu'il est accessible depuis chez vous (ou qu'il se déplace à domicile) et que vous pouvez échanger dans votre langue. Chez Physio Activa, nous vous recevons en français et en espagnol.",
+    "a_text": "Vérifiez qu'il est reconnu par les assurances pour que les séances soient remboursées, qu'il est accessible depuis chez vous (ou qu'il se déplace à domicile) et que vous pouvez échanger dans votre langue. Chez Physio Activa, nous vous recevons en français et en espagnol."
+   },
+   {
+    "q": "Est-ce normal d'avoir plus mal après une séance ?",
+    "a_html": "Une sensation de courbature ou de fatigue musculaire passagère peut apparaître après des exercices nouveaux. Si la douleur est forte, inhabituelle ou dure, signalez-le à votre physiothérapeute lors de la séance suivante, ou à votre médecin.",
+    "a_text": "Une sensation de courbature ou de fatigue musculaire passagère peut apparaître après des exercices nouveaux. Si la douleur est forte, inhabituelle ou dure, signalez-le à votre physiothérapeute lors de la séance suivante, ou à votre médecin."
    }
   ]
  },
  {
   "tipo": "cta",
-  "h2": "Vous avez mal et cherchez un physio à Ins ?",
+  "h2": "Besoin d'un physio à Ins ou dans les environs ?",
   "s1": "Contactez-nous pour une séance au cabinet à Ins ou à domicile dans le Seeland et les Trois-Lacs.",
   "s2": null
  },

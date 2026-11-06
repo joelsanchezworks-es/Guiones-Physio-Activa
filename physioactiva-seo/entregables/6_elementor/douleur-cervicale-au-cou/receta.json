@@ -16,6 +16,35 @@
  },
  {
   "tipo": "grid",
+  "eyebrow": "En bref",
+  "h2": "L'essentiel avant de prendre rendez-vous",
+  "lead": [],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Sur prescription, remboursé LAMal / LAA",
+    "html": "<p>Avec une ordonnance médicale, les séances sont prises en charge par la LAMal, la LAA, l&#x27;AI ou l&#x27;AM.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Au cabinet ou à domicile",
+    "html": "<p>Cabinet à l&#x27;InsGym, Rämismatte 21 à Ins, et séances à domicile dans le Seeland et les Trois-Lacs.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Bilan et plan de traitement",
+    "html": "<p>La première séance commence par un entretien et un bilan ; les objectifs et le plan sont définis avec vous.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
+    "html": "<p>Réservation sur OneDoc, au 076 627 38 38 ou par WhatsApp au +41 76 627 38 38.</p>",
+    "icon": "fa-calendar-check"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
   "eyebrow": "Comprendre",
   "h2": "Qu'est-ce que la cervicalgie ?",
   "lead": [
@@ -62,71 +91,6 @@
  },
  {
   "tipo": "grid",
-  "eyebrow": "Notre approche",
-  "h2": "Comment la physiothérapie peut aider en cas de cervicalgie",
-  "lead": [
-   "L'objectif est de diminuer la douleur, de retrouver la mobilité du cou et de vous donner des moyens d'agir au quotidien. Selon votre situation, le traitement peut associer :"
-  ],
-  "bg": "trust",
-  "cards": [
-   {
-    "h3": null,
-    "html": "<p>la <a href=\"/therapie-manuelle/\" style=\"color:var(--azure);font-weight:600\">thérapie manuelle pour le cou et la nuque</a>, pour mobiliser les articulations et relâcher les tissus ;</p>",
-    "icon": "fa-hand-holding-heart"
-   },
-   {
-    "h3": null,
-    "html": "<p>le <a href=\"/massage-therapeutique/\" style=\"color:var(--azure);font-weight:600\">massage thérapeutique</a> des muscles du cou et des épaules ;</p>",
-    "icon": "fa-hand-holding-heart"
-   },
-   {
-    "h3": null,
-    "html": "<p>la <a href=\"/physioactiva-puncture-seche/\" style=\"color:var(--azure);font-weight:600\">puncture sèche (dry needling)</a> sur certains points de tension, si elle est indiquée ;</p>",
-    "icon": "fa-location-dot"
-   },
-   {
-    "h3": null,
-    "html": "<p>des <strong>exercices</strong> de mobilité, de renforcement des muscles profonds du cou et de posture, à refaire chez vous ;</p>",
-    "icon": "fa-house-medical"
-   },
-   {
-    "h3": null,
-    "html": "<p>des conseils pour le poste de travail, le sommeil et le sport.</p>",
-    "icon": "fa-person-running"
-   },
-   {
-    "h3": null,
-    "html": "<p>Si la douleur s'associe à des douleurs de la mâchoire, une prise en charge de l'<a href=\"/physiotemporo-mandibulaire-atm/\" style=\"color:var(--azure);font-weight:600\">articulation temporo-mandibulaire (ATM)</a> peut compléter le traitement.</p>",
-    "icon": "fa-circle-info"
-   }
-  ]
- },
- {
-  "tipo": "texte",
-  "eyebrow": "Vos séances",
-  "h2": "Déroulement des séances",
-  "lead": [],
-  "bg": null,
-  "html": "<p>La première séance commence par un entretien (début des douleurs, travail, sommeil, examens éventuels), puis une évaluation de la mobilité, de la force et de la posture. Ensemble, nous fixons des objectifs concrets, comme tourner la tête en conduisant ou travailler à l'écran sans douleur.</p><p style=\"margin-top:12px\">Le nombre de séances dépend de votre évolution et il est réévalué régulièrement. Durée d'une séance : [À CONFIRMER].</p>"
- },
- {
-  "tipo": "texte",
-  "eyebrow": "À domicile",
-  "h2": "Au cabinet à Ins ou à domicile",
-  "lead": [],
-  "bg": "trust",
-  "html": "<p>Nous vous recevons au cabinet, à l'InsGym, Rämismatte 21, 3232 Ins. Si vous ne pouvez pas vous déplacer, nous proposons la <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a> à Ins, dans le Seeland et la région des Trois-Lacs : Anet, Sugiez/Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss. Séances en français ou en espagnol.</p>"
- },
- {
-  "tipo": "texte",
-  "eyebrow": "Remboursement",
-  "h2": "Remboursement LAMal / LAA et ordonnance",
-  "lead": [],
-  "bg": null,
-  "html": "<p>La physiothérapie est remboursée par l'assurance de base (LAMal), par l'assurance accident (LAA) après un accident (par exemple un coup du lapin), ainsi que par l'AI et l'AM, <strong>avec une prescription médicale</strong>. Demandez une ordonnance de physiothérapie à votre médecin, puis prenez rendez-vous.</p>"
- },
- {
-  "tipo": "grid",
   "eyebrow": "Signaux d'alarme",
   "h2": "Quand consulter un médecin en urgence ?",
   "lead": [
@@ -162,9 +126,99 @@
   ]
  },
  {
+  "tipo": "grid",
+  "eyebrow": "Notre approche",
+  "h2": "Comment la physiothérapie peut aider en cas de cervicalgie",
+  "lead": [
+   "L'objectif est de diminuer la douleur, de retrouver la mobilité du cou et de vous donner des moyens d'agir au quotidien. Selon votre situation, le traitement peut associer :"
+  ],
+  "bg": null,
+  "cards": [
+   {
+    "h3": null,
+    "html": "<p>la <a href=\"/therapie-manuelle/\" style=\"color:var(--azure);font-weight:600\">thérapie manuelle pour le cou et la nuque</a>, pour mobiliser les articulations et relâcher les tissus ;</p>",
+    "icon": "fa-hand-holding-heart"
+   },
+   {
+    "h3": null,
+    "html": "<p>le <a href=\"/massage-therapeutique/\" style=\"color:var(--azure);font-weight:600\">massage thérapeutique</a> des muscles du cou et des épaules ;</p>",
+    "icon": "fa-hand-holding-heart"
+   },
+   {
+    "h3": null,
+    "html": "<p>la <a href=\"/physioactiva-puncture-seche/\" style=\"color:var(--azure);font-weight:600\">puncture sèche (dry needling)</a> sur certains points de tension, si elle est indiquée ;</p>",
+    "icon": "fa-location-dot"
+   },
+   {
+    "h3": null,
+    "html": "<p>des <strong>exercices</strong> de mobilité, de renforcement des muscles profonds du cou et de posture, à refaire chez vous ;</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": null,
+    "html": "<p>des conseils pour le poste de travail, le sommeil et le sport.</p>",
+    "icon": "fa-person-running"
+   },
+   {
+    "h3": null,
+    "html": "<p>Si la douleur s'associe à des douleurs de la mâchoire, une prise en charge de l'<a href=\"/physiotemporo-mandibulaire-atm/\" style=\"color:var(--azure);font-weight:600\">articulation temporo-mandibulaire (ATM)</a> peut compléter le traitement.</p>",
+    "icon": "fa-circle-info"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Vos séances",
+  "h2": "Déroulement des séances",
+  "lead": [
+   "La première séance commence par un entretien (début des douleurs, travail, sommeil, examens éventuels), puis une évaluation de la mobilité, de la force et de la posture. Ensemble, nous fixons des objectifs concrets, comme tourner la tête en conduisant ou travailler à l'écran sans douleur.",
+   "Le nombre de séances dépend de votre évolution et il est réévalué régulièrement. Durée d'une séance : [À CONFIRMER]."
+  ],
+  "bg": "trust",
+  "cta_mid": true,
+  "cards": [
+   {
+    "h3": "Ordonnance",
+    "html": "<p>Votre médecin prescrit la physiothérapie ; apportez l&#x27;ordonnance et votre carte d&#x27;assuré à la première séance.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Bilan",
+    "html": "<p>Un entretien et un examen permettent de comprendre l&#x27;origine de vos symptômes et de fixer des objectifs avec vous.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Séances au cabinet ou à domicile",
+    "html": "<p>Le traitement se déroule au cabinet d&#x27;Ins ou chez vous, selon votre situation et la prescription.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Autonomie et prévention",
+    "html": "<p>Des exercices à poursuivre seul et des conseils pour le quotidien, afin de limiter les récidives.</p>",
+    "icon": "fa-person-walking"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "À domicile",
+  "h2": "Au cabinet à Ins ou à domicile",
+  "lead": [],
+  "bg": null,
+  "html": "<p>Nous vous recevons au cabinet, à l'InsGym, Rämismatte 21, 3232 Ins. Si vous ne pouvez pas vous déplacer, nous proposons la <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a> à Ins, dans le Seeland et la région des Trois-Lacs : Anet, Sugiez/Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss. Séances en français ou en espagnol.</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Remboursement",
+  "h2": "Remboursement et coût de la physio à Ins",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>La physiothérapie est remboursée par l'assurance de base (LAMal), par l'assurance accident (LAA) après un accident (par exemple un coup du lapin), ainsi que par l'AI et l'AM, <strong>avec une prescription médicale</strong>. Demandez une ordonnance de physiothérapie à votre médecin, puis prenez rendez-vous.</p>"
+ },
+ {
   "tipo": "villes",
   "eyebrow": "Près de chez vous",
-  "h2": "Physio au cabinet d'Ins ou à domicile dans la région",
+  "h2": "Physio au cabinet ou à domicile dans votre région",
   "lead": [
    "Informations locales pour les patients des Trois-Lacs et du Seeland : distance, accès et soins à domicile."
   ],
@@ -210,7 +264,7 @@
  },
  {
   "tipo": "faq",
-  "h2": "Questions fréquentes",
+  "h2": "Questions fréquentes sur la douleur cervicale et la physio à Ins",
   "faq": [
    {
     "q": "Comment soulager un mal de cervicales ?",
@@ -246,7 +300,7 @@
  },
  {
   "tipo": "cta",
-  "h2": "Prendre rendez-vous pour une cervicalgie à Ins",
+  "h2": "Douleur à la nuque : besoin d'un physio à Ins ou dans les environs ?",
   "s1": "Vous avez une ordonnance ou des questions sur votre douleur cervicale ? Appelez-nous au <strong>076 627 38 38</strong>, écrivez-nous sur <strong>WhatsApp au +41 76 627 38 38</strong> ou <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservez votre séance en ligne</a>.",
   "s2": null
  },

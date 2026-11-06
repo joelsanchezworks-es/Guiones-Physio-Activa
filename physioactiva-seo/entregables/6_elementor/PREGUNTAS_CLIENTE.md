@@ -16,7 +16,7 @@ Todo lo marcado como [À CONFIRMER] en las páginas, agrupado por tema. Cuando s
 - `/` — [À CONFIRMER] · «Les horaires d'ouverture et les délais de rendez-vous sont indiqués lors de la réservation : [À CONFIRMER].»
 - `/a-propos-de-nous/` — [À CONFIRMER : lun–ven 8h30–19h30 ou jusqu'à 20h] · «Horaires : [À CONFIRMER : lun–ven 8h30–19h30 ou jusqu'à 20h].»
 - `/physio-a-sugiez/` — [À CONFIRMER : arrêt et horaires à vérifier pour Sugiez] · «Notre site indique aussi un accès en train par la ligne Fribourg–Morat–Ins [À CONFIRMER : arrêt et horaires à vérifier pour Sugiez].»
-- `/physio-a-lyss/` — [À CONFIRMER] · «Délai pour un premier rendez-vous : [À CONFIRMER].»
+- `/physio-a-lyss/` — [À CONFIRMER : délai du premier rendez-vous] · «Nous reprenons le programme selon les indications de votre chirurgien [À CONFIRMER : délai du premier rendez-vous].»
 - `/physio-a-bienne/` — [À CONFIRMER : localités desservies, jours de passage et délai du premier rendez-vous] · «Autour de la ville, Nidau, Brügg, Port, Ipsach et Evilard sont des communes voisines que nous pourrions inclure dans nos tournées [À CONFIRMER : localités desservies, jours de passage et délai du premier rendez-vous].»
 - `/physio-a-bienne/` — [À CONFIRMER : délai du premier rendez-vous] · «Le délai pour la première séance dépend de nos disponibilités [À CONFIRMER : délai du premier rendez-vous].»
 - `/physio-a-fribourg/` — [À CONFIRMER : délai du premier rendez-vous] · «Le délai pour la première séance est à vérifier avec nous [À CONFIRMER : délai du premier rendez-vous].»
@@ -42,8 +42,9 @@ Todo lo marcado como [À CONFIRMER] en las páginas, agrupado por tema. Cuando s
 - `/physio-a-avenches/` — [À CONFIRMER : déplacements à Avenches] · «Selon votre situation, les séances de physio ont lieu au cabinet ou à votre domicile [À CONFIRMER : déplacements à Avenches].»
 - `/physio-a-avenches/` — [À CONFIRMER : villages desservis autour d'Avenches et jours de passage] · «Salavaux, au bord du lac de Morat, est aussi proche du Vully ; pour les autres villages, la possibilité d'un passage à domicile reste à confirmer [À CONFIRMER : villages desservis autour d'Avenches et jours de passage].»
 - `/physio-a-avenches/` — [À CONFIRMER : Faoug, Domdidier, Donatyre, Oleyres] · «Ces villages entourent Avenches, mais nous devons encore confirmer s'ils font partie de notre zone à domicile [À CONFIRMER : Faoug, Domdidier, Donatyre, Oleyres].»
-- `/physio-a-lyss/` — [À CONFIRMER : domicile à Lyss] · «Vous habitez Lyss et vous cherchez un physiothérapeute qui vous suive en français ? Notre cabinet se trouve à Ins, à environ 17 km en ligne droite, et des visites à domicile à Lyss sont possibles [À CONFIRMER : domicile à Lyss].»
-- `/physio-a-lyss/` — [À CONFIRMER : localités desservies et jours de passage] · «Au-delà de la commune elle-même, nous pouvons envisager des déplacements vers Aarberg, Kappelen, Worben, Busswil ou Grossaffoltern [À CONFIRMER : localités desservies et jours de passage].»
+- `/physio-a-lyss/` — [À CONFIRMER : domicile à Lyss] · «Vous habitez Lyss ou vous y travaillez, et vous cherchez un physiothérapeute qui vous suive en français ? Physio Activa vous reçoit à Ins, à environ 17 km en ligne droite, et des visites à domicile à Lyss sont envisageables [À CONFIRMER : domicile à Lyss].»
+- `/physio-a-lyss/` — [À CONFIRMER : localités desservies et jours de passage] · «Aarberg, Kappelen, Worben, Busswil et Grossaffoltern font partie des communes que nous pouvons étudier [À CONFIRMER : localités desservies et jours de passage].»
+- `/physio-a-lyss/` — [À CONFIRMER : domicile à Lyss] · «Le lieu dépend de votre mobilité : InsGym ou votre salon [À CONFIRMER : domicile à Lyss].»
 - `/physio-a-lyss/` — [À CONFIRMER : localités desservies] · «Ces localités voisines de Lyss font partie des zones que nous pouvons étudier pour des séances à domicile [À CONFIRMER : localités desservies].»
 - `/physio-a-bienne/` — [À CONFIRMER : domicile à Bienne] · «Selon votre situation, une prise en charge à domicile peut aussi être organisée [À CONFIRMER : domicile à Bienne].»
 - `/physio-a-bienne/` — [À CONFIRMER : drainage à domicile à Bienne] · «Sur prescription médicale, il fait partie d'un traitement de physiothérapie, au cabinet d'Ins ou à votre domicile biennois [À CONFIRMER : drainage à domicile à Bienne].»
@@ -101,6 +102,8 @@ Todo lo marcado como [À CONFIRMER] en las páginas, agrupado por tema. Cuando s
 
 - `/` — [À CONFIRMER] · «La durée d'une séance est de [À CONFIRMER].»
 - `/` — [À CONFIRMER] · «Pour toute question sur le tarif appliqué : [À CONFIRMER].»
+- `/physio-a-lyss/` — [À CONFIRMER : tarif appliqué] · «Les séances sont facturées selon la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué].»
+- `/physio-a-lyss/` — [À CONFIRMER : tarif appliqué] · «Le prix suit la structure tarifaire fixée au niveau national entre physiothérapeutes et assureurs [À CONFIRMER : tarif appliqué].»
 - `/physio-a-payerne/` — [À CONFIRMER : montant indicatif par séance] · «En LAMal, seules la franchise et la quote-part restent à votre charge [À CONFIRMER : montant indicatif par séance].»
 - `/physio-a-payerne/` — [À CONFIRMER : tarif en vigueur et date de changement] · «Pour connaître le tarif appliqué actuellement, contactez-nous [À CONFIRMER : tarif en vigueur et date de changement].»
 - `/mal-de-dos-lombaire/` — [À CONFIRMER] · «Durée d'une séance : [À CONFIRMER].»
@@ -116,4 +119,5 @@ Todo lo marcado como [À CONFIRMER] en las páginas, agrupado por tema. Cuando s
 - **Destino de /online-termin-buchen/ (H1 en alemán): ¿301 a /de/ o a /reservation-en-ligne/?**
 - **Fotos: ver pendientes_imagenes.md.**
 - `/physio-a-neuchatel/` — [À CONFIRMER : fréquence et arrêt] · «Notre site mentionne la ligne de train Neuchâtel–Fribourg–Morat–Ins pour venir sans voiture [À CONFIRMER : fréquence et arrêt].»
+- `/physio-a-lyss/` — [À CONFIRMER : tournées à Lyss] · «Vous venez au cabinet si vous êtes mobile, ou nous passons chez vous quand le trajet devient un obstacle [À CONFIRMER : tournées à Lyss].»
 - `/physio-a-lausanne/` — [À CONFIRMER : conditions de remboursement du massage sur ordonnance] · «Il a lieu au cabinet d'Ins [À CONFIRMER : conditions de remboursement du massage sur ordonnance].»

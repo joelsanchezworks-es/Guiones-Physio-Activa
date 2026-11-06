@@ -3,7 +3,7 @@
   "tipo": "hero",
   "eyebrow": "Physio · Lyss",
   "h1": "Physio à Lyss : au cabinet d'Ins ou à domicile",
-  "sub": "Vous habitez Lyss et vous cherchez un physiothérapeute qui vous suive en français ? Notre cabinet se trouve à Ins, à environ 17 km en ligne droite, et des visites à domicile à Lyss sont possibles [À CONFIRMER : domicile à Lyss]. Avec une ordonnance médicale, les séances sont remboursées ; la réservation se fait en ligne ou par téléphone.",
+  "sub": "Vous habitez Lyss ou vous y travaillez, et vous cherchez un physiothérapeute qui vous suive en français ? Physio Activa vous reçoit à Ins, à environ 17 km en ligne droite, et des visites à domicile à Lyss sont envisageables [À CONFIRMER : domicile à Lyss]. Avec une ordonnance médicale, les séances sont remboursées ; la réservation se fait en ligne, par téléphone ou sur WhatsApp.",
   "pills": [
    "Cabinet à Ins, à 17,0 km",
    "Sur prescription médicale",
@@ -15,62 +15,132 @@
   "cta": "Prendre rendez-vous"
  },
  {
-  "tipo": "texte",
-  "eyebrow": "À domicile",
-  "h2": "Physiothérapie à domicile à Lyss et environs",
+  "tipo": "grid",
+  "eyebrow": "Physio Activa",
+  "h2": "L'essentiel en bref",
   "lead": [],
   "bg": null,
-  "html": "<p>Lyss fait partie de l'arrondissement administratif du Seeland, comme Ins. Au-delà de la commune elle-même, nous pouvons envisager des déplacements vers Aarberg, Kappelen, Worben, Busswil ou Grossaffoltern [À CONFIRMER : localités desservies et jours de passage]. Se soigner chez soi a du sens lorsque la voiture ou le train ne sont pas une option : genou bloqué après une entorse, dos qui ne supporte pas un trajet assis, personne âgée qui préfère rester dans son environnement. Le fonctionnement est détaillé sur notre page <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>. Délai pour un premier rendez-vous : [À CONFIRMER].</p>"
+  "cards": [
+   {
+    "h3": "Sur prescription, remboursé LAMal / LAA",
+    "html": "<p>Votre médecin de famille ou le spécialiste qui vous suit à Lyss rédige l'ordonnance, même en allemand : elle suffit pour que l'assurance de base ou l'assurance accidents prenne en charge le traitement.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Au cabinet d'Ins ou à domicile",
+    "html": "<p>Ins et Lyss font partie du même arrondissement du Seeland. Vous venez au cabinet si vous êtes mobile, ou nous passons chez vous quand le trajet devient un obstacle [À CONFIRMER : tournées à Lyss].</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Bilan et plan de traitement",
+    "html": "<p>Le premier rendez-vous sert à comprendre l'origine de la gêne, à tester vos mouvements et à fixer avec vous des objectifs concrets, comme remonter les escaliers sans appréhension ou reprendre le travail.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
+    "html": "<p>Choisissez un créneau dans l'agenda en ligne. Si vous préférez expliquer votre cas de vive voix, nous répondons en français au 076 627 38 38.</p>",
+    "icon": "fa-calendar-check"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Signaux d'alarme",
+  "h2": "Quand consulter un physio, et quand voir d'abord un médecin ?",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Que vous passiez vos journées debout à l'atelier, au volant ou devant un écran, les motifs qui amènent le plus souvent chez un physiothérapeute sont mécaniques : lumbago après avoir soulevé une charge, épaule qui s'use à force de gestes répétés, genou qui proteste dans les escaliers, nuque raide en fin de semaine. Plus on agit tôt, plus il est facile d'éviter que la douleur s'installe.</p><p style=\"margin-top:12px\">Certains signes demandent toutefois un avis médical avant de commencer : douleur apparue après une chute ou un choc violent, jambe qui perd sa force, engourdissement dans la région du bassin ou difficulté à uriner, fièvre accompagnant le mal de dos, douleur nocturne qui ne se calme dans aucune position. Face à une douleur dans la poitrine, un essoufflement brutal ou une paralysie soudaine, composez le 144. Une fois ces causes écartées, votre médecin peut vous prescrire de la physiothérapie.</p>"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Notre approche",
+  "h2": "Quelle prise en charge selon votre situation ?",
+  "lead": [],
+  "bg": null,
+  "cards": [
+   {
+    "h3": "Au cabinet d'Ins",
+    "html": "<p>Nous sommes installés dans les locaux d'InsGym. Cet environnement nous laisse de la place pour alterner thérapie manuelle et exercices actifs, avec du matériel adapté à chaque étape de la rééducation.</p>",
+    "icon": "fa-location-dot"
+   },
+   {
+    "h3": "À domicile et localités voisines",
+    "html": "<p>Une séance chez soi a du sens quand la voiture ou le train ne sont pas une option : entorse qui empêche de marcher, dos qui ne tolère pas un trajet assis, personne âgée qui se sent plus en sécurité dans son environnement. Aarberg, Kappelen, Worben, Busswil et Grossaffoltern font partie des communes que nous pouvons étudier [À CONFIRMER : localités desservies et jours de passage]. Le fonctionnement est expliqué sur la page <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Après une opération ou une hospitalisation",
+    "html": "<p>Si vous rentrez du Spital Aarberg après une intervention, la rééducation peut continuer chez nous avec l'ordonnance de sortie. Nous suivons les consignes du chirurgien et adaptons la charge semaine après semaine.</p>",
+    "icon": "fa-hospital"
+   },
+   {
+    "h3": "Douleurs du dos, du genou, de l'épaule",
+    "html": "<p>– <a href=\"/mal-de-dos-lombaire/\" style=\"color:var(--azure);font-weight:600\">Mal de dos et lombalgie</a> : pour les journées passées debout comme pour celles assises au bureau.</p><p style=\"margin-top:12px\">– <a href=\"/sciatique-hernie-discale/\" style=\"color:var(--azure);font-weight:600\">Sciatique et hernie discale</a> : d'abord calmer la douleur qui descend dans la jambe, puis retrouver de la mobilité.</p><p style=\"margin-top:12px\">– <a href=\"/douleur-du-genou-lesions-de-la-cheville/\" style=\"color:var(--azure);font-weight:600\">Genou</a> : entorse, douleur en montée ou reprise après une opération.</p><p style=\"margin-top:12px\">– <a href=\"/lesions-de-lepaule/\" style=\"color:var(--azure);font-weight:600\">Épaule</a> : raideur, douleur la nuit, bras difficile à lever.</p><p style=\"margin-top:12px\">D'autres motifs de consultation figurent sur <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">toutes les pathologies</a>.</p>",
+    "icon": "fa-bolt"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Notre approche",
+  "h2": "Comment se déroule votre prise en charge ?",
+  "lead": [],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Ordonnance",
+    "html": "<p>Demandez à votre médecin une prescription de physiothérapie. Une ordonnance rédigée en allemand par un cabinet de Lyss est tout à fait valable chez nous.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Bilan",
+    "html": "<p>Nous écoutons votre histoire, observons votre posture et mesurons vos amplitudes. Vous repartez en sachant ce qui se passe et ce que nous allons travailler.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Séances au cabinet ou à domicile",
+    "html": "<p>Chaque séance combine traitement manuel et exercices ciblés. Le lieu dépend de votre mobilité : InsGym ou votre salon [À CONFIRMER : domicile à Lyss].</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Autonomie et prévention",
+    "html": "<p>Vous recevez un programme simple à refaire chez vous ou au travail, pour garder les progrès une fois le traitement terminé.</p>",
+    "icon": "fa-person-walking"
+   }
+  ],
+  "cta_mid": true
  },
  {
   "tipo": "texte",
   "eyebrow": "Accès",
   "h2": "Venir au cabinet d'Ins depuis Lyss",
   "lead": [],
-  "bg": "trust",
-  "html": "<p>Depuis Lyss, comptez environ 17 km en ligne droite jusqu'à Ins. Le cabinet est installé dans les locaux d'InsGym, ce qui nous donne de l'espace et du matériel pour les exercices actifs. Plan et accès : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Lyss est une commune germanophone. Pour beaucoup de patients francophones qui y vivent ou y travaillent, pouvoir expliquer sa douleur et comprendre ses exercices dans sa langue change la qualité de la séance : chez nous, tout se passe en français (ou en espagnol si vous le souhaitez). Si vous sortez d'une hospitalisation ou d'une opération au Spital Aarberg, nous pouvons prendre le relais de la rééducation sur la base de votre ordonnance.</p>"
+  "bg": null,
+  "html": "<p>Depuis Lyss, comptez environ 17 km en ligne droite jusqu'à Ins. L'adresse, le plan et l'accès sont détaillés sur <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Lyss est une commune germanophone. Pour les patients francophones qui y vivent, pouvoir décrire sa douleur et comprendre ses exercices dans sa langue change la qualité du suivi : chez nous, tout se fait en français, et l'espagnol est aussi possible.</p>"
  },
  {
   "tipo": "grid",
-  "eyebrow": "Ce que nous traitons",
-  "h2": "Ce que nous traitons",
-  "lead": [],
-  "bg": null,
-  "cards": [
-   {
-    "h3": null,
-    "html": "<p><a href=\"/mal-de-dos-lombaire/\" style=\"color:var(--azure);font-weight:600\">Mal de dos et lombalgie</a> : pour les journées passées debout à l'atelier comme pour celles assises au bureau.</p>",
-    "icon": "fa-bone"
-   },
-   {
-    "h3": null,
-    "html": "<p><a href=\"/sciatique-hernie-discale/\" style=\"color:var(--azure);font-weight:600\">Sciatique et hernie discale</a> : quand la douleur descend dans la jambe, nous travaillons d'abord à la calmer, puis à retrouver de la mobilité.</p>",
-    "icon": "fa-bolt"
-   },
-   {
-    "h3": null,
-    "html": "<p><a href=\"/douleur-du-genou-lesions-de-la-cheville/\" style=\"color:var(--azure);font-weight:600\">Genou</a> : entorse, douleur au genou en montant les escaliers ou reprise après une opération.</p>",
-    "icon": "fa-hospital"
-   },
-   {
-    "h3": null,
-    "html": "<p><a href=\"/lesions-de-lepaule/\" style=\"color:var(--azure);font-weight:600\">Épaule</a> : raideur, douleur la nuit ou mouvement limité pour lever le bras.</p>",
-    "icon": "fa-bolt"
-   },
-   {
-    "h3": null,
-    "html": "<p>D'autres motifs de consultation figurent sur <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">toutes les pathologies</a>.</p>",
-    "icon": "fa-circle-info"
-   }
-  ]
- },
- {
-  "tipo": "texte",
   "eyebrow": "Remboursement",
-  "h2": "Remboursement",
+  "h2": "Remboursement et coût de la physio à Lyss",
   "lead": [],
   "bg": "trust",
-  "html": "<p>Avec une prescription médicale, la physiothérapie est prise en charge par l'assurance obligatoire (LAMal), l'assurance accidents (LAA), l'assurance invalidité (AI) ou l'assurance militaire (AM). En LAMal, la franchise et la quote-part restent à votre charge selon votre contrat. Apportez simplement votre ordonnance et votre carte d'assuré lors de la première séance.</p>"
+  "cards": [
+   {
+    "h3": "Assurance de base (LAMal)",
+    "html": "<p>Avec une prescription médicale, la physiothérapie est prise en charge par l'assurance obligatoire des soins (LAMal), que vous viviez dans le canton de Berne ou ailleurs en Suisse.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Accident, AI et AM",
+    "html": "<p>Après un accident, c'est l'assurance accidents (LAA) qui intervient ; l'assurance invalidité (AI) et l'assurance militaire (AM) couvrent aussi la physiothérapie prescrite dans leur cadre.</p>",
+    "icon": "fa-stethoscope"
+   },
+   {
+    "h3": "Ce qui détermine ce que vous payez",
+    "html": "<p>Les séances sont facturées selon la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué]. En LAMal, la franchise et la quote-part de votre contrat restent à votre charge. Apportez votre ordonnance et votre carte d'assuré à la première séance.</p>",
+    "icon": "fa-heart-pulse"
+   }
+  ]
  },
  {
   "tipo": "villes",
@@ -105,34 +175,59 @@
  },
  {
   "tipo": "faq",
-  "h2": "Questions fréquentes",
+  "h2": "Questions fréquentes sur la physio à Lyss",
   "faq": [
    {
     "q": "Lyss est germanophone : les séances se font-elles en français ?",
-    "a_html": "Oui. Au cabinet d'Ins comme à domicile, la séance se déroule en français ; l'espagnol est aussi possible.",
-    "a_text": "Oui. Au cabinet d'Ins comme à domicile, la séance se déroule en français ; l'espagnol est aussi possible."
+    "a_html": "Oui. Au cabinet d'Ins comme lors d'une visite à domicile, tout se passe en français ; l'espagnol est également possible. Vos documents médicaux en allemand ne posent aucun problème.",
+    "a_text": "Oui. Au cabinet d'Ins comme lors d'une visite à domicile, tout se passe en français ; l'espagnol est également possible. Vos documents médicaux en allemand ne posent aucun problème."
+   },
+   {
+    "q": "Comment appelle-t-on un kinésithérapeute en Suisse ?",
+    "a_html": "En Suisse, on parle de physiothérapeute, ou simplement de physio. À Lyss et dans le reste du Seeland germanophone, vous lirez « Physiotherapeut » : c'est le même métier.",
+    "a_text": "En Suisse, on parle de physiothérapeute, ou simplement de physio. À Lyss et dans le reste du Seeland germanophone, vous lirez « Physiotherapeut » : c'est le même métier."
+   },
+   {
+    "q": "Quand faire de la physiothérapie ?",
+    "a_html": "Dès qu'une douleur ou une raideur limite vos gestes du quotidien plus de quelques jours, après une entorse, une fracture ou une opération, ou quand votre médecin vous la recommande. Commencer tôt évite souvent que le problème devienne chronique.",
+    "a_text": "Dès qu'une douleur ou une raideur limite vos gestes du quotidien plus de quelques jours, après une entorse, une fracture ou une opération, ou quand votre médecin vous la recommande. Commencer tôt évite souvent que le problème devienne chronique."
+   },
+   {
+    "q": "Quel est le rôle d'un physiothérapeute ?",
+    "a_html": "Il évalue votre mouvement, traite la douleur par des techniques manuelles et vous guide avec des exercices pour retrouver force, mobilité et confiance. Il vous apprend aussi à éviter les récidives au travail ou à la maison.",
+    "a_text": "Il évalue votre mouvement, traite la douleur par des techniques manuelles et vous guide avec des exercices pour retrouver force, mobilité et confiance. Il vous apprend aussi à éviter les récidives au travail ou à la maison."
    },
    {
     "q": "À quelle distance d'Ins se trouve Lyss ?",
-    "a_html": "Lyss est à environ 17 km en ligne droite d'Ins. Les deux communes font partie du Seeland.",
-    "a_text": "Lyss est à environ 17 km en ligne droite d'Ins. Les deux communes font partie du Seeland."
+    "a_html": "Environ 17 km en ligne droite. Les deux communes appartiennent à l'arrondissement administratif du Seeland, dans le canton de Berne.",
+    "a_text": "Environ 17 km en ligne droite. Les deux communes appartiennent à l'arrondissement administratif du Seeland, dans le canton de Berne."
    },
    {
     "q": "Venez-vous aussi à Aarberg ou à Busswil ?",
-    "a_html": "Ces localités voisines de Lyss font partie des zones que nous pouvons étudier pour des séances à domicile [À CONFIRMER : localités desservies].",
-    "a_text": "Ces localités voisines de Lyss font partie des zones que nous pouvons étudier pour des séances à domicile [À CONFIRMER : localités desservies]."
+    "a_html": "Ces localités voisines de Lyss font partie des zones que nous pouvons étudier pour des séances à domicile [À CONFIRMER : localités desservies]. Indiquez votre adresse lors de la réservation.",
+    "a_text": "Ces localités voisines de Lyss font partie des zones que nous pouvons étudier pour des séances à domicile [À CONFIRMER : localités desservies]. Indiquez votre adresse lors de la réservation."
    },
    {
-    "q": "Faut-il une ordonnance pour être remboursé ?",
-    "a_html": "Oui, la prescription d'un médecin est nécessaire pour que l'assurance prenne en charge les séances, que ce soit en LAMal, LAA, AI ou AM.",
-    "a_text": "Oui, la prescription d'un médecin est nécessaire pour que l'assurance prenne en charge les séances, que ce soit en LAMal, LAA, AI ou AM."
+    "q": "J'ai été opéré au Spital Aarberg : puis-je poursuivre chez vous ?",
+    "a_html": "Oui, avec l'ordonnance de physiothérapie remise à la sortie. Nous reprenons le programme selon les indications de votre chirurgien [À CONFIRMER : délai du premier rendez-vous].",
+    "a_text": "Oui, avec l'ordonnance de physiothérapie remise à la sortie. Nous reprenons le programme selon les indications de votre chirurgien [À CONFIRMER : délai du premier rendez-vous]."
+   },
+   {
+    "q": "Est-ce normal d'avoir plus mal après une séance ?",
+    "a_html": "Une légère sensibilité pendant un jour ou deux est fréquente, surtout après un travail sur des tissus tendus ou de nouveaux exercices. Si la douleur augmente nettement ou dure, parlez-en lors de la séance suivante pour ajuster le traitement.",
+    "a_text": "Une légère sensibilité pendant un jour ou deux est fréquente, surtout après un travail sur des tissus tendus ou de nouveaux exercices. Si la douleur augmente nettement ou dure, parlez-en lors de la séance suivante pour ajuster le traitement."
+   },
+   {
+    "q": "Quel est le prix d'une séance de physiothérapie ?",
+    "a_html": "Le prix suit la structure tarifaire fixée au niveau national entre physiothérapeutes et assureurs [À CONFIRMER : tarif appliqué]. Avec une ordonnance, votre assurance paie la séance ; seules la franchise et la quote-part LAMal restent à votre charge.",
+    "a_text": "Le prix suit la structure tarifaire fixée au niveau national entre physiothérapeutes et assureurs [À CONFIRMER : tarif appliqué]. Avec une ordonnance, votre assurance paie la séance ; seules la franchise et la quote-part LAMal restent à votre charge."
    }
   ]
  },
  {
   "tipo": "cta",
-  "h2": "Un rendez-vous en français, près de Lyss",
-  "s1": "Choisissez votre créneau sur la <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservation en ligne</a>, appelez-nous au 076 627 38 38 ou écrivez-nous sur WhatsApp au +41 76 627 38 38.",
+  "h2": "Besoin d'un physio à Lyss ou dans les environs ?",
+  "s1": "Un suivi en français, à Ins ou chez vous : choisissez votre créneau sur la <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservation en ligne</a>, appelez le 076 627 38 38 ou écrivez sur WhatsApp au +41 76 627 38 38.",
   "s2": null
  },
  {

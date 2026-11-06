@@ -35,6 +35,27 @@ for p in PAGINAS:
         tema = next(t for t, rx in TEMAS if re.search(rx, (m + " " + frase).lower()))
         preg[tema].append((url, m, frase))
     r = LOTE[slug]
+    receta_p = json.loads((OUT / slug / "receta.json").read_text())
+    nota_receta = next((n for n in V[slug]["notas"] if n.startswith("receta:")), "")
+    def tiene(pred):
+        return any(pred(x) for x in receta_p)
+    h2s = lambda x: re.sub("<[^>]+>", "", x.get("h2", "") or "")
+    rec = [
+        ("H1 «servicio + ciudad»", True, r["h1"]),
+        ("4 H3 de valor bajo el hero", tiene(lambda x: x["tipo"] == "grid" and len(x.get("cards", [])) == 4 and re.search(r"essentiel|bref", h2s(x), re.I)), ""),
+        ("Qué es / cuándo consultar (+ señales de alarma)", tiene(lambda x: re.search(r"qu'est-ce|quand consulter|urgence|médecin", h2s(x), re.I)), ""),
+        ("Tipos según el caso (H2 + H3 por subtipo)", tiene(lambda x: x["tipo"] in ("grid", "serv") and re.search(r"selon|peut aider|traitement|prise en charge|traitons|soins", h2s(x), re.I)), ""),
+        ("Proceso en pasos (H2 + H3) + CTA intermedio", tiene(lambda x: x.get("cta_mid")), ""),
+        ("Reembolso y coste", tiene(lambda x: re.search(r"rembours", h2s(x), re.I)), ""),
+        ("FAQ (8-10)", tiene(lambda x: x["tipo"] == "faq" and len(x["faq"]) >= 8), f"{next((len(x['faq']) for x in receta_p if x['tipo'] == 'faq'), 0)} preguntas"),
+        ("CTA final en pregunta con la ciudad", tiene(lambda x: x["tipo"] == "cta" and x["h2"].endswith("?")), ""),
+    ]
+    motivo = {"FAQ (8-10)": "texto ya validado del módulo 5: no se reescribe (2.5.5); ampliar con preguntas de data/paa_banco.json en una revisión",
+              "Qué es / cuándo consultar (+ señales de alarma)": "página sin patología concreta (hub/reserva/home): no aplica",
+              "Proceso en pasos (H2 + H3) + CTA intermedio": "no aplica a esta página",
+              "Tipos según el caso (H2 + H3 por subtipo)": "no aplica a esta página"}
+    ck_rec = ["", "## Receta activaglobals (2.5)", "", "| Sección | ¿Está? | Nota |", "|---|---|---|"] + [
+        f"| {a} | {'sí' if b else 'no'} | {c if b or c else motivo.get(a, 'omitida')}{'' if b else (' — ' + motivo.get(a, '') if c else '')} |" for a, b, c in rec] + ["", f"- {nota_receta}"]
     ck = [f"# Checklist — {url}", "", f"- Lote: {lote} · Plantilla: {plt} · Validación: {'OK' if V[slug]['ok'] else 'ERRORES: ' + ', '.join(V[slug]['fallos'])}",
           f"- Indexación: {'NOINDEX hasta la confirmación del cliente' if lote == 'B' else 'index, follow'}", "",
           f"## Marcadores [À CONFIRMER] ({len(ms)})", ""] + [f"- {m} — «{f}»" for m, f in ms] + ["",
@@ -43,7 +64,7 @@ for p in PAGINAS:
           "3. Editar con Elementor → carpeta (Mis plantillas) → Importar `elementor.json` → Insertar.",
           "4. Yoast: copiar title, meta, slug y keyword de `yoast.txt`." + (" Avanzado → noindex." if lote == "B" else ""),
           "5. Comprobar en móvil y escritorio; validar el schema en https://validator.schema.org con la URL publicada.",
-          "6. Si se usa el CSS global, importar `elementor-css-global.json` en su lugar (ver PUBLICAR.md)."]
+          "6. Si se usa el CSS global, importar `elementor-css-global.json` en su lugar (ver PUBLICAR.md)."] + ck_rec
     (OUT / slug / "checklist.md").write_text("\n".join(ck) + "\n")
 
 GLOBAL = [
@@ -106,6 +127,37 @@ Solo se han usado imágenes que ya existen en las plantillas (`/wp-content/uploa
 | Home (vídeo) | `Physioactiva.mp4` con póster `Physio-Activa-00036.jpg` | Versión comprimida del vídeo (≤ 2-3 MB, 720p) para mejorar la carga |
 """)
 
+ORDEN = (["reservation-en-ligne", "accueil", "pour-les-patients", "mal-de-dos-lombaire", "douleur-cervicale-au-cou", "lesions-de-lepaule",
+          "douleur-du-genou-lesions-de-la-cheville", "sciatique-hernie-discale", "douleur-pied-cheville-fasciite-plantaire", "douleur-de-hanche-protheses",
+          "a-propos-de-nous"] + [p[0] for p in PAGINAS if p[0].startswith("physio-a-") and p[3] == "A"] + [p[0] for p in PAGINAS if p[3] == "B"])
+EXISTE = {"/", "/a-propos-de-nous/", "/physio-a-sugiez/", "/physio-a-neuchatel/", "/pour-les-patients/", "/mal-de-dos-lombaire/", "/douleur-cervicale-au-cou/",
+          "/lesions-de-lepaule/", "/douleur-du-genou-lesions-de-la-cheville/", "/reservation-en-ligne/"}
+fichas = []
+for i, slug in enumerate(ORDEN, 1):
+    p = next(x for x in PAGINAS if x[0] == slug)
+    url, lote = p[1], p[3]
+    y = (OUT / slug / "yoast.txt").read_text()
+    existe = url in EXISTE
+    fichas.append(f"""<div style="page-break-before:always"></div>
+
+## {i:02d}. `{url}` — lote {lote}{' · BORRADOR (noindex hasta confirmación)' if lote == 'B' else ''}
+
+Archivo: `{slug}/elementor.json` · Marcadores [À CONFIRMER]: {V[slug]['a_confirmer']} (ver `{slug}/checklist.md`)
+
+- [ ] **Copia de seguridad:** {'la página ya existe → Elementor → Guardar como plantilla → Exportar (guardar el .json con fecha)' if existe else 'página nueva: no hace falta'}
+- [ ] **Borrador de prueba:** crear página `{url.strip('/') or 'accueil'}-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
+- [ ] Plantilla de página «Elementor Canvas» (o «Pleine largeur» si el header/footer vienen del Theme Builder) y **título del tema oculto**
+- [ ] Revisar en **móvil y escritorio**: diseño de la plantilla, sin elementos rotos, FAQ abre y cierra, botones funcionan
+- [ ] Sustituir el contenido de {'la página original (conserva URL e ID)' if existe else 'la página definitiva con el slug `' + url + '`'} y borrar el borrador `-v2`
+- [ ] **Yoast:** pegar title, meta, slug y frase clave de `yoast.txt`{' · **Avanzado → noindex**' if lote == 'B' else ''}
+- [ ] Verificación tras publicar: **200** · **un solo H1** · **ningún botón en `#`** · **título del tema oculto** · schema válido en validator.schema.org
+
+```
+{y.strip()}
+```
+""")
+pub_fichas = "\n".join(fichas)
+lista_urls = "\n".join("https://physioactiva.ch" + next(x for x in PAGINAS if x[0] == s_)[1] for s_ in ORDEN)
 pub = f"""# Cómo publicar el sitio en Elementor
 
 ## 0. Antes de nada (prueba)
@@ -141,6 +193,23 @@ Cada página repite unos 20 KB de CSS y 1,4 KB de JS en línea y carga las fuent
 3. Cargar `global/pa-scripts.js` en el pie (WPCode → Footer, `<script>…</script>`).
 4. Importar en cada página `elementor-css-global.json` en lugar de `elementor.json` (la home conserva su CSS propio porque el hero con vídeo usa reglas distintas).
 `global/pa-styles.css` corrige además una errata de la plantilla (`.faq . q-ic` → `.faq .q-ic`) que dejaba sin estilo el icono «+» de la FAQ.
+
+## Publicación manual (nada se escribe en WordPress desde aquí)
+La publicación se hace a mano. Orden: técnica → reserva → home → hub y patologías → À propos y zonas del lote A → lote B tras la confirmación. **Las 301 de `redirecciones.csv` se activan después de publicar las páginas de destino.**
+
+# Checklist por URL (imprimible)
+
+{pub_fichas}
+
+<div style="page-break-before:always"></div>
+
+## Lista de URLs para la verificación por rastreo
+
+Cuando estén publicadas, pásame esta lista (o di «verifica el rastreo») y compruebo estado 200, H1, enlaces, botones, schema e indexación:
+
+```
+{lista_urls}
+```
 """
 (OUT / "PUBLICAR.md").write_text(pub)
 

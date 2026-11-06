@@ -16,6 +16,35 @@
  },
  {
   "tipo": "grid",
+  "eyebrow": "En bref",
+  "h2": "L'essentiel avant de prendre rendez-vous",
+  "lead": [],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Sur prescription, remboursé LAMal / LAA",
+    "html": "<p>Avec une ordonnance médicale, les séances sont prises en charge par la LAMal, la LAA, l&#x27;AI ou l&#x27;AM.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Au cabinet ou à domicile",
+    "html": "<p>Cabinet à l&#x27;InsGym, Rämismatte 21 à Ins, et séances à domicile dans le Seeland et les Trois-Lacs.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Bilan et plan de traitement",
+    "html": "<p>La première séance commence par un entretien et un bilan ; les objectifs et le plan sont définis avec vous.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
+    "html": "<p>Réservation sur OneDoc, au 076 627 38 38 ou par WhatsApp au +41 76 627 38 38.</p>",
+    "icon": "fa-calendar-check"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
   "eyebrow": "Comprendre",
   "h2": "Qu'est-ce qu'une prothèse de hanche ?",
   "lead": [
@@ -32,13 +61,49 @@
  },
  {
   "tipo": "grid",
+  "eyebrow": "Signaux d'alarme",
+  "h2": "Quand consulter un médecin en urgence ?",
+  "lead": [
+   "Contactez rapidement votre chirurgien, votre médecin ou les urgences si vous constatez :"
+  ],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": null,
+    "html": "<p>de la fièvre, une rougeur, une chaleur ou un écoulement au niveau de la cicatrice ;</p>",
+    "icon": "fa-triangle-exclamation"
+   },
+   {
+    "h3": null,
+    "html": "<p>un mollet gonflé, chaud ou douloureux (risque de thrombose) ;</p>",
+    "icon": "fa-triangle-exclamation"
+   },
+   {
+    "h3": null,
+    "html": "<p>une douleur soudaine et intense, une jambe qui paraît plus courte ou tournée, ou l'impossibilité de marcher après une chute (luxation ou fracture possible) ;</p>",
+    "icon": "fa-triangle-exclamation"
+   },
+   {
+    "h3": null,
+    "html": "<p>une douleur dans la poitrine ou un essoufflement soudain : <strong>appelez le 144</strong>.</p>",
+    "icon": "fa-triangle-exclamation"
+   },
+   {
+    "h3": null,
+    "html": "<p>En dehors d'une opération, une douleur de hanche avec fièvre, après un traumatisme important ou une douleur nocturne intense qui ne cède pas doit aussi être vue par un médecin.</p>",
+    "icon": "fa-phone"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
   "eyebrow": "Notre approche",
   "h2": "Comment la physiothérapie peut aider",
   "lead": [
    "<strong>Avant l'opération</strong> (si votre médecin le juge utile), des exercices peuvent aider à préparer les muscles, à apprendre l'usage des cannes et à organiser le retour à la maison.",
    "<strong>Après une prothèse totale de hanche</strong>, la rééducation suit les consignes de votre chirurgien. Elle comprend en général :"
   ],
-  "bg": "trust",
+  "bg": null,
   "cards": [
    {
     "h3": null,
@@ -77,73 +142,62 @@
   "eyebrow": "Physio Activa",
   "h2": "Délai de rétablissement après une prothèse de hanche",
   "lead": [],
-  "bg": null,
+  "bg": "trust",
   "html": "<p>C'est l'une des questions les plus fréquentes. Le délai de rétablissement après une prothèse de hanche varie d'une personne à l'autre : il dépend de votre état avant l'opération, du type d'intervention, de votre âge, de votre condition physique et des consignes du chirurgien. Le protocole de votre chirurgien guide la rééducation ; notre rôle est de vous faire progresser étape par étape et de vous dire, à chaque bilan, où vous en êtes.</p>"
  },
  {
-  "tipo": "texte",
+  "tipo": "grid",
   "eyebrow": "Vos séances",
   "h2": "Déroulement des séances",
-  "lead": [],
-  "bg": "trust",
-  "html": "<p>La première séance commence par un entretien (anamnèse) : votre opération ou vos douleurs, vos antécédents, vos activités et ce qui est important pour vous. Vient ensuite l'évaluation : mobilité, force, marche, équilibre et état de la cicatrice si vous avez été opéré. Ensemble, nous fixons des objectifs concrets.</p><p style=\"margin-top:12px\">Les séances suivantes associent exercices, travail manuel et conseils. Vous recevez un programme à faire à la maison. Le nombre de séances dépend de votre évolution et de l'ordonnance ; la durée d'une séance est de [À CONFIRMER] minutes.</p>"
+  "lead": [
+   "La première séance commence par un entretien (anamnèse) : votre opération ou vos douleurs, vos antécédents, vos activités et ce qui est important pour vous. Vient ensuite l'évaluation : mobilité, force, marche, équilibre et état de la cicatrice si vous avez été opéré. Ensemble, nous fixons des objectifs concrets.",
+   "Les séances suivantes associent exercices, travail manuel et conseils. Vous recevez un programme à faire à la maison. Le nombre de séances dépend de votre évolution et de l'ordonnance ; la durée d'une séance est de [À CONFIRMER] minutes."
+  ],
+  "bg": null,
+  "cta_mid": true,
+  "cards": [
+   {
+    "h3": "Ordonnance",
+    "html": "<p>Votre médecin prescrit la physiothérapie ; apportez l&#x27;ordonnance et votre carte d&#x27;assuré à la première séance.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Bilan",
+    "html": "<p>Un entretien et un examen permettent de comprendre l&#x27;origine de vos symptômes et de fixer des objectifs avec vous.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Séances au cabinet ou à domicile",
+    "html": "<p>Le traitement se déroule au cabinet d&#x27;Ins ou chez vous, selon votre situation et la prescription.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Autonomie et prévention",
+    "html": "<p>Des exercices à poursuivre seul et des conseils pour le quotidien, afin de limiter les récidives.</p>",
+    "icon": "fa-person-walking"
+   }
+  ]
  },
  {
   "tipo": "texte",
   "eyebrow": "À domicile",
   "h2": "Au cabinet à Ins ou à domicile",
   "lead": [],
-  "bg": null,
+  "bg": "trust",
   "html": "<p>Les premières semaines après une prothèse de hanche, se déplacer peut être compliqué. C'est pourquoi la rééducation à domicile est souvent une bonne solution : nous venons chez vous, travaillons dans votre environnement réel (escaliers, salle de bains, lit) et vous aidons à le sécuriser.</p><p style=\"margin-top:12px\">Notre service de <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapeute à domicile</a> couvre Ins, le Seeland et la région des Trois-Lacs : Anet, Sugiez/Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss. Dès que vous le pouvez, vous pouvez poursuivre au cabinet, chez InsGym, Rämismatte 21, 3232 Ins. Nous parlons français et espagnol.</p>"
  },
  {
   "tipo": "texte",
   "eyebrow": "Remboursement",
-  "h2": "Remboursement LAMal / LAA et ordonnance",
+  "h2": "Remboursement et coût de la physio à Ins",
   "lead": [],
-  "bg": "trust",
-  "html": "<p>La physiothérapie est remboursée par l'assurance de base (LAMal), par l'assurance accident (LAA) après une chute ou un accident, ainsi que par l'AI et l'AM, <strong>avec une prescription médicale</strong>. Après l'opération, l'ordonnance est en général remise par le chirurgien ou par votre médecin traitant. La physiothérapie à domicile doit être mentionnée sur l'ordonnance [À CONFIRMER]. Le coût de l'opération elle-même dépend de l'hôpital et de votre assurance : renseignez-vous auprès d'eux.</p>"
- },
- {
-  "tipo": "grid",
-  "eyebrow": "Signaux d'alarme",
-  "h2": "Quand consulter un médecin en urgence ?",
-  "lead": [
-   "Contactez rapidement votre chirurgien, votre médecin ou les urgences si vous constatez :"
-  ],
   "bg": null,
-  "cards": [
-   {
-    "h3": null,
-    "html": "<p>de la fièvre, une rougeur, une chaleur ou un écoulement au niveau de la cicatrice ;</p>",
-    "icon": "fa-triangle-exclamation"
-   },
-   {
-    "h3": null,
-    "html": "<p>un mollet gonflé, chaud ou douloureux (risque de thrombose) ;</p>",
-    "icon": "fa-triangle-exclamation"
-   },
-   {
-    "h3": null,
-    "html": "<p>une douleur soudaine et intense, une jambe qui paraît plus courte ou tournée, ou l'impossibilité de marcher après une chute (luxation ou fracture possible) ;</p>",
-    "icon": "fa-triangle-exclamation"
-   },
-   {
-    "h3": null,
-    "html": "<p>une douleur dans la poitrine ou un essoufflement soudain : <strong>appelez le 144</strong>.</p>",
-    "icon": "fa-triangle-exclamation"
-   },
-   {
-    "h3": null,
-    "html": "<p>En dehors d'une opération, une douleur de hanche avec fièvre, après un traumatisme important ou une douleur nocturne intense qui ne cède pas doit aussi être vue par un médecin.</p>",
-    "icon": "fa-phone"
-   }
-  ]
+  "html": "<p>La physiothérapie est remboursée par l'assurance de base (LAMal), par l'assurance accident (LAA) après une chute ou un accident, ainsi que par l'AI et l'AM, <strong>avec une prescription médicale</strong>. Après l'opération, l'ordonnance est en général remise par le chirurgien ou par votre médecin traitant. La physiothérapie à domicile doit être mentionnée sur l'ordonnance [À CONFIRMER]. Le coût de l'opération elle-même dépend de l'hôpital et de votre assurance : renseignez-vous auprès d'eux.</p>"
  },
  {
   "tipo": "villes",
   "eyebrow": "Près de chez vous",
-  "h2": "Physio au cabinet d'Ins ou à domicile dans la région",
+  "h2": "Physio au cabinet ou à domicile dans votre région",
   "lead": [
    "Informations locales pour les patients des Trois-Lacs et du Seeland : distance, accès et soins à domicile."
   ],
@@ -189,7 +243,7 @@
  },
  {
   "tipo": "faq",
-  "h2": "Questions fréquentes",
+  "h2": "Questions fréquentes sur la hanche et la physio à Ins",
   "faq": [
    {
     "q": "Comment vivre avec une prothèse de hanche ?",
@@ -230,7 +284,7 @@
  },
  {
   "tipo": "cta",
-  "h2": "Prenez rendez-vous",
+  "h2": "Douleur ou prothèse de hanche : besoin d'un physio à Ins ou dans les environs ?",
   "s1": "Vous allez être opéré, vous sortez de l'hôpital ou votre hanche vous fait mal ? Appelez-nous au <strong>076 627 38 38</strong>, écrivez-nous sur <strong>WhatsApp au +41 76 627 38 38</strong> ou <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservez votre rendez-vous en ligne</a>. Au cabinet à Ins ou à domicile.",
   "s2": null
  },

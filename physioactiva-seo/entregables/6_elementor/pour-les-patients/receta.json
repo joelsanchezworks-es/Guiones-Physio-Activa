@@ -15,6 +15,35 @@
   "cta": "Prendre rendez-vous"
  },
  {
+  "tipo": "grid",
+  "eyebrow": "En bref",
+  "h2": "L'essentiel avant de prendre rendez-vous",
+  "lead": [],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Sur prescription, remboursé LAMal / LAA",
+    "html": "<p>Avec une ordonnance médicale, les séances sont prises en charge par la LAMal, la LAA, l&#x27;AI ou l&#x27;AM.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Au cabinet ou à domicile",
+    "html": "<p>Cabinet à l&#x27;InsGym, Rämismatte 21 à Ins, et séances à domicile dans le Seeland et les Trois-Lacs.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Bilan et plan de traitement",
+    "html": "<p>La première séance commence par un entretien et un bilan ; les objectifs et le plan sont définis avec vous.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
+    "html": "<p>Réservation sur OneDoc, au 076 627 38 38 ou par WhatsApp au +41 76 627 38 38.</p>",
+    "icon": "fa-calendar-check"
+   }
+  ]
+ },
+ {
   "tipo": "serv",
   "eyebrow": "Ce que nous traitons",
   "h2": "Pathologies traitées par zone du corps",
@@ -70,7 +99,8 @@
     "icon": "fa-circle-check",
     "more": "Lire la page"
    }
-  ]
+  ],
+  "cta_mid": true
  },
  {
   "tipo": "texte",
@@ -83,7 +113,7 @@
  {
   "tipo": "villes",
   "eyebrow": "Près de chez vous",
-  "h2": "Physio au cabinet d'Ins ou à domicile dans la région",
+  "h2": "Physio au cabinet ou à domicile dans votre région",
   "lead": [
    "Informations locales pour les patients des Trois-Lacs et du Seeland : distance, accès et soins à domicile."
   ],
@@ -129,7 +159,7 @@
  },
  {
   "tipo": "faq",
-  "h2": "Questions fréquentes",
+  "h2": "Questions fréquentes sur la physio à Ins",
   "faq": [
    {
     "q": "Faut-il un diagnostic avant de venir en physiothérapie ?",
@@ -160,7 +190,7 @@
  },
  {
   "tipo": "cta",
-  "h2": "Prendre rendez-vous",
+  "h2": "Besoin d'un physio à Ins ou dans les environs ?",
   "s1": "Au cabinet à Ins (InsGym, Rämismatte 21) ou à domicile :",
   "s2": null
  },
