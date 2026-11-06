@@ -143,6 +143,73 @@
   ]
  },
  {
+  "tipo": "serv",
+  "eyebrow": "Nos zones",
+  "h2": "Votre physio à Ins et dans les Trois-Lacs",
+  "lead": [
+   "Un seul cabinet, à Ins (Anet), et des pages locales pour les patients de la région : distance, accès, soins à domicile et questions fréquentes."
+  ],
+  "bg": null,
+  "cards": [
+   {
+    "h3": "Physio à Sugiez (Mont-Vully)",
+    "icon": "fa-map-location-dot",
+    "href": "/physio-a-sugiez/",
+    "more": "Voir la page",
+    "p": "À 4,9 km d&#x27;Ins · district du Lac, canton de Fribourg."
+   },
+   {
+    "h3": "Physio à La Neuveville",
+    "icon": "fa-map-location-dot",
+    "href": "/physio-a-la-neuveville/",
+    "more": "Voir la page",
+    "p": "À 6,6 km d&#x27;Ins · arrondissement administratif du Jura bernois, canton de Berne."
+   },
+   {
+    "h3": "Physio à Neuchâtel",
+    "icon": "fa-map-location-dot",
+    "href": "/physio-a-neuchatel/",
+    "more": "Voir la page",
+    "p": "À 13,4 km d&#x27;Ins · Littoral neuchâtelois, canton de Neuchâtel."
+   },
+   {
+    "h3": "Physio à Avenches",
+    "icon": "fa-map-location-dot",
+    "href": "/physio-a-avenches/",
+    "more": "Voir la page",
+    "p": "À 14,8 km d&#x27;Ins · district de la Broye-Vully, canton de Vaud."
+   },
+   {
+    "h3": "Physio à Lyss",
+    "icon": "fa-map-location-dot",
+    "href": "/physio-a-lyss/",
+    "more": "Voir la page",
+    "p": "À 17,0 km d&#x27;Ins · arrondissement administratif du Seeland, canton de Berne."
+   },
+   {
+    "h3": "Physio à Bienne (Biel)",
+    "icon": "fa-map-location-dot",
+    "href": "/physio-a-bienne/",
+    "more": "Voir la page",
+    "p": "À 18,0 km d&#x27;Ins · arrondissement administratif de Biel/Bienne, canton de Berne."
+   },
+   {
+    "h3": "Physio à Fribourg",
+    "icon": "fa-map-location-dot",
+    "href": "/physio-a-fribourg/",
+    "more": "Voir la page",
+    "p": "À 22,6 km d&#x27;Ins · district de la Sarine, canton de Fribourg."
+   },
+   {
+    "h3": "Physio à Payerne",
+    "icon": "fa-map-location-dot",
+    "href": "/physio-a-payerne/",
+    "more": "Voir la page",
+    "p": "À 24,1 km d&#x27;Ins · district de la Broye-Vully, canton de Vaud."
+   }
+  ]
+ },
+ {
   "tipo": "texte",
   "eyebrow": "Physio Activa",
   "h2": "Plus qu'un massage : un plan de rééducation",

@@ -62,6 +62,18 @@ Una línea por decisión. Fecha de la ejecución: 2026-11-06.
 - IDs de Elementor: 7 hex derivados del slug (SHA-1), deterministas y únicos en el lote. `page_settings: {hide_title: yes}` en todas.
 - Marcadores `[POR CONFIRMAR]` de los textos → `[À CONFIRMER : …]` al construir (ningún texto en español en las páginas).
 - Zonas: datos públicos (comuna, distrito, idioma, hospital de la región, localidades vecinas) aportados con URL de fuente en `config/zonas.yml`, pero no verificados en línea en esta sesión (red restringida): revisarlos antes de publicar. Distancias = línea recta desde Ins; no se dan tiempos de trayecto.
-- Regla antipuerta: similitud máxima entre zonas 8,9 % (shingles de 5 palabras, sin hero, Remboursement, CTA ni mapa) y ≥ 4 datos propios en las 14.
+- Regla antipuerta: similitud máxima entre zonas 8,9 % (shingles de 5 palabras, sin hero, Remboursement, enlaces a localidades, CTA ni mapa) y ≥ 4 datos propios en las 14.
 - SERP por zona: 28 consultas (0,05 USD), registradas en `data/costes.csv` con la ejecución «elementor-2026-11-06».
 - Modo `--css-global`: `global/pa-styles.css` (CSS de lombaire, con la errata `.faq . q-ic` corregida y los `@import` pasados a `<link>`) + `global/pa-scripts.js`; las páginas ligeras (`elementor-css-global.json`) no llevan `<style>` ni `<script>` en línea, salvo la home (hero con vídeo con reglas propias).
+
+## Optimización SEO local (2026-11-06, segunda pasada)
+- Demanda local medida con Google Ads (CH, sin filtro de idioma) para 15 localidades × 27 variantes (FR y DE) + Labs keyword_ideas/suggestions: 0,39 USD (ejecución «local-2026-11-06» en `data/costes.csv`). Resultado en `data/z_local_kw.json` y brief por ciudad en `data/z_briefs_local.json`.
+- Google Ads separa las grafías con y sin acento («physio neuchatel» 590 frente a «physio neuchâtel» 50): el texto se escribe con acentos (Google los iguala al posicionar) y el volumen de la ciudad se lee sumando ambas.
+- Las páginas de zona se reescriben para cubrir las variantes genéricas con volumen (physio / physiothérapeute / physiothérapie + ville) y, donde hay demanda ≥ 20/mes, una sección con un H3 por servicio local (drainage lymphatique, massage thérapeutique, dry needling, physio sport, à domicile) enlazado a la página del servicio.
+- Enlazado interno local (componente `insurers`/`chip` de la plantilla, sin clases nuevas):
+  - Home: cuadrícula «Nos zones» (`serv-grid`) con las 8 zonas publicables, ordenadas por distancia, con km, distrito y cantón.
+  - Zonas: «Localités voisines» → home + las 4 zonas publicables más cercanas.
+  - Patologías, hub, reserva y À propos: chips hacia la home y las 8 zonas publicables.
+  - Las páginas publicables no enlazan a las zonas del lote B (borradores noindex). Cuando el cliente las confirme, se pasan a lote A en `config/zonas.yml` y se reconstruye: los enlaces aparecen solos.
+- Schema local: `BreadcrumbList` en todas las páginas salvo la home; en las zonas, `Service` con `areaServed` = la comuna (con `sameAs` a su ficha pública y `containedInPlace` = cantón); `areaServed` del negocio = Ins, Anet y las comunas de las zonas publicables.
+- Morat y Chiètres siguen sin volumen medible ni en francés ni en alemán (Google Ads devuelve nulo): se quedan en el lote B.

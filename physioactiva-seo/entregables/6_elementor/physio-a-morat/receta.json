@@ -73,6 +73,37 @@
   "html": "<p>La physiothérapie prescrite par un médecin est prise en charge par l'assurance de base (LAMal), l'assurance accidents (LAA), l'AI ou l'AM. Avec la LAMal, la franchise et la quote-part restent à votre charge. Apportez l'ordonnance et votre carte d'assuré à la première séance.</p>"
  },
  {
+  "tipo": "villes",
+  "eyebrow": "Localités voisines",
+  "h2": "Physio près de Morat : autres localités",
+  "lead": [
+   "Vous habitez entre Morat et le Seeland ? Consultez aussi nos pages locales voisines."
+  ],
+  "liens": [
+   [
+    "Physio à Ins (Anet)",
+    "/"
+   ],
+   [
+    "Physio à Sugiez (Mont-Vully)",
+    "/physio-a-sugiez/"
+   ],
+   [
+    "Physio à Avenches",
+    "/physio-a-avenches/"
+   ],
+   [
+    "Physio à Fribourg",
+    "/physio-a-fribourg/"
+   ],
+   [
+    "Physio à La Neuveville",
+    "/physio-a-la-neuveville/"
+   ]
+  ],
+  "note": "Cabinet unique : Rämismatte 21, 3232 Ins."
+ },
+ {
   "tipo": "faq",
   "h2": "Questions fréquentes",
   "faq": [

@@ -73,6 +73,37 @@
   "html": "<p>Avec une prescription médicale, la physiothérapie est prise en charge par l'assurance obligatoire (LAMal), l'assurance accidents (LAA), l'assurance invalidité (AI) ou l'assurance militaire (AM). En LAMal, la franchise et la quote-part restent à votre charge selon votre contrat. Apportez simplement votre ordonnance et votre carte d'assuré lors de la première séance.</p>"
  },
  {
+  "tipo": "villes",
+  "eyebrow": "Localités voisines",
+  "h2": "Physio près de Payerne : autres localités",
+  "lead": [
+   "Vous habitez entre Payerne et le Seeland ? Consultez aussi nos pages locales voisines."
+  ],
+  "liens": [
+   [
+    "Physio à Ins (Anet)",
+    "/"
+   ],
+   [
+    "Physio à Avenches",
+    "/physio-a-avenches/"
+   ],
+   [
+    "Physio à Fribourg",
+    "/physio-a-fribourg/"
+   ],
+   [
+    "Physio à Neuchâtel",
+    "/physio-a-neuchatel/"
+   ],
+   [
+    "Physio à Sugiez (Mont-Vully)",
+    "/physio-a-sugiez/"
+   ]
+  ],
+  "note": "Cabinet unique : Rämismatte 21, 3232 Ins."
+ },
+ {
   "tipo": "faq",
   "h2": "Questions fréquentes",
   "faq": [

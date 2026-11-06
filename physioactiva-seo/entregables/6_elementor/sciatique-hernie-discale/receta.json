@@ -193,6 +193,53 @@
   "html": "<p>La physiothérapie est remboursée par l'assurance de base (LAMal), l'assurance accident (LAA), l'AI et l'AM <strong>avec une prescription médicale</strong>. Votre médecin établit l'ordonnance ; vous nous contactez ensuite pour planifier la première séance.</p>"
  },
  {
+  "tipo": "villes",
+  "eyebrow": "Près de chez vous",
+  "h2": "Physio au cabinet d'Ins ou à domicile dans la région",
+  "lead": [
+   "Informations locales pour les patients des Trois-Lacs et du Seeland : distance, accès et soins à domicile."
+  ],
+  "liens": [
+   [
+    "Physio à Ins (Anet)",
+    "/"
+   ],
+   [
+    "Physio à Sugiez (Mont-Vully)",
+    "/physio-a-sugiez/"
+   ],
+   [
+    "Physio à La Neuveville",
+    "/physio-a-la-neuveville/"
+   ],
+   [
+    "Physio à Neuchâtel",
+    "/physio-a-neuchatel/"
+   ],
+   [
+    "Physio à Avenches",
+    "/physio-a-avenches/"
+   ],
+   [
+    "Physio à Lyss",
+    "/physio-a-lyss/"
+   ],
+   [
+    "Physio à Bienne (Biel)",
+    "/physio-a-bienne/"
+   ],
+   [
+    "Physio à Fribourg",
+    "/physio-a-fribourg/"
+   ],
+   [
+    "Physio à Payerne",
+    "/physio-a-payerne/"
+   ]
+  ],
+  "note": "Cabinet unique : Rämismatte 21, 3232 Ins."
+ },
+ {
   "tipo": "faq",
   "h2": "Questions fréquentes",
   "faq": [

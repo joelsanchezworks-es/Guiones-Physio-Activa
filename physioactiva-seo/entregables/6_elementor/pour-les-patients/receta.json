@@ -81,6 +81,53 @@
   "html": "<p>Cette liste n'est pas exhaustive. Contactez-nous : nous évaluons votre situation et, si la physiothérapie n'est pas la bonne réponse, nous vous conseillons de vous adresser à votre médecin. Si vous ne pouvez pas vous déplacer, nous proposons aussi la <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>.</p>"
  },
  {
+  "tipo": "villes",
+  "eyebrow": "Près de chez vous",
+  "h2": "Physio au cabinet d'Ins ou à domicile dans la région",
+  "lead": [
+   "Informations locales pour les patients des Trois-Lacs et du Seeland : distance, accès et soins à domicile."
+  ],
+  "liens": [
+   [
+    "Physio à Ins (Anet)",
+    "/"
+   ],
+   [
+    "Physio à Sugiez (Mont-Vully)",
+    "/physio-a-sugiez/"
+   ],
+   [
+    "Physio à La Neuveville",
+    "/physio-a-la-neuveville/"
+   ],
+   [
+    "Physio à Neuchâtel",
+    "/physio-a-neuchatel/"
+   ],
+   [
+    "Physio à Avenches",
+    "/physio-a-avenches/"
+   ],
+   [
+    "Physio à Lyss",
+    "/physio-a-lyss/"
+   ],
+   [
+    "Physio à Bienne (Biel)",
+    "/physio-a-bienne/"
+   ],
+   [
+    "Physio à Fribourg",
+    "/physio-a-fribourg/"
+   ],
+   [
+    "Physio à Payerne",
+    "/physio-a-payerne/"
+   ]
+  ],
+  "note": "Cabinet unique : Rämismatte 21, 3232 Ins."
+ },
+ {
   "tipo": "faq",
   "h2": "Questions fréquentes",
   "faq": [

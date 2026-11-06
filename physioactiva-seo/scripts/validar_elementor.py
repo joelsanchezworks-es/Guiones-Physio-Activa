@@ -96,7 +96,10 @@ for p in PAGINAS:
             malos.append(u)
         if u in REDIRIGIDAS:
             malos.append(u)
-    checks["enlaces internos a URL final (sin 301/404)"] = not malos
+    urls_b = {z["url"] for z in __import__("construir_pagina").ZON.values() if z["lote"] == "B"}
+    if lote != "B":
+        malos += [u for u in (a["href"] for a in soup.select("a[href]")) if u in urls_b]
+    checks["enlaces internos a URL final (sin 301/404 ni a borradores B)"] = not malos
     if malos: notas.append("enlaces: " + ", ".join(sorted(set(malos))))
     vis = soup.get_text(" ", strip=True)
     restos = [t for t in TXT_PLANTILLA if t in vis]

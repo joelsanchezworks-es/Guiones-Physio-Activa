@@ -331,7 +331,13 @@ def c_map(r):
 </section>"""
 
 
-RENDER = {"hero": c_hero, "grid": c_grid, "texte": c_texte, "steps": c_steps, "serv": c_serv, "team": c_team,
+def c_villes(r):
+    chips = "".join(f'<a class="chip" href="{u}">{esc(t)}</a>' for t, u in r["liens"])
+    note = f'<p class="ins-note">{esc(r["note"])}</p>' if r.get("note") else ""
+    return f'<section class="insurers">\n  {cab(r, f"<div class=\"ins-grid\">{chips}</div>{note}")}\n</section>'
+
+
+RENDER = {"villes": c_villes, "hero": c_hero, "grid": c_grid, "texte": c_texte, "steps": c_steps, "serv": c_serv, "team": c_team,
           "gallery": c_gallery, "faq": c_faq, "cta": c_cta, "map": c_map}
 
 # ---------------------------------------------------------------- fr.md → receta
@@ -369,6 +375,26 @@ def partir_sub(intro_html, maxc):
         else:
             resto.append(f)
     return sub, [" ".join(resto)] if resto else []
+
+
+ZA = {k: z for k, z in ZON.items() if z["lote"] == "A"}
+
+
+def zonas_cercanas(k, n=4):
+    """Las n zonas publicables (lote A) más cercanas a la zona k (distancia entre centros, aprox.)."""
+    import math
+    co = {"sugiez": (46.9622, 7.1136), "neuchatel": (46.9920, 6.9310), "la-neuveville": (47.0650, 7.0970), "avenches": (46.8803, 7.0408),
+          "lyss": (47.0742, 7.3069), "bienne": (47.1368, 7.2468), "fribourg": (46.8065, 7.1620), "payerne": (46.8220, 6.9380),
+          "morat": (46.9283, 7.1176), "chietres": (46.9750, 7.1960), "estavayer": (46.8490, 6.8460), "yvonand": (46.8000, 6.7420),
+          "yverdon": (46.7785, 6.6410), "lausanne": (46.5197, 6.6323)}
+    def km(a, b):
+        (la1, lo1), (la2, lo2) = co[a], co[b]
+        return math.hypot((la1 - la2) * 111, (lo1 - lo2) * 76)
+    return sorted((x for x in ZA if x != k), key=lambda x: km(k, x))[:n]
+
+
+def liens_zones(keys):
+    return [(f"Physio à {ZON[x]['nom_titre']}", ZON[x]["url"]) for x in keys]
 
 
 def receta(slug, url, plantilla, lote, carpeta, foto, alt, idx_zona=0):
@@ -508,6 +534,27 @@ def receta(slug, url, plantilla, lote, carpeta, foto, alt, idx_zona=0):
         R.append({"tipo": "cta", "h2": texto(cta["h2"]), "s1": inline(ps[0]) if ps else "Contactez-nous pour une séance au cabinet à Ins ou à domicile.",
                   "s2": inline(ps[1]) if len(ps) > 1 else None})
     R.append({"tipo": "map"})
+    # --- enlazado local hacia las páginas de zona (solo lote A: las del lote B están en noindex) ---
+    i_faq = next((i for i, x in enumerate(R) if x["tipo"] == "faq"), len(R) - 1)
+    if tipo == "zona":
+        k = meta["zona"]
+        R.insert(i_faq, {"tipo": "villes", "eyebrow": "Localités voisines", "h2": f"Physio près de {esc(zona['nom_fr'])} : autres localités",
+                         "lead": [f"Vous habitez entre {esc(zona['nom_fr'])} et le Seeland ? Consultez aussi nos pages locales voisines."],
+                         "liens": [("Physio à Ins (Anet)", "/")] + liens_zones(zonas_cercanas(k)),
+                         "note": f"Cabinet unique : {CLI['adresse']}."})
+    elif tipo in ("patologia", "hub", "reserva", "apropos"):
+        R.insert(i_faq, {"tipo": "villes", "eyebrow": "Près de chez vous", "h2": "Physio au cabinet d'Ins ou à domicile dans la région",
+                         "lead": ["Informations locales pour les patients des Trois-Lacs et du Seeland : distance, accès et soins à domicile."],
+                         "liens": [("Physio à Ins (Anet)", "/")] + liens_zones(sorted(ZA, key=lambda x: ZON[x]["km_depuis_ins"])),
+                         "note": f"Cabinet unique : {CLI['adresse']}."})
+    elif tipo == "home":
+        cards = [{"h3": f"Physio à {ZON[x]['nom_titre']}", "icon": "fa-map-location-dot", "href": ZON[x]["url"], "more": "Voir la page",
+                  "p": esc(f"À {str(ZON[x]['km_depuis_ins']).replace('.', ',')} km d'Ins · {ZON[x]['district']}, canton de {ZON[x]['canton']}.")}
+                 for x in sorted(ZA, key=lambda x: ZON[x]["km_depuis_ins"])]
+        i_serv = max(i for i, x in enumerate(R) if x["tipo"] == "serv") + 1
+        R.insert(i_serv, {"tipo": "serv", "eyebrow": "Nos zones", "h2": "Votre physio à Ins et dans les Trois-Lacs",
+                          "lead": ["Un seul cabinet, à Ins (Anet), et des pages locales pour les patients de la région : distance, accès, soins à domicile et questions fréquentes."],
+                          "bg": None, "cards": cards})
     if tipo == "home":  # galería del cabinet (mismas fotos que la plantilla, alt descriptivos) antes de la FAQ
         gal = {"tipo": "gallery", "eyebrow": "Le cabinet", "h2": "Un espace de soins et de mouvement à Ins",
                "lead": ["Des salles de traitement et un espace d'entraînement au sein de l'InsGym, Rämismatte 21."],
@@ -529,8 +576,7 @@ def jsonld(slug, url, meta, R, plantilla):
         "geo": {"@type": "GeoCoordinates", "latitude": CLI["geo"]["lat"], "longitude": CLI["geo"]["lng"]},
         "openingHoursSpecification": [{"@type": "OpeningHoursSpecification", "dayOfWeek": CLI["horaires_schema"]["jours"],
                                         "opens": CLI["horaires_schema"]["ouvre"], "closes": CLI["horaires_schema"]["ferme"]}],
-        "areaServed": [{"@type": "City", "name": n} for n in ["Ins", "Anet", "Sugiez", "Mont-Vully", "Murten / Morat", "Kerzers / Chiètres",
-                                                             "Avenches", "La Neuveville", "Neuchâtel", "Biel/Bienne", "Lyss"]],
+        "areaServed": [{"@type": "City", "name": n} for n in ["Ins", "Anet"] + [ZON[x]["commune"] for x in ZA]],
         "availableLanguage": ["fr", "es"], "sameAs": [GBP]}
     full = SITE + url
     tipo = meta.get("tipo")
@@ -541,6 +587,21 @@ def jsonld(slug, url, meta, R, plantilla):
         page["about"] = {"@type": "MedicalCondition", "name": meta.get("condicion") or meta["keyword_principal"]}
         page["provider"] = {"@id": SITE + "/#physiotherapy"}
     graph = [negocio, page]
+    nivel = {"zona": ("Nos zones", None), "patologia": ("Pathologies traitées", "/pour-les-patients/")}.get(tipo)
+    items = [{"@type": "ListItem", "position": 1, "name": "Accueil", "item": SITE + "/"}]
+    if nivel and nivel[1]:
+        items.append({"@type": "ListItem", "position": 2, "name": nivel[0], "item": SITE + nivel[1]})
+    if url != "/":
+        items.append({"@type": "ListItem", "position": len(items) + 1, "name": next(r["h1"] for r in R if r["tipo"] == "hero").split(" : ")[0], "item": full})
+        graph.append({"@type": "BreadcrumbList", "@id": full + "#breadcrumb", "itemListElement": items})
+        page["breadcrumb"] = {"@id": full + "#breadcrumb"}
+    if tipo == "zona":
+        z = ZON[meta["zona"]]
+        graph.append({"@type": "Service", "@id": full + "#service", "name": f"Physiothérapie pour les patients de {z['nom_titre']}",
+                      "serviceType": "Physiothérapie au cabinet et à domicile", "provider": {"@id": SITE + "/#physiotherapy"},
+                      "areaServed": {"@type": "City", "name": z["commune"], "sameAs": z["source_publique"],
+                                     "containedInPlace": {"@type": "AdministrativeArea", "name": f"Canton de {z['canton']}"}}})
+        page["about"] = {"@id": full + "#service"}
     if tipo == "apropos":
         for m in CLI["equipe"]:
             graph.append({"@type": "Person", "name": m["nom"], "jobTitle": "Physiothérapeute", "image": m["photo"],

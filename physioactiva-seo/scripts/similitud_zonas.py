@@ -18,7 +18,7 @@ def texto_zona(slug):
     for sec in soup.select("section"):
         cls = sec.get("class") or []
         t = sec.find("h2")
-        if any(c in cls for c in ("cta-band", "map")) or (t and re.match(r"Remboursement", t.get_text(strip=True))):
+        if any(c in cls for c in ("cta-band", "map", "insurers")) or (t and re.match(r"Remboursement", t.get_text(strip=True))):
             sec.decompose()
     for el in soup.select(".hero-cta, .hero-pills"):
         el.decompose()
