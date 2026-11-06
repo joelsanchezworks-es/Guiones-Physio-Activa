@@ -1,17 +1,17 @@
 ---
-title: "Physio à Sugiez – à domicile ou à Ins | Physio Activa"
-meta: "Physio à Sugiez et dans le Mont-Vully : au cabinet d'Ins ou à domicile, remboursé sur ordonnance (LAMal, LAA). Réservez en ligne ou par WhatsApp."
+title: "Physio à Sugiez et Vully – domicile ou Ins | Physio Activa"
+meta: "Physio dans le Vully, à Sugiez et alentour : au cabinet d'Ins ou à domicile, remboursé sur ordonnance (LAMal, LAA). Réservez en ligne ou par WhatsApp."
 slug: "/physio-a-sugiez/"
-keyword_principal: "physio sugiez"
+keyword_principal: "physio vully"
 tipo: "zona"
 zona: "sugiez"
 ---
 
-# Physio à Sugiez : au cabinet d'Ins ou à domicile
+# Physio à Sugiez et dans le Vully : au cabinet d'Ins ou à domicile
 
-Sugiez se trouve à environ 4,9 km en ligne droite de notre cabinet d'Ins : c'est l'une des localités les plus proches de Physio Activa. Vous pouvez venir au cabinet ou, sur ordonnance médicale, recevoir votre physio chez vous dans le Mont-Vully [À CONFIRMER : domicile toujours proposé à Sugiez]. Avec une prescription, les séances sont remboursées, et vous réservez en ligne, par téléphone ou par WhatsApp.
+Sugiez se trouve à environ 4,9 km en ligne droite de notre cabinet d'Ins : pour une physio dans le Vully, difficile de trouver plus proche que Physio Activa. Vous pouvez venir au cabinet ou, sur ordonnance médicale, recevoir votre physio chez vous dans le Mont-Vully [À CONFIRMER : domicile toujours proposé à Sugiez]. Avec une prescription, les séances sont remboursées, et vous réservez en ligne, par téléphone ou par WhatsApp.
 
-## Physiothérapie à domicile à Sugiez et environs
+## Physiothérapie à domicile à Sugiez et dans le Vully
 
 Le Mont-Vully regroupe plusieurs villages au bord du lac de Morat. Notre site mentionne déjà des visites à domicile à Sugiez, Praz, Môtier, Lugnorre et Guévaux ; pour Nant, Salavaux ou Cudrefin, demandez-nous simplement si votre adresse est desservie [À CONFIRMER : liste des villages et jours de passage dans le Vully].
 
@@ -58,6 +58,7 @@ Choisissez un créneau via la [réservation en ligne](/reservation-en-ligne/), a
 
 ## Notes pour l'équipe (ES)
 
+- Keywords locales (DataForSEO, Google Ads CH, 06.11.2026): «physio vully» (110) → keyword_principal, title y H1; no hay servicios locales en francés con volumen.
 - Datos de la ficha usados: 4,9 km en línea recta, comuna Mont-Vully, district du Lac, cantón de Friburgo, HFR Meyriez-Murten, localidades vecinas (Praz, Nant, Môtier, Lugnorre, Salavaux, Cudrefin).
 - De la web actual: pueblos a domicilio (Sugiez, Praz, Môtier, Lugnorre, Guévaux) y línea de tren Fribourg–Morat–Ins; la web dice «6 km», aquí se usa el dato de la ficha (4,9 km en línea recta).
 - Pendiente: confirmar domicilio en Sugiez, días de paso en el Vully y si Nant, Salavaux y Cudrefin entran en la zona.

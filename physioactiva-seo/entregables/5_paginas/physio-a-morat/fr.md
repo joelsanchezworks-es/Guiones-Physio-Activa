@@ -53,6 +53,7 @@ Indiquez-nous votre situation et votre ordonnance : nous vous proposerons une s�
 
 ## Notes pour l'équipe (ES)
 
+- Keywords locales (DataForSEO, Google Ads CH, 2026-11-06): sin volumen medible en francés; se mantiene «physio morat». Solo hay demanda en alemán (medizinische massage murten 10, lymphdrainage murten 10), que no se usa en el texto FR.
 - Datos de la ficha usados: 8,7 km en línea recta, idioma (mayoritariamente germanófona con minoría francófona), hospital HFR Meyriez-Murten, localidades vecinas (Meyriez, Muntelier, Greng, Courgevaux, Galmiz), distrito del Lac / Friburgo.
 - Pendiente: confirmar si se va a domicilio a Morat y a qué localidades, días de paso y plazo para la primera cita.
 - Lote B: no publicar hasta confirmación del cliente.

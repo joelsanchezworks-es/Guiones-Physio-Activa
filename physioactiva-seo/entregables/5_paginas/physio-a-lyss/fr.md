@@ -54,6 +54,7 @@ Choisissez votre créneau sur la [réservation en ligne](/reservation-en-ligne/)
 
 ## Notes pour l'équipe (ES)
 
+- Keywords locales (DataForSEO, Google Ads CH, 06.11.2026): «physio lyss» (390) → keyword_principal, title y H1; los servicios con volumen en Lyss son búsquedas en alemán (medizinische Massage 40, Lymphdrainage 40): no se usan en el texto francés.
 - Datos de la ficha usados: 17 km en línea recta, comuna germanófona, arrondissement administratif du Seeland (cantón de Berna), Spital Aarberg, localidades vecinas (Aarberg, Kappelen, Worben, Busswil, Grossaffoltern).
 - Pendiente: confirmar si se va a domicilio a Lyss y a qué localidades vecinas, y los días de paso.
 - Pendiente: plazo para la primera cita.

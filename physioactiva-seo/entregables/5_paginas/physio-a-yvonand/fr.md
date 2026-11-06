@@ -9,7 +9,7 @@ zona: "yvonand"
 
 # Physio à Yvonand : au cabinet d'Ins ou à domicile
 
-Une ordonnance de physiothérapie en poche et un domicile à Yvonand ? Physio Activa travaille depuis Ins, à environ 35,9 km en ligne droite, et vous propose des séances au cabinet ; le déplacement à domicile reste à confirmer pour votre secteur [À CONFIRMER : domicile à Yvonand]. Les séances prescrites sont remboursées, et un rendez-vous se prend en quelques clics en ligne.
+Une ordonnance de physiothérapie en poche et un domicile à Yvonand ? Physio Activa travaille depuis Ins, à environ 35,9 km en ligne droite, et vous propose des séances au cabinet ; le déplacement à domicile reste à confirmer pour votre secteur [À CONFIRMER : domicile à Yvonand]. Que la physiothérapie ait lieu à Yvonand, chez vous, ou à Ins, les séances prescrites sont remboursées, et un rendez-vous se prend en quelques clics en ligne.
 
 ## Physiothérapie à domicile à Yvonand et environs
 
@@ -55,7 +55,7 @@ Ces communes voisines d'Yvonand seraient regroupées avec les visites du secteur
 ## Notes pour l'équipe (ES)
 
 - Datos de la ficha usados: 35,9 km en línea recta, comuna francófona, distrito del Jura-Nord vaudois / Vaud, hospital eHnv Yverdon-les-Bains, localidades vecinas (Chêne-Pâquier, Démoret, Rovray, Cheyres-Châbles).
-- Keyword principal: «physio yvonand» (170/mes según la ficha).
+- Keywords locales (DataForSEO, Google Ads CH, 2026-11-06): physio yvonand 170 (principal), physiothérapie yvonand 50. Sin servicios locales con volumen ≥ 20: no se añade sección de servicios.
 - Pendiente: domicilio en Yvonand y alrededores, días de paso, plazo de primera cita.
 - Revisar con el cliente la frase sobre la cobertura LAMal entre cantones (Vaud → Berna).
 - Lote B: no publicar hasta confirmación del cliente.

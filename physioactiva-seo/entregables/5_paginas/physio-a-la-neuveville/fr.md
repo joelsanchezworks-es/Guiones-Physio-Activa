@@ -62,6 +62,7 @@ Le plus simple est la [réservation en ligne](/reservation-en-ligne/). Vous pouv
 
 ## Notes pour l'équipe (ES)
 
+- Keywords locales (DataForSEO, Google Ads CH, 06.11.2026): «physio la neuveville» (50) → keyword_principal, title y H1; sin otras variantes ni servicios locales en francés con volumen.
 - Datos de la ficha usados: 6,6 km en línea recta, comuna francófona, arrondissement administratif du Jura bernois, cantón de Berna, Centre hospitalier Bienne, localidades vecinas (Le Landeron, Gléresse, Prêles, Diesse).
 - Idiomas del equipo según `cliente.yml` (français, espagnol).
 - Pendiente: si se hace domicilio en La Neuveville y alrededores, y qué días.

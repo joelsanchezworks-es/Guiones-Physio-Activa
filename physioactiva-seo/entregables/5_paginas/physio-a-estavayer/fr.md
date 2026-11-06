@@ -9,7 +9,7 @@ zona: "estavayer"
 
 # Physio à Estavayer-le-Lac : au cabinet d'Ins ou à domicile
 
-Estavayer-le-Lac se trouve à environ 26,4 km en ligne droite d'Ins, dans la Broye fribourgeoise. Physio Activa vous accueille au cabinet d'Ins et étudie la possibilité de séances à domicile dans la Broye [À CONFIRMER : domicile à Estavayer]. La physiothérapie est remboursée sur prescription médicale, et vous pouvez réserver en ligne à toute heure.
+Estavayer-le-Lac se trouve à environ 26,4 km en ligne droite d'Ins, dans la Broye fribourgeoise. Physio Activa vous accueille au cabinet d'Ins et étudie la possibilité de séances à domicile dans la Broye [À CONFIRMER : domicile à Estavayer]. Que votre physiothérapie se fasse à Estavayer-le-Lac ou à Ins, elle est remboursée sur prescription médicale, et vous pouvez réserver en ligne à toute heure.
 
 ## Physiothérapie à domicile à Estavayer et environs
 
@@ -31,6 +31,11 @@ Le choix ci-dessous reflète des motifs fréquents chez les personnes actives co
 - [Genou](/douleur-du-genou-lesions-de-la-cheville/) : arthrose, ligament croisé, rééducation après arthroscopie.
 
 Liste complète : [toutes les pathologies](/pour-les-patients/).
+
+## Un service à connaître depuis Estavayer
+
+### Drainage lymphatique à Estavayer
+Après une opération du genou ou de la hanche, une entorse sévère ou en cas de lymphœdème, un gonflement peut persister plusieurs semaines : c'est la situation type pour un drainage lymphatique manuel, prescrit par le médecin. Vu les 26,4 km qui séparent Estavayer du cabinet, il se fera en principe à Ins, le domicile restant [À CONFIRMER : drainage à domicile dans la Broye fribourgeoise]. Pour comprendre la technique : [le drainage lymphatique chez Physio Activa](/drainage-lymphatique/).
 
 ## Remboursement
 
@@ -57,6 +62,6 @@ Choisissez un créneau en [réservation en ligne](/reservation-en-ligne/), ou co
 ## Notes pour l'équipe (ES)
 
 - Datos de la ficha usados: 26,4 km en línea recta, comuna francófona, distrito de la Broye / Friburgo, hospital HIB (sitio de Estavayer-le-Lac), localidades vecinas (Font, Cheyres-Châbles, Sévaz, Les Montets).
-- Keyword principal: «physio estavayer» (170/mes según la ficha).
+- Keywords locales (DataForSEO, Google Ads CH, 2026-11-06): physio estavayer 170 (principal), physiothérapie estavayer-le-lac 40, drainage lymphatique estavayer 40 (nueva sección).
 - Pendiente: domicilio en Estavayer y alrededores, días de paso, plazo de primera cita.
 - Lote B: no publicar hasta confirmación del cliente.

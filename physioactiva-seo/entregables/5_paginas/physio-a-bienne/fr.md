@@ -9,7 +9,7 @@ zona: "bienne"
 
 # Physio à Bienne (Biel) : au cabinet d'Ins ou à domicile
 
-Pour une physiothérapie en français depuis Bienne (Biel), Physio Activa vous accueille à Ins, à environ 18 km en ligne droite de la ville. Selon votre situation, une prise en charge à domicile peut aussi être organisée [À CONFIRMER : domicile à Bienne]. Les séances prescrites par un médecin sont remboursées, et un rendez-vous se prend en quelques clics.
+Vous cherchez un physiothérapeute à Bienne (Biel) qui vous soigne en français ? Physio Activa vous accueille à Ins, à environ 18 km en ligne droite de la ville. Selon votre situation, une prise en charge à domicile peut aussi être organisée [À CONFIRMER : domicile à Bienne]. Les séances prescrites par un médecin sont remboursées, et un rendez-vous se prend en quelques clics.
 
 ## Physiothérapie à domicile à Bienne et environs
 
@@ -29,6 +29,12 @@ Beaucoup de Biennois sont suivis au Centre hospitalier Bienne après une interve
 4. [Mal de dos et lombalgie](/mal-de-dos-lombaire/) : épisodes aigus ou douleurs installées depuis des mois.
 
 Vous ne trouvez pas votre problème ? Consultez [toutes les pathologies](/pour-les-patients/).
+
+## Un soin souvent recherché à Bienne
+
+### Drainage lymphatique à Bienne
+
+Après une opération au genou ou à la hanche, en cas de lymphœdème ou de jambes lourdes qui gonflent en fin de journée, le drainage lymphatique manuel relance la circulation de la lymphe par des gestes lents et légers. Sur prescription médicale, il fait partie d'un traitement de physiothérapie, au cabinet d'Ins ou à votre domicile biennois [À CONFIRMER : drainage à domicile à Bienne]. Toutes les informations sur notre page [drainage lymphatique à Ins](/drainage-lymphatique/).
 
 ## Remboursement
 
@@ -55,6 +61,6 @@ Prenez rendez-vous via la [réservation en ligne](/reservation-en-ligne/), au 07
 ## Notes pour l'équipe (ES)
 
 - Datos de la ficha usados: 18 km en línea recta, ciudad bilingüe (alemán y francés), cantón de Berna, Centre hospitalier Bienne, localidades vecinas (Nidau, Brügg, Port, Ipsach, Evilard).
-- keyword_principal «physio biel» (720 búsquedas); «physiothérapeute bienne» (320) queda cubierta en meta y texto.
+- Keywords locales (DataForSEO, Google Ads CH, 06.11.2026): «physio biel» (720) → keyword_principal y «Bienne (Biel)» en title/H1; «physiothérapeute bienne» (320) en meta e intro; «physiotherapie bienne» (320) en el H2 de domicilio; servicio: «drainage lymphatique bienne» (90). «physiotherapie biel» (720), «medizinische massage biel» y «lymphdrainage biel» (70) son alemán: no se usan en el texto.
 - Pendiente: confirmar el servicio a domicilio en Bienne y localidades vecinas, días de paso y plazo de la primera cita.
 - No se afirma colaboración con el Centre hospitalier Bienne.

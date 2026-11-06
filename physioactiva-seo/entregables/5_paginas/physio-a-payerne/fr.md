@@ -9,7 +9,7 @@ zona: "payerne"
 
 # Physio à Payerne : au cabinet d'Ins ou à domicile
 
-Payerne se situe à environ 24,1 km en ligne droite de notre cabinet d'Ins ; pour les patients de la Broye, des séances à domicile peuvent être envisagées [À CONFIRMER : domicile à Payerne]. La physiothérapie prescrite par un médecin est remboursée par votre assurance. Pour fixer un rendez-vous, utilisez notre agenda en ligne ou appelez-nous.
+Vous cherchez un physiothérapeute à Payerne ? Notre cabinet d'Ins se situe à environ 24,1 km en ligne droite et, pour les patients de la Broye, des séances à domicile peuvent être envisagées [À CONFIRMER : domicile à Payerne]. La physiothérapie prescrite par un médecin est remboursée par votre assurance. Pour fixer un rendez-vous, utilisez notre agenda en ligne ou appelez-nous.
 
 ## Physiothérapie à domicile à Payerne et environs
 
@@ -23,12 +23,19 @@ Payerne est une commune francophone, et vous serez suivi en français, ou en esp
 
 ## Ce que nous traitons
 
+Quelques motifs de consultation en physiothérapie à Payerne et dans la Broye :
+
 - [Hanche et prothèses](/douleur-de-hanche-protheses/) : rester actif malgré l'arthrose, ou retrouver une marche fluide après une prothèse.
 - [Mal de dos et lombalgie](/mal-de-dos-lombaire/) : douleurs liées au travail physique, au jardinage ou aux longues heures de conduite.
 - [Pied et cheville, fasciite plantaire](/douleur-pied-cheville-fasciite-plantaire/) : talon douloureux, cheville instable après une entorse.
 - [Douleur cervicale](/douleur-cervicale-au-cou/) : nuque bloquée, raideur au réveil, tensions qui remontent vers la tête.
 
 Autres motifs : [toutes les pathologies](/pour-les-patients/).
+
+## Un soin ciblé pour les jambes et les bras gonflés
+
+### Drainage lymphatique à Payerne
+Le drainage lymphatique manuel s'adresse aux personnes qui gardent un membre enflé, par exemple après la pose d'une prothèse, une fracture ou le traitement d'un cancer. Il se pratique sur prescription médicale, au cabinet d'Ins ou chez vous si le domicile est possible dans la Broye [À CONFIRMER : drainage à domicile à Payerne]. Indications et déroulement : [notre page sur le drainage lymphatique](/drainage-lymphatique/).
 
 ## Remboursement
 
@@ -54,6 +61,7 @@ Réservez votre séance sur la [réservation en ligne](/reservation-en-ligne/), 
 
 ## Notes pour l'équipe (ES)
 
+- Keywords locales (DataForSEO, Google Ads CH, 2026-11-06): physio payerne 320 (principal), physiothérapie payerne 140, physiothérapeute payerne 140, drainage lymphatique payerne 50 (nueva sección).
 - Datos de la ficha usados: 24,1 km en línea recta, comuna francófona, district de la Broye-Vully (cantón de Vaud), HIB (site de Payerne), localidades vecinas (Corcelles-près-Payerne, Grandcour, Trey, Valbroye).
 - Las 4 preguntas de la FAQ son las de `faq_locales_serp`.
 - Pendiente: tarifa por sesión y la nueva tarifa (no se dan cifras). Se ha evitado afirmar tiers payant.

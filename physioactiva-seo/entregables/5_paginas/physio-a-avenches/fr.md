@@ -1,15 +1,15 @@
 ---
-title: "Physio à Avenches – à domicile ou à Ins | Physio Activa"
-meta: "Physiothérapie pour Avenches et la Broye-Vully : à domicile ou au cabinet d'Ins, remboursée sur ordonnance (LAMal, LAA). Prenez rendez-vous en ligne."
+title: "Physiothérapie à Avenches – domicile ou Ins | Physio Activa"
+meta: "Physiothérapie à Avenches et dans la Broye-Vully : à domicile ou au cabinet d'Ins, remboursée sur ordonnance (LAMal, LAA). Prenez rendez-vous en ligne."
 slug: "/physio-a-avenches/"
 keyword_principal: "physiothérapie avenches"
 tipo: "zona"
 zona: "avenches"
 ---
 
-# Physio à Avenches : au cabinet d'Ins ou à domicile
+# Physiothérapie à Avenches : au cabinet d'Ins ou à domicile
 
-Habitant d'Avenches, vous êtes à environ 14,8 km en ligne droite de Physio Activa, installé à Ins. Selon votre situation, la physiothérapie peut se faire au cabinet ou à votre domicile [À CONFIRMER : déplacements à Avenches]. Prescrites par un médecin, les séances sont remboursées par votre assurance ; un rendez-vous se prend en quelques clics, par téléphone ou par WhatsApp.
+Habitant d'Avenches, vous êtes à environ 14,8 km en ligne droite de Physio Activa, installé à Ins. Selon votre situation, les séances de physio ont lieu au cabinet ou à votre domicile [À CONFIRMER : déplacements à Avenches]. Prescrites par un médecin, les séances sont remboursées par votre assurance ; un rendez-vous se prend en quelques clics, par téléphone ou par WhatsApp.
 
 ## Physiothérapie à domicile à Avenches et environs
 
@@ -62,8 +62,8 @@ Fixez votre premier rendez-vous avec la [réservation en ligne](/reservation-en-
 
 ## Notes pour l'équipe (ES)
 
+- Keywords locales (DataForSEO, Google Ads CH, 06.11.2026): «physiothérapie avenches» (50) → keyword_principal, title y H1; «drainage lymphatique avenches» (10) no llega al umbral de 20: sin sección de servicios.
 - Datos de la ficha usados: 14,8 km en línea recta, comuna Avenches, district de la Broye-Vully, cantón de Vaud, HIB (Payerne), localidades vecinas (Faoug, Donatyre, Oleyres, Salavaux, Domdidier).
-- Keyword principal de la ficha: «physiothérapie avenches».
 - Pendiente: domicilio en Avenches y pueblos vecinos, días de paso.
 - Sin tiempos de trayecto, plazos ni horarios (no hay fuente).
 - Ángulo diferencial: paciente vaudois tratado en cantón de Berna (LAMal federal).

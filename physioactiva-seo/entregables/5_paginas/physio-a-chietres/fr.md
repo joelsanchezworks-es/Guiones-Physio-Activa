@@ -54,6 +54,7 @@ Le plus simple est de [réserver en ligne](/reservation-en-ligne/). Vous pouvez 
 
 ## Notes pour l'équipe (ES)
 
+- Keywords locales (DataForSEO, Google Ads CH, 2026-11-06): sin volumen medible en francés ni servicios locales; se mantiene «physio chiètres».
 - Datos de la ficha usados: 7,6 km en línea recta, comuna germanófona, distrito del Lac / Friburgo, localidades vecinas (Fräschels, Ried bei Kerzers, Galmiz, Agriswil).
 - No se menciona el hospital (HFR Meyriez-Murten) para diferenciar de la página de Morat.
 - Pendiente: domicilio en Chiètres, localidades cubiertas, días de paso, plazo de primera cita y si se atiende en alemán.

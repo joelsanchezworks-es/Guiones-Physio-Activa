@@ -1,6 +1,6 @@
 ---
 title: "Physio à Yverdon – à domicile ou à Ins | Physio Activa"
-meta: "Physio pour Yverdon-les-Bains : cabinet à Ins, à 43 km, domicile à confirmer. Remboursé sur ordonnance (LAMal, LAA). Contactez-nous pour en parler."
+meta: "Physio à Yverdon : pas de cabinet sur place, nous recevons à Ins (43 km) ; domicile à confirmer. Remboursé sur ordonnance LAMal, LAA. Contactez-nous."
 slug: "/physio-a-yverdon/"
 keyword_principal: "physio yverdon"
 tipo: "zona"
@@ -9,17 +9,17 @@ zona: "yverdon"
 
 # Physio à Yverdon-les-Bains : au cabinet d'Ins ou à domicile
 
-Soyons clairs dès le départ : Physio Activa n'a pas de cabinet à Yverdon-les-Bains. Notre unique adresse se trouve à Ins (Rämismatte 21), à environ 43 km en ligne droite, et les visites à domicile à Yverdon sont [À CONFIRMER : déplacements à Yverdon-les-Bains possibles ou non]. Sur ordonnance, la physiothérapie est remboursée par la LAMal, la LAA, l'AI ou l'AM ; pour vérifier ce qui est possible pour vous, appelez-nous ou réservez en ligne.
+Vous cherchez un physiothérapeute à Yverdon-les-Bains ? Soyons clairs dès le départ : Physio Activa n'y a pas de cabinet. Notre unique adresse se trouve à Ins (Rämismatte 21), à environ 43 km en ligne droite, et les visites à domicile à Yverdon sont [À CONFIRMER : déplacements à Yverdon-les-Bains possibles ou non]. Sur ordonnance, la physiothérapie est remboursée par la LAMal, la LAA, l'AI ou l'AM ; pour vérifier ce qui est possible pour vous, appelez-nous ou réservez en ligne.
 
 ## Physiothérapie à domicile à Yverdon-les-Bains et environs
 
-Yverdon-les-Bains, chef-lieu du district du Jura-Nord vaudois, se situe en dehors de la zone que nous desservons habituellement à domicile (Seeland et Trois-Lacs). Une prise en charge à Yverdon ou dans les communes voisines, comme Grandson, Montagny-près-Yverdon, Cheseaux-Noréaz ou Treycovagnes, reste donc [À CONFIRMER : couverture de ces localités, jours de passage et délai du premier rendez-vous].
+Yverdon-les-Bains, chef-lieu du district du Jura-Nord vaudois, se situe en dehors de la zone que nous desservons habituellement à domicile (Seeland et Trois-Lacs). Une physiothérapie à Yverdon même ou dans les communes voisines, comme Grandson, Montagny-près-Yverdon, Cheseaux-Noréaz ou Treycovagnes, reste donc [À CONFIRMER : couverture de ces localités, jours de passage et délai du premier rendez-vous].
 
-Le traitement à domicile s'adresse surtout aux personnes qui ne peuvent pas se déplacer : retour à la maison après une opération, mobilité réduite, grand âge. Dans ce cas, l'ordonnance doit mentionner les séances à domicile. Plus d'informations sur notre page [physiothérapie à domicile](/physiotherapeute-a-domicile/).
+Le domicile s'adresse surtout aux personnes qui ne peuvent pas se déplacer (retour d'opération, mobilité réduite, grand âge) ; l'ordonnance doit alors le mentionner. Voir notre page [physiothérapie à domicile](/physiotherapeute-a-domicile/).
 
 ## Venir au cabinet d'Ins depuis Yverdon-les-Bains
 
-Si vous pouvez vous déplacer, par exemple parce que vous travaillez dans le Seeland ou que vous y passez régulièrement, le cabinet se trouve à environ 43 km en ligne droite d'Yverdon, dans le bâtiment de l'InsGym. L'espace d'entraînement sur place permet de poursuivre les exercices dans de bonnes conditions. Ins se trouve dans le canton de Berne, mais vous y êtes accueilli en français comme à Yverdon. L'adresse, le plan et les accès figurent sur la page [Nous trouver](/nous-trouver/).
+Si vous pouvez vous déplacer, par exemple parce que vous travaillez dans le Seeland ou que vous y passez régulièrement, le cabinet se trouve à environ 43 km en ligne droite d'Yverdon, dans le bâtiment de l'InsGym, avec un espace d'entraînement pour les exercices. Ins se trouve dans le canton de Berne, mais vous y êtes accueilli en français comme à Yverdon. L'adresse, le plan et les accès figurent sur la page [Nous trouver](/nous-trouver/).
 
 Vous sortez de l'eHnv à Yverdon-les-Bains après une hospitalisation ou une intervention ? Nous pouvons assurer la suite de la rééducation sur la base de la prescription remise à votre sortie.
 
@@ -32,6 +32,14 @@ Vous sortez de l'eHnv à Yverdon-les-Bains après une hospitalisation ou une int
 
 Pour les autres motifs de consultation, consultez [toutes les pathologies](/pour-les-patients/).
 
+## Drainage et physio du sport : ce qui est possible depuis Yverdon
+
+### Drainage lymphatique à Yverdon
+Le drainage lymphatique manuel vise à diminuer un œdème ou un lymphœdème, par exemple après une chirurgie orthopédique ou un traitement oncologique, et se pratique sur ordonnance médicale. Comme les séances peuvent être rapprochées, les 43 km jusqu'à Ins pèsent lourd : nous vous dirons franchement si un suivi est réaliste [À CONFIRMER : drainage à domicile dans la région d'Yverdon]. En savoir plus : [drainage lymphatique](/drainage-lymphatique/).
+
+### Physio du sport depuis Yverdon
+Après une entorse, une tendinopathie ou une opération du genou, la physio du sport travaille la force, l'équilibre et le retour progressif à votre discipline. Cette partie active se fait sur les appareils d'InsGym, donc au cabinet d'Ins : c'est surtout pertinent si vous vous entraînez ou travaillez dans le Seeland. Notre approche : [physio du sport](/physio-du-sport/).
+
 ## Remboursement
 
 Avec une ordonnance médicale, la physiothérapie est prise en charge par l'assurance obligatoire des soins (LAMal), l'assurance accidents (LAA), l'assurance invalidité (AI) ou l'assurance militaire (AM). Dans le cadre de la LAMal, la franchise et la quote-part de votre contrat s'appliquent. Apportez votre ordonnance et votre carte d'assuré à la première séance.
@@ -40,7 +48,7 @@ Avec une ordonnance médicale, la physiothérapie est prise en charge par l'assu
 
 ### Avez-vous un cabinet à Yverdon-les-Bains ?
 
-Non. Notre seul cabinet est à Ins, à environ 43 km en ligne droite d'Yverdon. Nous ne voulons pas laisser croire le contraire : c'est pourquoi nous vous conseillons de nous appeler avant de réserver.
+Non. Notre seul cabinet est à Ins, à environ 43 km en ligne droite d'Yverdon. Que vous cherchiez un physio, un physiothérapeute ou un « kiné » à Yverdon, nous préférons ne pas laisser croire le contraire : appelez-nous avant de réserver.
 
 ### Venez-vous à domicile à Grandson ou à Treycovagnes ?
 
@@ -60,6 +68,7 @@ Décrivez-nous votre situation : nous vous dirons franchement si un suivi à Ins
 
 ## Notes pour l'équipe (ES)
 
+- Keywords locales (DataForSEO, Google Ads CH, 2026-11-06): physio yverdon 480 (principal; «physiotherapie yverdon» 480 se cubre con «physiothérapie»), physiothérapie yverdon 260, physiothérapeute yverdon 260, kiné yverdon 70 (una mención), physiothérapie/physiothérapeute yverdon-les-bains 50+50, drainage lymphatique yverdon 170 y physio sport yverdon 30 (nueva sección).
 - BORRADOR: no publicar hasta que el cliente confirme si atiende a domicilio en Yverdon (la home no incluye Yverdon en la zona a domicilio).
 - Datos de la ficha usados: 43,5 km en línea recta (redondeado a «environ 43 km»), distrito Jura-Nord vaudois, idioma francófono, hospital eHnv Yverdon-les-Bains, localidades vecinas Grandson, Montagny-près-Yverdon, Cheseaux-Noréaz, Treycovagnes.
 - `faq_locales_serp` vacío: FAQ construida solo con datos de la ficha y del cliente.
