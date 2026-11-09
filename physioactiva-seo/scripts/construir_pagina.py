@@ -660,14 +660,7 @@ def jsonld(slug, url, meta, R, plantilla):
         page["about"] = {"@type": "MedicalCondition", "name": meta.get("condicion") or meta["keyword_principal"]}
         page["provider"] = {"@id": SITE + "/#physiotherapy"}
     graph = [negocio, page]
-    nivel = {"zona": ("Nos zones", None), "patologia": ("Pathologies traitées", "/pour-les-patients/")}.get(tipo)
-    items = [{"@type": "ListItem", "position": 1, "name": "Accueil", "item": SITE + "/"}]
-    if nivel and nivel[1]:
-        items.append({"@type": "ListItem", "position": 2, "name": nivel[0], "item": SITE + nivel[1]})
-    if url != "/":
-        items.append({"@type": "ListItem", "position": len(items) + 1, "name": next(r["h1"] for r in R if r["tipo"] == "hero").split(" : ")[0], "item": full})
-        graph.append({"@type": "BreadcrumbList", "@id": full + "#breadcrumb", "itemListElement": items})
-        page["breadcrumb"] = {"@id": full + "#breadcrumb"}
+    # BreadcrumbList: lo genera Yoast en su @graph; no se duplica aquí (ajuste 2026-11-09).
     if tipo == "zona":
         z = ZON[meta["zona"]]
         graph.append({"@type": "Service", "@id": full + "#service", "name": f"Physiothérapie pour les patients de {z['nom_titre']}",

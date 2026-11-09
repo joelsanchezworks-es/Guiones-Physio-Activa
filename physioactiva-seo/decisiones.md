@@ -100,3 +100,7 @@ Una línea por decisión. Fecha de la ejecución: 2026-11-06.
 - Diseño pedido por el cliente: la CTA final (tras la FAQ) lleva foto de fondo de la plantilla (salle de traitement) con capa oscura y acciones al estilo de la referencia (botón «Réserver maintenant» · «ou» · WhatsApp redondo · «Appelez-nous directement» + teléfono grande). Estilos en línea con las variables de la plantilla, sin clases nuevas.
 - Mapa: iframe de Google Maps embebido con la ficha del lugar (nombre, dirección, nota y «Ouvrir dans Maps»), `loading="lazy"`, en lugar de la fachada con enlace.
 - Equipo: solo en la home y en À propos; las páginas de ciudad no lo llevan.
+
+## Guía de montaje (2026-11-09)
+- `entregables/6_elementor/GUIA_SEO_MONTAJE.md`: prácticas SEO para el montaje y el mantenimiento (WordPress/Yoast/Elementor, indexación, on-page, Core Web Vitals, ficha de Google, enlaces, medición GA4/GSC, plan a 12 meses y comprobaciones tras publicar).
+- Se quita el `BreadcrumbList` propio del JSON-LD: Yoast ya lo genera en su @graph y estaría duplicado.

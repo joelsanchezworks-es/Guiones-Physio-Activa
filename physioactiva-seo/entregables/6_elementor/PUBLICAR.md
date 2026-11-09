@@ -1,5 +1,7 @@
 # Cómo publicar el sitio en Elementor
 
+> Antes de empezar, lee `GUIA_SEO_MONTAJE.md`: ajustes de WordPress/Yoast/Elementor, rendimiento, ficha de Google, medición y comprobaciones después del montaje.
+
 ## 0. Antes de nada (prueba)
 1. Crear una página de borrador, importar `accueil/elementor.json` y `mal-de-dos-lombaire/elementor.json` (Elementor → carpeta Mis plantillas → Importar → Insertar) y comprobar en móvil y escritorio que el diseño es el de la plantilla, sin elementos rotos.
 2. Configurar las páginas con **«Elementor Canvas»** (si el header y el footer vienen del Theme Builder: «Elementor Pleine largeur») y **título del tema oculto**, para que no salga un segundo H1. Los JSON ya llevan `hide_title: yes`.

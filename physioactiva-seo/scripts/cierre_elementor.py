@@ -160,6 +160,8 @@ pub_fichas = "\n".join(fichas)
 lista_urls = "\n".join("https://physioactiva.ch" + next(x for x in PAGINAS if x[0] == s_)[1] for s_ in ORDEN)
 pub = f"""# Cómo publicar el sitio en Elementor
 
+> Antes de empezar, lee `GUIA_SEO_MONTAJE.md`: ajustes de WordPress/Yoast/Elementor, rendimiento, ficha de Google, medición y comprobaciones después del montaje.
+
 ## 0. Antes de nada (prueba)
 1. Crear una página de borrador, importar `accueil/elementor.json` y `mal-de-dos-lombaire/elementor.json` (Elementor → carpeta Mis plantillas → Importar → Insertar) y comprobar en móvil y escritorio que el diseño es el de la plantilla, sin elementos rotos.
 2. Configurar las páginas con **«Elementor Canvas»** (si el header y el footer vienen del Theme Builder: «Elementor Pleine largeur») y **título del tema oculto**, para que no salga un segundo H1. Los JSON ya llevan `hide_title: yes`.
@@ -227,6 +229,6 @@ body{{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,sans
 th,td{{border-bottom:1px solid var(--line);padding:7px 8px;text-align:left;vertical-align:top}}th{{background:var(--soft)}}td.n{{text-align:right}}a{{color:var(--acc)}}p{{color:var(--mut)}}</style></head><body><main>
 <h1>Páginas Elementor de physioactiva.ch</h1><p>{len(PAGINAS)} JSON importables (16 del menú + 9 de patologías, hub y reserva). Cada fila enlaza a la previsualización. Lote A = publicable · B = zonas en borrador (noindex hasta confirmación) · C = páginas ya redactadas de más valor SEO.</p>
 <div class="tw"><table><thead><tr><th>Lote</th><th>URL (previsualización)</th><th>H1</th><th>Plantilla</th><th>Estado</th><th>[À CONFIRMER]</th><th>Archivos</th></tr></thead><tbody>{rows}</tbody></table></div>
-<p>Documentos: <a href="PUBLICAR.md">PUBLICAR.md</a> · <a href="PREGUNTAS_CLIENTE.md">PREGUNTAS_CLIENTE.md</a> · <a href="menu.md">menu.md</a> · <a href="redirecciones.csv">redirecciones.csv</a> · <a href="validacion.md">validacion.md</a> · <a href="pendientes_imagenes.md">pendientes_imagenes.md</a> · CSS/JS global en <code>global/</code>.</p>
+<p>Documentos: <a href="GUIA_SEO_MONTAJE.md">GUIA_SEO_MONTAJE.md</a> · <a href="PUBLICAR.md">PUBLICAR.md</a> · <a href="PREGUNTAS_CLIENTE.md">PREGUNTAS_CLIENTE.md</a> · <a href="menu.md">menu.md</a> · <a href="redirecciones.csv">redirecciones.csv</a> · <a href="validacion.md">validacion.md</a> · <a href="pendientes_imagenes.md">pendientes_imagenes.md</a> · CSS/JS global en <code>global/</code>.</p>
 </main></body></html>""")
 print("preguntas:", {k: len(v) for k, v in preg.items()})
