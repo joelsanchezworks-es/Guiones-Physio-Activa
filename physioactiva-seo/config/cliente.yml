@@ -18,9 +18,9 @@ reservation: "/reservation-en-ligne/"
 onedoc_url: "https://www.onedoc.ch/fr/cabinet-de-physiotherapie/anet/ebdut/physioactiva"   # enlace publicado en el sitio actual
 nous_trouver: "/nous-trouver/"
 contact: "/contact/"
-horaires: "[À CONFIRMER : lun–ven 8h30–19h30 (fiche Google) ou jusqu'à 20h (site)]"
-horaires_schema: {jours: [Monday, Tuesday, Wednesday, Thursday, Friday], ouvre: "08:30", ferme: "19:30"}
-assurances: "LAMal, LAA, AI, AM sur prescription médicale"
+horaires: "du lundi au vendredi, jusqu'à 20h"   # web physioactiva.ch (indicación del cliente, 2026-11-09)
+horaires_schema: {jours: [Monday, Tuesday, Wednesday, Thursday, Friday], ouvre: "08:30", ferme: "20:00"}   # apertura 08:30 según la ficha de Google
+assurances: "Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
 equipe:
   - nom: Francisco Díaz
     titre: "[À CONFIRMER : titre et formation]"

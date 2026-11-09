@@ -140,6 +140,9 @@ for p in PAGINAS:
     n_wa = sum(1 for a in soup.select("a[href*='wa.me']"))
     checks["receta: CTA repetidos (reserva ≥ 3, teléfono ≥ 2, WhatsApp ≥ 2)"] = n_res >= 3 and n_tel >= 2 and n_wa >= 2
     notas.append(f"receta: ciudad en {n_h2c} H2 · FAQ {len(faq_vis)} · CTA reserva {n_res} / tel {n_tel} / WhatsApp {n_wa} · palabras visibles {len(vis.split())}")
+    prohib = sorted(set(m.lower() for m in re.findall(r"ordonnance|prescri\w*|LAMal|\bLAA\b|franchise|quote-part|rembours\w*", vis, re.I)))
+    checks["v3: sin receta ni detalle de seguro"] = not prohib
+    if prohib: notas.append("términos a quitar: " + ", ".join(prohib))
     n_conf = vis.count("[À CONFIRMER")
     ok = all(checks.values())
     filas.append((slug, ok, checks, notas, lote, url, plantilla, n_conf))

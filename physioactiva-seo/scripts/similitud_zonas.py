@@ -1,5 +1,5 @@
 """Regla antipuerta: similitud entre páginas de zona (shingles de 5 palabras) y nº de datos propios de zonas.yml.
-Se excluyen el bloque común «Remboursement», el hero (pills y botones), la CTA y el mapa."""
+Se excluyen el bloque común «Remboursement» o «Assurances et horaires», el hero (pills y botones), la CTA y el mapa."""
 import json, re, pathlib, itertools, sys, unicodedata, yaml
 from bs4 import BeautifulSoup
 BASE = pathlib.Path(__file__).resolve().parent.parent
@@ -18,7 +18,7 @@ def texto_zona(slug):
     for sec in soup.select("section"):
         cls = sec.get("class") or []
         t = sec.find("h2")
-        if any(c in cls for c in ("cta-band", "map", "insurers")) or (t and re.match(r"Remboursement", t.get_text(strip=True))):
+        if any(c in cls for c in ("cta-band", "map", "insurers")) or (t and re.match(r"Remboursement|Assurances et horaires", t.get_text(strip=True))):
             sec.decompose()
     for el in soup.select(".hero-cta, .hero-pills"):
         el.decompose()

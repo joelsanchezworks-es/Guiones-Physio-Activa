@@ -329,26 +329,31 @@ def c_faq(r):
     return f'<section>\n  <div class="wrap center"><span class="eyebrow center">FAQ</span><h2 class="title">{esc(r["h2"])}</h2></div>\n  <div class="wrap"><div class="faq-list">{items}</div></div>\n</section>'
 
 
+CTA_FONDO = FOTOS["salle"]
+
+
 def c_cta(r):
-    s2 = f'<p class="s2">{r["s2"]}</p>' if r.get("s2") else ""
-    return f"""<section class="cta-band">
+    s2 = f'<p class="s2">{r["s2"]}</p>' if r.get("s2") else '<p class="s2">Au cabinet d\'Ins ou à domicile, du lundi au vendredi jusqu\'à 20h.</p>'
+    fondo = (f"background:linear-gradient(rgba(8,18,32,.80),rgba(8,18,32,.80)),url('{r.get('fondo', CTA_FONDO)}') center/cover no-repeat")
+    return f"""<section class="cta-band" style="{fondo}">
   <div class="wrap reveal">
     <h2>{esc(r['h2'])}</h2>
     <p class="s1">{r['s1']}</p>{s2}
     <div class="cta-actions">
-      <a class="btn primary" href="{CLI['reservation']}"><i class="fa-solid fa-calendar-check"></i> <span>Prendre rendez-vous en ligne</span></a>
-      <a class="btn ghost" href="{esc(WA_PAGINA['href'])}"><i class="fa-brands fa-whatsapp"></i> <span>Contacter par WhatsApp</span></a>
-      <a class="btn ghost" href="{CLI['tel_href']}"><i class="fa-solid fa-phone"></i> <span>{esc(CLI['telephone'])}</span></a>
+      <a class="btn primary" href="{CLI['reservation']}"><span>Réserver maintenant</span> <i class="fa-solid fa-arrow-right"></i></a>
+      <span style="color:#fff;font-family:'Poppins';font-weight:600;font-size:20px">ou</span>
+      <a class="btn" href="{esc(WA_PAGINA['href'])}" aria-label="Écrivez-nous sur WhatsApp" style="width:60px;height:60px;padding:0;border-radius:50%;justify-content:center;font-size:26px"><i class="fa-brands fa-whatsapp"></i></a>
+      <a href="{CLI['tel_href']}" style="display:inline-flex;flex-direction:column;text-align:left;line-height:1.25"><span style="color:#fff;text-decoration:underline;font-size:16px">Appelez-nous directement</span><span style="color:var(--azure);font-family:'Poppins';font-weight:700;font-size:26px">{esc(CLI['telephone'])}</span></a>
     </div>
   </div>
 </section>"""
 
 
 def c_map(r):
+    from urllib.parse import quote
+    q = quote(f"{CLI['nom']}, {CLI['adresse']}")
     return f"""<section class="map" id="map">
-  <a class="map-facade" href="{CLI['maps_url']}" target="_blank" rel="noopener" aria-label="{esc(CLI['map_title'])} — ouvrir dans Google Maps">
-    <span class="map-facade-inner"><i class="fa-solid fa-location-dot"></i><strong>{esc(CLI['map_title'])}</strong><span>Ouvrir dans Google Maps</span></span>
-  </a>
+  <iframe src="https://maps.google.com/maps?q={q}&amp;hl=fr&amp;z=16&amp;output=embed" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" title="{esc(CLI['map_title'])}"></iframe>
 </section>"""
 
 
@@ -371,14 +376,14 @@ DESC_PATO = {
     "/douleur-pied-cheville-fasciite-plantaire/": "Fasciite plantaire, entorse de la cheville, tendinite d'Achille ou périostite.",
     "/douleur-de-hanche-protheses/": "Arthrose de la hanche et rééducation après une prothèse de hanche.",
 }
-PASOS = [("Ordonnance", "Votre médecin prescrit la physiothérapie ; apportez l'ordonnance et votre carte d'assuré à la première séance.", "fa-file-medical"),
+PASOS = [("Prise de rendez-vous", "Vous réservez en ligne, par téléphone ou par WhatsApp, au cabinet d'Ins ou à domicile.", "fa-calendar-check"),
          ("Bilan", "Un entretien et un examen permettent de comprendre l'origine de vos symptômes et de fixer des objectifs avec vous.", "fa-clipboard-list"),
          ("Séances au cabinet ou à domicile", "Le traitement se déroule au cabinet d'Ins ou chez vous, selon votre situation et la prescription.", "fa-house-medical"),
          ("Autonomie et prévention", "Des exercices à poursuivre seul et des conseils pour le quotidien, afin de limiter les récidives.", "fa-person-walking")]
-VALEURS = [("Sur prescription, remboursé LAMal / LAA", "Avec une ordonnance médicale, les séances sont prises en charge par la LAMal, la LAA, l'AI ou l'AM.", "fa-file-medical"),
+VALEURS = [("Reconnu par toutes les assurances", "Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse, quel que soit votre canton de résidence.", "fa-shield-heart"),
            ("Au cabinet ou à domicile", "Cabinet à l'InsGym, Rämismatte 21 à Ins, et séances à domicile dans le Seeland et les Trois-Lacs.", "fa-house-medical"),
            ("Bilan et plan de traitement", "La première séance commence par un entretien et un bilan ; les objectifs et le plan sont définis avec vous.", "fa-clipboard-list"),
-           ("Rendez-vous en ligne, par téléphone ou WhatsApp", "Réservation sur OneDoc, au 076 627 38 38 ou par WhatsApp au +41 76 627 38 38.", "fa-calendar-check")]
+           ("Rendez-vous en ligne, par téléphone ou WhatsApp", "Réservation sur OneDoc, au 076 627 38 38 ou par WhatsApp, du lundi au vendredi jusqu'à 20h.", "fa-calendar-check")]
 SUJET = {"mal-de-dos-lombaire": "le mal de dos", "douleur-cervicale-au-cou": "la douleur cervicale", "lesions-de-lepaule": "l'épaule",
          "douleur-du-genou-lesions-de-la-cheville": "le genou", "sciatique-hernie-discale": "la sciatique",
          "douleur-pied-cheville-fasciite-plantaire": "le pied et la cheville", "douleur-de-hanche-protheses": "la hanche"}
@@ -446,22 +451,22 @@ def receta(slug, url, plantilla, lote, carpeta, foto, alt, idx_zona=0):
     lim = 520 if plantilla == "lombaire" else 430   # plantilla: sub de lombaire ≈ 433 car. y de la home ≈ 300 (+20 % / +40 % home)
     sub, resto = partir_sub(intro_html, lim)
     if tipo == "zona":
-        pills = [f"Cabinet à Ins, à {str(zona['km_depuis_ins']).replace('.', ',')} km", "Sur prescription médicale", "LAMal · LAA · AI · AM"]
+        pills = [f"Cabinet à Ins, à {str(zona['km_depuis_ins']).replace('.', ',')} km", "Reconnu par toutes les assurances", "Ouvert jusqu'à 20h"]
         eyebrow_h = f"Physio · {zona['nom_titre']}"
     elif tipo == "home":
-        pills = ["Au cabinet d'Ins ou à domicile", "Sur prescription médicale", "Remboursé LAMal / LAA"]
+        pills = ["Au cabinet d'Ins ou à domicile", "Reconnu par toutes les assurances", "Ouvert jusqu'à 20h"]
         eyebrow_h = "Physiothérapie à Ins (Anet)"
     elif tipo == "reserva":
-        pills = ["En ligne, par téléphone ou WhatsApp", "Au cabinet d'Ins ou à domicile", "Sur prescription médicale"]
+        pills = ["En ligne, par téléphone ou WhatsApp", "Au cabinet d'Ins ou à domicile", "Ouvert jusqu'à 20h"]
         eyebrow_h = "Rendez-vous"
     elif tipo == "hub":
-        pills = ["Sur prescription médicale", "Au cabinet d'Ins ou à domicile", "Remboursé LAMal / LAA"]
+        pills = ["Reconnu par toutes les assurances", "Au cabinet d'Ins ou à domicile", "Ouvert jusqu'à 20h"]
         eyebrow_h = "Pathologies traitées"
     elif tipo == "apropos":
         pills = ["Physiothérapeutes à Ins", "Français et espagnol", "Au cabinet ou à domicile"]
         eyebrow_h = "Notre équipe"
     else:
-        pills = ["Sur prescription médicale", "Au cabinet d'Ins ou à domicile", "Remboursé LAMal / LAA"]
+        pills = ["Reconnu par toutes les assurances", "Au cabinet d'Ins ou à domicile", "Ouvert jusqu'à 20h"]
         eyebrow_h = "Physiothérapie à Ins · cabinet et domicile"
     R = [{"tipo": "hero", "eyebrow": eyebrow_h, "h1": texto(h1), "sub": sub, "pills": pills, "img": FOTOS[foto], "alt": alt,
           "video": tipo == "home", "cta": "Réserver sur OneDoc" if tipo == "reserva" else "Prendre rendez-vous",
@@ -531,7 +536,7 @@ def receta(slug, url, plantilla, lote, carpeta, foto, alt, idx_zona=0):
             continue
         if re.search(r"rembours", h2t, re.I) and plantilla == "lombaire" and listas:
             R.append({"tipo": "steps", **base, "bg": "assur-sec", "steps": [inline(li) for li in listas[0].find_all("li", recursive=False)],
-                      "after": [inline(b) for b in s["bloques"] if b.name == "p" and b not in intro_b], "btn": "Vous avez une prescription ? Prenez rendez-vous"})
+                      "after": [inline(b) for b in s["bloques"] if b.name == "p" and b not in intro_b], "btn": "Prendre rendez-vous"})
             continue
         if re.search(r"déroulement|se passe|étapes|comment réserver|réserver", h2t, re.I) and listas and not subs and plantilla == "lombaire":
             R.append({"tipo": "steps", **base, "bg": "assur-sec", "steps": [inline(li) for li in listas[0].find_all("li", recursive=False)],
