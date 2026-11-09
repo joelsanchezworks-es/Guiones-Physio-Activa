@@ -1,6 +1,6 @@
 ---
 title: "Physio à Neuchâtel – à domicile ou à Ins | Physio Activa"
-meta: "Physio à Neuchâtel : physiothérapie à domicile ou au cabinet d'Ins, drainage lymphatique, remboursement sur ordonnance (LAMal, LAA). Réservez en ligne."
+meta: "Physio à Neuchâtel : physiothérapie à domicile ou au cabinet d'Ins, drainage lymphatique, cabinet reconnu par toutes les assurances. Réservez en ligne."
 slug: "/physio-a-neuchatel/"
 keyword_principal: "physio neuchâtel"
 tipo: "zona"
@@ -9,13 +9,13 @@ zona: "neuchatel"
 
 # Physio à Neuchâtel : au cabinet d'Ins ou à domicile
 
-Vous cherchez un physiothérapeute à Neuchâtel ou sur le Littoral ? Physio Activa vous reçoit dans son cabinet d'Ins, à environ 13,4 km en ligne droite de la ville, et propose des séances à domicile dans plusieurs quartiers [À CONFIRMER : zone desservie à domicile]. Sur ordonnance, l'assurance rembourse le traitement ; la réservation se fait en ligne, par téléphone ou via WhatsApp.
+Vous cherchez un physiothérapeute à Neuchâtel ou sur le Littoral ? Physio Activa vous reçoit dans son cabinet d'Ins, à environ 13,4 km en ligne droite de la ville, et propose des séances à domicile dans plusieurs quartiers [À CONFIRMER : zone desservie à domicile]. Le cabinet est reconnu par toutes les assurances maladie en Suisse et ouvert du lundi au vendredi jusqu'à 20h ; la réservation se fait en ligne, par téléphone ou via WhatsApp.
 
 ## L'essentiel en bref
 
-### Sur prescription, remboursé LAMal / LAA
+### Reconnu par toutes les assurances
 
-Une prescription médicale suffit : caisse maladie ou assurance accidents prend en charge les séances, que le cabinet soit neuchâtelois ou bernois.
+Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse et accueille les patients quel que soit leur canton de résidence, Neuchâtel compris.
 
 ### Au cabinet d'Ins ou à domicile
 
@@ -51,7 +51,7 @@ Chez vous, nous travaillons directement sur les escaliers, la cuisine, la sortie
 
 ### Drainage lymphatique
 
-Jambes gonflées après une opération, lymphœdème, œdème qui tarde à se résorber : le drainage lymphatique manuel agit par des manœuvres lentes et douces, sur prescription [À CONFIRMER : drainage à domicile]. Détails sur la page [drainage lymphatique manuel](/drainage-lymphatique/).
+Jambes gonflées après une opération, lymphœdème, œdème qui tarde à se résorber : le drainage lymphatique manuel agit par des manœuvres lentes et douces [À CONFIRMER : drainage à domicile]. Détails sur la page [drainage lymphatique manuel](/drainage-lymphatique/).
 
 ### Physio du sport
 
@@ -63,9 +63,9 @@ Il cible les contractures de la nuque ou du dos qui limitent le mouvement, au se
 
 ## Comment se déroule votre prise en charge ?
 
-### Ordonnance
+### Prise de rendez-vous
 
-Généraliste, spécialiste ou hôpital à la sortie peuvent la rédiger.
+Agenda en ligne, téléphone ou WhatsApp : choisissez un créneau en semaine, jusqu'à 20h, compatible avec vos horaires de travail.
 
 ### Bilan
 
@@ -83,55 +83,41 @@ Le but est que vous gériez seul vos exercices et reconnaissiez les signes d'une
 
 Le cabinet se situe à l'InsGym, Rämismatte 21, 3232 Ins, soit à environ 13,4 km en ligne droite du centre de Neuchâtel. Notre site mentionne la ligne de train Neuchâtel–Fribourg–Morat–Ins pour venir sans voiture [À CONFIRMER : fréquence et arrêt]. Plan et accès : [Nous trouver](/nous-trouver/).
 
-Neuchâtel est une ville francophone du Littoral neuchâtelois ; Ins est en terre bernoise, mais l'équipe vous accueille en français. Pour les patients suivis au RHNe, site de Pourtalès, la physiothérapie peut s'inscrire dans la continuité d'un séjour hospitalier, sur prescription de votre médecin.
+Neuchâtel est une ville francophone du Littoral neuchâtelois ; Ins est en terre bernoise, mais l'équipe vous accueille en français. Pour les patients suivis au RHNe, site de Pourtalès, la physiothérapie peut s'inscrire dans la continuité d'un séjour hospitalier, selon les consignes de votre médecin.
 
-## Remboursement et coût de la physio à Neuchâtel
+## Assurances et horaires : physio à Neuchâtel
 
-### Assurance de base (LAMal)
-
-Sur prescription médicale, l'assurance obligatoire couvre la physiothérapie, que le cabinet soit dans le canton de Neuchâtel ou de Berne.
-
-### Accident, AI et AM
-
-En cas d'accident, l'assurance accidents (LAA) prend le relais ; l'assurance invalidité (AI) et l'assurance militaire (AM) couvrent les séances prescrites qui les concernent.
-
-### Ce qui détermine ce que vous payez
-
-Avec la LAMal, la franchise et la quote-part restent à votre charge. Les séances sont facturées selon la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué]. Apportez votre ordonnance et votre carte d'assuré.
+Physio Activa est reconnu par toutes les compagnies d'assurance maladie en Suisse et dispose de toutes les autorisations sanitaires nécessaires. Habiter le canton de Neuchâtel et se faire soigner à Ins, dans le canton de Berne, ne pose aucun problème : nous accueillons les patients quel que soit leur canton de résidence. Le cabinet est ouvert du lundi au vendredi, jusqu'à 20h, pratique après une journée de bureau ; réservez en ligne, au 076 627 38 38 ou sur WhatsApp.
 
 ## Questions fréquentes sur la physio à Neuchâtel
+
+### Quand dois-je consulter un physiothérapeute pour une douleur ?
+
+Quand une nuque, un dos ou un talon reste douloureux plus d'une semaine, limite vos mouvements ou vous réveille la nuit. Plus on traite tôt, plus le retour à la normale est simple, y compris pour reprendre la course sur les quais.
+
+### Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?
+
+Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.
+
+### Combien de séances me faut-il ?
+
+La durée du traitement varie selon votre situation, l'ancienneté de la douleur et vos objectifs. Lors de la première visite, nous établissons une estimation adaptée à votre cas.
 
 ### Quel est le rôle d'un physiothérapeute ?
 
 Il évalue votre mouvement, traite la douleur par des techniques manuelles et vous guide dans des exercices adaptés. Le diagnostic reste du ressort du médecin.
 
-### Est-ce que la physiothérapie est remboursée ?
-
-Oui, lorsqu'elle est prescrite. La LAMal couvre les séances après franchise et quote-part ; après un accident de travail ou de loisir, c'est la LAA.
-
 ### Venez-vous à Peseux, Auvernier ou Saint-Blaise ?
 
 Ces communes du Littoral, comme Hauterive et La Tène (Marin-Epagnier), sont voisines de la ville. Leur prise en charge à domicile se vérifie au cas par cas [À CONFIRMER : communes desservies].
 
-### Quel est le prix d'une séance de physiothérapie en Suisse ?
-
-Il découle de la structure tarifaire nationale négociée entre la profession et les assureurs, et non d'un prix libre fixé par chaque cabinet [À CONFIRMER : tarif appliqué].
-
 ### Comment savoir si j'ai besoin d'un drainage lymphatique ?
 
-Un membre qui reste gonflé, lourd ou tendu après une opération ou un traitement contre le cancer doit être examiné par un médecin. C'est lui qui confirme l'indication et prescrit le drainage.
-
-### Qui prescrit un drainage lymphatique ?
-
-Votre médecin traitant, un spécialiste ou l'hôpital à votre sortie, par exemple après une intervention au RHNe. Avec cette ordonnance, le drainage est réalisé et remboursé comme une séance de physiothérapie.
+Un membre qui reste gonflé, lourd ou tendu après une opération ou un traitement contre le cancer doit être examiné par un médecin. C'est lui qui confirme si un drainage est indiqué.
 
 ### Quelle est la différence entre un massage thérapeutique et un massage de détente ?
 
-Le massage thérapeutique répond à un problème précis, une contracture ou une tension qui limite le mouvement, et s'intègre à un traitement prescrit. Le massage de détente vise le bien-être, sans prise en charge par l'assurance de base.
-
-### Un résident d'un autre canton peut-il se faire soigner dans le canton de Berne ?
-
-Oui. La LAMal étant fédérale, vos séances sur ordonnance sont remboursées de la même manière, que vous habitiez la ville ou le Littoral.
+Le massage thérapeutique répond à un problème précis, une contracture ou une tension qui limite le mouvement, et s'intègre à un plan de physiothérapie. Le massage de détente vise le bien-être.
 
 ### C'est quoi une séance de physiothérapie ?
 
@@ -139,7 +125,7 @@ Un rendez-vous individuel qui associe bilan, traitement manuel, exercices et con
 
 ### Après une hospitalisation à Pourtalès, quand commencer ?
 
-Dès que l'ordonnance de sortie est établie. Apportez les consignes de l'hôpital pour que nous respections les délais de cicatrisation.
+Dès votre retour à la maison, si le médecin n'a pas fixé d'autre délai. Apportez les consignes de l'hôpital pour que nous respections les délais de cicatrisation.
 
 ## Besoin d'un physio à Neuchâtel ou dans les environs ?
 
@@ -151,5 +137,6 @@ Réservez votre première séance via la [réservation en ligne](/reservation-en
 - Datos de la ficha usados: 13,4 km en línea recta, francófona, Littoral neuchâtelois, cantón de Neuchâtel, RHNe – site de Pourtalès, localidades vecinas (Hauterive, Saint-Blaise, La Tène, Auvernier, Peseux).
 - FAQ: las de `faq_locales_serp` (rôle, remboursée, prix en Suisse) + banco PAA (drainage, prescripción, massage, séance) + 3 locales.
 - De la web actual: barrios a domicilio (Serrières, La Coudre, Monruz, Vauseyon) y línea Neuchâtel–Fribourg–Morat–Ins; sin tiempos de trayecto.
-- Pendiente: zona real a domicilio, días de paso, drainage a domicilio, tarifa aplicada, frecuencia del tren.
+- Pendiente: zona real a domicilio, días de paso, drainage a domicilio, frecuencia del tren.
+- Ajuste v3: sin receta ni detalle de seguro; FAQ estándar; horario hasta las 20h. FAQ: 3 estándar + 6 existentes (se quitan «remboursée», «prix», «qui prescrit», «autre canton»).
 - «L'agenda en ligne reste ouvert le soir»: se refiere a la reserva online 24/7; confirmar que es así.

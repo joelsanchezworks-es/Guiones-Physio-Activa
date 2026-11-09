@@ -48,9 +48,17 @@ Cette liste n'est pas exhaustive. Contactez-nous : nous évaluons votre situatio
 
 ## Questions fréquentes
 
-### Faut-il un diagnostic avant de venir en physiothérapie ?
+### Quand dois-je consulter un physiothérapeute pour une douleur ?
 
-Pour un remboursement par la LAMal, la LAA, l'AI ou l'AM, une prescription médicale est nécessaire. Le diagnostic médical est posé par le médecin ; le physiothérapeute réalise ensuite son propre bilan pour adapter le traitement.
+Lorsqu'une douleur dure plus d'une semaine, limite vos mouvements, perturbe votre sommeil ou revient régulièrement, après une blessure ou une opération, ou pour retrouver de l'autonomie au quotidien. Plus on la traite tôt, plus c'est simple. En cas de signe d'alarme, consultez d'abord un médecin.
+
+### Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?
+
+Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.
+
+### Combien de séances me faut-il ?
+
+La durée du traitement varie selon votre situation, la zone concernée et vos objectifs. Lors de la première visite, nous établissons une estimation adaptée à votre cas.
 
 ### Je ne sais pas d'où vient ma douleur. Quelle page choisir ?
 
@@ -76,10 +84,6 @@ Le physiothérapeute évalue vos mouvements et votre fonction, puis vous accompa
 
 Il s'agit du même métier : en Suisse, on parle de physiothérapeute, alors qu'en France on dit plutôt kinésithérapeute ou kiné. Le nom change selon le pays et la formation.
 
-### Quand faire de la physiothérapie ?
-
-Par exemple pour une douleur qui dure ou revient, une raideur, après une blessure ou une opération, ou pour retrouver de l'autonomie au quotidien. Votre médecin vous prescrit la physiothérapie si elle est indiquée. En cas de signe d'alarme, consultez d'abord un médecin.
-
 ## Prendre rendez-vous
 
 Au cabinet à Ins (InsGym, Rämismatte 21) ou à domicile :
@@ -96,3 +100,4 @@ Au cabinet à Ins (InsGym, Rämismatte 21) ou à domicile :
 - Añadidas FAQ (5 preguntas) con señales de alarma y CTA con teléfono, WhatsApp y reserva. El brief no traía keywords ni PAA para este hub: la keyword «pathologies physiothérapie» no tiene volumen medido.
 - No quedan `[POR CONFIRMAR]` en esta página; confirmar que las páginas de cadera, suelo pélvico y ATM existen con esos slugs antes de publicar.
 - FAQ ampliada a 8 preguntas con preguntas reales de Google (`data/paa_banco.json` (este hub no tiene PAA en su brief)): «Quel est le rôle d'un physiothérapeute ?»; «Quelle est la différence entre un kinésithérapeute et un physiothérapeute ?»; «Quand faire de la physiothérapie ?».
+- Ajuste v3: sin receta ni detalle de seguro; FAQ estándar; horario hasta las 20h.

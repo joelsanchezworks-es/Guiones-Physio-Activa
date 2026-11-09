@@ -1,6 +1,6 @@
 ---
 title: "Physio à Ins (Anet) et à domicile | Physio Activa"
-meta: "Physio à Ins (Anet) et physiothérapie à domicile dans le Seeland et les Trois-Lacs. Remboursé sur ordonnance (LAMal, LAA). Réservez en ligne."
+meta: "Physio à Ins (Anet) et physiothérapie à domicile dans le Seeland et les Trois-Lacs. Reconnu par toutes les assurances maladie. Réservez en ligne."
 slug: "/"
 keyword_principal: "physio à Ins"
 tipo: "home"
@@ -8,7 +8,7 @@ tipo: "home"
 
 # Physio à Ins (Anet)
 
-Physio Activa est un cabinet de physio à Ins (Anet), dans le bâtiment de l'InsGym, Rämismatte 21. Nos physiothérapeutes vous reçoivent au cabinet ou se déplacent à domicile dans le Seeland et la région des Trois-Lacs. Sur prescription médicale, les séances sont prises en charge par la LAMal, la LAA, l'AI ou l'AM.
+Physio Activa est un cabinet de physio à Ins (Anet), dans le bâtiment de l'InsGym, Rämismatte 21. Nos physiothérapeutes vous reçoivent au cabinet ou se déplacent à domicile dans le Seeland et la région des Trois-Lacs. Notre cabinet est reconnu par toutes les assurances maladie en Suisse.
 
 [Réserver une séance en ligne](/reservation-en-ligne/) · Téléphone : 076 627 38 38 · WhatsApp : +41 76 627 38 38
 
@@ -16,7 +16,7 @@ Physio Activa est un cabinet de physio à Ins (Anet), dans le bâtiment de l'Ins
 
 Vous cherchez une physio autour de vous, entre le lac de Morat, le lac de Neuchâtel et le lac de Bienne ? Notre cabinet de physiothérapie à Ins est facile d'accès depuis Anet, Chiètres, Morat ou le Vully. Il dispose de salles de traitement et d'un espace d'entraînement, pour que la rééducation ne s'arrête pas à la table de traitement.
 
-Nous vous recevons en français et en espagnol. Les horaires d'ouverture et les délais de rendez-vous sont indiqués lors de la réservation : `[POR CONFIRMAR]`.
+Nous vous recevons en français et en espagnol. Le cabinet est ouvert du lundi au vendredi, jusqu'à 20h ; les disponibilités s'affichent lors de la réservation.
 
 ## Notre équipe de physiothérapeutes
 
@@ -47,33 +47,37 @@ Le physiothérapeute réalise ensuite un bilan (mobilité, force, posture, tests
 
 ### Traitement et exercices
 
-Le traitement peut commencer dès cette première séance. La durée d'une séance est de `[POR CONFIRMAR]`. Le nombre de séances dépend de votre situation et de la prescription de votre médecin.
+Le traitement peut commencer dès cette première séance. La durée d'une séance est de `[POR CONFIRMAR]`. Le nombre de séances dépend de votre situation.
 
 ## Physiothérapie à domicile dans le Seeland et les Trois-Lacs
 
-Vous ne pouvez pas vous déplacer, par exemple après une opération, une hospitalisation ou en raison de votre âge ? La [physiothérapie à domicile](/physiotherapeute-a-domicile/) vous permet de suivre votre traitement chez vous. Nous nous déplaçons à Ins et dans les environs : Anet, Sugiez et Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss. Les séances à domicile nécessitent, elles aussi, une prescription médicale qui le précise.
+Vous ne pouvez pas vous déplacer, par exemple après une opération, une hospitalisation ou en raison de votre âge ? La [physiothérapie à domicile](/physiotherapeute-a-domicile/) vous permet de suivre votre traitement chez vous. Nous nous déplaçons à Ins et dans les environs : Anet, Sugiez et Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss.
 
 ## Plus qu'un massage : un plan de rééducation
 
 Notre objectif est de comprendre l'origine de vos symptômes et de vous rendre plus autonome. À côté des techniques passives, nous vous montrons des exercices adaptés que vous pouvez poursuivre chez vous. Le plan évolue au fil des séances, selon vos progrès et vos objectifs : reprendre le travail, le sport ou simplement les gestes du quotidien.
 
-## Remboursement : LAMal, LAA, AI et AM
+## Assurances et horaires
 
-Avec une ordonnance médicale, la physiothérapie est prise en charge par l'assurance obligatoire des soins (LAMal), l'assurance accidents (LAA), l'assurance invalidité (AI) ou l'assurance militaire (AM). Dans le cadre de la LAMal, la franchise et la quote-part de votre contrat s'appliquent. Pensez à apporter votre ordonnance et votre carte d'assuré à la première séance.
+Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Le cabinet est ouvert du lundi au vendredi, jusqu'à 20h. Pour prendre rendez-vous, réservez en ligne, appelez le 076 627 38 38 ou écrivez-nous sur WhatsApp au +41 76 627 38 38.
 
 ## Questions fréquentes sur la physio à Ins
 
-### Faut-il une ordonnance pour aller chez le physio ?
+### Quand dois-je consulter un physiothérapeute ?
 
-Pour que les séances soient remboursées par la LAMal, la LAA, l'AI ou l'AM, une prescription médicale est nécessaire. Elle est établie par votre médecin, qui indique le nombre de séances prescrites. Sans ordonnance, les séances sont à votre charge.
+Lorsqu'une douleur ou une raideur dure plus d'une semaine, limite vos gestes du quotidien, perturbe votre sommeil ou revient régulièrement, ou après un accident, une opération ou une hospitalisation. Plus elle est prise en charge tôt, plus le traitement est simple. En cas de signes inhabituels (fièvre, perte de force, douleur très intense), consultez d'abord un médecin.
+
+### Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?
+
+Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.
+
+### Combien de séances me faut-il ?
+
+La durée du traitement varie selon votre situation, l'origine de vos symptômes et vos objectifs. Lors de la première visite, nous établissons une estimation adaptée à votre cas.
 
 ### Quelle est la différence entre un kiné et un physiothérapeute ?
 
 En France et en Belgique, on parle souvent de « kiné » (kinésithérapeute). En Suisse, le terme officiel est physiothérapeute : c'est la même profession de santé, reconnue et réglementée. Le contenu exact de la formation varie d'un pays à l'autre.
-
-### Combien coûte une séance de physiothérapie en Suisse ?
-
-En Suisse, les tarifs de physiothérapie sont fixés par une structure tarifaire nationale convenue avec les assureurs. Avec une ordonnance, l'assurance prend en charge les séances, sous réserve de votre franchise et de votre quote-part. Pour toute question sur le tarif appliqué : `[POR CONFIRMAR]`.
 
 ### Venez-vous à domicile à Morat, Neuchâtel ou Bienne ?
 
@@ -81,23 +85,19 @@ Oui, nous nous déplaçons dans le Seeland et la région des Trois-Lacs, notamme
 
 ### Comment prendre rendez-vous ?
 
-Vous pouvez réserver directement en ligne, nous appeler au 076 627 38 38 ou nous écrire sur WhatsApp au +41 76 627 38 38.
+Vous pouvez réserver directement en ligne, nous appeler au 076 627 38 38 ou nous écrire sur WhatsApp au +41 76 627 38 38. Le cabinet est ouvert du lundi au vendredi, jusqu'à 20h.
 
-### Est-ce que la physiothérapie est remboursée en Suisse ?
+### Comment se passe une séance de physiothérapie ?
 
-Oui, lorsqu'elle est prescrite par un médecin. L'assurance de base (LAMal) prend en charge les séances prescrites, sous réserve de votre franchise et de votre quote-part ; après un accident, c'est l'assurance accidents (LAA) qui intervient.
-
-### Quand faire de la physiothérapie ?
-
-Lorsqu'une douleur ou une raideur dure, limite vos gestes du quotidien ou revient régulièrement, après un accident, une opération ou une hospitalisation, et chaque fois que votre médecin la prescrit. En cas de signes inhabituels (fièvre, perte de force, douleur très intense), consultez d'abord un médecin.
+La première séance commence par un entretien et un bilan de vos mouvements. Nous définissons ensuite avec vous des objectifs, puis le traitement associe techniques manuelles, exercices et conseils pour le quotidien.
 
 ### Quel est le rôle d'un physiothérapeute ?
 
-Le physiothérapeute évalue vos mouvements et vos capacités, puis traite par le mouvement : exercices, techniques manuelles et conseils pour le quotidien. Le diagnostic médical reste du ressort du médecin, avec qui il travaille sur prescription.
+Le physiothérapeute évalue vos mouvements et vos capacités, puis traite par le mouvement : exercices, techniques manuelles et conseils pour le quotidien. Le diagnostic médical reste du ressort du médecin, avec qui il travaille en complémentarité.
 
 ### Comment choisir son physiothérapeute ?
 
-Vérifiez qu'il est reconnu par les assurances pour que les séances soient remboursées, qu'il est accessible depuis chez vous (ou qu'il se déplace à domicile) et que vous pouvez échanger dans votre langue. Chez Physio Activa, nous vous recevons en français et en espagnol.
+Vérifiez qu'il est reconnu par les assurances maladie, qu'il est accessible depuis chez vous (ou qu'il se déplace à domicile) et que vous pouvez échanger dans votre langue. Chez Physio Activa, nous vous recevons en français et en espagnol.
 
 ### Est-ce normal d'avoir plus mal après une séance ?
 
@@ -120,3 +120,4 @@ Contactez-nous pour une séance au cabinet à Ins ou à domicile dans le Seeland
 - Añadidos enlaces al hub /pour-les-patients/, a las 6 patologías principales, a domicilio y a reserva; zona a domicilio según la lista aprobada (sin Lausanne, Yverdon ni Yvonand). Las técnicas se citan sin enlace porque sus slugs no están en el brief.
 - Quedan `[POR CONFIRMAR]`: horarios y plazos, duración de la sesión, tarifa aplicada, titulaciones de Francisco y Lucile. Se ha quitado la referencia «1er étage du bâtiment Lidl»: confirmar si se quiere mantener como indicación de acceso.
 - Estructura según la receta de activaglobals.com (2026-11-06): H1 corto «Physio à Ins (Anet)», quiénes somos y equipo arriba, proceso en 3 H3, FAQ ampliada a 10 con preguntas reales de Google (paa_banco.json), FAQ y CTA final con la ciudad en el H2. El texto existente no se ha reescrito, solo reordenado; las 5 respuestas nuevas son propias.
+- Ajuste v3: sin receta ni detalle de seguro; FAQ estándar; horario hasta las 20h.

@@ -51,7 +51,7 @@ C'est l'une des questions les plus fréquentes. Le délai de rétablissement apr
 
 La première séance commence par un entretien (anamnèse) : votre opération ou vos douleurs, vos antécédents, vos activités et ce qui est important pour vous. Vient ensuite l'évaluation : mobilité, force, marche, équilibre et état de la cicatrice si vous avez été opéré. Ensemble, nous fixons des objectifs concrets.
 
-Les séances suivantes associent exercices, travail manuel et conseils. Vous recevez un programme à faire à la maison. Le nombre de séances dépend de votre évolution et de l'ordonnance ; la durée d'une séance est de [POR CONFIRMAR] minutes.
+Les séances suivantes associent exercices, travail manuel et conseils. Vous recevez un programme à faire à la maison. Le nombre de séances dépend de votre évolution ; la durée d'une séance est de [POR CONFIRMAR] minutes.
 
 ## Au cabinet à Ins ou à domicile
 
@@ -59,9 +59,9 @@ Les premières semaines après une prothèse de hanche, se déplacer peut être 
 
 Notre service de [physiothérapeute à domicile](/physiotherapeute-a-domicile/) couvre Ins, le Seeland et la région des Trois-Lacs : Anet, Sugiez/Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss. Dès que vous le pouvez, vous pouvez poursuivre au cabinet, chez InsGym, Rämismatte 21, 3232 Ins. Nous parlons français et espagnol.
 
-## Remboursement LAMal / LAA et ordonnance
+## Assurances et horaires
 
-La physiothérapie est remboursée par l'assurance de base (LAMal), par l'assurance accident (LAA) après une chute ou un accident, ainsi que par l'AI et l'AM, **avec une prescription médicale**. Après l'opération, l'ordonnance est en général remise par le chirurgien ou par votre médecin traitant. La physiothérapie à domicile doit être mentionnée sur l'ordonnance [POR CONFIRMAR]. Le coût de l'opération elle-même dépend de l'hôpital et de votre assurance : renseignez-vous auprès d'eux.
+Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Nous vous recevons du lundi au vendredi, jusqu'à 20h : prenez rendez-vous [en ligne](/reservation-en-ligne/), par téléphone au **076 627 38 38** ou sur **WhatsApp au +41 76 627 38 38**.
 
 ## Quand consulter un médecin en urgence ?
 
@@ -75,6 +75,18 @@ Contactez rapidement votre chirurgien, votre médecin ou les urgences si vous co
 En dehors d'une opération, une douleur de hanche avec fièvre, après un traumatisme important ou une douleur nocturne intense qui ne cède pas doit aussi être vue par un médecin.
 
 ## Questions fréquentes
+
+### Quand dois-je consulter un physiothérapeute pour une douleur de hanche ?
+
+Si la douleur de hanche dure plus d'une semaine, gêne la marche ou les gestes du quotidien, perturbe votre sommeil ou revient régulièrement, un bilan en physiothérapie est utile. Plus on la traite tôt, plus la prise en charge est simple. Après une prothèse de hanche, la rééducation commence selon les consignes de votre chirurgien.
+
+### Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?
+
+Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.
+
+### Combien de séances me faut-il après une prothèse de hanche ?
+
+La durée du traitement varie selon votre situation : état avant l'opération, type d'intervention, protocole du chirurgien et évolution au fil des séances. Lors de la première visite, nous établissons une estimation adaptée à votre cas.
 
 ### Comment vivre avec une prothèse de hanche ?
 
@@ -100,10 +112,6 @@ Le médecin propose le traitement adapté : médicaments, infiltrations ou, à u
 
 Cette douleur latérale peut être liée aux tendons ou aux tissus situés sur le côté de la hanche, mais d'autres causes existent. Un bilan permet de l'évaluer et de proposer des exercices et des conseils de positionnement.
 
-### Que faire si ma hanche est bloquée ?
-
-Évitez de forcer et consultez si le blocage persiste. Si cela survient après une chute ou avec une prothèse, contactez rapidement un médecin.
-
 ### Quels sont les symptômes d'une douleur à la hanche ?
 
 La douleur peut se situer dans l'aine, sur le côté de la hanche ou dans la fesse, et parfois descendre vers la cuisse ou le genou. Elle s'accompagne souvent d'une raideur, d'une gêne pour marcher, mettre ses chaussettes ou se relever. Après une chute, en cas de fièvre ou si vous ne pouvez plus vous appuyer sur la jambe, consultez rapidement un médecin.
@@ -120,3 +128,4 @@ Vous allez être opéré, vous sortez de l'hôpital ou votre hanche vous fait ma
 - Se ha omitido «pubalgie»: no encaja con la intención de esta página.
 - [POR CONFIRMAR]: duración de cada sesión; si la ordonnance debe indicar expresamente «à domicile» para el reembolso.
 - FAQ ampliada a 8 preguntas con preguntas reales de Google (PAA del `brief.json` de la página): «Quels sont les symptômes d'une douleur à la hanche ?».
+- Ajuste v3: sin receta ni detalle de seguro; FAQ estándar; horario hasta las 20h.

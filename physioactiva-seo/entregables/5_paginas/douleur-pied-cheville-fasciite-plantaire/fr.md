@@ -9,7 +9,7 @@ condicion: "Fasciite plantaire"
 
 # Fasciite plantaire et douleur du pied : physio à Ins
 
-La fasciite plantaire est l'une des causes les plus fréquentes de douleur au talon, surtout aux premiers pas du matin. La physiothérapie peut aider à diminuer la douleur et à mieux tolérer la marche grâce à des exercices adaptés, des conseils de charge et, selon l'indication, des techniques comme les ondes de choc. Chez Physio Activa, nous traitons aussi la périostite tibiale, l'entorse de la cheville et la tendinite d'Achille, au cabinet à Ins ou à domicile, sur prescription médicale.
+La fasciite plantaire est l'une des causes les plus fréquentes de douleur au talon, surtout aux premiers pas du matin. La physiothérapie peut aider à diminuer la douleur et à mieux tolérer la marche grâce à des exercices adaptés, des conseils de charge et, selon l'indication, des techniques comme les ondes de choc. Chez Physio Activa, nous traitons aussi la périostite tibiale, l'entorse de la cheville et la tendinite d'Achille, au cabinet à Ins ou à domicile.
 
 ## Qu'est-ce que la fasciite plantaire ?
 
@@ -64,7 +64,7 @@ Les exercices les plus utilisés sont l'étirement du mollet et du fascia planta
 
 ## Déroulement des séances
 
-La première séance commence par un entretien : quand la douleur est apparue, vos activités, vos chaussures, vos attentes. Suit un examen du pied, de la cheville et de la marche, puis nous fixons des objectifs avec vous et vous recevez un programme d'exercices pour la maison. Le nombre de séances dépend de votre situation et de l'ordonnance ; il est réévalué en cours de traitement.
+La première séance commence par un entretien : quand la douleur est apparue, vos activités, vos chaussures, vos attentes. Suit un examen du pied, de la cheville et de la marche, puis nous fixons des objectifs avec vous et vous recevez un programme d'exercices pour la maison. Le nombre de séances dépend de votre situation ; il est réévalué en cours de traitement.
 
 ## Au cabinet à Ins ou à domicile
 
@@ -72,9 +72,9 @@ Le cabinet se trouve à l'InsGym, Rämismatte 21, 3232 Ins. Si vous ne pouvez pa
 
 Pour une douleur du genou, d'un ménisque ou d'un ligament croisé, consultez notre page [physiothérapie du genou à Ins](/douleur-du-genou-lesions-de-la-cheville/).
 
-## Remboursement LAMal / LAA et ordonnance
+## Assurances et horaires
 
-La physiothérapie est remboursée par l'assurance de base (LAMal), par l'assurance accident (LAA) en cas d'entorse ou d'autre accident, ainsi que par l'AI et l'AM, **avec une prescription médicale** de votre médecin.
+Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Nous vous recevons du lundi au vendredi, jusqu'à 20h : prenez rendez-vous [en ligne](/reservation-en-ligne/), par téléphone au **076 627 38 38** ou sur **WhatsApp au +41 76 627 38 38**.
 
 ## Quand consulter un médecin en urgence ?
 
@@ -88,6 +88,18 @@ Consultez rapidement un médecin ou les urgences si :
 - une douleur osseuse très localisée augmente malgré le repos ou réveille la nuit.
 
 ## Questions fréquentes
+
+### Quand dois-je consulter un physiothérapeute pour une douleur au pied ou au talon ?
+
+Si la douleur au pied, au talon ou à la cheville dure plus d'une semaine, gêne la marche ou le sport, est forte aux premiers pas du matin ou revient régulièrement, un bilan en physiothérapie est utile. Plus on la traite tôt, plus la prise en charge est simple. Si vous ne pouvez plus poser le pied après une torsion, consultez d'abord un médecin.
+
+### Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?
+
+Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.
+
+### Combien de séances me faut-il pour une fasciite plantaire ?
+
+La durée du traitement varie selon votre situation : ancienneté des symptômes, charge quotidienne, activités et évolution au fil des séances. Lors de la première visite, nous établissons une estimation adaptée à votre cas.
 
 ### Quelle est la cause de la douleur au talon ?
 
@@ -109,10 +121,6 @@ Il faut d'abord réduire la charge qui provoque la douleur, sans forcément arr�
 
 Un massage des muscles du mollet peut soulager temporairement certaines personnes. Il ne remplace pas l'adaptation de l'entraînement et le renforcement, qui restent la base de la rééducation.
 
-### Les remèdes de grand-mère soulagent-ils la douleur au talon ?
-
-Rouler une balle ou une bouteille froide sous le pied peut apporter un soulagement passager. Si la douleur persiste plusieurs semaines, mieux vaut demander un avis médical.
-
 ### Les ondes de choc sont-elles indiquées pour la fasciite plantaire ?
 
 Elles peuvent être une option pour certaines fasciites plantaires et tendinopathies qui persistent. Leur indication est discutée selon votre situation, en complément des exercices.
@@ -133,3 +141,4 @@ Appelez-nous au **076 627 38 38**, écrivez-nous sur **WhatsApp au +41 76 627 38
 - No se dan tiempos de curación ni número de sesiones (pregunta frecuente «temps de guérison»): se responde que depende de cada caso.
 - `[POR CONFIRMAR]`: titulaciones del equipo (no citadas) y si la clínica tiene aparato de ondas de choque disponible también para fascitis plantar; enlazar esta página desde el menú y desde la página de rodilla.
 - FAQ ampliada a 8 preguntas con preguntas reales de Google (PAA del `brief.json` de la página): «Quels sont les symptômes de la fasciite plantaire ?».
+- Ajuste v3: sin receta ni detalle de seguro; FAQ estándar; horario hasta las 20h.

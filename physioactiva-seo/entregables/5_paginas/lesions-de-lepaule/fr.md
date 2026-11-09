@@ -1,6 +1,6 @@
 ---
 title: "Coiffe des rotateurs : physio à Ins | Physio Activa"
-meta: "Coiffe des rotateurs, tendinite ou épaule gelée ? Physiothérapie à Ins et à domicile dans le Seeland, sur ordonnance. Prenez rendez-vous."
+meta: "Coiffe des rotateurs, tendinite ou épaule gelée ? Physiothérapie de l'épaule à Ins et à domicile dans le Seeland. Prenez rendez-vous."
 slug: "/lesions-de-lepaule/"
 keyword_principal: "coiffe des rotateurs"
 tipo: "patologia"
@@ -9,7 +9,7 @@ condicion: "Lésion de la coiffe des rotateurs"
 
 # Coiffe des rotateurs et douleur à l'épaule : physio à Ins
 
-Les lésions de la coiffe des rotateurs (tendinite, conflit, rupture partielle ou totale) font partie des causes les plus fréquentes de douleur à l'épaule. La physiothérapie peut aider à diminuer la douleur, à retrouver la mobilité et la force du bras, avec ou sans opération, sur prescription médicale. Chez Physio Activa, nous vous accueillons au cabinet à Ins ou à domicile dans le Seeland.
+Les lésions de la coiffe des rotateurs (tendinite, conflit, rupture partielle ou totale) font partie des causes les plus fréquentes de douleur à l'épaule. La physiothérapie peut aider à diminuer la douleur, à retrouver la mobilité et la force du bras, avec ou sans opération. Chez Physio Activa, nous vous accueillons au cabinet à Ins ou à domicile dans le Seeland.
 
 ## Qu'est-ce que la coiffe des rotateurs ?
 
@@ -49,9 +49,9 @@ Le nombre de séances dépend de votre évolution et il est réévalué réguli�
 
 Nous vous recevons au cabinet, à l'InsGym, Rämismatte 21, 3232 Ins. Si vous ne pouvez pas conduire, la [physiothérapie à domicile](/physiotherapeute-a-domicile/) est possible à Ins, dans le Seeland et la région des Trois-Lacs : Anet, Sugiez/Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss. Séances en français ou en espagnol.
 
-## Remboursement LAMal / LAA et ordonnance
+## Assurances et horaires
 
-La physiothérapie est remboursée par l'assurance de base (LAMal), par l'assurance accident (LAA) après une chute ou un accident, ainsi que par l'AI et l'AM, **avec une prescription médicale**. Demandez une ordonnance de physiothérapie à votre médecin ou à votre orthopédiste.
+Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Nous vous recevons du lundi au vendredi, jusqu'à 20h : prenez rendez-vous [en ligne](/reservation-en-ligne/), par téléphone au **076 627 38 38** ou sur **WhatsApp au +41 76 627 38 38**.
 
 ## Quand consulter un médecin en urgence ?
 
@@ -64,13 +64,21 @@ Appelez immédiatement le **144** en cas de **douleur dans la poitrine qui irrad
 
 ## Questions fréquentes
 
+### Quand dois-je consulter un physiothérapeute pour une douleur à l'épaule ?
+
+Si la douleur à l'épaule dure plus d'une semaine, vous empêche de lever le bras ou de vous habiller, perturbe votre sommeil ou fait perdre de la force, un bilan en physiothérapie est utile. Plus on la traite tôt, plus la prise en charge est simple. Après une chute, avec une déformation ou une douleur dans la poitrine, consultez d'abord un médecin ou appelez le 144.
+
+### Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?
+
+Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.
+
+### Combien de séances me faut-il pour une lésion de la coiffe des rotateurs ?
+
+La durée du traitement varie selon votre situation : type de lésion (tendinite, rupture, opération), âge, activités et évolution au fil des séances. Lors de la première visite, nous établissons une estimation adaptée à votre cas.
+
 ### Quels sont les symptômes d'une lésion de la coiffe des rotateurs ?
 
 Douleur sur le côté de l'épaule en levant le bras, douleur la nuit, difficulté à mettre une veste, parfois perte de force. Le médecin confirme le diagnostic, si besoin avec une imagerie.
-
-### Combien de temps faut-il pour récupérer d'une lésion de la coiffe des rotateurs ?
-
-Cela varie selon la lésion (tendinite, rupture, opération), l'âge et les activités. Aucun délai ne peut être donné sans évaluation.
 
 ### Comment renforcer la coiffe des rotateurs ?
 
@@ -98,7 +106,7 @@ Une douleur qui descend dans le bras peut venir de l'épaule elle-même, mais au
 
 ## Prendre rendez-vous pour votre épaule à Ins
 
-Vous avez une ordonnance ou des questions sur votre douleur à l'épaule ? Appelez-nous au **076 627 38 38**, écrivez-nous sur **WhatsApp au +41 76 627 38 38** ou [réservez votre séance en ligne](/reservation-en-ligne/).
+Vous avez des questions sur votre douleur à l'épaule ? Appelez-nous au **076 627 38 38**, écrivez-nous sur **WhatsApp au +41 76 627 38 38** ou [réservez votre séance en ligne](/reservation-en-ligne/).
 
 ## Notes pour l'équipe (ES)
 
@@ -108,3 +116,4 @@ Vous avez une ordonnance ou des questions sur votre douleur à l'épaule ? Appel
 - Añadidas respuesta directa (GEO), anatomía de los 4 músculos, señales de alarma (dolor torácico irradiado al hombro/brazo izquierdo → 144, traumatismo con deformidad) y FAQ basada en las preguntas reales de Google.
 - [POR CONFIRMAR]: duración de una sesión; titulaciones del equipo (no se mencionan). Revisar si se mantiene la mención a SLAP/bursitis del texto actual (retirada por falta de detalle).
 - FAQ ampliada a 8 preguntas con preguntas reales de Google (PAA del `brief.json` de la página): «Comment soulager une épaule qui fait mal ?»; «Pourquoi la douleur de l'épaule descend-elle dans le bras et la main ?».
+- Ajuste v3: sin receta ni detalle de seguro; FAQ estándar; horario hasta las 20h.

@@ -58,9 +58,9 @@ La première séance commence par un entretien (apparition de la douleur, ce qui
 
 Nous vous recevons à InsGym, Rämismatte 21, 3232 Ins (Anet). Si vous avez du mal à vous déplacer, la [physiothérapie à domicile](/physiotherapeute-a-domicile/) est possible à Ins, dans le Seeland et la région des Trois-Lacs : Anet, Sugiez/Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss. Séances en français et en espagnol.
 
-## Remboursement LAMal / LAA et ordonnance
+## Assurances et horaires
 
-La physiothérapie est prise en charge par l'assurance de base (LAMal), l'assurance accident (LAA), l'AI et l'AM, **avec une prescription médicale**. Demandez une ordonnance de physiothérapie à votre médecin, puis contactez-nous pour fixer le premier rendez-vous.
+Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Nous vous recevons du lundi au vendredi, jusqu'à 20h : prenez rendez-vous [en ligne](/reservation-en-ligne/), par téléphone au **076 627 38 38** ou sur **WhatsApp au +41 76 627 38 38**.
 
 ## Quand consulter un médecin en urgence ?
 
@@ -76,9 +76,17 @@ Consultez rapidement un médecin, ou les urgences, si votre mal de dos s'accompa
 
 ## Questions fréquentes
 
-### Quand faut-il consulter un physiothérapeute pour un mal de dos ?
+### Quand dois-je consulter un physiothérapeute pour un mal de dos ?
 
-Lorsque la douleur dure plusieurs jours, limite vos activités, revient souvent ou descend dans la jambe. En présence d'un signe d'alarme ci-dessus, consultez d'abord votre médecin.
+Lorsque la douleur dure plus d'une semaine, limite vos activités, perturbe votre sommeil, revient souvent ou descend dans la jambe. Plus on la traite tôt, plus la prise en charge est simple. En présence d'un signe d'alarme décrit plus haut, consultez d'abord votre médecin.
+
+### Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?
+
+Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.
+
+### Combien de séances me faut-il pour une lombalgie ?
+
+La durée du traitement varie selon votre situation : type de douleur, ancienneté des symptômes, activités et évolution au fil des séances. Lors de la première visite, nous établissons une estimation adaptée à votre cas.
 
 ### Un lumbago qui dure, est-ce normal ?
 
@@ -91,10 +99,6 @@ Le repos complet prolongé est en général déconseillé. Rester actif à un ni
 ### Pourquoi j'ai mal dans le bas du dos à droite ou à gauche ?
 
 Une douleur d'un seul côté est fréquente et souvent musculaire ou articulaire. Elle peut aussi venir d'un autre organe, notamment chez la femme (ventre et dos en même temps) : si elle ne varie pas avec le mouvement, parlez-en à votre médecin.
-
-### Faut-il une ordonnance pour la physio ?
-
-Oui : pour un remboursement LAMal, LAA, AI ou AM, une prescription médicale est nécessaire.
 
 ### Qu'est-ce qu'une lombalgie ?
 
@@ -110,7 +114,7 @@ C'est une douleur qui descend du bas du dos vers la fesse, la cuisse ou le pied,
 
 ## Prenez rendez-vous pour votre dos
 
-Vous avez une ordonnance ou une question ? Appelez-nous au **076 627 38 38**, écrivez-nous sur **WhatsApp au +41 76 627 38 38** ou [réservez votre séance en ligne](/reservation-en-ligne/). Physio Activa, physiothérapie à Ins et à domicile.
+Vous avez une question ? Appelez-nous au **076 627 38 38**, écrivez-nous sur **WhatsApp au +41 76 627 38 38** ou [réservez votre séance en ligne](/reservation-en-ligne/). Physio Activa, physiothérapie à Ins et à domicile.
 
 ## Notes pour l'équipe (ES)
 
@@ -120,3 +124,4 @@ Vous avez une ordonnance ou une question ? Appelez-nous au **076 627 38 38**, é
 - Se han añadido señales de alarma (red flags), diferencia espalda/riñón y zona de domicilio.
 - [POR CONFIRMAR]: duración de la sesión; si se mantiene «premier rendez-vous dans la semaine» (eliminado hasta confirmarlo); titulaciones del equipo si se quieren mencionar.
 - FAQ ampliada a 8 preguntas con preguntas reales de Google (PAA del `brief.json` de la página): «Qu'est-ce qu'une lombalgie ?»; «Comment savoir si c'est une douleur au dos ou aux reins ?»; «Qu'est-ce que la radiculalgie lombaire ?».
+- Ajuste v3: sin receta ni detalle de seguro; FAQ estándar; horario hasta las 20h.

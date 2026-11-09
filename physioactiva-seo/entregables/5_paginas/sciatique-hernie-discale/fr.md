@@ -77,11 +77,23 @@ La première séance commence par un entretien (symptômes, ce qui les aggrave o
 
 Nous vous recevons à InsGym, Rämismatte 21, 3232 Ins (Anet). Si la position assise en voiture ou les déplacements sont trop douloureux, la [physiothérapie à domicile](/physiotherapeute-a-domicile/) est possible à Ins, dans le Seeland et la région des Trois-Lacs : Anet, Sugiez/Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss. Séances en français et en espagnol.
 
-## Remboursement LAMal / LAA et ordonnance
+## Assurances et horaires
 
-La physiothérapie est remboursée par l'assurance de base (LAMal), l'assurance accident (LAA), l'AI et l'AM **avec une prescription médicale**. Votre médecin établit l'ordonnance ; vous nous contactez ensuite pour planifier la première séance.
+Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Nous vous recevons du lundi au vendredi, jusqu'à 20h : prenez rendez-vous [en ligne](/reservation-en-ligne/), par téléphone au **076 627 38 38** ou sur **WhatsApp au +41 76 627 38 38**.
 
 ## Questions fréquentes
+
+### Quand dois-je consulter un physiothérapeute pour une sciatique ?
+
+Si la douleur dans la jambe dure plus d'une semaine, limite vos activités, perturbe votre sommeil ou revient régulièrement, un bilan en physiothérapie est utile. Plus on la traite tôt, plus la prise en charge est simple. En présence d'un signe d'alarme décrit plus haut, consultez immédiatement un médecin.
+
+### Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?
+
+Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.
+
+### Combien de séances me faut-il pour une sciatique ?
+
+La durée du traitement varie selon votre situation : cause de la douleur, ancienneté des symptômes, activités et évolution au fil des séances. Lors de la première visite, nous établissons une estimation adaptée à votre cas.
 
 ### Combien de temps dure une sciatique ou une protrusion discale ?
 
@@ -111,10 +123,6 @@ Oui, avec des techniques et des exercices adaptés à la grossesse, et en lien a
 
 Une douleur qui descend dans la jambe, parfois avec des fourmillements ou une faiblesse, peut faire penser à une hernie discale, mais d'autres causes existent. Seul le médecin peut poser le diagnostic, après un examen et, si nécessaire, une imagerie. Des troubles pour uriner ou une perte de force qui s'aggrave imposent de consulter en urgence.
 
-### Qu'est-ce qui cause la douleur au nerf sciatique ?
-
-Elle vient le plus souvent de l'irritation d'une racine du nerf sciatique au niveau du bas du dos, par exemple par une hernie discale. D'autres causes existent, comme un rétrécissement du canal lombaire. Le médecin en recherche l'origine ; le physiothérapeute adapte ensuite le traitement.
-
 ## Prenez rendez-vous
 
 Une douleur qui descend dans la jambe ? Appelez-nous au **076 627 38 38**, écrivez-nous sur **WhatsApp au +41 76 627 38 38** ou [réservez votre séance en ligne](/reservation-en-ligne/). Physio Activa, physiothérapie à Ins et à domicile dans le Seeland.
@@ -127,3 +135,4 @@ Une douleur qui descend dans la jambe ? Appelez-nous au **076 627 38 38**, écri
 - Las preguntas sobre hernia cervical (C5-C6) y dorsal no se tratan aquí: encajan mejor en la página de cervicales.
 - [POR CONFIRMAR]: duración de la sesión; si el equipo trata embarazo con formación específica; titulaciones del equipo si se quieren mencionar.
 - FAQ ampliada a 8 preguntas con preguntas reales de Google (PAA del `brief.json` de la página): «Comment savoir si on a une hernie discale ?»; «Qu'est-ce qui cause la douleur au nerf sciatique ?».
+- Ajuste v3: sin receta ni detalle de seguro; FAQ estándar; horario hasta las 20h.

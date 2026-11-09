@@ -1,6 +1,6 @@
 ---
 title: "Cervicalgie : physio à Ins et à domicile | Physio Activa"
-meta: "Cervicalgie, douleur de nuque, torticolis ou coup du lapin ? Physiothérapie à Ins et à domicile dans le Seeland, sur ordonnance. Prenez rendez-vous."
+meta: "Cervicalgie, douleur de nuque, torticolis ou coup du lapin ? Physiothérapie à Ins et à domicile dans le Seeland. Prenez rendez-vous."
 slug: "/douleur-cervicale-au-cou/"
 keyword_principal: "cervicalgie"
 tipo: "patologia"
@@ -9,7 +9,7 @@ condicion: "Cervicalgie"
 
 # Cervicalgie et douleur cervicale : physio à Ins
 
-La cervicalgie désigne une douleur au niveau du cou et de la nuque, souvent accompagnée de raideur et parfois de maux de tête. Dans la plupart des cas, elle est liée aux muscles et aux articulations du rachis cervical et peut être prise en charge en physiothérapie, sur prescription médicale. Chez Physio Activa, nous vous accueillons au cabinet à Ins ou à domicile dans le Seeland.
+La cervicalgie désigne une douleur au niveau du cou et de la nuque, souvent accompagnée de raideur et parfois de maux de tête. Dans la plupart des cas, elle est liée aux muscles et aux articulations du rachis cervical et peut être prise en charge en physiothérapie. Chez Physio Activa, nous vous accueillons au cabinet à Ins ou à domicile dans le Seeland.
 
 ## Qu'est-ce que la cervicalgie ?
 
@@ -49,9 +49,9 @@ Le nombre de séances dépend de votre évolution et il est réévalué réguli�
 
 Nous vous recevons au cabinet, à l'InsGym, Rämismatte 21, 3232 Ins. Si vous ne pouvez pas vous déplacer, nous proposons la [physiothérapie à domicile](/physiotherapeute-a-domicile/) à Ins, dans le Seeland et la région des Trois-Lacs : Anet, Sugiez/Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss. Séances en français ou en espagnol.
 
-## Remboursement LAMal / LAA et ordonnance
+## Assurances et horaires
 
-La physiothérapie est remboursée par l'assurance de base (LAMal), par l'assurance accident (LAA) après un accident (par exemple un coup du lapin), ainsi que par l'AI et l'AM, **avec une prescription médicale**. Demandez une ordonnance de physiothérapie à votre médecin, puis prenez rendez-vous.
+Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Nous vous recevons du lundi au vendredi, jusqu'à 20h : prenez rendez-vous [en ligne](/reservation-en-ligne/), par téléphone au **076 627 38 38** ou sur **WhatsApp au +41 76 627 38 38**.
 
 ## Quand consulter un médecin en urgence ?
 
@@ -64,6 +64,18 @@ Consultez rapidement un médecin, ou appelez le 144 en cas d'urgence, si la doul
 - une douleur nocturne intense qui ne cède pas, une perte de poids inexpliquée ou des antécédents de cancer.
 
 ## Questions fréquentes
+
+### Quand dois-je consulter un physiothérapeute pour une douleur au cou ?
+
+Si la douleur au cou dure plus d'une semaine, limite vos mouvements (tourner la tête, conduire), perturbe votre sommeil ou revient régulièrement, un bilan en physiothérapie est utile. Plus on la traite tôt, plus la prise en charge est simple. En présence d'un signe d'alarme décrit plus haut, consultez d'abord un médecin.
+
+### Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?
+
+Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.
+
+### Combien de séances me faut-il pour la douleur cervicale ?
+
+La durée du traitement varie selon votre situation : origine de la douleur, ancienneté des symptômes, activités et évolution au fil des séances. Lors de la première visite, nous établissons une estimation adaptée à votre cas.
 
 ### Comment soulager un mal de cervicales ?
 
@@ -93,13 +105,9 @@ C'est une irritation du nerf grand occipital, avec des douleurs vives à l'arri�
 
 Le plus souvent, une douleur et une raideur de la nuque, parfois vers les épaules ou entre les omoplates, qui augmentent avec certains mouvements de la tête. Des maux de tête peuvent s'y associer. L'intensité et l'évolution varient selon chaque personne.
 
-### Quels sont les signes d'une atteinte du rachis cervical ?
-
-Douleur et raideur du cou, parfois avec une douleur, des fourmillements ou une faiblesse qui descendent dans le bras. Une perte de force, des troubles de l'équilibre, des vertiges inhabituels ou une douleur après un choc doivent être évalués rapidement par un médecin.
-
 ## Prendre rendez-vous pour une cervicalgie à Ins
 
-Vous avez une ordonnance ou des questions sur votre douleur cervicale ? Appelez-nous au **076 627 38 38**, écrivez-nous sur **WhatsApp au +41 76 627 38 38** ou [réservez votre séance en ligne](/reservation-en-ligne/).
+Vous avez des questions sur votre douleur cervicale ? Appelez-nous au **076 627 38 38**, écrivez-nous sur **WhatsApp au +41 76 627 38 38** ou [réservez votre séance en ligne](/reservation-en-ligne/).
 
 ## Notes pour l'équipe (ES)
 
@@ -110,3 +118,4 @@ Vous avez une ordonnance ou des questions sur votre douleur cervicale ? Appelez-
 - Enlaces internos con anchors descriptivos a thérapie manuelle, massage, puncture sèche, ATM, domicile y reserva.
 - [POR CONFIRMAR]: duración de una sesión; titulaciones del equipo (no se mencionan).
 - FAQ ampliada a 8 preguntas con preguntas reales de Google (PAA del `brief.json` de la página): «Quelle douleur ressent-on lors d'une cervicalgie ?»; «Quels sont les signes d'une atteinte du rachis cervical ?».
+- Ajuste v3: sin receta ni detalle de seguro; FAQ estándar; horario hasta las 20h.

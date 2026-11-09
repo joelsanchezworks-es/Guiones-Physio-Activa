@@ -1,6 +1,6 @@
 ---
 title: "Physiothérapeutes à Ins : notre équipe | Physio Activa"
-meta: "Découvrez Physio Activa, physiothérapeutes à Ins (InsGym) : bilan, traitement actif, domicile dans le Seeland. Sur ordonnance LAMal, LAA. Réservez."
+meta: "Physio Activa, physiothérapeutes à Ins (InsGym) : bilan, traitement actif, domicile dans le Seeland. Reconnu par toutes les assurances. Réservez."
 slug: "/a-propos-de-nous/"
 keyword_principal: "physiothérapeutes à Ins"
 tipo: "apropos"
@@ -12,9 +12,9 @@ Physio Activa est un cabinet de physiothérapeutes à Ins, dans le Seeland, inst
 
 ## L'essentiel en bref
 
-### Sur prescription, remboursé LAMal / LAA
+### Reconnu par toutes les assurances
 
-Avec une ordonnance médicale, les séances sont prises en charge par l'assurance maladie (LAMal), l'assurance accidents (LAA), l'AI ou l'AM.
+Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse et accueille les patients quel que soit leur canton de résidence.
 
 ### Au cabinet ou à domicile
 
@@ -56,9 +56,9 @@ Le plan est défini avec vous, selon ce que vous voulez retrouver (travail, spor
 
 ## Comment se déroule votre prise en charge ?
 
-### Ordonnance
+### Prise de rendez-vous
 
-Votre médecin vous remet une prescription qui indique le nombre de séances et, si nécessaire, la mention « à domicile ». Apportez-la avec votre carte d'assuré.
+Réservez en ligne, appelez le 076 627 38 38 ou écrivez-nous sur WhatsApp au +41 76 627 38 38. Si vous ne pouvez pas vous déplacer, précisez-le : nous venons chez vous.
 
 ### Bilan
 
@@ -74,15 +74,27 @@ Nous vous montrons des exercices à poursuivre chez vous, pour consolider les pr
 
 ## Le cabinet à Ins et la zone desservie
 
-Le cabinet se trouve à Rämismatte 21, 3232 Ins, dans le bâtiment de l'InsGym : salles de traitement et espace d'entraînement pour la rééducation active. Plan et accès : [Nous trouver](/nous-trouver/). Horaires : [À CONFIRMER : lun–ven 8h30–19h30 ou jusqu'à 20h].
+Le cabinet se trouve à Rämismatte 21, 3232 Ins, dans le bâtiment de l'InsGym : salles de traitement et espace d'entraînement pour la rééducation active. Plan et accès : [Nous trouver](/nous-trouver/). Horaires : du lundi au vendredi, jusqu'à 20h.
 
 Si vous ne pouvez pas vous déplacer, la [physiothérapie à domicile](/physiotherapeute-a-domicile/) est possible à Ins et dans les environs : Anet, Sugiez et Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss.
 
-## Assurances et prescription
+## Assurances et horaires
 
-Sur prescription médicale, la physiothérapie est prise en charge par l'assurance obligatoire des soins (LAMal), l'assurance accidents (LAA), l'assurance invalidité (AI) ou l'assurance militaire (AM). Dans le cadre de la LAMal, la franchise et la quote-part de votre contrat s'appliquent. Les séances sont facturées selon la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs.
+Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Le cabinet est ouvert du lundi au vendredi, jusqu'à 20h. Pour prendre rendez-vous, réservez en ligne, appelez le 076 627 38 38 ou écrivez-nous sur WhatsApp au +41 76 627 38 38.
 
 ## Questions fréquentes sur Physio Activa à Ins
+
+### Quand dois-je consulter un physiothérapeute ?
+
+Lorsqu'une douleur ou une raideur dure plus d'une semaine, limite vos mouvements, perturbe votre sommeil ou revient régulièrement, ou après un accident ou une opération. Plus on la traite tôt, plus c'est simple. En cas de signe d'alarme, consultez d'abord un médecin.
+
+### Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?
+
+Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.
+
+### Combien de séances me faut-il ?
+
+La durée du traitement varie selon votre situation et vos objectifs. Lors de la première visite, nous établissons une estimation adaptée à votre cas.
 
 ### Qui sont les physiothérapeutes de Physio Activa ?
 
@@ -96,21 +108,13 @@ Un entretien, un bilan de vos mouvements, puis le traitement : techniques manuel
 
 C'est le même métier : « kiné » (kinésithérapeute) est le terme utilisé en France, physiothérapeute celui employé en Suisse.
 
-### Est-ce que la physiothérapie est remboursée en Suisse ?
-
-Oui, avec une ordonnance médicale : par la LAMal, la LAA, l'AI ou l'AM selon votre situation. Sans prescription, les séances sont à votre charge.
-
-### Quel est le tarif d'une séance de physiothérapie ?
-
-Il suit la structure tarifaire nationale convenue avec les assureurs [À CONFIRMER : tarif appliqué]. Avec une ordonnance, vous payez seulement la franchise et la quote-part prévues par votre contrat LAMal.
-
 ### Comment choisir son physiothérapeute ?
 
-Vérifiez qu'il est reconnu pour facturer à l'assurance, qu'il commence par un bilan, qu'il parle votre langue et qu'il peut vous suivre au rythme prescrit, au cabinet ou à domicile.
+Vérifiez qu'il est reconnu par les assurances maladie, qu'il commence par un bilan, qu'il parle votre langue et qu'il peut vous suivre au cabinet ou à domicile.
 
 ### Vous déplacez-vous à domicile ?
 
-Oui, dans le Seeland et les Trois-Lacs, notamment à Morat, Neuchâtel, Bienne et dans le Vully, si votre ordonnance le précise. Contactez-nous pour vérifier votre adresse.
+Oui, dans le Seeland et les Trois-Lacs, notamment à Morat, Neuchâtel, Bienne et dans le Vully. Contactez-nous pour vérifier votre adresse.
 
 ### Dans quelles langues pouvez-vous me recevoir ?
 
@@ -128,3 +132,4 @@ Vous souhaitez réserver ou poser une question avant de vous lancer ? [Réservez
 - Fuentes: `config/cliente.yml`, texto actual de la página y home redactada. Eliminado: «diplômés», «bien-être optimal», «Premier rendez-vous disponible cette semaine» y «jusqu'à 20h».
 - Idiomas: el texto actual dice FR, PT y ES; cliente.yml solo confirma FR y ES → portugués marcado [À CONFIRMER].
 - Pendiente [À CONFIRMER]: títulos, formación y número NAREG / RCC de cada fisioterapeuta, portugués, horarios, duración de la sesión, tarifa aplicada. Número de calle 21 vs 31 también por confirmar (cliente.yml). Añadir fotos del equipo (URLs en cliente.yml).
+- Ajuste v3: sin receta ni detalle de seguro; FAQ estándar; horario hasta las 20h.

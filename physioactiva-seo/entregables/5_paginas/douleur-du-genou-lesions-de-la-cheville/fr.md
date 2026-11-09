@@ -9,7 +9,7 @@ condicion: "Lésion méniscale du genou"
 
 # Douleur du genou et ménisque : physio à Ins
 
-Une lésion du ménisque, une rupture du ligament croisé, une arthrose du genou ou une prothèse du genou se rééduquent en physiothérapie. Chez Physio Activa, à Ins et à domicile, le physiothérapeute évalue votre genou et construit avec vous un programme progressif, avec l'objectif de réduire la douleur et de reprendre vos activités, sur prescription médicale.
+Une lésion du ménisque, une rupture du ligament croisé, une arthrose du genou ou une prothèse du genou se rééduquent en physiothérapie. Chez Physio Activa, à Ins et à domicile, le physiothérapeute évalue votre genou et construit avec vous un programme progressif, avec l'objectif de réduire la douleur et de reprendre vos activités.
 
 ## Le ménisque et les autres causes de douleur du genou
 
@@ -46,7 +46,7 @@ Après une méniscectomie (retrait de la partie abîmée du ménisque), une sutu
 
 ## Déroulement des séances
 
-La première séance comprend un entretien (origine de la douleur, activités, attentes) et un examen du genou : mobilité, force, stabilité, marche. Nous fixons ensuite des objectifs avec vous et vous recevez des exercices pour la maison. Le nombre de séances dépend de votre situation et de l'ordonnance ; il est réévalué régulièrement.
+La première séance comprend un entretien (origine de la douleur, activités, attentes) et un examen du genou : mobilité, force, stabilité, marche. Nous fixons ensuite des objectifs avec vous et vous recevez des exercices pour la maison. Le nombre de séances dépend de votre situation ; il est réévalué régulièrement.
 
 ## Au cabinet à Ins ou à domicile
 
@@ -56,9 +56,9 @@ Nous vous recevons au cabinet, à l'InsGym, Rämismatte 21, 3232 Ins. Si vous av
 
 Vous souffrez plutôt d'une entorse de la cheville, d'une tendinite d'Achille, d'une douleur au talon ou d'une fasciite plantaire ? Ces thèmes sont traités sur notre page [physiothérapie du pied et de la cheville](/douleur-pied-cheville-fasciite-plantaire/).
 
-## Remboursement LAMal / LAA et ordonnance
+## Assurances et horaires
 
-La physiothérapie est remboursée par l'assurance de base (LAMal), par l'assurance accident (LAA) après un accident, ainsi que par l'AI et l'AM, **avec une prescription médicale**. Votre médecin de famille, votre orthopédiste ou votre chirurgien établit l'ordonnance.
+Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Nous vous recevons du lundi au vendredi, jusqu'à 20h : prenez rendez-vous [en ligne](/reservation-en-ligne/), par téléphone au **076 627 38 38** ou sur **WhatsApp au +41 76 627 38 38**.
 
 ## Quand consulter un médecin en urgence ?
 
@@ -72,6 +72,18 @@ Consultez rapidement un médecin ou les urgences si :
 - une douleur nocturne intense ne cède pas.
 
 ## Questions fréquentes
+
+### Quand dois-je consulter un physiothérapeute pour une douleur du genou ?
+
+Si la douleur du genou dure plus d'une semaine, gêne la marche, les escaliers ou la position accroupie, perturbe votre sommeil ou revient régulièrement, un bilan en physiothérapie est utile. Plus on la traite tôt, plus la prise en charge est simple. Si le genou est bloqué ou gonfle fortement après une torsion, consultez d'abord un médecin.
+
+### Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?
+
+Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.
+
+### Combien de séances me faut-il pour mon genou ?
+
+La durée du traitement varie selon votre situation : type de lésion (ménisque, ligament, arthrose, opération), activités, objectifs et évolution au fil des séances. Lors de la première visite, nous établissons une estimation adaptée à votre cas.
 
 ### Quelle est la cause de la douleur au ménisque ?
 
@@ -101,10 +113,6 @@ Rester actif est recommandé. Des exercices adaptés de renforcement et de mobil
 
 C'est une intervention chirurgicale, généralement par arthroscopie, qui consiste à retirer la partie abîmée du ménisque. L'indication est posée par le chirurgien. Après l'opération, la physiothérapie vise à retrouver la mobilité, la force et la confiance dans le genou, selon ses consignes.
 
-### Qu'est-ce qu'une fissure horizontale du ménisque ?
-
-C'est une fissure qui sépare le ménisque en deux couches, l'une au-dessus de l'autre. Elle est souvent liée à l'usure avec l'âge et peut provoquer une douleur, un gonflement ou une gêne en s'accroupissant. Le diagnostic se fait chez le médecin, en général avec une IRM.
-
 ## Prenez rendez-vous pour votre genou
 
 Appelez-nous au **076 627 38 38**, écrivez-nous sur **WhatsApp au +41 76 627 38 38** ou [réservez votre séance de physiothérapie en ligne](/reservation-en-ligne/).
@@ -117,3 +125,4 @@ Appelez-nous au **076 627 38 38**, écrivez-nous sur **WhatsApp au +41 76 627 38
 - No se dan duraciones de hospitalización ni número de sesiones tras prótesis: dependen del cirujano y de cada caso.
 - `[POR CONFIRMAR]`: titulaciones del equipo (no se citan en la página) y si el título anterior con «lésions de la cheville» debe mantenerse por enlaces externos (el slug sí se mantiene).
 - FAQ ampliada a 8 preguntas con preguntas reales de Google (PAA del `brief.json` de la página): «Qu'est-ce qu'une méniscectomie ?»; «Qu'est-ce qu'une fissure horizontale du ménisque ?».
+- Ajuste v3: sin receta ni detalle de seguro; FAQ estándar; horario hasta las 20h.
