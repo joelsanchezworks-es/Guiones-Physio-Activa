@@ -5,9 +5,9 @@
   "h1": "Lombalgie et mal de dos : physio à Ins",
   "sub": "La lombalgie est une douleur située dans le bas du dos, entre les dernières côtes et les fesses. Dans la plupart des cas, elle est liée aux muscles, aux articulations ou aux disques de la colonne lombaire et non à une maladie grave. La physiothérapie peut aider à soulager la douleur, à retrouver le mouvement et à limiter les récidives, au cabinet à Ins ou à domicile.",
   "pills": [
-   "Sur prescription médicale",
+   "Reconnu par toutes les assurances",
    "Au cabinet d'Ins ou à domicile",
-   "Remboursé LAMal / LAA"
+   "Ouvert jusqu'à 20h"
   ],
   "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00032.jpg",
   "alt": "Exercice de renforcement accompagné par un physiothérapeute pour le mal de dos",
@@ -22,9 +22,9 @@
   "bg": "trust",
   "cards": [
    {
-    "h3": "Sur prescription, remboursé LAMal / LAA",
-    "html": "<p>Avec une ordonnance médicale, les séances sont prises en charge par la LAMal, la LAA, l&#x27;AI ou l&#x27;AM.</p>",
-    "icon": "fa-file-medical"
+    "h3": "Reconnu par toutes les assurances",
+    "html": "<p>Notre cabinet est reconnu par toutes les compagnies d&#x27;assurance maladie en Suisse, quel que soit votre canton de résidence.</p>",
+    "icon": "fa-shield-heart"
    },
    {
     "h3": "Au cabinet ou à domicile",
@@ -38,7 +38,7 @@
    },
    {
     "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
-    "html": "<p>Réservation sur OneDoc, au 076 627 38 38 ou par WhatsApp au +41 76 627 38 38.</p>",
+    "html": "<p>Réservation sur OneDoc, au 076 627 38 38 ou par WhatsApp, du lundi au vendredi jusqu&#x27;à 20h.</p>",
     "icon": "fa-calendar-check"
    }
   ]
@@ -187,9 +187,9 @@
   "cta_mid": true,
   "cards": [
    {
-    "h3": "Ordonnance",
-    "html": "<p>Votre médecin prescrit la physiothérapie ; apportez l&#x27;ordonnance et votre carte d&#x27;assuré à la première séance.</p>",
-    "icon": "fa-file-medical"
+    "h3": "Prise de rendez-vous",
+    "html": "<p>Vous réservez en ligne, par téléphone ou par WhatsApp, au cabinet d&#x27;Ins ou à domicile.</p>",
+    "icon": "fa-calendar-check"
    },
    {
     "h3": "Bilan",
@@ -198,7 +198,7 @@
    },
    {
     "h3": "Séances au cabinet ou à domicile",
-    "html": "<p>Le traitement se déroule au cabinet d&#x27;Ins ou chez vous, selon votre situation et la prescription.</p>",
+    "html": "<p>Le traitement se déroule au cabinet d&#x27;Ins ou chez vous, selon votre situation.</p>",
     "icon": "fa-house-medical"
    },
    {
@@ -218,11 +218,11 @@
  },
  {
   "tipo": "texte",
-  "eyebrow": "Remboursement",
-  "h2": "Remboursement et coût de la physio à Ins",
+  "eyebrow": "Assurances",
+  "h2": "Assurances et horaires",
   "lead": [],
   "bg": "trust",
-  "html": "<p>La physiothérapie est prise en charge par l'assurance de base (LAMal), l'assurance accident (LAA), l'AI et l'AM, <strong>avec une prescription médicale</strong>. Demandez une ordonnance de physiothérapie à votre médecin, puis contactez-nous pour fixer le premier rendez-vous.</p>"
+  "html": "<p>Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Nous vous recevons du lundi au vendredi, jusqu'à 20h : prenez rendez-vous <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">en ligne</a>, par téléphone au <strong>076 627 38 38</strong> ou sur <strong>WhatsApp au +41 76 627 38 38</strong>.</p>"
  },
  {
   "tipo": "villes",
@@ -276,9 +276,19 @@
   "h2": "Questions fréquentes sur le mal de dos et la physio à Ins",
   "faq": [
    {
-    "q": "Quand faut-il consulter un physiothérapeute pour un mal de dos ?",
-    "a_html": "Lorsque la douleur dure plusieurs jours, limite vos activités, revient souvent ou descend dans la jambe. En présence d'un signe d'alarme ci-dessus, consultez d'abord votre médecin.",
-    "a_text": "Lorsque la douleur dure plusieurs jours, limite vos activités, revient souvent ou descend dans la jambe. En présence d'un signe d'alarme ci-dessus, consultez d'abord votre médecin."
+    "q": "Quand dois-je consulter un physiothérapeute pour un mal de dos ?",
+    "a_html": "Lorsque la douleur dure plus d'une semaine, limite vos activités, perturbe votre sommeil, revient souvent ou descend dans la jambe. Plus on la traite tôt, plus la prise en charge est simple. En présence d'un signe d'alarme décrit plus haut, consultez d'abord votre médecin.",
+    "a_text": "Lorsque la douleur dure plus d'une semaine, limite vos activités, perturbe votre sommeil, revient souvent ou descend dans la jambe. Plus on la traite tôt, plus la prise en charge est simple. En présence d'un signe d'alarme décrit plus haut, consultez d'abord votre médecin."
+   },
+   {
+    "q": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+    "a_html": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.",
+    "a_text": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
+   },
+   {
+    "q": "Combien de séances me faut-il pour une lombalgie ?",
+    "a_html": "La durée du traitement varie selon votre situation : type de douleur, ancienneté des symptômes, activités et évolution au fil des séances. Lors de la première visite, nous établissons une estimation adaptée à votre cas.",
+    "a_text": "La durée du traitement varie selon votre situation : type de douleur, ancienneté des symptômes, activités et évolution au fil des séances. Lors de la première visite, nous établissons une estimation adaptée à votre cas."
    },
    {
     "q": "Un lumbago qui dure, est-ce normal ?",
@@ -294,11 +304,6 @@
     "q": "Pourquoi j'ai mal dans le bas du dos à droite ou à gauche ?",
     "a_html": "Une douleur d'un seul côté est fréquente et souvent musculaire ou articulaire. Elle peut aussi venir d'un autre organe, notamment chez la femme (ventre et dos en même temps) : si elle ne varie pas avec le mouvement, parlez-en à votre médecin.",
     "a_text": "Une douleur d'un seul côté est fréquente et souvent musculaire ou articulaire. Elle peut aussi venir d'un autre organe, notamment chez la femme (ventre et dos en même temps) : si elle ne varie pas avec le mouvement, parlez-en à votre médecin."
-   },
-   {
-    "q": "Faut-il une ordonnance pour la physio ?",
-    "a_html": "Oui : pour un remboursement LAMal, LAA, AI ou AM, une prescription médicale est nécessaire.",
-    "a_text": "Oui : pour un remboursement LAMal, LAA, AI ou AM, une prescription médicale est nécessaire."
    },
    {
     "q": "Qu'est-ce qu'une lombalgie ?",
@@ -320,7 +325,7 @@
  {
   "tipo": "cta",
   "h2": "Mal de dos : besoin d'un physio à Ins ou dans les environs ?",
-  "s1": "Vous avez une ordonnance ou une question ? Appelez-nous au <strong>076 627 38 38</strong>, écrivez-nous sur <strong>WhatsApp au +41 76 627 38 38</strong> ou <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservez votre séance en ligne</a>. Physio Activa, physiothérapie à Ins et à domicile.",
+  "s1": "Vous avez une question ? Appelez-nous au <strong>076 627 38 38</strong>, écrivez-nous sur <strong>WhatsApp au +41 76 627 38 38</strong> ou <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservez votre séance en ligne</a>. Physio Activa, physiothérapie à Ins et à domicile.",
   "s2": null
  },
  {

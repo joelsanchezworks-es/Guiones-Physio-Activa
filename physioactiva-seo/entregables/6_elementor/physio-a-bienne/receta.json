@@ -3,11 +3,11 @@
   "tipo": "hero",
   "eyebrow": "Physio · Bienne (Biel)",
   "h1": "Physio à Bienne (Biel) : au cabinet d'Ins ou à domicile",
-  "sub": "Vous cherchez un physiothérapeute à Bienne (Biel) qui vous soigne en français ? Physio Activa vous accueille à Ins, à environ 18 km en ligne droite de la ville, et une prise en charge à domicile peut être étudiée [À CONFIRMER : domicile à Bienne]. Les séances prescrites par un médecin sont remboursées, et un rendez-vous se prend en quelques clics.",
+  "sub": "Vous cherchez un physiothérapeute à Bienne (Biel) qui vous soigne en français ? Physio Activa vous accueille à Ins, à environ 18 km en ligne droite de la ville, et une prise en charge à domicile peut être étudiée [À CONFIRMER : domicile à Bienne]. Le cabinet est reconnu par toutes les assurances maladie en Suisse, ouvert du lundi au vendredi jusqu'à 20h, et un rendez-vous se prend en quelques clics.",
   "pills": [
    "Cabinet à Ins, à 18,0 km",
-   "Sur prescription médicale",
-   "LAMal · LAA · AI · AM"
+   "Reconnu par toutes les assurances",
+   "Ouvert jusqu'à 20h"
   ],
   "img": "https://physioactiva.ch/wp-content/uploads/2025/06/fxbtrjhiol.jpg",
   "alt": "Espace d'entraînement de l'InsGym, où se trouve le cabinet Physio Activa à Ins",
@@ -22,8 +22,8 @@
   "bg": null,
   "cards": [
    {
-    "h3": "Sur prescription, remboursé LAMal / LAA",
-    "html": "<p>Qu'elle soit rédigée en français ou en allemand par un médecin biennois, l'ordonnance donne droit au remboursement par l'assurance maladie de base ou, après un accident, par l'assurance accidents.</p>",
+    "h3": "Reconnu par toutes les assurances",
+    "html": "<p>Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse et dispose de toutes les autorisations sanitaires nécessaires.</p>",
     "icon": "fa-file-medical"
    },
    {
@@ -70,7 +70,7 @@
    },
    {
     "h3": "Après une opération ou une hospitalisation",
-    "html": "<p>Beaucoup de patients de la région sont suivis au Centre hospitalier Bienne. Une fois rentré chez vous, la rééducation continue avec l'ordonnance remise à la sortie ; nous adaptons le programme aux consignes de votre médecin.</p>",
+    "html": "<p>Beaucoup de patients de la région sont suivis au Centre hospitalier Bienne. Une fois rentré chez vous, la rééducation continue chez nous ; nous adaptons le programme aux consignes de votre médecin.</p>",
     "icon": "fa-hospital"
    },
    {
@@ -80,7 +80,7 @@
    },
    {
     "h3": "Drainage lymphatique",
-    "html": "<p>Après une opération du genou ou de la hanche, en cas de lymphœdème ou de jambes lourdes qui gonflent en fin de journée, le drainage manuel relance la circulation de la lymphe par des gestes lents et légers. Sur prescription, il fait partie du traitement de physiothérapie, à Ins ou chez vous [À CONFIRMER : drainage à domicile à Bienne]. Plus d'informations sur la page <a href=\"/drainage-lymphatique/\" style=\"color:var(--azure);font-weight:600\">drainage lymphatique</a>.</p>",
+    "html": "<p>Après une opération du genou ou de la hanche, en cas de lymphœdème ou de jambes lourdes qui gonflent en fin de journée, le drainage manuel relance la circulation de la lymphe par des gestes lents et légers. Il fait partie du traitement de physiothérapie, à Ins ou chez vous [À CONFIRMER : drainage à domicile à Bienne]. Plus d'informations sur la page <a href=\"/drainage-lymphatique/\" style=\"color:var(--azure);font-weight:600\">drainage lymphatique</a>.</p>",
     "icon": "fa-shield-heart"
    }
   ]
@@ -93,9 +93,9 @@
   "bg": "trust",
   "cards": [
    {
-    "h3": "Ordonnance",
-    "html": "<p>Votre médecin précise le motif et, si besoin, la mention « à domicile ». Nous acceptons les ordonnances en allemand comme en français.</p>",
-    "icon": "fa-file-medical"
+    "h3": "Prise de rendez-vous",
+    "html": "<p>Choisissez un créneau en ligne, du lundi au vendredi jusqu'à 20h, et précisez si vous souhaitez une séance à domicile. Vos documents médicaux peuvent être en allemand comme en français.</p>",
+    "icon": "fa-calendar-check"
    },
    {
     "h3": "Bilan",
@@ -124,28 +124,12 @@
   "html": "<p>Le cabinet se situe à environ 18 km en ligne droite du centre de Bienne. Adresse, plan et indications pratiques : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Bienne est une ville bilingue, où l'allemand et le français se côtoient au quotidien. Chez Physio Activa, l'échange se fait en français, et nous parlons aussi espagnol : inutile de chercher vos mots pour décrire ce que vous ressentez.</p>"
  },
  {
-  "tipo": "grid",
-  "eyebrow": "Remboursement",
-  "h2": "Remboursement et coût de la physio à Bienne",
+  "tipo": "texte",
+  "eyebrow": "Assurances",
+  "h2": "Assurances et horaires : physio à Bienne",
   "lead": [],
   "bg": "trust",
-  "cards": [
-   {
-    "h3": "Assurance de base (LAMal)",
-    "html": "<p>Avec une prescription médicale, la physiothérapie est prise en charge par l'assurance obligatoire des soins (LAMal).</p>",
-    "icon": "fa-file-medical"
-   },
-   {
-    "h3": "Accident, AI et AM",
-    "html": "<p>L'assurance accidents (LAA) couvre le traitement après un accident ; l'assurance invalidité (AI) et l'assurance militaire (AM) prennent aussi en charge la physiothérapie prescrite dans leur cadre.</p>",
-    "icon": "fa-stethoscope"
-   },
-   {
-    "h3": "Ce qui détermine ce que vous payez",
-    "html": "<p>La facturation suit la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué]. En LAMal, la franchise et la quote-part de votre contrat restent à votre charge.</p>",
-    "icon": "fa-heart-pulse"
-   }
-  ]
+  "html": "<p>Physio Activa est reconnu par toutes les compagnies d'assurance maladie en Suisse et accueille les patients quel que soit leur canton de résidence. Le cabinet est ouvert du lundi au vendredi, jusqu'à 20h : de quoi caser une séance après le travail. Réservez en ligne, au 076 627 38 38 ou par WhatsApp.</p>"
  },
  {
   "tipo": "villes",
@@ -183,14 +167,24 @@
   "h2": "Questions fréquentes sur la physio à Bienne",
   "faq": [
    {
-    "q": "Dans quelle langue se déroule le traitement ?",
-    "a_html": "En français, et en espagnol si vous le souhaitez. Pour les patients d'une ville bilingue, c'est l'assurance de comprendre chaque exercice ; une ordonnance établie en allemand reste parfaitement valable.",
-    "a_text": "En français, et en espagnol si vous le souhaitez. Pour les patients d'une ville bilingue, c'est l'assurance de comprendre chaque exercice ; une ordonnance établie en allemand reste parfaitement valable."
+    "q": "Quand dois-je consulter un physiothérapeute pour une douleur ?",
+    "a_html": "Quand une nuque, une épaule ou une cheville reste douloureuse plus d'une semaine, limite votre mobilité ou perturbe votre sommeil. Plus on la traite tôt, plus c'est simple, surtout pour une douleur liée à l'écran ou à une entorse mal guérie.",
+    "a_text": "Quand une nuque, une épaule ou une cheville reste douloureuse plus d'une semaine, limite votre mobilité ou perturbe votre sommeil. Plus on la traite tôt, plus c'est simple, surtout pour une douleur liée à l'écran ou à une entorse mal guérie."
    },
    {
-    "q": "C'est quoi une séance de physiothérapie ?",
-    "a_html": "C'est un rendez-vous individuel où le physiothérapeute traite votre douleur ou votre limitation par le mouvement, des techniques manuelles et des exercices. Le but : retrouver vos gestes habituels.",
-    "a_text": "C'est un rendez-vous individuel où le physiothérapeute traite votre douleur ou votre limitation par le mouvement, des techniques manuelles et des exercices. Le but : retrouver vos gestes habituels."
+    "q": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+    "a_html": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.",
+    "a_text": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
+   },
+   {
+    "q": "Combien de séances me faut-il ?",
+    "a_html": "La durée du traitement varie selon votre situation, l'ancienneté des symptômes et votre rythme de travail. Lors de la première visite, nous établissons une estimation adaptée à votre cas.",
+    "a_text": "La durée du traitement varie selon votre situation, l'ancienneté des symptômes et votre rythme de travail. Lors de la première visite, nous établissons une estimation adaptée à votre cas."
+   },
+   {
+    "q": "Dans quelle langue se déroule le traitement ?",
+    "a_html": "En français, et en espagnol si vous le souhaitez. Pour les patients d'une ville bilingue, c'est l'assurance de comprendre chaque exercice ; vos documents médicaux en allemand restent parfaitement utilisables.",
+    "a_text": "En français, et en espagnol si vous le souhaitez. Pour les patients d'une ville bilingue, c'est l'assurance de comprendre chaque exercice ; vos documents médicaux en allemand restent parfaitement utilisables."
    },
    {
     "q": "Quelle est la différence entre un kinésithérapeute et un physiothérapeute ?",
@@ -209,8 +203,8 @@
    },
    {
     "q": "Je sors de l'hôpital : puis-je commencer tout de suite ?",
-    "a_html": "Oui : après un séjour au Centre hospitalier Bienne ou ailleurs, il suffit de l'ordonnance de physiothérapie. Le délai pour la première séance dépend de nos disponibilités [À CONFIRMER : délai du premier rendez-vous].",
-    "a_text": "Oui : après un séjour au Centre hospitalier Bienne ou ailleurs, il suffit de l'ordonnance de physiothérapie. Le délai pour la première séance dépend de nos disponibilités [À CONFIRMER : délai du premier rendez-vous]."
+    "a_html": "Oui : après un séjour au Centre hospitalier Bienne ou ailleurs, apportez les consignes de sortie. Le délai pour la première séance dépend de nos disponibilités [À CONFIRMER : délai du premier rendez-vous].",
+    "a_text": "Oui : après un séjour au Centre hospitalier Bienne ou ailleurs, apportez les consignes de sortie. Le délai pour la première séance dépend de nos disponibilités [À CONFIRMER : délai du premier rendez-vous]."
    },
    {
     "q": "Comment savoir si j'ai besoin d'un drainage lymphatique ?",
@@ -218,19 +212,9 @@
     "a_text": "Un gonflement qui persiste après une opération, une jambe ou un bras qui reste lourd et tendu, ou un lymphœdème diagnostiqué sont les situations typiques. C'est votre médecin qui pose l'indication."
    },
    {
-    "q": "Qui prescrit un drainage lymphatique ?",
-    "a_html": "Votre médecin traitant ou le spécialiste qui vous suit, par exemple après une chirurgie. Le drainage figure alors sur l'ordonnance de physiothérapie.",
-    "a_text": "Votre médecin traitant ou le spécialiste qui vous suit, par exemple après une chirurgie. Le drainage figure alors sur l'ordonnance de physiothérapie."
-   },
-   {
     "q": "Le drainage lymphatique est-il douloureux ?",
     "a_html": "Non. Les mouvements sont doux, lents et rythmés. Une zone opérée récemment peut être sensible : nous adaptons la pression.",
     "a_text": "Non. Les mouvements sont doux, lents et rythmés. Une zone opérée récemment peut être sensible : nous adaptons la pression."
-   },
-   {
-    "q": "Quel est le nouveau tarif pour la physiothérapie ?",
-    "a_html": "Le tarif de la physiothérapie découle d'une structure nationale négociée entre la profession et les assureurs, qui peut évoluer [À CONFIRMER : tarif appliqué et date du dernier changement].",
-    "a_text": "Le tarif de la physiothérapie découle d'une structure nationale négociée entre la profession et les assureurs, qui peut évoluer [À CONFIRMER : tarif appliqué et date du dernier changement]."
    }
   ]
  },

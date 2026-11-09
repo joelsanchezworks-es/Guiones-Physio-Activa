@@ -3,11 +3,11 @@
   "tipo": "hero",
   "eyebrow": "Physio · La Neuveville",
   "h1": "Physio à La Neuveville : au cabinet d'Ins ou à domicile",
-  "sub": "À environ 6,6 km en ligne droite d'Ins, La Neuveville partage avec notre cabinet le même canton, celui de Berne, et la même langue de travail, le français. Physio Activa vous accueille à Ins et peut envisager des visites à domicile [À CONFIRMER : domicile à La Neuveville]. Avec une ordonnance, la physiothérapie est remboursée ; pour réserver, passez par notre agenda en ligne, le téléphone ou WhatsApp.",
+  "sub": "À environ 6,6 km en ligne droite d'Ins, La Neuveville partage avec notre cabinet le même canton, celui de Berne, et la même langue de travail, le français. Physio Activa vous accueille à Ins et peut envisager des visites à domicile [À CONFIRMER : domicile à La Neuveville]. Le cabinet est reconnu par toutes les assurances maladie en Suisse et ouvert du lundi au vendredi jusqu'à 20h ; pour réserver, passez par notre agenda en ligne, le téléphone ou WhatsApp.",
   "pills": [
    "Cabinet à Ins, à 6,6 km",
-   "Sur prescription médicale",
-   "LAMal · LAA · AI · AM"
+   "Reconnu par toutes les assurances",
+   "Ouvert jusqu'à 20h"
   ],
   "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00036.jpg",
   "alt": "Salle de traitement du cabinet Physio Activa à Ins",
@@ -22,8 +22,8 @@
   "bg": null,
   "cards": [
    {
-    "h3": "Sur prescription, remboursé LAMal / LAA",
-    "html": "<p>Votre médecin prescrit, votre assurance paie : l'assurance de base pour une maladie ou une opération, l'assurance accidents après une entorse, une chute ou un accident de sport.</p>",
+    "h3": "Reconnu par toutes les assurances",
+    "html": "<p>Toutes les compagnies d'assurance maladie en Suisse reconnaissent notre cabinet, qui dispose des autorisations sanitaires nécessaires.</p>",
     "icon": "fa-file-medical"
    },
    {
@@ -49,7 +49,7 @@
   "h2": "Quand consulter un physio, et quand voir d'abord un médecin ?",
   "lead": [],
   "bg": "trust",
-  "html": "<p>Promenades sur les rives du lac de Bienne, montée vers le Plateau, travail à l'atelier ou au bureau : on nous consulte pour un talon douloureux, une entorse qui ne guérit pas, une hanche raide liée à l'arthrose, une nuque bloquée ou un genou qui craint les escaliers. La première étape est la consultation médicale, qui débouche sur l'ordonnance.</p><p style=\"margin-top:12px\">Ne commencez pas la physio sans avis médical si vous ne pouvez plus poser le pied après une torsion, si la douleur s'accompagne de fièvre ou d'une perte de poids inexpliquée, ou si des fourmillements gagnent les deux jambes. Pour un malaise, une douleur dans la poitrine ou une paralysie soudaine, appelez le 144 sans attendre.</p>"
+  "html": "<p>Promenades sur les rives du lac de Bienne, montée vers le Plateau, travail à l'atelier ou au bureau : on nous consulte pour un talon douloureux, une entorse qui ne guérit pas, une hanche raide liée à l'arthrose, une nuque bloquée ou un genou qui craint les escaliers. Plus la gêne est prise en charge tôt, plus la rééducation est simple.</p><p style=\"margin-top:12px\">Ne commencez pas la physio sans avis médical si vous ne pouvez plus poser le pied après une torsion, si la douleur s'accompagne de fièvre ou d'une perte de poids inexpliquée, ou si des fourmillements gagnent les deux jambes. Pour un malaise, une douleur dans la poitrine ou une paralysie soudaine, appelez le 144 sans attendre.</p>"
  },
  {
   "tipo": "grid",
@@ -88,9 +88,9 @@
   "bg": "trust",
   "cards": [
    {
-    "h3": "Ordonnance",
-    "html": "<p>Le médecin indique le type de traitement et, si nécessaire, la mention « à domicile ».</p>",
-    "icon": "fa-file-medical"
+    "h3": "Prise de rendez-vous",
+    "html": "<p>Indiquez en réservant si vous souhaitez une séance à domicile ; les créneaux vont du lundi au vendredi, jusqu'à 20h.</p>",
+    "icon": "fa-calendar-check"
    },
    {
     "h3": "Bilan",
@@ -116,31 +116,15 @@
   "h2": "Venir au cabinet d'Ins depuis La Neuveville",
   "lead": [],
   "bg": null,
-  "html": "<p>Notre cabinet se trouve à l'InsGym, Rämismatte 21, 3232 Ins, à environ 6,6 km en ligne droite de La Neuveville. Itinéraire et stationnement : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">La Neuveville est une commune francophone de l'arrondissement administratif du Jura bernois ; Ins, dans le Seeland, est germanophone, mais les séances se déroulent en français. Si vous sortez du Centre hospitalier Bienne après une opération, votre rééducation peut se poursuivre chez nous dès que votre médecin a établi la prescription.</p>"
+  "html": "<p>Notre cabinet se trouve à l'InsGym, Rämismatte 21, 3232 Ins, à environ 6,6 km en ligne droite de La Neuveville. Itinéraire et stationnement : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">La Neuveville est une commune francophone de l'arrondissement administratif du Jura bernois ; Ins, dans le Seeland, est germanophone, mais les séances se déroulent en français. Si vous sortez du Centre hospitalier Bienne après une opération, votre rééducation peut se poursuivre chez nous dès votre retour, selon les consignes de votre médecin.</p>"
  },
  {
-  "tipo": "grid",
-  "eyebrow": "Remboursement",
-  "h2": "Remboursement et coût de la physio à La Neuveville",
+  "tipo": "texte",
+  "eyebrow": "Assurances",
+  "h2": "Assurances et horaires : physio à La Neuveville",
   "lead": [],
   "bg": "trust",
-  "cards": [
-   {
-    "h3": "Assurance de base (LAMal)",
-    "html": "<p>Sur prescription médicale, l'assurance obligatoire prend en charge la physiothérapie.</p>",
-    "icon": "fa-file-medical"
-   },
-   {
-    "h3": "Accident, AI et AM",
-    "html": "<p>Après un accident, l'assurance accidents (LAA) intervient ; l'assurance invalidité (AI) et l'assurance militaire (AM) couvrent aussi les séances prescrites dans leur domaine.</p>",
-    "icon": "fa-stethoscope"
-   },
-   {
-    "h3": "Ce qui détermine ce que vous payez",
-    "html": "<p>Avec la LAMal, la franchise et la quote-part restent à votre charge selon votre contrat. Les séances suivent la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué]. Apportez votre ordonnance et votre carte d'assuré.</p>",
-    "icon": "fa-heart-pulse"
-   }
-  ]
+  "html": "<p>Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse et dispose de toutes les autorisations sanitaires nécessaires ; nous accueillons les patients quel que soit leur canton de résidence. Nous vous recevons du lundi au vendredi, jusqu'à 20h. Réservez en ligne, au 076 627 38 38 ou sur WhatsApp.</p>"
  },
  {
   "tipo": "villes",
@@ -178,6 +162,21 @@
   "h2": "Questions fréquentes sur la physio à La Neuveville",
   "faq": [
    {
+    "q": "Quand dois-je consulter un physiothérapeute pour une douleur ?",
+    "a_html": "Si un talon, une cheville ou une hanche vous gêne depuis plus d'une semaine, si la douleur limite la marche ou perturbe le sommeil. Plus on la traite tôt, plus c'est simple.",
+    "a_text": "Si un talon, une cheville ou une hanche vous gêne depuis plus d'une semaine, si la douleur limite la marche ou perturbe le sommeil. Plus on la traite tôt, plus c'est simple."
+   },
+   {
+    "q": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+    "a_html": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.",
+    "a_text": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
+   },
+   {
+    "q": "Combien de séances me faut-il ?",
+    "a_html": "La durée du traitement varie selon votre situation : une entorse récente, une arthrose ancienne ou une prothèse n'ont pas le même rythme. Lors de la première visite, nous établissons une estimation adaptée à votre cas.",
+    "a_text": "La durée du traitement varie selon votre situation : une entorse récente, une arthrose ancienne ou une prothèse n'ont pas le même rythme. Lors de la première visite, nous établissons une estimation adaptée à votre cas."
+   },
+   {
     "q": "Peut-on être suivi en français à Ins ?",
     "a_html": "Oui. Même si Ins est un village germanophone, nous travaillons en français au quotidien ; l'équipe parle aussi espagnol.",
     "a_text": "Oui. Même si Ins est un village germanophone, nous travaillons en français au quotidien ; l'équipe parle aussi espagnol."
@@ -193,19 +192,9 @@
     "a_text": "Ces localités sont voisines, tout comme Gléresse (Ligerz), mais le passage à domicile n'y est pas encore confirmé. Contactez-nous avec votre adresse [À CONFIRMER : couverture du Plateau de Diesse et du Landeron]."
    },
    {
-    "q": "Quel est le nouveau tarif pour la physiothérapie ?",
-    "a_html": "La facturation suit la structure tarifaire nationale convenue entre la profession et les assureurs, qui peut être adaptée au fil des négociations. Nous appliquons la version en vigueur [À CONFIRMER : tarif appliqué] ; votre part dépend de votre franchise et de la quote-part.",
-    "a_text": "La facturation suit la structure tarifaire nationale convenue entre la profession et les assureurs, qui peut être adaptée au fil des négociations. Nous appliquons la version en vigueur [À CONFIRMER : tarif appliqué] ; votre part dépend de votre franchise et de la quote-part."
-   },
-   {
-    "q": "Habiter le même canton que le cabinet change-t-il quelque chose ?",
-    "a_html": "Pour le remboursement, non : la LAMal est fédérale. La proximité administrative simplifie surtout les échanges avec les médecins de la région biennoise.",
-    "a_text": "Pour le remboursement, non : la LAMal est fédérale. La proximité administrative simplifie surtout les échanges avec les médecins de la région biennoise."
-   },
-   {
     "q": "J'ai été opéré à Bienne : que dois-je apporter ?",
-    "a_html": "L'ordonnance de physiothérapie remise par votre médecin, votre carte d'assuré et, si vous les avez, le compte rendu opératoire ou les consignes du Centre hospitalier Bienne.",
-    "a_text": "L'ordonnance de physiothérapie remise par votre médecin, votre carte d'assuré et, si vous les avez, le compte rendu opératoire ou les consignes du Centre hospitalier Bienne."
+    "a_html": "Le compte rendu opératoire ou les consignes du Centre hospitalier Bienne, si vous les avez, et la liste de vos médicaments. Une tenue confortable suffit pour le reste.",
+    "a_text": "Le compte rendu opératoire ou les consignes du Centre hospitalier Bienne, si vous les avez, et la liste de vos médicaments. Une tenue confortable suffit pour le reste."
    },
    {
     "q": "Quand consulter un docteur en médecine physique et de réadaptation ?",

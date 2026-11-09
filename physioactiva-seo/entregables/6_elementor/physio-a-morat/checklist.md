@@ -3,16 +3,13 @@
 - Lote: B · Plantilla: lombaire · Validación: OK
 - Indexación: NOINDEX hasta la confirmación del cliente
 
-## Marcadores [À CONFIRMER] (9)
+## Marcadores [À CONFIRMER] (6)
 
 - [À CONFIRMER : déplacements à domicile à Morat] — «Vous habitez Morat et vous cherchez un physiothérapeute qui vous reçoit en français ? Physio Activa vous accueille à Ins, à environ 8,7 km en ligne droite de la vieille ville, et peut se déplacer chez vous selon les disponibilités [À CONFIRMER : déplacements à»
 - [À CONFIRMER : domicile à Morat et jours de passage] — «La majorité des rééducations se fait chez InsGym ; pour les Moratois qui ne peuvent plus se déplacer, le domicile est envisagé [À CONFIRMER : domicile à Morat et jours de passage].»
 - [À CONFIRMER : localités desservies et jours de passage] — «Avec des cannes, un déambulateur ou une grande fatigue, nous pouvons envisager de venir à Morat, à Meyriez, Muntelier, Greng, Courgevaux ou Galmiz [À CONFIRMER : localités desservies et jours de passage], avec des exercices pensés pour votre logement.»
-- [À CONFIRMER : tarif appliqué] — «Les séances sont facturées selon la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué].»
 - [À CONFIRMER : domicile à Morat] — «La première sert au bilan ; les suivantes alternent traitement manuel et exercices, au cabinet ou chez vous [À CONFIRMER : domicile à Morat].»
-- [À CONFIRMER : délai pour une première séance] — «Oui : avec l'ordonnance de sortie de l'HFR Meyriez-Murten, nous poursuivons la rééducation [À CONFIRMER : délai pour une première séance].»
-- [À CONFIRMER : conditions de prise en charge] — «Voir massage thérapeutique [À CONFIRMER : conditions de prise en charge].»
-- [À CONFIRMER : tarif appliqué] — «Il existe une structure tarifaire nationale pour la physiothérapie, convenue avec les assureurs [À CONFIRMER : tarif appliqué].»
+- [À CONFIRMER : délai pour une première séance] — «Oui : avec les consignes de sortie de l'HFR Meyriez-Murten, nous poursuivons la rééducation [À CONFIRMER : délai pour une première séance].»
 - [À CONFIRMER : localités et jours de passage] — «Elles font partie de la zone envisagée à domicile, avec Meyriez et Galmiz [À CONFIRMER : localités et jours de passage].»
 
 ## Publicación
@@ -33,8 +30,8 @@
 | Qué es / cuándo consultar (+ señales de alarma) | sí |  |
 | Tipos según el caso (H2 + H3 por subtipo) | sí |  |
 | Proceso en pasos (H2 + H3) + CTA intermedio | sí |  |
-| Reembolso y coste | sí |  |
+| Reembolso y coste | no | omitida |
 | FAQ (8-10) | sí | 9 preguntas |
 | CTA final en pregunta con la ciudad | sí |  |
 
-- receta: ciudad en 4 H2 · FAQ 9 · CTA reserva 5 / tel 3 / WhatsApp 3 · palabras visibles 1321
+- receta: ciudad en 4 H2 · FAQ 9 · CTA reserva 5 / tel 3 / WhatsApp 3 · palabras visibles 1322

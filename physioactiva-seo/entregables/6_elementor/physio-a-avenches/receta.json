@@ -3,11 +3,11 @@
   "tipo": "hero",
   "eyebrow": "Physio · Avenches",
   "h1": "Physiothérapie à Avenches : au cabinet d'Ins ou à domicile",
-  "sub": "Habitant d'Avenches, vous êtes à environ 14,8 km en ligne droite de Physio Activa, installé à Ins. Selon votre situation, les séances de physio ont lieu au cabinet ou à votre domicile [À CONFIRMER : déplacements à Avenches]. Prescrites par un médecin, elles sont remboursées par votre assurance, même si vous êtes assuré dans le canton de Vaud ; un rendez-vous se prend en quelques clics, par téléphone ou par WhatsApp.",
+  "sub": "Habitant d'Avenches, vous êtes à environ 14,8 km en ligne droite de Physio Activa, installé à Ins. Selon votre situation, les séances de physio ont lieu au cabinet ou à votre domicile [À CONFIRMER : déplacements à Avenches]. Le cabinet est reconnu par toutes les assurances maladie en Suisse, y compris pour les habitants du canton de Vaud, et ouvert du lundi au vendredi jusqu'à 20h ; un rendez-vous se prend en quelques clics, par téléphone ou par WhatsApp.",
   "pills": [
    "Cabinet à Ins, à 14,8 km",
-   "Sur prescription médicale",
-   "LAMal · LAA · AI · AM"
+   "Reconnu par toutes les assurances",
+   "Ouvert jusqu'à 20h"
   ],
   "img": "https://physioactiva.ch/wp-content/uploads/2025/06/Centerbild_IMG_9184-scaled-1.jpg",
   "alt": "Salle de fitness médical utilisée pour la rééducation à Ins",
@@ -22,8 +22,8 @@
   "bg": null,
   "cards": [
    {
-    "h3": "Sur prescription, remboursé LAMal / LAA",
-    "html": "<p>Un médecin vaudois peut prescrire des séances réalisées dans le canton de Berne : l'assurance de base, l'assurance accidents, l'AI ou l'AM remboursent selon les mêmes règles fédérales.</p>",
+    "h3": "Reconnu par toutes les assurances",
+    "html": "<p>Être Vaudois et se soigner dans le canton de Berne ne pose aucun problème : notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse.</p>",
     "icon": "fa-file-medical"
    },
    {
@@ -49,7 +49,7 @@
   "h2": "Quand consulter un physio, et quand voir d'abord un médecin ?",
   "lead": [],
   "bg": "trust",
-  "html": "<p>Dans la région, beaucoup de demandes concernent la rééducation après une prothèse de hanche ou de genou, une sciatique qui irradie dans la fesse, une épaule gelée ou une coiffe des rotateurs abîmée, une cheville instable. Dans tous les cas, c'est le médecin qui pose le diagnostic et rédige la prescription.</p><p style=\"margin-top:12px\">Consultez rapidement un médecin si une jambe opérée devient chaude, rouge et gonflée, si la cicatrice coule, si la fièvre apparaît, ou si une douleur au dos s'accompagne d'une faiblesse nouvelle. Douleur thoracique, gêne respiratoire brutale ou trouble de la parole : composez le 144.</p>"
+  "html": "<p>Dans la région, beaucoup de demandes concernent la rééducation après une prothèse de hanche ou de genou, une sciatique qui irradie dans la fesse, une épaule gelée ou une coiffe des rotateurs abîmée, une cheville instable. Dans tous les cas, plus la prise en charge commence tôt, plus elle est simple.</p><p style=\"margin-top:12px\">Consultez rapidement un médecin si une jambe opérée devient chaude, rouge et gonflée, si la cicatrice coule, si la fièvre apparaît, ou si une douleur au dos s'accompagne d'une faiblesse nouvelle. Douleur thoracique, gêne respiratoire brutale ou trouble de la parole : composez le 144.</p>"
  },
  {
   "tipo": "grid",
@@ -88,9 +88,9 @@
   "bg": "trust",
   "cards": [
    {
-    "h3": "Ordonnance",
-    "html": "<p>Elle peut être rédigée par votre généraliste, votre chirurgien ou l'hôpital à la sortie ; son canton n'a pas d'importance.</p>",
-    "icon": "fa-file-medical"
+    "h3": "Prise de rendez-vous",
+    "html": "<p>Réservez en ligne, par téléphone ou sur WhatsApp, du lundi au vendredi jusqu'à 20h. Après une opération, apportez les consignes du chirurgien ou de l'hôpital.</p>",
+    "icon": "fa-calendar-check"
    },
    {
     "h3": "Bilan",
@@ -104,7 +104,7 @@
    },
    {
     "h3": "Autonomie et prévention",
-    "html": "<p>Un programme à domicile vous permet de conserver les acquis une fois l'ordonnance terminée.</p>",
+    "html": "<p>Un programme à domicile vous permet de conserver les acquis une fois le traitement terminé.</p>",
     "icon": "fa-person-walking"
    }
   ],
@@ -116,31 +116,15 @@
   "h2": "Venir au cabinet d'Ins depuis Avenches",
   "lead": [],
   "bg": null,
-  "html": "<p>Notre cabinet se trouve à l'InsGym, Rämismatte 21, 3232 Ins, à environ 14,8 km en ligne droite de la cité romaine. Accès et parking : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Avenches est une commune vaudoise francophone du district de la Broye-Vully, et nous vous recevons en français. L'hôpital de référence de la région est le HIB – Hôpital intercantonal de la Broye, à Payerne : après une intervention ou un séjour là-bas, la rééducation peut se poursuivre à Ins ou chez vous, sur prescription médicale.</p>"
+  "html": "<p>Notre cabinet se trouve à l'InsGym, Rämismatte 21, 3232 Ins, à environ 14,8 km en ligne droite de la cité romaine. Accès et parking : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Avenches est une commune vaudoise francophone du district de la Broye-Vully, et nous vous recevons en français. L'hôpital de référence de la région est le HIB – Hôpital intercantonal de la Broye, à Payerne : après une intervention ou un séjour là-bas, la rééducation peut se poursuivre à Ins ou chez vous, selon les consignes médicales.</p>"
  },
  {
-  "tipo": "grid",
-  "eyebrow": "Remboursement",
-  "h2": "Remboursement et coût de la physio à Avenches",
+  "tipo": "texte",
+  "eyebrow": "Assurances",
+  "h2": "Assurances et horaires : physio à Avenches",
   "lead": [],
   "bg": "trust",
-  "cards": [
-   {
-    "h3": "Assurance de base (LAMal)",
-    "html": "<p>Sur prescription médicale, l'assurance obligatoire prend en charge la physiothérapie, y compris pour un assuré vaudois traité dans le canton de Berne.</p>",
-    "icon": "fa-file-medical"
-   },
-   {
-    "h3": "Accident, AI et AM",
-    "html": "<p>Après un accident, l'assurance accidents (LAA) intervient ; l'assurance invalidité (AI) et l'assurance militaire (AM) couvrent aussi les séances prescrites dans leur domaine.</p>",
-    "icon": "fa-stethoscope"
-   },
-   {
-    "h3": "Ce qui détermine ce que vous payez",
-    "html": "<p>Avec la LAMal, la franchise et la quote-part restent à votre charge selon votre contrat. Les séances suivent la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué]. Apportez votre ordonnance et votre carte d'assuré.</p>",
-    "icon": "fa-heart-pulse"
-   }
-  ]
+  "html": "<p>Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence : habiter la Broye vaudoise et venir à Ins, dans le canton de Berne, ne change rien. Les rendez-vous sont possibles du lundi au vendredi, jusqu'à 20h, en ligne, au 076 627 38 38 ou sur WhatsApp.</p>"
  },
  {
   "tipo": "villes",
@@ -178,14 +162,19 @@
   "h2": "Questions fréquentes sur la physio à Avenches",
   "faq": [
    {
-    "q": "J'habite dans le canton de Vaud : mon assurance rembourse-t-elle un cabinet bernois ?",
-    "a_html": "Oui. L'assurance de base est régie par une loi fédérale, la LAMal ; une ordonnance établie par un médecin vaudois est valable pour un traitement à Ins.",
-    "a_text": "Oui. L'assurance de base est régie par une loi fédérale, la LAMal ; une ordonnance établie par un médecin vaudois est valable pour un traitement à Ins."
+    "q": "Quand dois-je consulter un physiothérapeute pour une douleur ?",
+    "a_html": "Si la douleur dure plus d'une semaine, limite votre mobilité, perturbe votre sommeil ou vous empêche de marcher comme avant, par exemple après une prothèse. Plus on la traite tôt, plus c'est simple.",
+    "a_text": "Si la douleur dure plus d'une semaine, limite votre mobilité, perturbe votre sommeil ou vous empêche de marcher comme avant, par exemple après une prothèse. Plus on la traite tôt, plus c'est simple."
    },
    {
-    "q": "Quel est le tarif d'une consultation de physiothérapie en Suisse ?",
-    "a_html": "Il n'y a pas de prix fixé librement par chaque cabinet : la physiothérapie prescrite est facturée selon une structure tarifaire nationale négociée avec les assureurs [À CONFIRMER : tarif appliqué]. Ce qui varie pour vous, c'est la franchise et la quote-part de votre contrat.",
-    "a_text": "Il n'y a pas de prix fixé librement par chaque cabinet : la physiothérapie prescrite est facturée selon une structure tarifaire nationale négociée avec les assureurs [À CONFIRMER : tarif appliqué]. Ce qui varie pour vous, c'est la franchise et la quote-part de votre contrat."
+    "q": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+    "a_html": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.",
+    "a_text": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
+   },
+   {
+    "q": "Combien de séances me faut-il ?",
+    "a_html": "La durée du traitement varie selon votre situation, l'intervention subie et vos objectifs de marche ou d'effort. Lors de la première visite, nous établissons une estimation adaptée à votre cas.",
+    "a_text": "La durée du traitement varie selon votre situation, l'intervention subie et vos objectifs de marche ou d'effort. Lors de la première visite, nous établissons une estimation adaptée à votre cas."
    },
    {
     "q": "Faites-vous des visites à Faoug, Salavaux ou Domdidier ?",
@@ -194,8 +183,8 @@
    },
    {
     "q": "Quels sont les problèmes de lymphe possibles après une opération ?",
-    "a_html": "Un œdème persistant, une sensation de lourdeur ou un lymphœdème peuvent apparaître, surtout après une chirurgie touchant les ganglions. Parlez-en à votre médecin : il peut prescrire un <a href=\"/drainage-lymphatique/\" style=\"color:var(--azure);font-weight:600\">drainage lymphatique manuel</a> intégré à la physiothérapie.",
-    "a_text": "Un œdème persistant, une sensation de lourdeur ou un lymphœdème peuvent apparaître, surtout après une chirurgie touchant les ganglions. Parlez-en à votre médecin : il peut prescrire un drainage lymphatique manuel intégré à la physiothérapie."
+    "a_html": "Un œdème persistant, une sensation de lourdeur ou un lymphœdème peuvent apparaître, surtout après une chirurgie touchant les ganglions. Parlez-en à votre médecin : un <a href=\"/drainage-lymphatique/\" style=\"color:var(--azure);font-weight:600\">drainage lymphatique manuel</a> peut alors s'intégrer à la physiothérapie.",
+    "a_text": "Un œdème persistant, une sensation de lourdeur ou un lymphœdème peuvent apparaître, surtout après une chirurgie touchant les ganglions. Parlez-en à votre médecin : un drainage lymphatique manuel peut alors s'intégrer à la physiothérapie."
    },
    {
     "q": "Est-ce normal d'avoir plus mal après une séance de physio ?",
@@ -204,8 +193,8 @@
    },
    {
     "q": "Je sors du HIB à Payerne : par où commencer ?",
-    "a_html": "Demandez l'ordonnance à la sortie, gardez les consignes de l'hôpital, puis réservez. Si vous ne pouvez pas encore conduire, signalez-le pour envisager le domicile.",
-    "a_text": "Demandez l'ordonnance à la sortie, gardez les consignes de l'hôpital, puis réservez. Si vous ne pouvez pas encore conduire, signalez-le pour envisager le domicile."
+    "a_html": "Gardez les consignes de l'hôpital, puis réservez. Si vous ne pouvez pas encore conduire, signalez-le pour envisager le domicile.",
+    "a_text": "Gardez les consignes de l'hôpital, puis réservez. Si vous ne pouvez pas encore conduire, signalez-le pour envisager le domicile."
    },
    {
     "q": "Qui peut aller en centre de rééducation ?",

@@ -3,17 +3,14 @@
 - Lote: B · Plantilla: lombaire · Validación: OK
 - Indexación: NOINDEX hasta la confirmación del cliente
 
-## Marcadores [À CONFIRMER] (10)
+## Marcadores [À CONFIRMER] (7)
 
 - [À CONFIRMER : domicile à Estavayer] — «Physio Activa vous accueille au cabinet d'Ins et étudie la possibilité de séances à domicile dans la Broye [À CONFIRMER : domicile à Estavayer].»
 - [À CONFIRMER : jours de passage dans la Broye] — «Le domicile ne pourra être proposé que certains jours [À CONFIRMER : jours de passage dans la Broye].»
 - [À CONFIRMER : couverture et jours de passage] — «À plus de 25 km du cabinet, le domicile se planifie en regroupant les patients d'un même secteur : Font, Cheyres-Châbles, Sévaz ou Les Montets pourraient être concernés [À CONFIRMER : couverture et jours de passage].»
 - [À CONFIRMER : drainage à domicile dans la Broye] — «Depuis Estavayer, il se fera en principe à Ins [À CONFIRMER : drainage à domicile dans la Broye].»
-- [À CONFIRMER : tarif appliqué] — «Le montant facturé suit la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué].»
 - [À CONFIRMER : domicile à Estavayer] — «Sinon, le domicile peut être une option [À CONFIRMER : domicile à Estavayer].»
-- [À CONFIRMER : horaires du cabinet] — «La distance et les horaires comptent aussi [À CONFIRMER : horaires du cabinet].»
-- [À CONFIRMER : délai pour une première séance] — «Avec l'ordonnance remise par le médecin, nous organisons la suite de votre rééducation [À CONFIRMER : délai pour une première séance].»
-- [À CONFIRMER : tarif appliqué] — «Il découle de la structure tarifaire nationale, identique pour tous les assureurs ; vous payez franchise et quote-part [À CONFIRMER : tarif appliqué].»
+- [À CONFIRMER : délai pour une première séance] — «Avec les consignes remises à la sortie, nous organisons la suite de votre rééducation [À CONFIRMER : délai pour une première séance].»
 - [À CONFIRMER : localités desservies et jours de passage] — «Ces villages voisins pourraient être regroupés avec les visites à domicile du secteur, comme Sévaz et Les Montets [À CONFIRMER : localités desservies et jours de passage].»
 
 ## Publicación
@@ -34,8 +31,8 @@
 | Qué es / cuándo consultar (+ señales de alarma) | sí |  |
 | Tipos según el caso (H2 + H3 por subtipo) | sí |  |
 | Proceso en pasos (H2 + H3) + CTA intermedio | sí |  |
-| Reembolso y coste | sí |  |
-| FAQ (8-10) | sí | 10 preguntas |
+| Reembolso y coste | no | omitida |
+| FAQ (8-10) | sí | 9 preguntas |
 | CTA final en pregunta con la ciudad | sí |  |
 
-- receta: ciudad en 4 H2 · FAQ 10 · CTA reserva 5 / tel 3 / WhatsApp 3 · palabras visibles 1324
+- receta: ciudad en 4 H2 · FAQ 9 · CTA reserva 5 / tel 3 / WhatsApp 3 · palabras visibles 1300

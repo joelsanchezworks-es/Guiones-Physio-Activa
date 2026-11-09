@@ -25,8 +25,8 @@
 | Qué es / cuándo consultar (+ señales de alarma) | sí |  |
 | Tipos según el caso (H2 + H3 por subtipo) | sí |  |
 | Proceso en pasos (H2 + H3) + CTA intermedio | sí |  |
-| Reembolso y coste | sí |  |
-| FAQ (8-10) | sí | 8 preguntas |
+| Reembolso y coste | no | omitida |
+| FAQ (8-10) | sí | 10 preguntas |
 | CTA final en pregunta con la ciudad | sí |  |
 
-- receta: ciudad en 4 H2 · FAQ 8 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1431
+- receta: ciudad en 3 H2 · FAQ 10 · CTA reserva 5 / tel 3 / WhatsApp 3 · palabras visibles 1573

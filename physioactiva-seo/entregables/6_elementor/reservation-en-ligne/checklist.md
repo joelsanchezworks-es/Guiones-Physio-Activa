@@ -3,10 +3,8 @@
 - Lote: C · Plantilla: lombaire · Validación: OK
 - Indexación: index, follow
 
-## Marcadores [À CONFIRMER] (3)
+## Marcadores [À CONFIRMER] (1)
 
-- [À CONFIRMER] — «Horaires : du lundi au vendredi, de 8 h 30 à 19 h 30 [À CONFIRMER].»
-- [À CONFIRMER] — «Délai d'annulation : [À CONFIRMER].»
 - [À CONFIRMER] — «Durée d'une séance : [À CONFIRMER].»
 
 ## Publicación
@@ -27,8 +25,8 @@
 | Qué es / cuándo consultar (+ señales de alarma) | no | página sin patología concreta (hub/reserva/home): no aplica |
 | Tipos según el caso (H2 + H3 por subtipo) | no | no aplica a esta página |
 | Proceso en pasos (H2 + H3) + CTA intermedio | no | no aplica a esta página |
-| Reembolso y coste | sí |  |
-| FAQ (8-10) | sí | 8 preguntas |
+| Reembolso y coste | no | omitida |
+| FAQ (8-10) | sí | 9 preguntas |
 | CTA final en pregunta con la ciudad | sí |  |
 
-- receta: ciudad en 3 H2 · FAQ 8 · CTA reserva 3 / tel 2 / WhatsApp 2 · palabras visibles 767
+- receta: ciudad en 2 H2 · FAQ 9 · CTA reserva 3 / tel 2 / WhatsApp 2 · palabras visibles 849

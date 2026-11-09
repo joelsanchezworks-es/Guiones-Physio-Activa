@@ -3,11 +3,11 @@
   "tipo": "hero",
   "eyebrow": "Physio · Yvonand",
   "h1": "Physio à Yvonand : au cabinet d'Ins ou à domicile",
-  "sub": "Une ordonnance de physiothérapie en poche et un domicile à Yvonand ? Physio Activa travaille depuis Ins, à environ 35,9 km en ligne droite, et vous reçoit au cabinet ; le déplacement chez vous reste à confirmer pour votre secteur [À CONFIRMER : domicile à Yvonand]. Les séances prescrites sont remboursées et un rendez-vous se prend en quelques clics.",
+  "sub": "Besoin de physiothérapie et domicilié à Yvonand ? Physio Activa travaille depuis Ins, à environ 35,9 km en ligne droite, et vous reçoit au cabinet ; le déplacement chez vous reste à confirmer pour votre secteur [À CONFIRMER : domicile à Yvonand]. Le cabinet est reconnu par toutes les assurances maladie en Suisse et un rendez-vous se prend en quelques clics.",
   "pills": [
    "Cabinet à Ins, à 35,9 km",
-   "Sur prescription médicale",
-   "LAMal · LAA · AI · AM"
+   "Reconnu par toutes les assurances",
+   "Ouvert jusqu'à 20h"
   ],
   "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00032.jpg",
   "alt": "Physiothérapeute accompagnant un patient lors d'exercices à domicile ou au cabinet",
@@ -22,8 +22,8 @@
   "bg": null,
   "cards": [
    {
-    "h3": "Sur prescription, remboursé LAMal / LAA",
-    "html": "<p>Habiter le canton de Vaud et se soigner dans le canton de Berne ne pose aucun problème : la prescription médicale suffit pour la LAMal comme pour la LAA.</p>",
+    "h3": "Reconnu par toutes les assurances",
+    "html": "<p>Habiter le canton de Vaud et se soigner dans le canton de Berne ne pose aucun problème : notre cabinet est reconnu par toutes les assurances maladie en Suisse.</p>",
     "icon": "fa-file-medical"
    },
    {
@@ -49,7 +49,7 @@
   "h2": "Quand consulter un physio, et quand voir d'abord un médecin ?",
   "lead": [],
   "bg": "trust",
-  "html": "<p>Torticolis qui revient, raideur de la nuque après la conduite ou le télétravail, hanche arthrosique qui raccourcit les promenades, lombalgie qui traîne depuis des mois, genou qui lâche à la descente des escaliers : voilà le type de gênes pour lesquelles un physiothérapeute apporte une aide concrète. La préparation et les suites d'une prothèse de hanche en font aussi partie.</p><p style=\"margin-top:12px\">C'est votre médecin qui pose l'indication et signe l'ordonnance. Consultez-le d'abord, ou appelez le 144 en urgence, si :\n- la douleur de nuque s'accompagne de vertiges, de troubles de la parole ou de la vision ;\n- une hanche ou un genou devient brusquement impossible à charger ;\n- le mal de dos s'accompagne d'une perte de force ou de sensibilité ;\n- vous avez de la fièvre, des sueurs nocturnes ou une douleur qui augmente sans raison.</p>"
+  "html": "<p>Torticolis qui revient, raideur de la nuque après la conduite ou le télétravail, hanche arthrosique qui raccourcit les promenades, lombalgie qui traîne depuis des mois, genou qui lâche à la descente des escaliers : voilà le type de gênes pour lesquelles un physiothérapeute apporte une aide concrète. La préparation et les suites d'une prothèse de hanche en font aussi partie.</p><p style=\"margin-top:12px\">Consultez d'abord un médecin, ou appelez le 144 en urgence, si :\n- la douleur de nuque s'accompagne de vertiges, de troubles de la parole ou de la vision ;\n- une hanche ou un genou devient brusquement impossible à charger ;\n- le mal de dos s'accompagne d'une perte de force ou de sensibilité ;\n- vous avez de la fièvre, des sueurs nocturnes ou une douleur qui augmente sans raison.</p>"
  },
  {
   "tipo": "grid",
@@ -70,7 +70,7 @@
    },
    {
     "h3": "Après une opération ou une hospitalisation",
-    "html": "<p>Si votre intervention ou votre séjour a eu lieu à l'eHnv d'Yverdon-les-Bains, l'hôpital de la région, nous reprenons la rééducation sur la base de l'ordonnance de sortie.</p>",
+    "html": "<p>Si votre intervention ou votre séjour a eu lieu à l'eHnv d'Yverdon-les-Bains, l'hôpital de la région, nous reprenons la rééducation sur la base des consignes de sortie.</p>",
     "icon": "fa-hospital"
    },
    {
@@ -88,9 +88,9 @@
   "bg": "trust",
   "cards": [
    {
-    "h3": "Ordonnance",
-    "html": "<p>Votre médecin, à Yvonand, à Yverdon ou ailleurs, mentionne la physiothérapie et le motif. Une photo envoyée par WhatsApp nous permet de préparer votre dossier.</p>",
-    "icon": "fa-file-medical"
+    "h3": "Prise de rendez-vous",
+    "html": "<p>Réservez en ligne ou envoyez un message WhatsApp avec quelques mots sur votre problème : nous préparons votre dossier et proposons un créneau compatible avec le trajet.</p>",
+    "icon": "fa-calendar-check"
    },
    {
     "h3": "Bilan",
@@ -116,31 +116,15 @@
   "h2": "Venir au cabinet d'Ins depuis Yvonand",
   "lead": [],
   "bg": null,
-  "html": "<p>Le cabinet d'Ins est à environ 35,9 km en ligne droite d'Yvonand, commune du district du Jura-Nord vaudois. Pour préparer votre venue, consultez <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Les consultations se tiennent en français, la langue d'Yvonand, ou en espagnol. Pour les patients suivis à l'eHnv, la transition vers notre cabinet se fait simplement avec l'ordonnance.</p>"
+  "html": "<p>Le cabinet d'Ins est à environ 35,9 km en ligne droite d'Yvonand, commune du district du Jura-Nord vaudois. Pour préparer votre venue, consultez <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Les consultations se tiennent en français, la langue d'Yvonand, ou en espagnol. Pour les patients suivis à l'eHnv, la transition vers notre cabinet se fait simplement avec le rapport de sortie.</p>"
  },
  {
-  "tipo": "grid",
-  "eyebrow": "Remboursement",
-  "h2": "Remboursement et coût de la physio à Yvonand",
+  "tipo": "texte",
+  "eyebrow": "Assurances",
+  "h2": "Assurances et horaires : physio à Yvonand",
   "lead": [],
   "bg": "trust",
-  "cards": [
-   {
-    "h3": "Assurance de base (LAMal)",
-    "html": "<p>L'assurance obligatoire des soins couvre la physiothérapie prescrite partout en Suisse. Votre domicile vaudois n'empêche pas un traitement dans un cabinet bernois.</p>",
-    "icon": "fa-file-medical"
-   },
-   {
-    "h3": "Accident, AI et AM",
-    "html": "<p>En cas d'accident, l'assurance accidents (LAA) prend en charge les séances prescrites ; l'AI et l'assurance militaire (AM) aussi, chacune dans son domaine.</p>",
-    "icon": "fa-stethoscope"
-   },
-   {
-    "h3": "Ce qui détermine ce que vous payez",
-    "html": "<p>Sous LAMal, vous assumez la franchise et la quote-part. Le prix de la séance suit la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué].</p>",
-    "icon": "fa-heart-pulse"
-   }
-  ]
+  "html": "<p>Votre domicile vaudois n'est pas un obstacle : notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse et accueille les patients quel que soit leur canton de résidence. Nous recevons du lundi au vendredi, jusqu'à 20h. Réservez en ligne, au 076 627 38 38 ou par WhatsApp au +41 76 627 38 38.</p>"
  },
  {
   "tipo": "villes",
@@ -178,9 +162,24 @@
   "h2": "Questions fréquentes sur la physio à Yvonand",
   "faq": [
    {
+    "q": "Quand dois-je consulter un physiothérapeute pour une douleur ?",
+    "a_html": "Si une douleur de nuque, de hanche ou de dos dure plus d'une semaine, limite vos mouvements ou perturbe le sommeil. Attendre qu'elle devienne chronique rend le travail plus long. Vertiges ou troubles de la parole associés : appelez d'abord un médecin ou le 144.",
+    "a_text": "Si une douleur de nuque, de hanche ou de dos dure plus d'une semaine, limite vos mouvements ou perturbe le sommeil. Attendre qu'elle devienne chronique rend le travail plus long. Vertiges ou troubles de la parole associés : appelez d'abord un médecin ou le 144."
+   },
+   {
+    "q": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+    "a_html": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.",
+    "a_text": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
+   },
+   {
+    "q": "Combien de séances me faut-il ?",
+    "a_html": "La durée du traitement varie selon votre situation et votre travail personnel entre les rendez-vous. Lors de la première visite, nous établissons une estimation adaptée à votre cas.",
+    "a_text": "La durée du traitement varie selon votre situation et votre travail personnel entre les rendez-vous. Lors de la première visite, nous établissons une estimation adaptée à votre cas."
+   },
+   {
     "q": "J'habite dans le canton de Vaud : puis-je être suivi à Ins, dans le canton de Berne ?",
-    "a_html": "Oui. La LAMal est une assurance fédérale : la prise en charge sur ordonnance ne dépend pas de votre canton. Apportez simplement l'ordonnance et votre carte d'assuré.",
-    "a_text": "Oui. La LAMal est une assurance fédérale : la prise en charge sur ordonnance ne dépend pas de votre canton. Apportez simplement l'ordonnance et votre carte d'assuré."
+    "a_html": "Oui. Nous accueillons les patients quel que soit leur canton de résidence : votre adresse vaudoise ne change rien au suivi.",
+    "a_text": "Oui. Nous accueillons les patients quel que soit leur canton de résidence : votre adresse vaudoise ne change rien au suivi."
    },
    {
     "q": "Quelle distance entre la commune et le cabinet ?",
@@ -198,24 +197,9 @@
     "a_text": "Après un court point sur l'évolution, le physiothérapeute traite la zone douloureuse puis vous fait travailler activement. La fin de séance sert à revoir votre programme personnel."
    },
    {
-    "q": "Quand faire de la physiothérapie ?",
-    "a_html": "Dès qu'une douleur ou une limitation dure et gêne votre quotidien, ou après une opération. Mieux vaut ne pas attendre que la gêne devienne chronique : parlez-en à votre médecin.",
-    "a_text": "Dès qu'une douleur ou une limitation dure et gêne votre quotidien, ou après une opération. Mieux vaut ne pas attendre que la gêne devienne chronique : parlez-en à votre médecin."
-   },
-   {
-    "q": "Est-ce que la physiothérapie est remboursée ?",
-    "a_html": "Oui, à condition d'avoir une prescription médicale : LAMal, LAA, AI ou AM selon l'origine du problème, franchise et quote-part déduites en LAMal.",
-    "a_text": "Oui, à condition d'avoir une prescription médicale : LAMal, LAA, AI ou AM selon l'origine du problème, franchise et quote-part déduites en LAMal."
-   },
-   {
-    "q": "Quel est le prix d'une séance de physiothérapie en Suisse ?",
-    "a_html": "Il est fixé par une structure tarifaire nationale convenue avec les assureurs, et non librement par chaque cabinet [À CONFIRMER : tarif appliqué].",
-    "a_text": "Il est fixé par une structure tarifaire nationale convenue avec les assureurs, et non librement par chaque cabinet [À CONFIRMER : tarif appliqué]."
-   },
-   {
     "q": "Assurez-vous le suivi après une opération à l'eHnv ?",
-    "a_html": "Oui, la rééducation peut commencer dès réception de l'ordonnance de physiothérapie [À CONFIRMER : délai pour une première séance et domicile possible].",
-    "a_text": "Oui, la rééducation peut commencer dès réception de l'ordonnance de physiothérapie [À CONFIRMER : délai pour une première séance et domicile possible]."
+    "a_html": "Oui, la rééducation peut commencer dès votre sortie, selon les consignes reçues [À CONFIRMER : délai pour une première séance et domicile possible].",
+    "a_text": "Oui, la rééducation peut commencer dès votre sortie, selon les consignes reçues [À CONFIRMER : délai pour une première séance et domicile possible]."
    },
    {
     "q": "Passez-vous à Démoret, Rovray ou Chêne-Pâquier ?",

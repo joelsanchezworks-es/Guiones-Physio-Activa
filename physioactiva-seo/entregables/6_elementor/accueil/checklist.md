@@ -3,14 +3,12 @@
 - Lote: A · Plantilla: home · Validación: OK
 - Indexación: index, follow
 
-## Marcadores [À CONFIRMER] (6)
+## Marcadores [À CONFIRMER] (4)
 
-- [À CONFIRMER] — «Les horaires d'ouverture et les délais de rendez-vous sont indiqués lors de la réservation : [À CONFIRMER].»
 - [À CONFIRMER] — «Francisco Díaz et Lucile Combes sont physiothérapeutes chez Physio Activa (formation et titres : [À CONFIRMER]).»
 - [À CONFIRMER : titre et formation] — «[À CONFIRMER : titre et formation]»
 - [À CONFIRMER : titre et formation] — «[À CONFIRMER : titre et formation]»
 - [À CONFIRMER] — «La durée d'une séance est de [À CONFIRMER].»
-- [À CONFIRMER] — «Pour toute question sur le tarif appliqué : [À CONFIRMER].»
 
 ## Publicación
 
@@ -30,8 +28,8 @@
 | Qué es / cuándo consultar (+ señales de alarma) | no | página sin patología concreta (hub/reserva/home): no aplica |
 | Tipos según el caso (H2 + H3 por subtipo) | sí |  |
 | Proceso en pasos (H2 + H3) + CTA intermedio | sí |  |
-| Reembolso y coste | sí |  |
+| Reembolso y coste | no | omitida |
 | FAQ (8-10) | sí | 10 preguntas |
 | CTA final en pregunta con la ciudad | sí |  |
 
-- receta: ciudad en 4 H2 · FAQ 10 · CTA reserva 5 / tel 3 / WhatsApp 3 · palabras visibles 1762
+- receta: ciudad en 4 H2 · FAQ 10 · CTA reserva 5 / tel 3 / WhatsApp 3 · palabras visibles 1715

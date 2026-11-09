@@ -378,7 +378,7 @@ DESC_PATO = {
 }
 PASOS = [("Prise de rendez-vous", "Vous réservez en ligne, par téléphone ou par WhatsApp, au cabinet d'Ins ou à domicile.", "fa-calendar-check"),
          ("Bilan", "Un entretien et un examen permettent de comprendre l'origine de vos symptômes et de fixer des objectifs avec vous.", "fa-clipboard-list"),
-         ("Séances au cabinet ou à domicile", "Le traitement se déroule au cabinet d'Ins ou chez vous, selon votre situation et la prescription.", "fa-house-medical"),
+         ("Séances au cabinet ou à domicile", "Le traitement se déroule au cabinet d'Ins ou chez vous, selon votre situation.", "fa-house-medical"),
          ("Autonomie et prévention", "Des exercices à poursuivre seul et des conseils pour le quotidien, afin de limiter les récidives.", "fa-person-walking")]
 VALEURS = [("Reconnu par toutes les assurances", "Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse, quel que soit votre canton de résidence.", "fa-shield-heart"),
            ("Au cabinet ou à domicile", "Cabinet à l'InsGym, Rämismatte 21 à Ins, et séances à domicile dans le Seeland et les Trois-Lacs.", "fa-house-medical"),
@@ -391,15 +391,15 @@ CTA_Q = {"mal-de-dos-lombaire": "Mal de dos", "douleur-cervicale-au-cou": "Doule
          "douleur-du-genou-lesions-de-la-cheville": "Douleur au genou", "sciatique-hernie-discale": "Sciatique",
          "douleur-pied-cheville-fasciite-plantaire": "Douleur au pied ou à la cheville", "douleur-de-hanche-protheses": "Douleur ou prothèse de hanche"}
 SERVICIOS_HOME = [  # iconos de servicio de la plantilla home (2025/05/N.png) → páginas de servicio existentes (200)
-    (1, "Physiothérapie générale", "Douleurs, raideurs et rééducation de l'appareil locomoteur, sur prescription médicale.", "/physio-generale/"),
+    (1, "Physiothérapie générale", "Douleurs, raideurs et rééducation de l'appareil locomoteur.", "/physio-generale/"),
     (2, "Physiothérapie à domicile", "Les séances se déroulent chez vous lorsque vous ne pouvez pas vous déplacer.", "/physiotherapeute-a-domicile/"),
     (3, "Fitness médical (MTT)", "Entraînement thérapeutique encadré pour renforcer et reprendre confiance dans le mouvement.", "/medical-training-therapy-mtt/"),
-    (4, "Drainage lymphatique", "Technique manuelle douce indiquée notamment en cas d'œdème, sur prescription.", "/drainage-lymphatique/"),
+    (4, "Drainage lymphatique", "Technique manuelle douce indiquée notamment en cas d'œdème.", "/drainage-lymphatique/"),
     (7, "Thérapie manuelle", "Techniques manuelles pour mobiliser les articulations et les tissus, associées à des exercices.", "/therapie-manuelle/"),
     (8, "Plancher pelvien et uro-gynécologie", "Rééducation du périnée, notamment en cas d'incontinence ou après une grossesse.", "/physiotherapie-du-plancher-pelvien/"),
     (9, "ATM et mâchoire", "Physiothérapie des troubles de l'articulation temporo-mandibulaire.", "/physiotemporo-mandibulaire-atm/"),
-    (5, "Physiothérapie neurologique", "Rééducation après un AVC ou en cas de maladie neurologique, sur prescription.", "/physiotherapie-neurologique/"),
-    (6, "Physiothérapie cardio-respiratoire", "Rééducation respiratoire et reprise de l'effort, sur prescription médicale.", "/physiotherapie-cardiorespiratoire/"),
+    (5, "Physiothérapie neurologique", "Rééducation après un AVC ou en cas de maladie neurologique.", "/physiotherapie-neurologique/"),
+    (6, "Physiothérapie cardio-respiratoire", "Rééducation respiratoire et reprise de l'effort.", "/physiotherapie-cardiorespiratoire/"),
 ]
 
 

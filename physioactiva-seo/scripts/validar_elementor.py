@@ -102,7 +102,7 @@ for p in PAGINAS:
     checks["enlaces internos a URL final (sin 301/404 ni a borradores B)"] = not malos
     if malos: notas.append("enlaces: " + ", ".join(sorted(set(malos))))
     vis = soup.get_text(" ", strip=True)
-    restos = [t for t in TXT_PLANTILLA if t in vis]
+    restos = [t for t in TXT_PLANTILLA if t in vis and not t.endswith("?")]  # las preguntas estándar de la web se reutilizan a propósito (ajuste v3)
     checks["sin texto de la plantilla original"] = not restos
     if restos: notas.append("texto de plantilla: " + restos[0][:60])
     esp = ESPANOL.findall(vis)

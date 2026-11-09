@@ -22,8 +22,8 @@
   "bg": null,
   "cards": [
    {
-    "h3": "Sur prescription, remboursé LAMal / LAA",
-    "html": "<p>Avec une ordonnance médicale, les séances sont prises en charge par l'assurance maladie (LAMal), l'assurance accidents (LAA), l'AI ou l'AM.</p>",
+    "h3": "Reconnu par toutes les assurances",
+    "html": "<p>Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse et accueille les patients quel que soit leur canton de résidence.</p>",
     "icon": "fa-file-medical"
    },
    {
@@ -98,9 +98,9 @@
   "bg": "trust",
   "cards": [
    {
-    "h3": "Ordonnance",
-    "html": "<p>Votre médecin vous remet une prescription qui indique le nombre de séances et, si nécessaire, la mention « à domicile ». Apportez-la avec votre carte d'assuré.</p>",
-    "icon": "fa-file-medical"
+    "h3": "Prise de rendez-vous",
+    "html": "<p>Réservez en ligne, appelez le 076 627 38 38 ou écrivez-nous sur WhatsApp au +41 76 627 38 38. Si vous ne pouvez pas vous déplacer, précisez-le : nous venons chez vous.</p>",
+    "icon": "fa-calendar-check"
    },
    {
     "h3": "Bilan",
@@ -126,15 +126,15 @@
   "h2": "Le cabinet à Ins et la zone desservie",
   "lead": [],
   "bg": null,
-  "html": "<p>Le cabinet se trouve à Rämismatte 21, 3232 Ins, dans le bâtiment de l'InsGym : salles de traitement et espace d'entraînement pour la rééducation active. Plan et accès : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>. Horaires : [À CONFIRMER : lun–ven 8h30–19h30 ou jusqu'à 20h].</p><p style=\"margin-top:12px\">Si vous ne pouvez pas vous déplacer, la <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a> est possible à Ins et dans les environs : Anet, Sugiez et Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss.</p>"
+  "html": "<p>Le cabinet se trouve à Rämismatte 21, 3232 Ins, dans le bâtiment de l'InsGym : salles de traitement et espace d'entraînement pour la rééducation active. Plan et accès : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>. Horaires : du lundi au vendredi, jusqu'à 20h.</p><p style=\"margin-top:12px\">Si vous ne pouvez pas vous déplacer, la <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a> est possible à Ins et dans les environs : Anet, Sugiez et Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss.</p>"
  },
  {
   "tipo": "texte",
   "eyebrow": "Assurances",
-  "h2": "Assurances et prescription",
+  "h2": "Assurances et horaires",
   "lead": [],
   "bg": "trust",
-  "html": "<p>Sur prescription médicale, la physiothérapie est prise en charge par l'assurance obligatoire des soins (LAMal), l'assurance accidents (LAA), l'assurance invalidité (AI) ou l'assurance militaire (AM). Dans le cadre de la LAMal, la franchise et la quote-part de votre contrat s'appliquent. Les séances sont facturées selon la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs.</p>"
+  "html": "<p>Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Le cabinet est ouvert du lundi au vendredi, jusqu'à 20h. Pour prendre rendez-vous, réservez en ligne, appelez le 076 627 38 38 ou écrivez-nous sur WhatsApp au +41 76 627 38 38.</p>"
  },
  {
   "tipo": "villes",
@@ -188,6 +188,21 @@
   "h2": "Questions fréquentes sur Physio Activa à Ins",
   "faq": [
    {
+    "q": "Quand dois-je consulter un physiothérapeute ?",
+    "a_html": "Lorsqu'une douleur ou une raideur dure plus d'une semaine, limite vos mouvements, perturbe votre sommeil ou revient régulièrement, ou après un accident ou une opération. Plus on la traite tôt, plus c'est simple. En cas de signe d'alarme, consultez d'abord un médecin.",
+    "a_text": "Lorsqu'une douleur ou une raideur dure plus d'une semaine, limite vos mouvements, perturbe votre sommeil ou revient régulièrement, ou après un accident ou une opération. Plus on la traite tôt, plus c'est simple. En cas de signe d'alarme, consultez d'abord un médecin."
+   },
+   {
+    "q": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+    "a_html": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.",
+    "a_text": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
+   },
+   {
+    "q": "Combien de séances me faut-il ?",
+    "a_html": "La durée du traitement varie selon votre situation et vos objectifs. Lors de la première visite, nous établissons une estimation adaptée à votre cas.",
+    "a_text": "La durée du traitement varie selon votre situation et vos objectifs. Lors de la première visite, nous établissons une estimation adaptée à votre cas."
+   },
+   {
     "q": "Qui sont les physiothérapeutes de Physio Activa ?",
     "a_html": "Francisco Díaz et Lucile Combes. Leurs titres et formations seront précisés ici : [À CONFIRMER : titres, formations, enregistrement professionnel].",
     "a_text": "Francisco Díaz et Lucile Combes. Leurs titres et formations seront précisés ici : [À CONFIRMER : titres, formations, enregistrement professionnel]."
@@ -203,24 +218,14 @@
     "a_text": "C'est le même métier : « kiné » (kinésithérapeute) est le terme utilisé en France, physiothérapeute celui employé en Suisse."
    },
    {
-    "q": "Est-ce que la physiothérapie est remboursée en Suisse ?",
-    "a_html": "Oui, avec une ordonnance médicale : par la LAMal, la LAA, l'AI ou l'AM selon votre situation. Sans prescription, les séances sont à votre charge.",
-    "a_text": "Oui, avec une ordonnance médicale : par la LAMal, la LAA, l'AI ou l'AM selon votre situation. Sans prescription, les séances sont à votre charge."
-   },
-   {
-    "q": "Quel est le tarif d'une séance de physiothérapie ?",
-    "a_html": "Il suit la structure tarifaire nationale convenue avec les assureurs [À CONFIRMER : tarif appliqué]. Avec une ordonnance, vous payez seulement la franchise et la quote-part prévues par votre contrat LAMal.",
-    "a_text": "Il suit la structure tarifaire nationale convenue avec les assureurs [À CONFIRMER : tarif appliqué]. Avec une ordonnance, vous payez seulement la franchise et la quote-part prévues par votre contrat LAMal."
-   },
-   {
     "q": "Comment choisir son physiothérapeute ?",
-    "a_html": "Vérifiez qu'il est reconnu pour facturer à l'assurance, qu'il commence par un bilan, qu'il parle votre langue et qu'il peut vous suivre au rythme prescrit, au cabinet ou à domicile.",
-    "a_text": "Vérifiez qu'il est reconnu pour facturer à l'assurance, qu'il commence par un bilan, qu'il parle votre langue et qu'il peut vous suivre au rythme prescrit, au cabinet ou à domicile."
+    "a_html": "Vérifiez qu'il est reconnu par les assurances maladie, qu'il commence par un bilan, qu'il parle votre langue et qu'il peut vous suivre au cabinet ou à domicile.",
+    "a_text": "Vérifiez qu'il est reconnu par les assurances maladie, qu'il commence par un bilan, qu'il parle votre langue et qu'il peut vous suivre au cabinet ou à domicile."
    },
    {
     "q": "Vous déplacez-vous à domicile ?",
-    "a_html": "Oui, dans le Seeland et les Trois-Lacs, notamment à Morat, Neuchâtel, Bienne et dans le Vully, si votre ordonnance le précise. Contactez-nous pour vérifier votre adresse.",
-    "a_text": "Oui, dans le Seeland et les Trois-Lacs, notamment à Morat, Neuchâtel, Bienne et dans le Vully, si votre ordonnance le précise. Contactez-nous pour vérifier votre adresse."
+    "a_html": "Oui, dans le Seeland et les Trois-Lacs, notamment à Morat, Neuchâtel, Bienne et dans le Vully. Contactez-nous pour vérifier votre adresse.",
+    "a_text": "Oui, dans le Seeland et les Trois-Lacs, notamment à Morat, Neuchâtel, Bienne et dans le Vully. Contactez-nous pour vérifier votre adresse."
    },
    {
     "q": "Dans quelles langues pouvez-vous me recevoir ?",

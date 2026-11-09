@@ -3,11 +3,11 @@
   "tipo": "hero",
   "eyebrow": "Physio · Morat (Murten)",
   "h1": "Physio à Morat (Murten) : au cabinet d'Ins ou à domicile",
-  "sub": "Vous habitez Morat et vous cherchez un physiothérapeute qui vous reçoit en français ? Physio Activa vous accueille à Ins, à environ 8,7 km en ligne droite de la vieille ville, et peut se déplacer chez vous selon les disponibilités [À CONFIRMER : déplacements à domicile à Morat]. Sur prescription médicale, les séances sont remboursées ; le rendez-vous se prend en ligne, par téléphone ou par WhatsApp.",
+  "sub": "Vous habitez Morat et vous cherchez un physiothérapeute qui vous reçoit en français ? Physio Activa vous accueille à Ins, à environ 8,7 km en ligne droite de la vieille ville, et peut se déplacer chez vous selon les disponibilités [À CONFIRMER : déplacements à domicile à Morat]. Le cabinet, reconnu par toutes les assurances maladie en Suisse, est ouvert du lundi au vendredi jusqu'à 20h ; le rendez-vous se prend en ligne, par téléphone ou par WhatsApp.",
   "pills": [
    "Cabinet à Ins, à 8,7 km",
-   "Sur prescription médicale",
-   "LAMal · LAA · AI · AM"
+   "Reconnu par toutes les assurances",
+   "Ouvert jusqu'à 20h"
   ],
   "img": "https://physioactiva.ch/wp-content/uploads/2025/06/Centerbild_IMG_9184-scaled-1.jpg",
   "alt": "Salle de fitness médical utilisée pour la rééducation à Ins",
@@ -22,8 +22,8 @@
   "bg": null,
   "cards": [
    {
-    "h3": "Sur prescription, remboursé LAMal / LAA",
-    "html": "<p>Avec une ordonnance, la physiothérapie est prise en charge par l'assurance de base ou, après un accident, par l'assurance accidents, où que votre médecin exerce.</p>",
+    "h3": "Reconnu par toutes les assurances",
+    "html": "<p>Que vous soyez assuré dans le canton de Fribourg ou ailleurs, notre cabinet est reconnu par toutes les assurances maladie en Suisse.</p>",
     "icon": "fa-file-medical"
    },
    {
@@ -38,7 +38,7 @@
    },
    {
     "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
-    "html": "<p>Choisissez un créneau sur la <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservation en ligne</a>, appelez le 076 627 38 38 ou envoyez la photo de votre ordonnance par WhatsApp.</p>",
+    "html": "<p>Choisissez un créneau sur la <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservation en ligne</a>, appelez le 076 627 38 38 ou écrivez-nous par WhatsApp.</p>",
     "icon": "fa-calendar-check"
    }
   ]
@@ -49,7 +49,7 @@
   "h2": "Quand consulter un physio, et quand voir d'abord un médecin ?",
   "lead": [],
   "bg": "trust",
-  "html": "<p>On pense au physiothérapeute quand une gêne ne passe pas avec le repos : un dos qui se bloque, un genou qui gonfle après la promenade, une épaule qui empêche d'enfiler une veste, des pertes d'équilibre. La physio est aussi l'étape naturelle après une prothèse, une fracture ou une longue immobilisation.</p><p style=\"margin-top:12px\">Un médecin établit d'abord l'ordonnance. Voyez-le sans attendre dans ces cas :\n- chute suivie d'une jambe ou d'un bras inutilisable ;\n- mal de dos avec fièvre, faiblesse d'une jambe ou troubles pour uriner ;\n- mollet chaud, rouge et enflé après une opération ;\n- douleur thoracique, essoufflement inhabituel ou malaise.</p><p style=\"margin-top:12px\">En cas d'urgence vitale, composez le 144.</p>"
+  "html": "<p>On pense au physiothérapeute quand une gêne ne passe pas avec le repos : un dos qui se bloque, un genou qui gonfle après la promenade, une épaule qui empêche d'enfiler une veste, des pertes d'équilibre. La physio est aussi l'étape naturelle après une prothèse, une fracture ou une longue immobilisation.</p><p style=\"margin-top:12px\">Voyez d'abord un médecin, sans attendre, dans ces cas :\n- chute suivie d'une jambe ou d'un bras inutilisable ;\n- mal de dos avec fièvre, faiblesse d'une jambe ou troubles pour uriner ;\n- mollet chaud, rouge et enflé après une opération ;\n- douleur thoracique, essoufflement inhabituel ou malaise.</p><p style=\"margin-top:12px\">En cas d'urgence vitale, composez le 144.</p>"
  },
  {
   "tipo": "grid",
@@ -70,7 +70,7 @@
    },
    {
     "h3": "Après une opération ou une hospitalisation",
-    "html": "<p>Dans le district du Lac, beaucoup de patients quittent l'HFR Meyriez-Murten avec une ordonnance de physiothérapie. Nous poursuivons la rééducation selon les consignes de sortie, au rythme que la cicatrisation autorise.</p>",
+    "html": "<p>Dans le district du Lac, beaucoup de patients quittent l'HFR Meyriez-Murten avec une rééducation à poursuivre. Nous poursuivons la rééducation selon les consignes de sortie, au rythme que la cicatrisation autorise.</p>",
     "icon": "fa-hospital"
    },
    {
@@ -88,9 +88,9 @@
   "bg": "trust",
   "cards": [
    {
-    "h3": "Ordonnance",
-    "html": "<p>Votre médecin de famille ou votre chirurgien la rédige ; apportez-la avec la carte d'assuré ou envoyez-la par WhatsApp.</p>",
-    "icon": "fa-file-medical"
+    "h3": "Prise de rendez-vous",
+    "html": "<p>Réservez en ligne, par téléphone ou sur WhatsApp, en indiquant si vous préférez venir à Ins ou être vu chez vous. Nous proposons un créneau qui tient compte de votre mobilité.</p>",
+    "icon": "fa-calendar-check"
    },
    {
     "h3": "Bilan",
@@ -119,28 +119,12 @@
   "html": "<p>Ins se trouve à environ 8,7 km en ligne droite de Morat, juste de l'autre côté de la limite entre les cantons de Fribourg et de Berne. Le cabinet est installé chez InsGym, au Rämismatte ; l'itinéraire et le plan d'accès sont sur <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Morat est une commune majoritairement germanophone, avec une minorité francophone. Si vous préférez expliquer vos douleurs et comprendre vos exercices dans votre langue, nos consultations se tiennent en français, et aussi en espagnol. Pour une rééducation qui s'étend sur plusieurs rendez-vous, pouvoir tout comprendre dans sa langue compte vraiment.</p>"
  },
  {
-  "tipo": "grid",
-  "eyebrow": "Remboursement",
-  "h2": "Remboursement et coût de la physio à Morat",
+  "tipo": "texte",
+  "eyebrow": "Assurances",
+  "h2": "Assurances et horaires : physio à Morat",
   "lead": [],
   "bg": "trust",
-  "cards": [
-   {
-    "h3": "Assurance de base (LAMal)",
-    "html": "<p>Sur ordonnance, l'assurance obligatoire des soins rembourse la physiothérapie, même si vous vivez dans le canton de Fribourg et que le cabinet est dans celui de Berne.</p>",
-    "icon": "fa-file-medical"
-   },
-   {
-    "h3": "Accident, AI et AM",
-    "html": "<p>Après un accident, l'assurance accidents (LAA) prend le relais. L'AI et l'assurance militaire (AM) couvrent elles aussi la physiothérapie prescrite.</p>",
-    "icon": "fa-stethoscope"
-   },
-   {
-    "h3": "Ce qui détermine ce que vous payez",
-    "html": "<p>Avec la LAMal, votre franchise et la quote-part restent à votre charge. Les séances sont facturées selon la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué].</p>",
-    "icon": "fa-heart-pulse"
-   }
-  ]
+  "html": "<p>Vivre dans le canton de Fribourg et se soigner à Ins, dans le canton de Berne, ne pose aucune difficulté : notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse et accueille les patients quel que soit leur canton de résidence. Il est ouvert du lundi au vendredi, jusqu'à 20h. Réservez en ligne, au 076 627 38 38 ou par WhatsApp.</p>"
  },
  {
   "tipo": "villes",
@@ -178,14 +162,24 @@
   "h2": "Questions fréquentes sur la physio à Morat",
   "faq": [
    {
+    "q": "Quand dois-je consulter un physiothérapeute pour une douleur ?",
+    "a_html": "Lorsqu'une gêne ne passe pas après une semaine de repos, qu'elle vous empêche de marcher, de porter ou de bien dormir. Plus on intervient tôt, plus la rééducation est simple. Les signes d'alarme décrits plus haut relèvent d'abord du médecin.",
+    "a_text": "Lorsqu'une gêne ne passe pas après une semaine de repos, qu'elle vous empêche de marcher, de porter ou de bien dormir. Plus on intervient tôt, plus la rééducation est simple. Les signes d'alarme décrits plus haut relèvent d'abord du médecin."
+   },
+   {
+    "q": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+    "a_html": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.",
+    "a_text": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
+   },
+   {
+    "q": "Combien de séances me faut-il ?",
+    "a_html": "La durée du traitement varie selon votre situation, votre âge et ce que vous voulez retrouver. Lors de la première visite, nous établissons une estimation adaptée à votre cas, puis nous la revoyons au fil des progrès.",
+    "a_text": "La durée du traitement varie selon votre situation, votre âge et ce que vous voulez retrouver. Lors de la première visite, nous établissons une estimation adaptée à votre cas, puis nous la revoyons au fil des progrès."
+   },
+   {
     "q": "Les séances se déroulent-elles en français ?",
     "a_html": "Oui, et en espagnol si vous le souhaitez. Dans une commune majoritairement germanophone, c'est un confort pour comprendre chaque conseil.",
     "a_text": "Oui, et en espagnol si vous le souhaitez. Dans une commune majoritairement germanophone, c'est un confort pour comprendre chaque conseil."
-   },
-   {
-    "q": "Quand faire de la physiothérapie ?",
-    "a_html": "Quand une douleur ou une raideur persiste et limite vos activités, ou après une opération. Après une chirurgie, on commence dès que le chirurgien l'autorise.",
-    "a_text": "Quand une douleur ou une raideur persiste et limite vos activités, ou après une opération. Après une chirurgie, on commence dès que le chirurgien l'autorise."
    },
    {
     "q": "Comment se passe une séance de physiothérapie ?",
@@ -194,28 +188,18 @@
    },
    {
     "q": "Pouvez-vous prendre le relais après un séjour à l'hôpital ?",
-    "a_html": "Oui : avec l'ordonnance de sortie de l'HFR Meyriez-Murten, nous poursuivons la rééducation [À CONFIRMER : délai pour une première séance].",
-    "a_text": "Oui : avec l'ordonnance de sortie de l'HFR Meyriez-Murten, nous poursuivons la rééducation [À CONFIRMER : délai pour une première séance]."
+    "a_html": "Oui : avec les consignes de sortie de l'HFR Meyriez-Murten, nous poursuivons la rééducation [À CONFIRMER : délai pour une première séance].",
+    "a_text": "Oui : avec les consignes de sortie de l'HFR Meyriez-Murten, nous poursuivons la rééducation [À CONFIRMER : délai pour une première séance]."
    },
    {
     "q": "Quels sont les problèmes de lymphe possibles après une opération ?",
-    "a_html": "Un gonflement peut persister après une prothèse ou une chirurgie touchant les ganglions (œdème, voire lymphœdème). Le médecin peut prescrire un <a href=\"/drainage-lymphatique/\" style=\"color:var(--azure);font-weight:600\">drainage lymphatique</a> manuel ; un gonflement brutal et chaud se montre vite au médecin.",
-    "a_text": "Un gonflement peut persister après une prothèse ou une chirurgie touchant les ganglions (œdème, voire lymphœdème). Le médecin peut prescrire un drainage lymphatique manuel ; un gonflement brutal et chaud se montre vite au médecin."
+    "a_html": "Un gonflement peut persister après une prothèse ou une chirurgie touchant les ganglions (œdème, voire lymphœdème). Un <a href=\"/drainage-lymphatique/\" style=\"color:var(--azure);font-weight:600\">drainage lymphatique</a> manuel peut alors aider ; un gonflement brutal et chaud se montre vite au médecin.",
+    "a_text": "Un gonflement peut persister après une prothèse ou une chirurgie touchant les ganglions (œdème, voire lymphœdème). Un drainage lymphatique manuel peut alors aider ; un gonflement brutal et chaud se montre vite au médecin."
    },
    {
     "q": "C'est quoi un massage thérapeutique ?",
-    "a_html": "Un massage à but de soin : relâcher une tension, diminuer une douleur, préparer le mouvement. Voir <a href=\"/massage-therapeutique/\" style=\"color:var(--azure);font-weight:600\">massage thérapeutique</a> [À CONFIRMER : conditions de prise en charge].",
-    "a_text": "Un massage à but de soin : relâcher une tension, diminuer une douleur, préparer le mouvement. Voir massage thérapeutique [À CONFIRMER : conditions de prise en charge]."
-   },
-   {
-    "q": "Est-ce que la physiothérapie est remboursée en Suisse ?",
-    "a_html": "Oui, sur prescription : LAMal pour la maladie, LAA pour l'accident, AI ou AM selon le cas. La franchise et la quote-part de la LAMal restent dues, comme pour une consultation chez le médecin.",
-    "a_text": "Oui, sur prescription : LAMal pour la maladie, LAA pour l'accident, AI ou AM selon le cas. La franchise et la quote-part de la LAMal restent dues, comme pour une consultation chez le médecin."
-   },
-   {
-    "q": "Quel est le nouveau tarif pour la physiothérapie ?",
-    "a_html": "Il existe une structure tarifaire nationale pour la physiothérapie, convenue avec les assureurs [À CONFIRMER : tarif appliqué].",
-    "a_text": "Il existe une structure tarifaire nationale pour la physiothérapie, convenue avec les assureurs [À CONFIRMER : tarif appliqué]."
+    "a_html": "Un massage à but de soin : relâcher une tension, diminuer une douleur, préparer le mouvement. Voir <a href=\"/massage-therapeutique/\" style=\"color:var(--azure);font-weight:600\">massage thérapeutique</a>.",
+    "a_text": "Un massage à but de soin : relâcher une tension, diminuer une douleur, préparer le mouvement. Voir massage thérapeutique ."
    },
    {
     "q": "Venez-vous aussi à Muntelier, Greng ou Courgevaux ?",
@@ -227,7 +211,7 @@
  {
   "tipo": "cta",
   "h2": "Besoin d'un physio à Morat ou dans les environs ?",
-  "s1": "Décrivez-nous votre situation et votre ordonnance : nous vous proposerons une séance au cabinet ou à domicile. <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">Réservez en ligne</a>, appelez le 076 627 38 38 ou écrivez sur WhatsApp au +41 76 627 38 38.",
+  "s1": "Décrivez-nous votre situation : nous vous proposerons une séance au cabinet ou à domicile. <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">Réservez en ligne</a>, appelez le 076 627 38 38 ou écrivez sur WhatsApp au +41 76 627 38 38.",
   "s2": null
  },
  {

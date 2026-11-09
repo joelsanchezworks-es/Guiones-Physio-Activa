@@ -3,11 +3,11 @@
   "tipo": "hero",
   "eyebrow": "Physiothérapie à Ins (Anet)",
   "h1": "Physio à Ins (Anet)",
-  "sub": "Physio Activa est un cabinet de physio à Ins (Anet), dans le bâtiment de l'InsGym, Rämismatte 21. Nos physiothérapeutes vous reçoivent au cabinet ou se déplacent à domicile dans le Seeland et la région des Trois-Lacs. Sur prescription médicale, les séances sont prises en charge par la LAMal, la LAA, l'AI ou l'AM.",
+  "sub": "Physio Activa est un cabinet de physio à Ins (Anet), dans le bâtiment de l'InsGym, Rämismatte 21. Nos physiothérapeutes vous reçoivent au cabinet ou se déplacent à domicile dans le Seeland et la région des Trois-Lacs. Notre cabinet est reconnu par toutes les assurances maladie en Suisse.",
   "pills": [
    "Au cabinet d'Ins ou à domicile",
-   "Sur prescription médicale",
-   "Remboursé LAMal / LAA"
+   "Reconnu par toutes les assurances",
+   "Ouvert jusqu'à 20h"
   ],
   "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00036.jpg",
   "alt": "Salle de traitement du cabinet de physiothérapie Physio Activa à Ins",
@@ -22,9 +22,9 @@
   "bg": "trust",
   "cards": [
    {
-    "h3": "Sur prescription, remboursé LAMal / LAA",
-    "html": "<p>Avec une ordonnance médicale, les séances sont prises en charge par la LAMal, la LAA, l&#x27;AI ou l&#x27;AM.</p>",
-    "icon": "fa-file-medical"
+    "h3": "Reconnu par toutes les assurances",
+    "html": "<p>Notre cabinet est reconnu par toutes les compagnies d&#x27;assurance maladie en Suisse, quel que soit votre canton de résidence.</p>",
+    "icon": "fa-shield-heart"
    },
    {
     "h3": "Au cabinet ou à domicile",
@@ -38,7 +38,7 @@
    },
    {
     "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
-    "html": "<p>Réservation sur OneDoc, au 076 627 38 38 ou par WhatsApp au +41 76 627 38 38.</p>",
+    "html": "<p>Réservation sur OneDoc, au 076 627 38 38 ou par WhatsApp, du lundi au vendredi jusqu&#x27;à 20h.</p>",
     "icon": "fa-calendar-check"
    }
   ]
@@ -49,7 +49,7 @@
   "h2": "Votre physio à Ins, près de chez vous",
   "lead": [],
   "bg": null,
-  "html": "<p>Vous cherchez une physio autour de vous, entre le lac de Morat, le lac de Neuchâtel et le lac de Bienne ? Notre cabinet de physiothérapie à Ins est facile d'accès depuis Anet, Chiètres, Morat ou le Vully. Il dispose de salles de traitement et d'un espace d'entraînement, pour que la rééducation ne s'arrête pas à la table de traitement.</p><p style=\"margin-top:12px\">Nous vous recevons en français et en espagnol. Les horaires d'ouverture et les délais de rendez-vous sont indiqués lors de la réservation : [À CONFIRMER].</p>"
+  "html": "<p>Vous cherchez une physio autour de vous, entre le lac de Morat, le lac de Neuchâtel et le lac de Bienne ? Notre cabinet de physiothérapie à Ins est facile d'accès depuis Anet, Chiètres, Morat ou le Vully. Il dispose de salles de traitement et d'un espace d'entraînement, pour que la rééducation ne s'arrête pas à la table de traitement.</p><p style=\"margin-top:12px\">Nous vous recevons en français et en espagnol. Le cabinet est ouvert du lundi au vendredi, jusqu'à 20h ; les disponibilités s'affichent lors de la réservation.</p>"
  },
  {
   "tipo": "team",
@@ -162,7 +162,7 @@
   "cards": [
    {
     "h3": "Physiothérapie générale",
-    "p": "Douleurs, raideurs et rééducation de l&#x27;appareil locomoteur, sur prescription médicale.",
+    "p": "Douleurs, raideurs et rééducation de l&#x27;appareil locomoteur.",
     "href": "/physio-generale/",
     "icon_img": "https://physioactiva.ch/wp-content/uploads/2025/05/1.png"
    },
@@ -180,7 +180,7 @@
    },
    {
     "h3": "Drainage lymphatique",
-    "p": "Technique manuelle douce indiquée notamment en cas d&#x27;œdème, sur prescription.",
+    "p": "Technique manuelle douce indiquée notamment en cas d&#x27;œdème.",
     "href": "/drainage-lymphatique/",
     "icon_img": "https://physioactiva.ch/wp-content/uploads/2025/05/4.png"
    },
@@ -204,13 +204,13 @@
    },
    {
     "h3": "Physiothérapie neurologique",
-    "p": "Rééducation après un AVC ou en cas de maladie neurologique, sur prescription.",
+    "p": "Rééducation après un AVC ou en cas de maladie neurologique.",
     "href": "/physiotherapie-neurologique/",
     "icon_img": "https://physioactiva.ch/wp-content/uploads/2025/05/5.png"
    },
    {
     "h3": "Physiothérapie cardio-respiratoire",
-    "p": "Rééducation respiratoire et reprise de l&#x27;effort, sur prescription médicale.",
+    "p": "Rééducation respiratoire et reprise de l&#x27;effort.",
     "href": "/physiotherapie-cardiorespiratoire/",
     "icon_img": "https://physioactiva.ch/wp-content/uploads/2025/05/6.png"
    }
@@ -302,7 +302,7 @@
    },
    {
     "h3": "Traitement et exercices",
-    "html": "<p>Le traitement peut commencer dès cette première séance. La durée d'une séance est de [À CONFIRMER]. Le nombre de séances dépend de votre situation et de la prescription de votre médecin.</p>",
+    "html": "<p>Le traitement peut commencer dès cette première séance. La durée d'une séance est de [À CONFIRMER]. Le nombre de séances dépend de votre situation.</p>",
     "icon": "fa-dumbbell"
    }
   ],
@@ -314,7 +314,7 @@
   "h2": "Physiothérapie à domicile dans le Seeland et les Trois-Lacs",
   "lead": [],
   "bg": "trust",
-  "html": "<p>Vous ne pouvez pas vous déplacer, par exemple après une opération, une hospitalisation ou en raison de votre âge ? La <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a> vous permet de suivre votre traitement chez vous. Nous nous déplaçons à Ins et dans les environs : Anet, Sugiez et Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss. Les séances à domicile nécessitent, elles aussi, une prescription médicale qui le précise.</p>"
+  "html": "<p>Vous ne pouvez pas vous déplacer, par exemple après une opération, une hospitalisation ou en raison de votre âge ? La <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a> vous permet de suivre votre traitement chez vous. Nous nous déplaçons à Ins et dans les environs : Anet, Sugiez et Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss.</p>"
  },
  {
   "tipo": "texte",
@@ -326,30 +326,35 @@
  },
  {
   "tipo": "texte",
-  "eyebrow": "Remboursement",
-  "h2": "Remboursement : LAMal, LAA, AI et AM",
+  "eyebrow": "Assurances",
+  "h2": "Assurances et horaires",
   "lead": [],
   "bg": "trust",
-  "html": "<p>Avec une ordonnance médicale, la physiothérapie est prise en charge par l'assurance obligatoire des soins (LAMal), l'assurance accidents (LAA), l'assurance invalidité (AI) ou l'assurance militaire (AM). Dans le cadre de la LAMal, la franchise et la quote-part de votre contrat s'appliquent. Pensez à apporter votre ordonnance et votre carte d'assuré à la première séance.</p>"
+  "html": "<p>Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Le cabinet est ouvert du lundi au vendredi, jusqu'à 20h. Pour prendre rendez-vous, réservez en ligne, appelez le 076 627 38 38 ou écrivez-nous sur WhatsApp au +41 76 627 38 38.</p>"
  },
  {
   "tipo": "faq",
   "h2": "Questions fréquentes sur la physio à Ins",
   "faq": [
    {
-    "q": "Faut-il une ordonnance pour aller chez le physio ?",
-    "a_html": "Pour que les séances soient remboursées par la LAMal, la LAA, l'AI ou l'AM, une prescription médicale est nécessaire. Elle est établie par votre médecin, qui indique le nombre de séances prescrites. Sans ordonnance, les séances sont à votre charge.",
-    "a_text": "Pour que les séances soient remboursées par la LAMal, la LAA, l'AI ou l'AM, une prescription médicale est nécessaire. Elle est établie par votre médecin, qui indique le nombre de séances prescrites. Sans ordonnance, les séances sont à votre charge."
+    "q": "Quand dois-je consulter un physiothérapeute ?",
+    "a_html": "Lorsqu'une douleur ou une raideur dure plus d'une semaine, limite vos gestes du quotidien, perturbe votre sommeil ou revient régulièrement, ou après un accident, une opération ou une hospitalisation. Plus elle est prise en charge tôt, plus le traitement est simple. En cas de signes inhabituels (fièvre, perte de force, douleur très intense), consultez d'abord un médecin.",
+    "a_text": "Lorsqu'une douleur ou une raideur dure plus d'une semaine, limite vos gestes du quotidien, perturbe votre sommeil ou revient régulièrement, ou après un accident, une opération ou une hospitalisation. Plus elle est prise en charge tôt, plus le traitement est simple. En cas de signes inhabituels (fièvre, perte de force, douleur très intense), consultez d'abord un médecin."
+   },
+   {
+    "q": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+    "a_html": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.",
+    "a_text": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
+   },
+   {
+    "q": "Combien de séances me faut-il ?",
+    "a_html": "La durée du traitement varie selon votre situation, l'origine de vos symptômes et vos objectifs. Lors de la première visite, nous établissons une estimation adaptée à votre cas.",
+    "a_text": "La durée du traitement varie selon votre situation, l'origine de vos symptômes et vos objectifs. Lors de la première visite, nous établissons une estimation adaptée à votre cas."
    },
    {
     "q": "Quelle est la différence entre un kiné et un physiothérapeute ?",
     "a_html": "En France et en Belgique, on parle souvent de « kiné » (kinésithérapeute). En Suisse, le terme officiel est physiothérapeute : c'est la même profession de santé, reconnue et réglementée. Le contenu exact de la formation varie d'un pays à l'autre.",
     "a_text": "En France et en Belgique, on parle souvent de « kiné » (kinésithérapeute). En Suisse, le terme officiel est physiothérapeute : c'est la même profession de santé, reconnue et réglementée. Le contenu exact de la formation varie d'un pays à l'autre."
-   },
-   {
-    "q": "Combien coûte une séance de physiothérapie en Suisse ?",
-    "a_html": "En Suisse, les tarifs de physiothérapie sont fixés par une structure tarifaire nationale convenue avec les assureurs. Avec une ordonnance, l'assurance prend en charge les séances, sous réserve de votre franchise et de votre quote-part. Pour toute question sur le tarif appliqué : [À CONFIRMER].",
-    "a_text": "En Suisse, les tarifs de physiothérapie sont fixés par une structure tarifaire nationale convenue avec les assureurs. Avec une ordonnance, l'assurance prend en charge les séances, sous réserve de votre franchise et de votre quote-part. Pour toute question sur le tarif appliqué : [À CONFIRMER]."
    },
    {
     "q": "Venez-vous à domicile à Morat, Neuchâtel ou Bienne ?",
@@ -358,28 +363,23 @@
    },
    {
     "q": "Comment prendre rendez-vous ?",
-    "a_html": "Vous pouvez réserver directement en ligne, nous appeler au 076 627 38 38 ou nous écrire sur WhatsApp au +41 76 627 38 38.",
-    "a_text": "Vous pouvez réserver directement en ligne, nous appeler au 076 627 38 38 ou nous écrire sur WhatsApp au +41 76 627 38 38."
+    "a_html": "Vous pouvez réserver directement en ligne, nous appeler au 076 627 38 38 ou nous écrire sur WhatsApp au +41 76 627 38 38. Le cabinet est ouvert du lundi au vendredi, jusqu'à 20h.",
+    "a_text": "Vous pouvez réserver directement en ligne, nous appeler au 076 627 38 38 ou nous écrire sur WhatsApp au +41 76 627 38 38. Le cabinet est ouvert du lundi au vendredi, jusqu'à 20h."
    },
    {
-    "q": "Est-ce que la physiothérapie est remboursée en Suisse ?",
-    "a_html": "Oui, lorsqu'elle est prescrite par un médecin. L'assurance de base (LAMal) prend en charge les séances prescrites, sous réserve de votre franchise et de votre quote-part ; après un accident, c'est l'assurance accidents (LAA) qui intervient.",
-    "a_text": "Oui, lorsqu'elle est prescrite par un médecin. L'assurance de base (LAMal) prend en charge les séances prescrites, sous réserve de votre franchise et de votre quote-part ; après un accident, c'est l'assurance accidents (LAA) qui intervient."
-   },
-   {
-    "q": "Quand faire de la physiothérapie ?",
-    "a_html": "Lorsqu'une douleur ou une raideur dure, limite vos gestes du quotidien ou revient régulièrement, après un accident, une opération ou une hospitalisation, et chaque fois que votre médecin la prescrit. En cas de signes inhabituels (fièvre, perte de force, douleur très intense), consultez d'abord un médecin.",
-    "a_text": "Lorsqu'une douleur ou une raideur dure, limite vos gestes du quotidien ou revient régulièrement, après un accident, une opération ou une hospitalisation, et chaque fois que votre médecin la prescrit. En cas de signes inhabituels (fièvre, perte de force, douleur très intense), consultez d'abord un médecin."
+    "q": "Comment se passe une séance de physiothérapie ?",
+    "a_html": "La première séance commence par un entretien et un bilan de vos mouvements. Nous définissons ensuite avec vous des objectifs, puis le traitement associe techniques manuelles, exercices et conseils pour le quotidien.",
+    "a_text": "La première séance commence par un entretien et un bilan de vos mouvements. Nous définissons ensuite avec vous des objectifs, puis le traitement associe techniques manuelles, exercices et conseils pour le quotidien."
    },
    {
     "q": "Quel est le rôle d'un physiothérapeute ?",
-    "a_html": "Le physiothérapeute évalue vos mouvements et vos capacités, puis traite par le mouvement : exercices, techniques manuelles et conseils pour le quotidien. Le diagnostic médical reste du ressort du médecin, avec qui il travaille sur prescription.",
-    "a_text": "Le physiothérapeute évalue vos mouvements et vos capacités, puis traite par le mouvement : exercices, techniques manuelles et conseils pour le quotidien. Le diagnostic médical reste du ressort du médecin, avec qui il travaille sur prescription."
+    "a_html": "Le physiothérapeute évalue vos mouvements et vos capacités, puis traite par le mouvement : exercices, techniques manuelles et conseils pour le quotidien. Le diagnostic médical reste du ressort du médecin, avec qui il travaille en complémentarité.",
+    "a_text": "Le physiothérapeute évalue vos mouvements et vos capacités, puis traite par le mouvement : exercices, techniques manuelles et conseils pour le quotidien. Le diagnostic médical reste du ressort du médecin, avec qui il travaille en complémentarité."
    },
    {
     "q": "Comment choisir son physiothérapeute ?",
-    "a_html": "Vérifiez qu'il est reconnu par les assurances pour que les séances soient remboursées, qu'il est accessible depuis chez vous (ou qu'il se déplace à domicile) et que vous pouvez échanger dans votre langue. Chez Physio Activa, nous vous recevons en français et en espagnol.",
-    "a_text": "Vérifiez qu'il est reconnu par les assurances pour que les séances soient remboursées, qu'il est accessible depuis chez vous (ou qu'il se déplace à domicile) et que vous pouvez échanger dans votre langue. Chez Physio Activa, nous vous recevons en français et en espagnol."
+    "a_html": "Vérifiez qu'il est reconnu par les assurances maladie, qu'il est accessible depuis chez vous (ou qu'il se déplace à domicile) et que vous pouvez échanger dans votre langue. Chez Physio Activa, nous vous recevons en français et en espagnol.",
+    "a_text": "Vérifiez qu'il est reconnu par les assurances maladie, qu'il est accessible depuis chez vous (ou qu'il se déplace à domicile) et que vous pouvez échanger dans votre langue. Chez Physio Activa, nous vous recevons en français et en espagnol."
    },
    {
     "q": "Est-ce normal d'avoir plus mal après une séance ?",

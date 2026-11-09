@@ -3,11 +3,11 @@
   "tipo": "hero",
   "eyebrow": "Physio · Sugiez (Mont-Vully)",
   "h1": "Physio à Sugiez et dans le Vully : au cabinet d'Ins ou à domicile",
-  "sub": "Sugiez se trouve à environ 4,9 km en ligne droite de notre cabinet d'Ins : pour une physio dans le Vully, Physio Activa est tout proche. Vous venez au cabinet ou, sur ordonnance, vous recevez votre physio chez vous dans le Mont-Vully [À CONFIRMER : domicile toujours proposé à Sugiez]. Avec une prescription, les séances sont remboursées ; vous réservez en ligne, par téléphone ou par WhatsApp.",
+  "sub": "Sugiez se trouve à environ 4,9 km en ligne droite de notre cabinet d'Ins : pour une physio dans le Vully, Physio Activa est tout proche. Vous venez au cabinet ou vous recevez votre physio chez vous dans le Mont-Vully [À CONFIRMER : domicile toujours proposé à Sugiez]. Le cabinet est reconnu par toutes les assurances maladie en Suisse, ouvert du lundi au vendredi jusqu'à 20h ; vous réservez en ligne, par téléphone ou par WhatsApp.",
   "pills": [
    "Cabinet à Ins, à 4,9 km",
-   "Sur prescription médicale",
-   "LAMal · LAA · AI · AM"
+   "Reconnu par toutes les assurances",
+   "Ouvert jusqu'à 20h"
   ],
   "img": "https://physioactiva.ch/wp-content/uploads/2025/06/fxbtrjhiol.jpg",
   "alt": "Espace d'entraînement de l'InsGym, où se trouve le cabinet Physio Activa à Ins",
@@ -22,13 +22,13 @@
   "bg": null,
   "cards": [
    {
-    "h3": "Sur prescription, remboursé LAMal / LAA",
-    "html": "<p>Une ordonnance suffit ; être assuré dans le canton de Fribourg ne change rien, l'assurance de base étant fédérale.</p>",
+    "h3": "Reconnu par toutes les assurances",
+    "html": "<p>Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse ; habiter le canton de Fribourg ne change rien, nous accueillons les patients quel que soit leur canton de résidence.</p>",
     "icon": "fa-file-medical"
    },
    {
     "h3": "Au cabinet d'Ins ou à domicile",
-    "html": "<p>Le cabinet est tout proche des villages du Mont-Vully. Pour qui ne peut pas se déplacer, une visite à la maison est possible sur prescription [À CONFIRMER : villages et jours de passage dans le Vully].</p>",
+    "html": "<p>Le cabinet est tout proche des villages du Mont-Vully. Pour qui ne peut pas se déplacer, une visite à la maison est possible [À CONFIRMER : villages et jours de passage dans le Vully].</p>",
     "icon": "fa-house-medical"
    },
    {
@@ -49,7 +49,7 @@
   "h2": "Quand consulter un physio, et quand voir d'abord un médecin ?",
   "lead": [],
   "bg": "trust",
-  "html": "<p>Au bord du lac de Morat, on consulte souvent pour un dos bloqué après une journée à la vigne, un genou qui proteste dans les pentes ou pour remarcher après une prothèse. En Suisse, la physiothérapie remboursée passe par une prescription : le médecin pose le diagnostic, puis nous prenons le relais.</p><p style=\"margin-top:12px\">Voyez d'abord un médecin si la douleur suit une chute avec un choc violent, si elle s'accompagne de fièvre, d'une perte de force dans une jambe, de troubles pour uriner, ou si elle ne se calme ni au repos ni la nuit. Douleur thoracique, difficulté à respirer, paralysie soudaine : appelez immédiatement le 144.</p>"
+  "html": "<p>Au bord du lac de Morat, on consulte souvent pour un dos bloqué après une journée à la vigne, un genou qui proteste dans les pentes ou pour remarcher après une prothèse. Plus une douleur est prise en charge tôt, plus il est simple d'en venir à bout.</p><p style=\"margin-top:12px\">Voyez d'abord un médecin si la douleur suit une chute avec un choc violent, si elle s'accompagne de fièvre, d'une perte de force dans une jambe, de troubles pour uriner, ou si elle ne se calme ni au repos ni la nuit. Douleur thoracique, difficulté à respirer, paralysie soudaine : appelez immédiatement le 144.</p>"
  },
  {
   "tipo": "grid",
@@ -70,7 +70,7 @@
    },
    {
     "h3": "Retour d'hospitalisation ou d'opération",
-    "html": "<p>Convalescence, suites d'une chute, aîné qui ne conduit plus : la rééducation reprend dès l'ordonnance, au cabinet ou à la maison.</p>",
+    "html": "<p>Convalescence, suites d'une chute, aîné qui ne conduit plus : la rééducation reprend dès votre retour, au cabinet ou à la maison.</p>",
     "icon": "fa-hospital"
    },
    {
@@ -88,9 +88,9 @@
   "bg": "trust",
   "cards": [
    {
-    "h3": "Ordonnance",
-    "html": "<p>Votre médecin de famille ou votre chirurgien rédige la prescription de physiothérapie. Gardez-la avec votre carte d'assuré.</p>",
-    "icon": "fa-file-medical"
+    "h3": "Prise de rendez-vous",
+    "html": "<p>Réservez en ligne, au 076 627 38 38 ou sur WhatsApp, du lundi au vendredi jusqu'à 20h. Si vous avez des consignes de votre médecin ou de l'hôpital, apportez-les à la première séance.</p>",
+    "icon": "fa-calendar-check"
    },
    {
     "h3": "Bilan",
@@ -116,31 +116,15 @@
   "h2": "Venir au cabinet d'Ins depuis Sugiez",
   "lead": [],
   "bg": null,
-  "html": "<p>Le cabinet est installé à l'InsGym, Rämismatte 21, 3232 Ins, à environ 4,9 km en ligne droite de Sugiez. Notre site indique aussi un accès en train par la ligne Fribourg–Morat–Ins [À CONFIRMER : arrêt et horaires à vérifier pour Sugiez]. Toutes les indications pratiques se trouvent sur la page <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Sugiez fait partie de la commune francophone de Mont-Vully, dans le district du Lac (canton de Fribourg), alors qu'Ins est en terre bernoise : les séances se déroulent en français. L'hôpital de la région est l'HFR Meyriez-Murten ; après une opération ou un séjour là-bas, nous poursuivons la rééducation sur la base de l'ordonnance de votre médecin.</p>"
+  "html": "<p>Le cabinet est installé à l'InsGym, Rämismatte 21, 3232 Ins, à environ 4,9 km en ligne droite de Sugiez. Notre site indique aussi un accès en train par la ligne Fribourg–Morat–Ins [À CONFIRMER : arrêt à vérifier pour Sugiez]. Toutes les indications pratiques se trouvent sur la page <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Sugiez fait partie de la commune francophone de Mont-Vully, dans le district du Lac (canton de Fribourg), alors qu'Ins est en terre bernoise : les séances se déroulent en français. L'hôpital de la région est l'HFR Meyriez-Murten ; après une opération ou un séjour là-bas, nous poursuivons la rééducation en suivant les consignes de votre médecin.</p>"
  },
  {
-  "tipo": "grid",
-  "eyebrow": "Remboursement",
-  "h2": "Remboursement et coût de la physio à Sugiez",
+  "tipo": "texte",
+  "eyebrow": "Assurances",
+  "h2": "Assurances et horaires : physio à Sugiez",
   "lead": [],
   "bg": "trust",
-  "cards": [
-   {
-    "h3": "Assurance de base (LAMal)",
-    "html": "<p>Sur prescription médicale, l'assurance obligatoire prend en charge la physiothérapie, quel que soit le canton du cabinet.</p>",
-    "icon": "fa-file-medical"
-   },
-   {
-    "h3": "Accident, AI et AM",
-    "html": "<p>Après un accident, c'est l'assurance accidents (LAA) qui intervient ; l'assurance invalidité (AI) et l'assurance militaire (AM) couvrent aussi les séances prescrites dans leur domaine.</p>",
-    "icon": "fa-stethoscope"
-   },
-   {
-    "h3": "Ce qui détermine ce que vous payez",
-    "html": "<p>Avec la LAMal, la franchise et la quote-part restent à votre charge selon votre contrat. Les séances sont facturées selon la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué]. Apportez votre ordonnance et votre carte d'assuré à la première séance.</p>",
-    "icon": "fa-heart-pulse"
-   }
-  ]
+  "html": "<p>Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence : venir du Vully fribourgeois jusqu'à Ins ne pose aucun problème. Le cabinet est ouvert du lundi au vendredi, jusqu'à 20h ; réservez en ligne, au 076 627 38 38 ou sur WhatsApp au +41 76 627 38 38.</p>"
  },
  {
   "tipo": "villes",
@@ -178,19 +162,24 @@
   "h2": "Questions fréquentes sur la physio à Sugiez",
   "faq": [
    {
-    "q": "Quand faire de la physiothérapie ?",
-    "a_html": "Dès qu'une douleur ou une raideur limite vos activités et que votre médecin a prescrit des séances : après une entorse, une opération, une période d'immobilisation ou pour un mal de dos qui revient.",
-    "a_text": "Dès qu'une douleur ou une raideur limite vos activités et que votre médecin a prescrit des séances : après une entorse, une opération, une période d'immobilisation ou pour un mal de dos qui revient."
+    "q": "Quand dois-je consulter un physiothérapeute pour une douleur ?",
+    "a_html": "Si la douleur dure plus d'une semaine, limite vos mouvements, perturbe votre sommeil ou revient après chaque journée à la vigne ou au jardin. Plus on la traite tôt, plus c'est simple.",
+    "a_text": "Si la douleur dure plus d'une semaine, limite vos mouvements, perturbe votre sommeil ou revient après chaque journée à la vigne ou au jardin. Plus on la traite tôt, plus c'est simple."
+   },
+   {
+    "q": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+    "a_html": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.",
+    "a_text": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
+   },
+   {
+    "q": "Combien de séances me faut-il ?",
+    "a_html": "La durée du traitement varie selon votre situation : un lumbago récent ne se traite pas comme la rééducation d'une prothèse. Lors de la première visite, nous établissons une estimation adaptée à votre cas.",
+    "a_text": "La durée du traitement varie selon votre situation : un lumbago récent ne se traite pas comme la rééducation d'une prothèse. Lors de la première visite, nous établissons une estimation adaptée à votre cas."
    },
    {
     "q": "À combien de kilomètres se trouve le cabinet ?",
     "a_html": "Depuis Sugiez, comptez environ 4,9 km en ligne droite jusqu'à l'InsGym, Rämismatte 21, à Ins : l'une des zones les plus proches de notre cabinet.",
     "a_text": "Depuis Sugiez, comptez environ 4,9 km en ligne droite jusqu'à l'InsGym, Rämismatte 21, à Ins : l'une des zones les plus proches de notre cabinet."
-   },
-   {
-    "q": "Quel est le tarif d'un physiothérapeute ?",
-    "a_html": "Les séances prescrites suivent la structure tarifaire nationale convenue avec les assureurs [À CONFIRMER : tarif appliqué] ; avec une ordonnance, il vous reste la franchise et la quote-part LAMal.",
-    "a_text": "Les séances prescrites suivent la structure tarifaire nationale convenue avec les assureurs [À CONFIRMER : tarif appliqué] ; avec une ordonnance, il vous reste la franchise et la quote-part LAMal."
    },
    {
     "q": "Vous déplacez-vous aussi à Praz, Môtier ou Lugnorre ?",
@@ -203,14 +192,9 @@
     "a_text": "C'est le travail progressif pour retrouver une fonction diminuée : marcher sans boiter, lever le bras, porter une caisse de raisin. Elle combine traitement manuel et exercices."
    },
    {
-    "q": "Est-ce que la physiothérapie est remboursée en Suisse ?",
-    "a_html": "Oui, sur prescription médicale. Un habitant du canton de Fribourg traité à Ins, dans le canton de Berne, est remboursé de la même façon : la LAMal est une loi fédérale.",
-    "a_text": "Oui, sur prescription médicale. Un habitant du canton de Fribourg traité à Ins, dans le canton de Berne, est remboursé de la même façon : la LAMal est une loi fédérale."
-   },
-   {
     "q": "J'ai été opéré à l'HFR Meyriez-Murten : comment poursuivre ?",
-    "a_html": "Demandez une ordonnance de physiothérapie à la sortie et apportez les consignes de l'hôpital. Nous reprenons la rééducation au cabinet ou chez vous si vous ne pouvez pas encore conduire [À CONFIRMER : domicile après une opération].",
-    "a_text": "Demandez une ordonnance de physiothérapie à la sortie et apportez les consignes de l'hôpital. Nous reprenons la rééducation au cabinet ou chez vous si vous ne pouvez pas encore conduire [À CONFIRMER : domicile après une opération]."
+    "a_html": "Apportez les consignes de l'hôpital et réservez dès votre retour. Nous reprenons la rééducation au cabinet ou chez vous si vous ne pouvez pas encore conduire [À CONFIRMER : domicile après une opération].",
+    "a_text": "Apportez les consignes de l'hôpital et réservez dès votre retour. Nous reprenons la rééducation au cabinet ou chez vous si vous ne pouvez pas encore conduire [À CONFIRMER : domicile après une opération]."
    },
    {
     "q": "Comment choisir son physiothérapeute ?",

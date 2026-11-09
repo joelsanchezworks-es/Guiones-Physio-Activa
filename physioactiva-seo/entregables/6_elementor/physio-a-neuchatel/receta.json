@@ -3,11 +3,11 @@
   "tipo": "hero",
   "eyebrow": "Physio · Neuchâtel",
   "h1": "Physio à Neuchâtel : au cabinet d'Ins ou à domicile",
-  "sub": "Vous cherchez un physiothérapeute à Neuchâtel ou sur le Littoral ? Physio Activa vous reçoit dans son cabinet d'Ins, à environ 13,4 km en ligne droite de la ville, et propose des séances à domicile dans plusieurs quartiers [À CONFIRMER : zone desservie à domicile]. Sur ordonnance, l'assurance rembourse le traitement ; la réservation se fait en ligne, par téléphone ou via WhatsApp.",
+  "sub": "Vous cherchez un physiothérapeute à Neuchâtel ou sur le Littoral ? Physio Activa vous reçoit dans son cabinet d'Ins, à environ 13,4 km en ligne droite de la ville, et propose des séances à domicile dans plusieurs quartiers [À CONFIRMER : zone desservie à domicile]. Le cabinet est reconnu par toutes les assurances maladie en Suisse et ouvert du lundi au vendredi jusqu'à 20h ; la réservation se fait en ligne, par téléphone ou via WhatsApp.",
   "pills": [
    "Cabinet à Ins, à 13,4 km",
-   "Sur prescription médicale",
-   "LAMal · LAA · AI · AM"
+   "Reconnu par toutes les assurances",
+   "Ouvert jusqu'à 20h"
   ],
   "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00032.jpg",
   "alt": "Physiothérapeute accompagnant un patient lors d'exercices à domicile ou au cabinet",
@@ -22,8 +22,8 @@
   "bg": null,
   "cards": [
    {
-    "h3": "Sur prescription, remboursé LAMal / LAA",
-    "html": "<p>Une prescription médicale suffit : caisse maladie ou assurance accidents prend en charge les séances, que le cabinet soit neuchâtelois ou bernois.</p>",
+    "h3": "Reconnu par toutes les assurances",
+    "html": "<p>Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse et accueille les patients quel que soit leur canton de résidence, Neuchâtel compris.</p>",
     "icon": "fa-file-medical"
    },
    {
@@ -75,7 +75,7 @@
    },
    {
     "h3": "Drainage lymphatique",
-    "html": "<p>Jambes gonflées après une opération, lymphœdème, œdème qui tarde à se résorber : le drainage lymphatique manuel agit par des manœuvres lentes et douces, sur prescription [À CONFIRMER : drainage à domicile]. Détails sur la page <a href=\"/drainage-lymphatique/\" style=\"color:var(--azure);font-weight:600\">drainage lymphatique manuel</a>.</p>",
+    "html": "<p>Jambes gonflées après une opération, lymphœdème, œdème qui tarde à se résorber : le drainage lymphatique manuel agit par des manœuvres lentes et douces [À CONFIRMER : drainage à domicile]. Détails sur la page <a href=\"/drainage-lymphatique/\" style=\"color:var(--azure);font-weight:600\">drainage lymphatique manuel</a>.</p>",
     "icon": "fa-person-walking"
    },
    {
@@ -98,9 +98,9 @@
   "bg": "trust",
   "cards": [
    {
-    "h3": "Ordonnance",
-    "html": "<p>Généraliste, spécialiste ou hôpital à la sortie peuvent la rédiger.</p>",
-    "icon": "fa-file-medical"
+    "h3": "Prise de rendez-vous",
+    "html": "<p>Agenda en ligne, téléphone ou WhatsApp : choisissez un créneau en semaine, jusqu'à 20h, compatible avec vos horaires de travail.</p>",
+    "icon": "fa-calendar-check"
    },
    {
     "h3": "Bilan",
@@ -126,31 +126,15 @@
   "h2": "Venir au cabinet d'Ins depuis Neuchâtel",
   "lead": [],
   "bg": null,
-  "html": "<p>Le cabinet se situe à l'InsGym, Rämismatte 21, 3232 Ins, soit à environ 13,4 km en ligne droite du centre de Neuchâtel. Notre site mentionne la ligne de train Neuchâtel–Fribourg–Morat–Ins pour venir sans voiture [À CONFIRMER : fréquence et arrêt]. Plan et accès : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Neuchâtel est une ville francophone du Littoral neuchâtelois ; Ins est en terre bernoise, mais l'équipe vous accueille en français. Pour les patients suivis au RHNe, site de Pourtalès, la physiothérapie peut s'inscrire dans la continuité d'un séjour hospitalier, sur prescription de votre médecin.</p>"
+  "html": "<p>Le cabinet se situe à l'InsGym, Rämismatte 21, 3232 Ins, soit à environ 13,4 km en ligne droite du centre de Neuchâtel. Notre site mentionne la ligne de train Neuchâtel–Fribourg–Morat–Ins pour venir sans voiture [À CONFIRMER : fréquence et arrêt]. Plan et accès : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Neuchâtel est une ville francophone du Littoral neuchâtelois ; Ins est en terre bernoise, mais l'équipe vous accueille en français. Pour les patients suivis au RHNe, site de Pourtalès, la physiothérapie peut s'inscrire dans la continuité d'un séjour hospitalier, selon les consignes de votre médecin.</p>"
  },
  {
-  "tipo": "grid",
-  "eyebrow": "Remboursement",
-  "h2": "Remboursement et coût de la physio à Neuchâtel",
+  "tipo": "texte",
+  "eyebrow": "Assurances",
+  "h2": "Assurances et horaires : physio à Neuchâtel",
   "lead": [],
   "bg": "trust",
-  "cards": [
-   {
-    "h3": "Assurance de base (LAMal)",
-    "html": "<p>Sur prescription médicale, l'assurance obligatoire couvre la physiothérapie, que le cabinet soit dans le canton de Neuchâtel ou de Berne.</p>",
-    "icon": "fa-file-medical"
-   },
-   {
-    "h3": "Accident, AI et AM",
-    "html": "<p>En cas d'accident, l'assurance accidents (LAA) prend le relais ; l'assurance invalidité (AI) et l'assurance militaire (AM) couvrent les séances prescrites qui les concernent.</p>",
-    "icon": "fa-stethoscope"
-   },
-   {
-    "h3": "Ce qui détermine ce que vous payez",
-    "html": "<p>Avec la LAMal, la franchise et la quote-part restent à votre charge. Les séances sont facturées selon la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué]. Apportez votre ordonnance et votre carte d'assuré.</p>",
-    "icon": "fa-heart-pulse"
-   }
-  ]
+  "html": "<p>Physio Activa est reconnu par toutes les compagnies d'assurance maladie en Suisse et dispose de toutes les autorisations sanitaires nécessaires. Habiter le canton de Neuchâtel et se faire soigner à Ins, dans le canton de Berne, ne pose aucun problème : nous accueillons les patients quel que soit leur canton de résidence. Le cabinet est ouvert du lundi au vendredi, jusqu'à 20h, pratique après une journée de bureau ; réservez en ligne, au 076 627 38 38 ou sur WhatsApp.</p>"
  },
  {
   "tipo": "villes",
@@ -188,14 +172,24 @@
   "h2": "Questions fréquentes sur la physio à Neuchâtel",
   "faq": [
    {
+    "q": "Quand dois-je consulter un physiothérapeute pour une douleur ?",
+    "a_html": "Quand une nuque, un dos ou un talon reste douloureux plus d'une semaine, limite vos mouvements ou vous réveille la nuit. Plus on traite tôt, plus le retour à la normale est simple, y compris pour reprendre la course sur les quais.",
+    "a_text": "Quand une nuque, un dos ou un talon reste douloureux plus d'une semaine, limite vos mouvements ou vous réveille la nuit. Plus on traite tôt, plus le retour à la normale est simple, y compris pour reprendre la course sur les quais."
+   },
+   {
+    "q": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+    "a_html": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.",
+    "a_text": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
+   },
+   {
+    "q": "Combien de séances me faut-il ?",
+    "a_html": "La durée du traitement varie selon votre situation, l'ancienneté de la douleur et vos objectifs. Lors de la première visite, nous établissons une estimation adaptée à votre cas.",
+    "a_text": "La durée du traitement varie selon votre situation, l'ancienneté de la douleur et vos objectifs. Lors de la première visite, nous établissons une estimation adaptée à votre cas."
+   },
+   {
     "q": "Quel est le rôle d'un physiothérapeute ?",
     "a_html": "Il évalue votre mouvement, traite la douleur par des techniques manuelles et vous guide dans des exercices adaptés. Le diagnostic reste du ressort du médecin.",
     "a_text": "Il évalue votre mouvement, traite la douleur par des techniques manuelles et vous guide dans des exercices adaptés. Le diagnostic reste du ressort du médecin."
-   },
-   {
-    "q": "Est-ce que la physiothérapie est remboursée ?",
-    "a_html": "Oui, lorsqu'elle est prescrite. La LAMal couvre les séances après franchise et quote-part ; après un accident de travail ou de loisir, c'est la LAA.",
-    "a_text": "Oui, lorsqu'elle est prescrite. La LAMal couvre les séances après franchise et quote-part ; après un accident de travail ou de loisir, c'est la LAA."
    },
    {
     "q": "Venez-vous à Peseux, Auvernier ou Saint-Blaise ?",
@@ -203,29 +197,14 @@
     "a_text": "Ces communes du Littoral, comme Hauterive et La Tène (Marin-Epagnier), sont voisines de la ville. Leur prise en charge à domicile se vérifie au cas par cas [À CONFIRMER : communes desservies]."
    },
    {
-    "q": "Quel est le prix d'une séance de physiothérapie en Suisse ?",
-    "a_html": "Il découle de la structure tarifaire nationale négociée entre la profession et les assureurs, et non d'un prix libre fixé par chaque cabinet [À CONFIRMER : tarif appliqué].",
-    "a_text": "Il découle de la structure tarifaire nationale négociée entre la profession et les assureurs, et non d'un prix libre fixé par chaque cabinet [À CONFIRMER : tarif appliqué]."
-   },
-   {
     "q": "Comment savoir si j'ai besoin d'un drainage lymphatique ?",
-    "a_html": "Un membre qui reste gonflé, lourd ou tendu après une opération ou un traitement contre le cancer doit être examiné par un médecin. C'est lui qui confirme l'indication et prescrit le drainage.",
-    "a_text": "Un membre qui reste gonflé, lourd ou tendu après une opération ou un traitement contre le cancer doit être examiné par un médecin. C'est lui qui confirme l'indication et prescrit le drainage."
-   },
-   {
-    "q": "Qui prescrit un drainage lymphatique ?",
-    "a_html": "Votre médecin traitant, un spécialiste ou l'hôpital à votre sortie, par exemple après une intervention au RHNe. Avec cette ordonnance, le drainage est réalisé et remboursé comme une séance de physiothérapie.",
-    "a_text": "Votre médecin traitant, un spécialiste ou l'hôpital à votre sortie, par exemple après une intervention au RHNe. Avec cette ordonnance, le drainage est réalisé et remboursé comme une séance de physiothérapie."
+    "a_html": "Un membre qui reste gonflé, lourd ou tendu après une opération ou un traitement contre le cancer doit être examiné par un médecin. C'est lui qui confirme si un drainage est indiqué.",
+    "a_text": "Un membre qui reste gonflé, lourd ou tendu après une opération ou un traitement contre le cancer doit être examiné par un médecin. C'est lui qui confirme si un drainage est indiqué."
    },
    {
     "q": "Quelle est la différence entre un massage thérapeutique et un massage de détente ?",
-    "a_html": "Le massage thérapeutique répond à un problème précis, une contracture ou une tension qui limite le mouvement, et s'intègre à un traitement prescrit. Le massage de détente vise le bien-être, sans prise en charge par l'assurance de base.",
-    "a_text": "Le massage thérapeutique répond à un problème précis, une contracture ou une tension qui limite le mouvement, et s'intègre à un traitement prescrit. Le massage de détente vise le bien-être, sans prise en charge par l'assurance de base."
-   },
-   {
-    "q": "Un résident d'un autre canton peut-il se faire soigner dans le canton de Berne ?",
-    "a_html": "Oui. La LAMal étant fédérale, vos séances sur ordonnance sont remboursées de la même manière, que vous habitiez la ville ou le Littoral.",
-    "a_text": "Oui. La LAMal étant fédérale, vos séances sur ordonnance sont remboursées de la même manière, que vous habitiez la ville ou le Littoral."
+    "a_html": "Le massage thérapeutique répond à un problème précis, une contracture ou une tension qui limite le mouvement, et s'intègre à un plan de physiothérapie. Le massage de détente vise le bien-être.",
+    "a_text": "Le massage thérapeutique répond à un problème précis, une contracture ou une tension qui limite le mouvement, et s'intègre à un plan de physiothérapie. Le massage de détente vise le bien-être."
    },
    {
     "q": "C'est quoi une séance de physiothérapie ?",
@@ -234,8 +213,8 @@
    },
    {
     "q": "Après une hospitalisation à Pourtalès, quand commencer ?",
-    "a_html": "Dès que l'ordonnance de sortie est établie. Apportez les consignes de l'hôpital pour que nous respections les délais de cicatrisation.",
-    "a_text": "Dès que l'ordonnance de sortie est établie. Apportez les consignes de l'hôpital pour que nous respections les délais de cicatrisation."
+    "a_html": "Dès votre retour à la maison, si le médecin n'a pas fixé d'autre délai. Apportez les consignes de l'hôpital pour que nous respections les délais de cicatrisation.",
+    "a_text": "Dès votre retour à la maison, si le médecin n'a pas fixé d'autre délai. Apportez les consignes de l'hôpital pour que nous respections les délais de cicatrisation."
    }
   ]
  },

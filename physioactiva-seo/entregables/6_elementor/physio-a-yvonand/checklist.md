@@ -3,14 +3,12 @@
 - Lote: B · Plantilla: lombaire · Validación: OK
 - Indexación: NOINDEX hasta la confirmación del cliente
 
-## Marcadores [À CONFIRMER] (7)
+## Marcadores [À CONFIRMER] (5)
 
-- [À CONFIRMER : domicile à Yvonand] — «Une ordonnance de physiothérapie en poche et un domicile à Yvonand ? Physio Activa travaille depuis Ins, à environ 35,9 km en ligne droite, et vous reçoit au cabinet ; le déplacement chez vous reste à confirmer pour votre secteur [À CONFIRMER : domicile à Yvon»
+- [À CONFIRMER : domicile à Yvonand] — «Besoin de physiothérapie et domicilié à Yvonand ? Physio Activa travaille depuis Ins, à environ 35,9 km en ligne droite, et vous reçoit au cabinet ; le déplacement chez vous reste à confirmer pour votre secteur [À CONFIRMER : domicile à Yvonand].»
 - [À CONFIRMER : domicile et jours de passage] — «Un passage dans le Nord vaudois n'aurait de sens qu'en regroupant plusieurs patients le même jour [À CONFIRMER : domicile et jours de passage].»
 - [À CONFIRMER : localités desservies] — «Chêne-Pâquier, Démoret, Rovray et Cheyres-Châbles seraient alors concernés [À CONFIRMER : localités desservies].»
-- [À CONFIRMER : tarif appliqué] — «Le prix de la séance suit la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué].»
-- [À CONFIRMER : tarif appliqué] — «Il est fixé par une structure tarifaire nationale convenue avec les assureurs, et non librement par chaque cabinet [À CONFIRMER : tarif appliqué].»
-- [À CONFIRMER : délai pour une première séance et domicile possible] — «Oui, la rééducation peut commencer dès réception de l'ordonnance de physiothérapie [À CONFIRMER : délai pour une première séance et domicile possible].»
+- [À CONFIRMER : délai pour une première séance et domicile possible] — «Oui, la rééducation peut commencer dès votre sortie, selon les consignes reçues [À CONFIRMER : délai pour une première séance et domicile possible].»
 - [À CONFIRMER : localités et jours de passage] — «Ces communes voisines seraient regroupées avec les visites du secteur si le domicile y est proposé [À CONFIRMER : localités et jours de passage].»
 
 ## Publicación
@@ -31,8 +29,8 @@
 | Qué es / cuándo consultar (+ señales de alarma) | sí |  |
 | Tipos según el caso (H2 + H3 por subtipo) | sí |  |
 | Proceso en pasos (H2 + H3) + CTA intermedio | sí |  |
-| Reembolso y coste | sí |  |
+| Reembolso y coste | no | omitida |
 | FAQ (8-10) | sí | 9 preguntas |
 | CTA final en pregunta con la ciudad | sí |  |
 
-- receta: ciudad en 4 H2 · FAQ 9 · CTA reserva 5 / tel 3 / WhatsApp 3 · palabras visibles 1288
+- receta: ciudad en 4 H2 · FAQ 9 · CTA reserva 5 / tel 3 / WhatsApp 3 · palabras visibles 1274

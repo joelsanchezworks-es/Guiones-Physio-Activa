@@ -3,11 +3,11 @@
   "tipo": "hero",
   "eyebrow": "Physio · Fribourg",
   "h1": "Physiothérapie à Fribourg : au cabinet d'Ins ou à domicile",
-  "sub": "Après une opération ou en cas de mobilité réduite, recevoir son physiothérapeute chez soi à Fribourg peut simplifier la rééducation [À CONFIRMER : domicile à Fribourg]. Notre cabinet, lui, se trouve à Ins, à environ 22,6 km en ligne droite. Dans les deux cas, une prescription médicale suffit pour le remboursement ; vous réservez en ligne, par téléphone ou par WhatsApp.",
+  "sub": "Après une opération ou en cas de mobilité réduite, recevoir son physiothérapeute chez soi à Fribourg peut simplifier la rééducation [À CONFIRMER : domicile à Fribourg]. Notre cabinet, lui, se trouve à Ins, à environ 22,6 km en ligne droite. Le cabinet est reconnu par toutes les assurances maladie en Suisse et ouvert du lundi au vendredi jusqu'à 20h ; vous réservez en ligne, par téléphone ou par WhatsApp.",
   "pills": [
    "Cabinet à Ins, à 22,6 km",
-   "Sur prescription médicale",
-   "LAMal · LAA · AI · AM"
+   "Reconnu par toutes les assurances",
+   "Ouvert jusqu'à 20h"
   ],
   "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00032.jpg",
   "alt": "Physiothérapeute accompagnant un patient lors d'exercices à domicile ou au cabinet",
@@ -22,8 +22,8 @@
   "bg": null,
   "cards": [
    {
-    "h3": "Sur prescription, remboursé LAMal / LAA",
-    "html": "<p>Ins est dans le canton de Berne, Fribourg dans le canton voisin : cela ne change rien. Avec une ordonnance, l'assurance de base ou l'assurance accidents rembourse vos séances.</p>",
+    "h3": "Reconnu par toutes les assurances",
+    "html": "<p>Ins est dans le canton de Berne, Fribourg dans le canton voisin : cela ne change rien, notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse.</p>",
     "icon": "fa-file-medical"
    },
    {
@@ -70,7 +70,7 @@
    },
    {
     "h3": "Après une opération ou une hospitalisation",
-    "html": "<p>Pour les patients opérés ou hospitalisés à l'HFR Fribourg – Hôpital cantonal, nous reprenons la rééducation à partir de l'ordonnance de sortie et des indications du chirurgien.</p>",
+    "html": "<p>Pour les patients opérés ou hospitalisés à l'HFR Fribourg – Hôpital cantonal, nous reprenons la rééducation à partir des indications du chirurgien.</p>",
     "icon": "fa-hospital"
    },
    {
@@ -80,12 +80,12 @@
    },
    {
     "h3": "Drainage lymphatique",
-    "html": "<p>Il s'adresse aux personnes qui gardent un œdème après une chirurgie et aux patients atteints de lymphœdème. Sur ordonnance, le drainage s'intègre au traitement, à Ins ou chez vous selon votre mobilité [À CONFIRMER : drainage à domicile à Fribourg]. Voir la page <a href=\"/drainage-lymphatique/\" style=\"color:var(--azure);font-weight:600\">drainage lymphatique manuel</a>.</p>",
+    "html": "<p>Il s'adresse aux personnes qui gardent un œdème après une chirurgie et aux patients atteints de lymphœdème. Le drainage s'intègre au traitement, à Ins ou chez vous selon votre mobilité [À CONFIRMER : drainage à domicile à Fribourg]. Voir la page <a href=\"/drainage-lymphatique/\" style=\"color:var(--azure);font-weight:600\">drainage lymphatique manuel</a>.</p>",
     "icon": "fa-shield-heart"
    },
    {
     "h3": "Massage thérapeutique",
-    "html": "<p>Il cible une contracture ou une zone de tension qui gêne vos mouvements, et s'associe à des exercices dans un plan prescrit par votre médecin. Détails sur le <a href=\"/massage-therapeutique/\" style=\"color:var(--azure);font-weight:600\">massage thérapeutique</a>.</p>",
+    "html": "<p>Il cible une contracture ou une zone de tension qui gêne vos mouvements, et s'associe à des exercices dans un plan de physiothérapie. Détails sur le <a href=\"/massage-therapeutique/\" style=\"color:var(--azure);font-weight:600\">massage thérapeutique</a>.</p>",
     "icon": "fa-hand-holding-heart"
    },
    {
@@ -103,9 +103,9 @@
   "bg": "trust",
   "cards": [
    {
-    "h3": "Ordonnance",
-    "html": "<p>Si vous souhaitez être soigné chez vous, demandez à votre médecin d'indiquer le domicile sur la prescription.</p>",
-    "icon": "fa-file-medical"
+    "h3": "Prise de rendez-vous",
+    "html": "<p>Réservez en ligne, par téléphone ou sur WhatsApp, du lundi au vendredi jusqu'à 20h, et signalez d'emblée si vous souhaitez être soigné chez vous. Après une opération, gardez le compte rendu à portée de main.</p>",
+    "icon": "fa-calendar-check"
    },
    {
     "h3": "Bilan",
@@ -134,28 +134,12 @@
   "html": "<p>Si vous êtes mobile, le cabinet d'Ins se trouve à environ 22,6 km en ligne droite de Fribourg. Itinéraire et adresse : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Fribourg est une ville bilingue à majorité francophone, chef-lieu du district de la Sarine. Notre équipe parle français et espagnol ; vos documents médicaux en allemand sont également acceptés.</p>"
  },
  {
-  "tipo": "grid",
-  "eyebrow": "Remboursement",
-  "h2": "Remboursement et coût de la physio à Fribourg",
+  "tipo": "texte",
+  "eyebrow": "Assurances",
+  "h2": "Assurances et horaires : physio à Fribourg",
   "lead": [],
   "bg": "trust",
-  "cards": [
-   {
-    "h3": "Assurance de base (LAMal)",
-    "html": "<p>Avec une prescription médicale, la physiothérapie est prise en charge par l'assurance obligatoire des soins (LAMal).</p>",
-    "icon": "fa-file-medical"
-   },
-   {
-    "h3": "Accident, AI et AM",
-    "html": "<p>Après un accident, l'assurance accidents (LAA) prend le relais ; l'assurance invalidité (AI) et l'assurance militaire (AM) couvrent aussi la physiothérapie prescrite dans leur cadre.</p>",
-    "icon": "fa-stethoscope"
-   },
-   {
-    "h3": "Ce qui détermine ce que vous payez",
-    "html": "<p>Les séances sont facturées selon la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué]. En LAMal, la franchise et la quote-part restent à votre charge selon votre contrat.</p>",
-    "icon": "fa-heart-pulse"
-   }
-  ]
+  "html": "<p>Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence : venir de la Sarine jusqu'à Ins, ou nous recevoir chez vous, ne change rien. Nous travaillons du lundi au vendredi, jusqu'à 20h ; réservez en ligne, au 076 627 38 38 ou par WhatsApp.</p>"
  },
  {
   "tipo": "villes",
@@ -193,9 +177,19 @@
   "h2": "Questions fréquentes sur la physio à Fribourg",
   "faq": [
    {
-    "q": "La physio à domicile est-elle remboursée ?",
-    "a_html": "Oui, si votre médecin a prescrit des séances à domicile. La prise en charge suit alors les mêmes règles qu'au cabinet (LAMal, LAA, AI ou AM).",
-    "a_text": "Oui, si votre médecin a prescrit des séances à domicile. La prise en charge suit alors les mêmes règles qu'au cabinet (LAMal, LAA, AI ou AM)."
+    "q": "Quand dois-je consulter un physiothérapeute pour une douleur ?",
+    "a_html": "Si la douleur dure plus d'une semaine, limite votre mobilité ou perturbe votre sommeil, et dès le retour à la maison après une prothèse ou une opération si le chirurgien l'indique. Plus on la traite tôt, plus c'est simple.",
+    "a_text": "Si la douleur dure plus d'une semaine, limite votre mobilité ou perturbe votre sommeil, et dès le retour à la maison après une prothèse ou une opération si le chirurgien l'indique. Plus on la traite tôt, plus c'est simple."
+   },
+   {
+    "q": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+    "a_html": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.",
+    "a_text": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
+   },
+   {
+    "q": "Combien de séances me faut-il pour ma rééducation ?",
+    "a_html": "La durée du traitement varie selon votre situation, le type d'intervention et votre mobilité de départ. Lors de la première visite, nous établissons une estimation adaptée à votre cas.",
+    "a_text": "La durée du traitement varie selon votre situation, le type d'intervention et votre mobilité de départ. Lors de la première visite, nous établissons une estimation adaptée à votre cas."
    },
    {
     "q": "Intervenez-vous à Marly ou à Villars-sur-Glâne ?",
@@ -204,18 +198,13 @@
    },
    {
     "q": "Quelle distance entre la ville et le cabinet ?",
-    "a_html": "Environ 22,6 km en ligne droite séparent Fribourg d'Ins. Changer de canton n'affecte pas le remboursement.",
-    "a_text": "Environ 22,6 km en ligne droite séparent Fribourg d'Ins. Changer de canton n'affecte pas le remboursement."
+    "a_html": "Environ 22,6 km en ligne droite séparent Fribourg d'Ins. Le cabinet se trouve juste de l'autre côté de la frontière cantonale, dans le Seeland bernois.",
+    "a_text": "Environ 22,6 km en ligne droite séparent Fribourg d'Ins. Le cabinet se trouve juste de l'autre côté de la frontière cantonale, dans le Seeland bernois."
    },
    {
     "q": "Après une prothèse posée à l'hôpital cantonal, quand commencer ?",
-    "a_html": "Si vous avez été opéré à l'HFR Fribourg, suivez les consignes de votre chirurgien : la rééducation démarre en général dès le retour à domicile, avec l'ordonnance de physiothérapie [À CONFIRMER : délai du premier rendez-vous].",
-    "a_text": "Si vous avez été opéré à l'HFR Fribourg, suivez les consignes de votre chirurgien : la rééducation démarre en général dès le retour à domicile, avec l'ordonnance de physiothérapie [À CONFIRMER : délai du premier rendez-vous]."
-   },
-   {
-    "q": "Le drainage lymphatique est-il remboursé en Suisse ?",
-    "a_html": "Oui, lorsqu'il est prescrit par un médecin dans le cadre d'un traitement de physiothérapie. Un drainage « bien-être » sans ordonnance n'est pas pris en charge par l'assurance de base.",
-    "a_text": "Oui, lorsqu'il est prescrit par un médecin dans le cadre d'un traitement de physiothérapie. Un drainage « bien-être » sans ordonnance n'est pas pris en charge par l'assurance de base."
+    "a_html": "Si vous avez été opéré à l'HFR Fribourg, suivez les consignes de votre chirurgien : la rééducation démarre en général dès le retour à domicile [À CONFIRMER : délai du premier rendez-vous].",
+    "a_text": "Si vous avez été opéré à l'HFR Fribourg, suivez les consignes de votre chirurgien : la rééducation démarre en général dès le retour à domicile [À CONFIRMER : délai du premier rendez-vous]."
    },
    {
     "q": "Quels sont les problèmes de lymphe possibles après une opération ?",
@@ -231,11 +220,6 @@
     "q": "Pourquoi faire du dry needling ?",
     "a_html": "Pour relâcher un muscle qui reste contracté malgré les étirements. Il est utilisé en complément des exercices, jamais seul.",
     "a_text": "Pour relâcher un muscle qui reste contracté malgré les étirements. Il est utilisé en complément des exercices, jamais seul."
-   },
-   {
-    "q": "Qu'est-ce qu'un trigger point ?",
-    "a_html": "C'est un point très sensible au sein d'un muscle tendu, que l'on sent comme un petit nodule. Il peut envoyer une douleur ailleurs, par exemple de l'épaule vers la tête.",
-    "a_text": "C'est un point très sensible au sein d'un muscle tendu, que l'on sent comme un petit nodule. Il peut envoyer une douleur ailleurs, par exemple de l'épaule vers la tête."
    },
    {
     "q": "Quels sont les risques du dry needling ?",

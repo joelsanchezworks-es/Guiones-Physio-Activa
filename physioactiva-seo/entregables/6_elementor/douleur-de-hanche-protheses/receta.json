@@ -5,9 +5,9 @@
   "h1": "Prothèse de hanche et douleur de hanche : votre physio à Ins",
   "sub": "Après la pose d'une prothèse de hanche, la physiothérapie aide à retrouver une marche plus sûre, de la mobilité et de la force, en suivant le protocole fixé par votre chirurgien. Chez Physio Activa, nous accompagnons aussi les personnes qui souffrent d'arthrose de la hanche (coxarthrose) ou de douleurs de hanche, au cabinet à Ins ou à domicile dans le Seeland et la région des Trois-Lacs.",
   "pills": [
-   "Sur prescription médicale",
+   "Reconnu par toutes les assurances",
    "Au cabinet d'Ins ou à domicile",
-   "Remboursé LAMal / LAA"
+   "Ouvert jusqu'à 20h"
   ],
   "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00031.jpg",
   "alt": "Physiothérapeute mobilisant la hanche et la jambe d'un patient",
@@ -22,9 +22,9 @@
   "bg": "trust",
   "cards": [
    {
-    "h3": "Sur prescription, remboursé LAMal / LAA",
-    "html": "<p>Avec une ordonnance médicale, les séances sont prises en charge par la LAMal, la LAA, l&#x27;AI ou l&#x27;AM.</p>",
-    "icon": "fa-file-medical"
+    "h3": "Reconnu par toutes les assurances",
+    "html": "<p>Notre cabinet est reconnu par toutes les compagnies d&#x27;assurance maladie en Suisse, quel que soit votre canton de résidence.</p>",
+    "icon": "fa-shield-heart"
    },
    {
     "h3": "Au cabinet ou à domicile",
@@ -38,7 +38,7 @@
    },
    {
     "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
-    "html": "<p>Réservation sur OneDoc, au 076 627 38 38 ou par WhatsApp au +41 76 627 38 38.</p>",
+    "html": "<p>Réservation sur OneDoc, au 076 627 38 38 ou par WhatsApp, du lundi au vendredi jusqu&#x27;à 20h.</p>",
     "icon": "fa-calendar-check"
    }
   ]
@@ -151,15 +151,15 @@
   "h2": "Déroulement des séances",
   "lead": [
    "La première séance commence par un entretien (anamnèse) : votre opération ou vos douleurs, vos antécédents, vos activités et ce qui est important pour vous. Vient ensuite l'évaluation : mobilité, force, marche, équilibre et état de la cicatrice si vous avez été opéré. Ensemble, nous fixons des objectifs concrets.",
-   "Les séances suivantes associent exercices, travail manuel et conseils. Vous recevez un programme à faire à la maison. Le nombre de séances dépend de votre évolution et de l'ordonnance ; la durée d'une séance est de [À CONFIRMER] minutes."
+   "Les séances suivantes associent exercices, travail manuel et conseils. Vous recevez un programme à faire à la maison. Le nombre de séances dépend de votre évolution ; la durée d'une séance est de [À CONFIRMER] minutes."
   ],
   "bg": null,
   "cta_mid": true,
   "cards": [
    {
-    "h3": "Ordonnance",
-    "html": "<p>Votre médecin prescrit la physiothérapie ; apportez l&#x27;ordonnance et votre carte d&#x27;assuré à la première séance.</p>",
-    "icon": "fa-file-medical"
+    "h3": "Prise de rendez-vous",
+    "html": "<p>Vous réservez en ligne, par téléphone ou par WhatsApp, au cabinet d&#x27;Ins ou à domicile.</p>",
+    "icon": "fa-calendar-check"
    },
    {
     "h3": "Bilan",
@@ -168,7 +168,7 @@
    },
    {
     "h3": "Séances au cabinet ou à domicile",
-    "html": "<p>Le traitement se déroule au cabinet d&#x27;Ins ou chez vous, selon votre situation et la prescription.</p>",
+    "html": "<p>Le traitement se déroule au cabinet d&#x27;Ins ou chez vous, selon votre situation.</p>",
     "icon": "fa-house-medical"
    },
    {
@@ -188,11 +188,11 @@
  },
  {
   "tipo": "texte",
-  "eyebrow": "Remboursement",
-  "h2": "Remboursement et coût de la physio à Ins",
+  "eyebrow": "Assurances",
+  "h2": "Assurances et horaires",
   "lead": [],
   "bg": null,
-  "html": "<p>La physiothérapie est remboursée par l'assurance de base (LAMal), par l'assurance accident (LAA) après une chute ou un accident, ainsi que par l'AI et l'AM, <strong>avec une prescription médicale</strong>. Après l'opération, l'ordonnance est en général remise par le chirurgien ou par votre médecin traitant. La physiothérapie à domicile doit être mentionnée sur l'ordonnance [À CONFIRMER]. Le coût de l'opération elle-même dépend de l'hôpital et de votre assurance : renseignez-vous auprès d'eux.</p>"
+  "html": "<p>Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Nous vous recevons du lundi au vendredi, jusqu'à 20h : prenez rendez-vous <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">en ligne</a>, par téléphone au <strong>076 627 38 38</strong> ou sur <strong>WhatsApp au +41 76 627 38 38</strong>.</p>"
  },
  {
   "tipo": "villes",
@@ -246,6 +246,21 @@
   "h2": "Questions fréquentes sur la hanche et la physio à Ins",
   "faq": [
    {
+    "q": "Quand dois-je consulter un physiothérapeute pour une douleur de hanche ?",
+    "a_html": "Si la douleur de hanche dure plus d'une semaine, gêne la marche ou les gestes du quotidien, perturbe votre sommeil ou revient régulièrement, un bilan en physiothérapie est utile. Plus on la traite tôt, plus la prise en charge est simple. Après une prothèse de hanche, la rééducation commence selon les consignes de votre chirurgien.",
+    "a_text": "Si la douleur de hanche dure plus d'une semaine, gêne la marche ou les gestes du quotidien, perturbe votre sommeil ou revient régulièrement, un bilan en physiothérapie est utile. Plus on la traite tôt, plus la prise en charge est simple. Après une prothèse de hanche, la rééducation commence selon les consignes de votre chirurgien."
+   },
+   {
+    "q": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+    "a_html": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.",
+    "a_text": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
+   },
+   {
+    "q": "Combien de séances me faut-il après une prothèse de hanche ?",
+    "a_html": "La durée du traitement varie selon votre situation : état avant l'opération, type d'intervention, protocole du chirurgien et évolution au fil des séances. Lors de la première visite, nous établissons une estimation adaptée à votre cas.",
+    "a_text": "La durée du traitement varie selon votre situation : état avant l'opération, type d'intervention, protocole du chirurgien et évolution au fil des séances. Lors de la première visite, nous établissons une estimation adaptée à votre cas."
+   },
+   {
     "q": "Comment vivre avec une prothèse de hanche ?",
     "a_html": "La plupart des gestes du quotidien redeviennent possibles avec le temps, selon votre situation. Rester actif, marcher régulièrement et entretenir la force des jambes aide à protéger la hanche. Respectez les précautions indiquées par votre chirurgien, surtout au début.",
     "a_text": "La plupart des gestes du quotidien redeviennent possibles avec le temps, selon votre situation. Rester actif, marcher régulièrement et entretenir la force des jambes aide à protéger la hanche. Respectez les précautions indiquées par votre chirurgien, surtout au début."
@@ -274,11 +289,6 @@
     "q": "Pourquoi ai-je mal à la hanche couché sur le côté ?",
     "a_html": "Cette douleur latérale peut être liée aux tendons ou aux tissus situés sur le côté de la hanche, mais d'autres causes existent. Un bilan permet de l'évaluer et de proposer des exercices et des conseils de positionnement.",
     "a_text": "Cette douleur latérale peut être liée aux tendons ou aux tissus situés sur le côté de la hanche, mais d'autres causes existent. Un bilan permet de l'évaluer et de proposer des exercices et des conseils de positionnement."
-   },
-   {
-    "q": "Que faire si ma hanche est bloquée ?",
-    "a_html": "Évitez de forcer et consultez si le blocage persiste. Si cela survient après une chute ou avec une prothèse, contactez rapidement un médecin.",
-    "a_text": "Évitez de forcer et consultez si le blocage persiste. Si cela survient après une chute ou avec une prothèse, contactez rapidement un médecin."
    },
    {
     "q": "Quels sont les symptômes d'une douleur à la hanche ?",

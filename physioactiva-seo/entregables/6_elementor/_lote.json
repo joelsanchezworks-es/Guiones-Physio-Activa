@@ -5,7 +5,7 @@
   "plantilla": "home",
   "lote": "A",
   "title": "Physio à Ins (Anet) et à domicile | Physio Activa",
-  "meta": "Physio à Ins (Anet) et physiothérapie à domicile dans le Seeland et les Trois-Lacs. Remboursé sur ordonnance (LAMal, LAA). Réservez en ligne.",
+  "meta": "Physio à Ins (Anet) et physiothérapie à domicile dans le Seeland et les Trois-Lacs. Reconnu par toutes les assurances maladie. Réservez en ligne.",
   "h1": "Physio à Ins (Anet)",
   "tipo": "home",
   "componentes": [
@@ -25,7 +25,7 @@
    "cta",
    "map"
   ],
-  "a_confirmer": 7
+  "a_confirmer": 4
  },
  {
   "slug": "a-propos-de-nous",
@@ -33,7 +33,7 @@
   "plantilla": "lombaire",
   "lote": "A",
   "title": "Physiothérapeutes à Ins : notre équipe | Physio Activa",
-  "meta": "Découvrez Physio Activa, physiothérapeutes à Ins (InsGym) : bilan, traitement actif, domicile dans le Seeland. Sur ordonnance LAMal, LAA. Réservez.",
+  "meta": "Physio Activa, physiothérapeutes à Ins (InsGym) : bilan, traitement actif, domicile dans le Seeland. Reconnu par toutes les assurances. Réservez.",
   "h1": "Vos physiothérapeutes à Ins : l'équipe Physio Activa",
   "tipo": "apropos",
   "componentes": [
@@ -49,7 +49,7 @@
    "cta",
    "map"
   ],
-  "a_confirmer": 14
+  "a_confirmer": 11
  },
  {
   "slug": "physio-a-sugiez",
@@ -57,7 +57,7 @@
   "plantilla": "lombaire",
   "lote": "A",
   "title": "Physio à Sugiez et Vully – domicile ou Ins | Physio Activa",
-  "meta": "Physio dans le Vully, à Sugiez et alentour : au cabinet d'Ins ou à domicile, remboursé sur ordonnance (LAMal, LAA). Réservez en ligne ou par WhatsApp.",
+  "meta": "Physio dans le Vully, à Sugiez et alentour : au cabinet d'Ins ou à domicile, reconnu par toutes les assurances. Réservez en ligne ou par WhatsApp.",
   "h1": "Physio à Sugiez et dans le Vully : au cabinet d'Ins ou à domicile",
   "tipo": "zona",
   "componentes": [
@@ -67,13 +67,13 @@
    "grid",
    "grid",
    "texte",
-   "grid",
+   "texte",
    "villes",
    "faq",
    "cta",
    "map"
   ],
-  "a_confirmer": 11
+  "a_confirmer": 8
  },
  {
   "slug": "physio-a-neuchatel",
@@ -81,7 +81,7 @@
   "plantilla": "lombaire",
   "lote": "A",
   "title": "Physio à Neuchâtel – à domicile ou à Ins | Physio Activa",
-  "meta": "Physio à Neuchâtel : physiothérapie à domicile ou au cabinet d'Ins, drainage lymphatique, remboursement sur ordonnance (LAMal, LAA). Réservez en ligne.",
+  "meta": "Physio à Neuchâtel : physiothérapie à domicile ou au cabinet d'Ins, drainage lymphatique, cabinet reconnu par toutes les assurances. Réservez en ligne.",
   "h1": "Physio à Neuchâtel : au cabinet d'Ins ou à domicile",
   "tipo": "zona",
   "componentes": [
@@ -91,13 +91,13 @@
    "grid",
    "grid",
    "texte",
-   "grid",
+   "texte",
    "villes",
    "faq",
    "cta",
    "map"
   ],
-  "a_confirmer": 9
+  "a_confirmer": 6
  },
  {
   "slug": "physio-a-la-neuveville",
@@ -105,7 +105,7 @@
   "plantilla": "lombaire",
   "lote": "A",
   "title": "Physio à La Neuveville – domicile ou Ins | Physio Activa",
-  "meta": "Physio pour La Neuveville et le Plateau de Diesse : séances à domicile ou au cabinet d'Ins, remboursées sur ordonnance. Rendez-vous en ligne ou WhatsApp.",
+  "meta": "Physio pour La Neuveville et le Plateau de Diesse : séances à domicile ou au cabinet d'Ins, reconnu par toutes les assurances. Rendez-vous en ligne.",
   "h1": "Physio à La Neuveville : au cabinet d'Ins ou à domicile",
   "tipo": "zona",
   "componentes": [
@@ -115,13 +115,13 @@
    "grid",
    "grid",
    "texte",
-   "grid",
+   "texte",
    "villes",
    "faq",
    "cta",
    "map"
   ],
-  "a_confirmer": 7
+  "a_confirmer": 4
  },
  {
   "slug": "physio-a-avenches",
@@ -129,7 +129,7 @@
   "plantilla": "lombaire",
   "lote": "A",
   "title": "Physiothérapie à Avenches – domicile ou Ins | Physio Activa",
-  "meta": "Physiothérapie à Avenches et dans la Broye-Vully : à domicile ou au cabinet d'Ins, remboursée sur ordonnance (LAMal, LAA). Prenez rendez-vous en ligne.",
+  "meta": "Physiothérapie à Avenches et dans la Broye-Vully : à domicile ou au cabinet d'Ins, reconnu par toutes les assurances. Prenez rendez-vous en ligne.",
   "h1": "Physiothérapie à Avenches : au cabinet d'Ins ou à domicile",
   "tipo": "zona",
   "componentes": [
@@ -139,13 +139,13 @@
    "grid",
    "grid",
    "texte",
-   "grid",
+   "texte",
    "villes",
    "faq",
    "cta",
    "map"
   ],
-  "a_confirmer": 9
+  "a_confirmer": 6
  },
  {
   "slug": "physio-a-lyss",
@@ -153,7 +153,7 @@
   "plantilla": "lombaire",
   "lote": "A",
   "title": "Physio à Lyss – à domicile ou à Ins | Physio Activa",
-  "meta": "Physio à Lyss : séances en français au cabinet d'Ins ou à domicile, remboursées sur prescription (LAMal, LAA, AI, AM). Réservez en ligne.",
+  "meta": "Physio à Lyss : séances en français au cabinet d'Ins ou à domicile, reconnu par toutes les assurances, jusqu'à 20h en semaine. Réservez en ligne.",
   "h1": "Physio à Lyss : au cabinet d'Ins ou à domicile",
   "tipo": "zona",
   "componentes": [
@@ -163,13 +163,13 @@
    "grid",
    "grid",
    "texte",
-   "grid",
+   "texte",
    "villes",
    "faq",
    "cta",
    "map"
   ],
-  "a_confirmer": 11
+  "a_confirmer": 8
  },
  {
   "slug": "physio-a-bienne",
@@ -177,7 +177,7 @@
   "plantilla": "lombaire",
   "lote": "A",
   "title": "Physio à Bienne (Biel) – à domicile ou à Ins | Physio Activa",
-  "meta": "Physiothérapeute pour Bienne (Biel) et environs : cabinet à Ins ou séances à domicile, remboursées sur ordonnance. Réservez en ligne ou par WhatsApp.",
+  "meta": "Physiothérapeute pour Bienne (Biel) et environs : cabinet à Ins ou séances à domicile, reconnu par toutes les assurances. Réservez en ligne ou WhatsApp.",
   "h1": "Physio à Bienne (Biel) : au cabinet d'Ins ou à domicile",
   "tipo": "zona",
   "componentes": [
@@ -187,13 +187,13 @@
    "grid",
    "grid",
    "texte",
-   "grid",
+   "texte",
    "villes",
    "faq",
    "cta",
    "map"
   ],
-  "a_confirmer": 11
+  "a_confirmer": 8
  },
  {
   "slug": "physio-a-fribourg",
@@ -201,7 +201,7 @@
   "plantilla": "lombaire",
   "lote": "A",
   "title": "Physiothérapie à Fribourg – domicile ou Ins | Physio Activa",
-  "meta": "Physiothérapie à Fribourg : physio à domicile ou au cabinet d'Ins, drainage lymphatique, remboursée sur ordonnance (LAMal, LAA, AI). Réservez en ligne.",
+  "meta": "Physiothérapie à Fribourg : physio à domicile ou au cabinet d'Ins, drainage lymphatique, cabinet reconnu par toutes les assurances. Réservez en ligne.",
   "h1": "Physiothérapie à Fribourg : au cabinet d'Ins ou à domicile",
   "tipo": "zona",
   "componentes": [
@@ -211,13 +211,13 @@
    "grid",
    "grid",
    "texte",
-   "grid",
+   "texte",
    "villes",
    "faq",
    "cta",
    "map"
   ],
-  "a_confirmer": 10
+  "a_confirmer": 9
  },
  {
   "slug": "physio-a-payerne",
@@ -225,7 +225,7 @@
   "plantilla": "lombaire",
   "lote": "A",
   "title": "Physio à Payerne – à domicile ou à Ins | Physio Activa",
-  "meta": "Physio à Payerne et dans la Broye : à domicile ou au cabinet d'Ins, séances remboursées sur prescription médicale. Réservez votre rendez-vous en ligne.",
+  "meta": "Physio à Payerne et dans la Broye : à domicile ou au cabinet d'Ins, ouvert du lundi au vendredi jusqu'à 20h. Réservez votre rendez-vous en ligne.",
   "h1": "Physio à Payerne : au cabinet d'Ins ou à domicile",
   "tipo": "zona",
   "componentes": [
@@ -235,13 +235,13 @@
    "grid",
    "grid",
    "texte",
-   "grid",
+   "texte",
    "villes",
    "faq",
    "cta",
    "map"
   ],
-  "a_confirmer": 13
+  "a_confirmer": 8
  },
  {
   "slug": "physio-a-morat",
@@ -249,7 +249,7 @@
   "plantilla": "lombaire",
   "lote": "B",
   "title": "Physio à Morat (Murten) – domicile ou Ins | Physio Activa",
-  "meta": "Physio à Morat (Murten) : séances en français au cabinet d'Ins, à 8,7 km, ou à domicile. Remboursé sur ordonnance. Réservez en ligne.",
+  "meta": "Physio à Morat (Murten) : séances en français au cabinet d'Ins, à 8,7 km, ou à domicile. Ouvert en semaine jusqu'à 20h. Réservez en ligne.",
   "h1": "Physio à Morat (Murten) : au cabinet d'Ins ou à domicile",
   "tipo": "zona",
   "componentes": [
@@ -259,13 +259,13 @@
    "grid",
    "grid",
    "texte",
-   "grid",
+   "texte",
    "villes",
    "faq",
    "cta",
    "map"
   ],
-  "a_confirmer": 14
+  "a_confirmer": 9
  },
  {
   "slug": "physio-a-chietres",
@@ -273,7 +273,7 @@
   "plantilla": "lombaire",
   "lote": "B",
   "title": "Physio à Chiètres (Kerzers) – domicile ou Ins",
-  "meta": "Physio à Chiètres (Kerzers) : cabinet à Ins, à 7,6 km, ou séances à domicile, en français. Remboursé sur prescription. Réservez en ligne.",
+  "meta": "Physio à Chiètres (Kerzers) : cabinet à Ins, à 7,6 km, ou séances à domicile, en français. Ouvert jusqu'à 20h en semaine. Réservez en ligne.",
   "h1": "Physio à Chiètres (Kerzers) : au cabinet d'Ins ou à domicile",
   "tipo": "zona",
   "componentes": [
@@ -283,13 +283,13 @@
    "grid",
    "grid",
    "texte",
-   "grid",
+   "texte",
    "villes",
    "faq",
    "cta",
    "map"
   ],
-  "a_confirmer": 13
+  "a_confirmer": 10
  },
  {
   "slug": "physio-a-estavayer",
@@ -297,7 +297,7 @@
   "plantilla": "lombaire",
   "lote": "B",
   "title": "Physio à Estavayer-le-Lac – domicile ou Ins",
-  "meta": "Physio à Estavayer-le-Lac : cabinet à Ins (26,4 km) ou séances à domicile selon disponibilité. Remboursé sur ordonnance. Réservez en ligne.",
+  "meta": "Physio à Estavayer-le-Lac : cabinet à Ins (26,4 km) ou séances à domicile selon disponibilité. Ouvert jusqu'à 20h en semaine. Réservez en ligne.",
   "h1": "Physio à Estavayer-le-Lac : au cabinet d'Ins ou à domicile",
   "tipo": "zona",
   "componentes": [
@@ -307,13 +307,13 @@
    "grid",
    "grid",
    "texte",
-   "grid",
+   "texte",
    "villes",
    "faq",
    "cta",
    "map"
   ],
-  "a_confirmer": 15
+  "a_confirmer": 10
  },
  {
   "slug": "physio-a-yvonand",
@@ -321,7 +321,7 @@
   "plantilla": "lombaire",
   "lote": "B",
   "title": "Physio à Yvonand – à domicile ou à Ins | Physio Activa",
-  "meta": "Physio à Yvonand (VD) : rééducation au cabinet d'Ins ou à domicile selon disponibilité. Remboursée sur prescription LAMal. Réservez en ligne.",
+  "meta": "Physio à Yvonand (VD) : rééducation au cabinet d'Ins ou à domicile selon disponibilité. Ouvert du lundi au vendredi jusqu'à 20h. Réservez en ligne.",
   "h1": "Physio à Yvonand : au cabinet d'Ins ou à domicile",
   "tipo": "zona",
   "componentes": [
@@ -331,13 +331,13 @@
    "grid",
    "grid",
    "texte",
-   "grid",
+   "texte",
    "villes",
    "faq",
    "cta",
    "map"
   ],
-  "a_confirmer": 10
+  "a_confirmer": 7
  },
  {
   "slug": "physio-a-yverdon",
@@ -345,7 +345,7 @@
   "plantilla": "lombaire",
   "lote": "B",
   "title": "Physio à Yverdon – à domicile ou à Ins | Physio Activa",
-  "meta": "Physio à Yverdon : pas de cabinet sur place, nous recevons à Ins (43,5 km) ; domicile à confirmer. Remboursé sur ordonnance LAMal, LAA. Contactez-nous.",
+  "meta": "Physio à Yverdon : pas de cabinet sur place, nous recevons à Ins (43,5 km) ; domicile à confirmer. Ouvert jusqu'à 20h en semaine. Contactez-nous.",
   "h1": "Physio à Yverdon-les-Bains : au cabinet d'Ins ou à domicile",
   "tipo": "zona",
   "componentes": [
@@ -355,13 +355,13 @@
    "grid",
    "grid",
    "texte",
-   "grid",
+   "texte",
    "villes",
    "faq",
    "cta",
    "map"
   ],
-  "a_confirmer": 10
+  "a_confirmer": 9
  },
  {
   "slug": "physio-a-lausanne",
@@ -369,7 +369,7 @@
   "plantilla": "lombaire",
   "lote": "B",
   "title": "Physio à Lausanne – à domicile ou à Ins | Physio Activa",
-  "meta": "Physio à Lausanne ? Notre physiothérapeute vous reçoit à Ins, à 65 km ; domicile à confirmer. Remboursé sur ordonnance LAMal, LAA. Appelez-nous.",
+  "meta": "Physio à Lausanne ? Notre physiothérapeute vous reçoit à Ins, à 65 km, du lundi au vendredi jusqu'à 20h ; domicile à confirmer. Appelez-nous.",
   "h1": "Physio à Lausanne : au cabinet d'Ins ou à domicile",
   "tipo": "zona",
   "componentes": [
@@ -379,13 +379,13 @@
    "grid",
    "grid",
    "texte",
-   "grid",
+   "texte",
    "villes",
    "faq",
    "cta",
    "map"
   ],
-  "a_confirmer": 12
+  "a_confirmer": 8
  },
  {
   "slug": "pour-les-patients",
@@ -439,7 +439,7 @@
   "plantilla": "lombaire",
   "lote": "C",
   "title": "Cervicalgie : physio à Ins et à domicile | Physio Activa",
-  "meta": "Cervicalgie, douleur de nuque, torticolis ou coup du lapin ? Physiothérapie à Ins et à domicile dans le Seeland, sur ordonnance. Prenez rendez-vous.",
+  "meta": "Cervicalgie, douleur de nuque, torticolis ou coup du lapin ? Physiothérapie à Ins et à domicile dans le Seeland. Prenez rendez-vous.",
   "h1": "Cervicalgie et douleur cervicale : physio à Ins",
   "tipo": "patologia",
   "componentes": [
@@ -464,7 +464,7 @@
   "plantilla": "lombaire",
   "lote": "C",
   "title": "Coiffe des rotateurs : physio à Ins | Physio Activa",
-  "meta": "Coiffe des rotateurs, tendinite ou épaule gelée ? Physiothérapie à Ins et à domicile dans le Seeland, sur ordonnance. Prenez rendez-vous.",
+  "meta": "Coiffe des rotateurs, tendinite ou épaule gelée ? Physiothérapie de l'épaule à Ins et à domicile dans le Seeland. Prenez rendez-vous.",
   "h1": "Coiffe des rotateurs et douleur à l'épaule : physio à Ins",
   "tipo": "patologia",
   "componentes": [
@@ -585,7 +585,7 @@
    "cta",
    "map"
   ],
-  "a_confirmer": 2
+  "a_confirmer": 1
  },
  {
   "slug": "reservation-en-ligne",
@@ -601,13 +601,13 @@
    "grid",
    "steps",
    "texte",
-   "grid",
+   "texte",
    "texte",
    "villes",
    "faq",
    "cta",
    "map"
   ],
-  "a_confirmer": 5
+  "a_confirmer": 2
  }
 ]

@@ -3,12 +3,10 @@
 - Lote: A · Plantilla: lombaire · Validación: OK
 - Indexación: index, follow
 
-## Marcadores [À CONFIRMER] (6)
+## Marcadores [À CONFIRMER] (4)
 
 - [À CONFIRMER : déplacements à Avenches] — «Selon votre situation, les séances de physio ont lieu au cabinet ou à votre domicile [À CONFIRMER : déplacements à Avenches].»
 - [À CONFIRMER : domicile dans la Broye-Vully] — «Au cabinet pour profiter du matériel d'entraînement, chez vous pendant une convalescence difficile [À CONFIRMER : domicile dans la Broye-Vully].»
-- [À CONFIRMER : tarif appliqué] — «Les séances suivent la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué].»
-- [À CONFIRMER : tarif appliqué] — «Il n'y a pas de prix fixé librement par chaque cabinet : la physiothérapie prescrite est facturée selon une structure tarifaire nationale négociée avec les assureurs [À CONFIRMER : tarif appliqué].»
 - [À CONFIRMER : villages desservis et jours de passage] — «Ces villages entourent la commune, tout comme Donatyre et Oleyres, mais nous devons encore confirmer s'ils font partie de notre zone à domicile [À CONFIRMER : villages desservis et jours de passage].»
 - [À CONFIRMER : MTT proposée au cabinet] — «Nous disposons du matériel d'InsGym [À CONFIRMER : MTT proposée au cabinet].»
 
@@ -30,8 +28,8 @@
 | Qué es / cuándo consultar (+ señales de alarma) | sí |  |
 | Tipos según el caso (H2 + H3 por subtipo) | sí |  |
 | Proceso en pasos (H2 + H3) + CTA intermedio | sí |  |
-| Reembolso y coste | sí |  |
-| FAQ (8-10) | sí | 9 preguntas |
+| Reembolso y coste | no | omitida |
+| FAQ (8-10) | sí | 10 preguntas |
 | CTA final en pregunta con la ciudad | sí |  |
 
-- receta: ciudad en 4 H2 · FAQ 9 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1270
+- receta: ciudad en 4 H2 · FAQ 10 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1264

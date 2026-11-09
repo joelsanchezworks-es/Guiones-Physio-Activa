@@ -3,11 +3,11 @@
   "tipo": "hero",
   "eyebrow": "Physio · Chiètres (Kerzers)",
   "h1": "Physio à Chiètres (Kerzers) : au cabinet d'Ins ou à domicile",
-  "sub": "Depuis Chiètres, le cabinet Physio Activa d'Ins n'est qu'à environ 7,6 km en ligne droite. Nous vous recevons au cabinet et pouvons aussi venir chez vous [À CONFIRMER : visites à domicile à Chiètres]. Avec une ordonnance, vos séances sont remboursées ; prenez rendez-vous en ligne, au 076 627 38 38 ou par WhatsApp.",
+  "sub": "Depuis Chiètres, le cabinet Physio Activa d'Ins n'est qu'à environ 7,6 km en ligne droite. Nous vous recevons au cabinet et pouvons aussi venir chez vous [À CONFIRMER : visites à domicile à Chiètres]. Le cabinet est reconnu par toutes les assurances maladie en Suisse ; prenez rendez-vous en ligne, au 076 627 38 38 ou par WhatsApp.",
   "pills": [
    "Cabinet à Ins, à 7,6 km",
-   "Sur prescription médicale",
-   "LAMal · LAA · AI · AM"
+   "Reconnu par toutes les assurances",
+   "Ouvert jusqu'à 20h"
   ],
   "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00031.jpg",
   "alt": "Physiothérapeute mobilisant la jambe d'un patient au cabinet d'Ins",
@@ -22,8 +22,8 @@
   "bg": null,
   "cards": [
    {
-    "h3": "Sur prescription, remboursé LAMal / LAA",
-    "html": "<p>Il suffit d'une ordonnance de votre médecin : maladie, l'assurance de base paie ; accident, c'est l'assureur LAA de votre employeur ou le vôtre.</p>",
+    "h3": "Reconnu par toutes les assurances",
+    "html": "<p>Quelle que soit votre caisse maladie, notre cabinet est reconnu par toutes les assurances maladie en Suisse.</p>",
     "icon": "fa-file-medical"
    },
    {
@@ -49,7 +49,7 @@
   "h2": "Quand consulter un physio, et quand voir d'abord un médecin ?",
   "lead": [],
   "bg": "trust",
-  "html": "<p>Les motifs les plus courants sont très concrets : un blocage lombaire après avoir soulevé une charge, une douleur qui descend dans la fesse et la jambe, une nuque raide après des heures d'écran, un talon douloureux aux premiers pas du matin, une cheville qui reste instable après une entorse.</p><p style=\"margin-top:12px\">Le médecin reste la première étape, puisque c'est lui qui prescrit. Ne tardez pas à le consulter, ou à appeler le 144 en cas d'urgence, si vous constatez :\n- une perte de sensibilité entre les cuisses ou des difficultés à contrôler la vessie ;\n- une jambe qui s'affaiblit de jour en jour ;\n- une douleur après un accident, avec suspicion de fracture ;\n- de la fièvre, un amaigrissement inexpliqué ou une douleur qui ne se calme ni au repos ni la nuit.</p>"
+  "html": "<p>Les motifs les plus courants sont très concrets : un blocage lombaire après avoir soulevé une charge, une douleur qui descend dans la fesse et la jambe, une nuque raide après des heures d'écran, un talon douloureux aux premiers pas du matin, une cheville qui reste instable après une entorse.</p><p style=\"margin-top:12px\">Ne tardez pas à consulter un médecin, ou à appeler le 144 en cas d'urgence, si vous constatez :\n- une perte de sensibilité entre les cuisses ou des difficultés à contrôler la vessie ;\n- une jambe qui s'affaiblit de jour en jour ;\n- une douleur après un accident, avec suspicion de fracture ;\n- de la fièvre, un amaigrissement inexpliqué ou une douleur qui ne se calme ni au repos ni la nuit.</p>"
  },
  {
   "tipo": "grid",
@@ -70,7 +70,7 @@
    },
    {
     "h3": "Après une opération ou une hospitalisation",
-    "html": "<p>Opéré du dos ou d'une articulation, ou de retour d'un séjour à l'HFR Meyriez-Murten, l'hôpital de la région ? L'ordonnance de sortie suffit pour démarrer : nous reprenons les consignes reçues et adaptons la charge pas à pas.</p>",
+    "html": "<p>Opéré du dos ou d'une articulation, ou de retour d'un séjour à l'HFR Meyriez-Murten, l'hôpital de la région ? Nous reprenons les consignes reçues à la sortie et adaptons la charge pas à pas.</p>",
     "icon": "fa-hospital"
    },
    {
@@ -88,9 +88,9 @@
   "bg": "trust",
   "cards": [
    {
-    "h3": "Ordonnance",
-    "html": "<p>Demandez à votre médecin une prescription de physiothérapie. Envoyez-nous une photo par WhatsApp : nous vérifions qu'elle est complète avant votre venue.</p>",
-    "icon": "fa-file-medical"
+    "h3": "Prise de rendez-vous",
+    "html": "<p>Réservez à toute heure en ligne ou envoyez-nous un message WhatsApp en décrivant brièvement votre problème : nous vous proposons le créneau le plus adapté, en fin de journée si besoin.</p>",
+    "icon": "fa-calendar-check"
    },
    {
     "h3": "Bilan",
@@ -119,28 +119,12 @@
   "html": "<p>Avec environ 7,6 km en ligne droite, Ins est tout proche de Chiètres. Accès et stationnement : voir <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Chiètres est une commune germanophone du district du Lac. Chez Physio Activa, les séances se déroulent en français ou en espagnol : une solution pratique pour les familles francophones ou hispanophones installées à Kerzers et dans les villages voisins [À CONFIRMER : séances possibles en allemand ?].</p>"
  },
  {
-  "tipo": "grid",
-  "eyebrow": "Remboursement",
-  "h2": "Remboursement et coût de la physio à Chiètres",
+  "tipo": "texte",
+  "eyebrow": "Assurances",
+  "h2": "Assurances et horaires : physio à Chiètres",
   "lead": [],
   "bg": "trust",
-  "cards": [
-   {
-    "h3": "Assurance de base (LAMal)",
-    "html": "<p>La physiothérapie prescrite fait partie des prestations de l'assurance obligatoire des soins. Votre caisse maladie rembourse, même si vous habitez le canton de Fribourg et que le cabinet est bernois.</p>",
-    "icon": "fa-file-medical"
-   },
-   {
-    "h3": "Accident, AI et AM",
-    "html": "<p>Accident de travail, de loisirs ou de la route : l'assurance accidents (LAA) couvre la physiothérapie prescrite. L'AI et l'assurance militaire (AM) la prennent aussi en charge dans leur domaine.</p>",
-    "icon": "fa-stethoscope"
-   },
-   {
-    "h3": "Ce qui détermine ce que vous payez",
-    "html": "<p>En LAMal, votre part dépend de la franchise choisie et de la quote-part. La facturation suit la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué].</p>",
-    "icon": "fa-heart-pulse"
-   }
-  ]
+  "html": "<p>Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence, Fribourg compris. Ouvert du lundi au vendredi, jusqu'à 20h : à quelques kilomètres de Kerzers, une séance en fin de journée se cale facilement. Rendez-vous en ligne, par téléphone ou par WhatsApp.</p>"
  },
  {
   "tipo": "villes",
@@ -178,6 +162,21 @@
   "h2": "Questions fréquentes sur la physio à Chiètres",
   "faq": [
    {
+    "q": "Quand dois-je consulter un physiothérapeute pour une douleur ?",
+    "a_html": "Dès qu'un blocage, une raideur ou une douleur qui irradie persiste plus d'une semaine, limite vos gestes ou vous réveille la nuit. Une prise en charge précoce évite souvent que la gêne s'installe. En cas de perte de force ou de troubles urinaires, voyez d'abord un médecin.",
+    "a_text": "Dès qu'un blocage, une raideur ou une douleur qui irradie persiste plus d'une semaine, limite vos gestes ou vous réveille la nuit. Une prise en charge précoce évite souvent que la gêne s'installe. En cas de perte de force ou de troubles urinaires, voyez d'abord un médecin."
+   },
+   {
+    "q": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+    "a_html": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.",
+    "a_text": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
+   },
+   {
+    "q": "Combien de séances me faut-il ?",
+    "a_html": "La durée du traitement varie selon votre situation : un blocage lombaire récent ne se traite pas comme une sciatique ancienne. Lors de la première visite, nous établissons une estimation adaptée à votre cas.",
+    "a_text": "La durée du traitement varie selon votre situation : un blocage lombaire récent ne se traite pas comme une sciatique ancienne. Lors de la première visite, nous établissons une estimation adaptée à votre cas."
+   },
+   {
     "q": "Le cabinet reçoit-il les patients qui parlent surtout allemand ?",
     "a_html": "Les séances ont lieu en français ou en espagnol [À CONFIRMER : prise en charge en allemand]. Pour les francophones d'une commune germanophone, c'est souvent la raison de venir à Ins : chaque consigne est comprise du premier coup.",
     "a_text": "Les séances ont lieu en français ou en espagnol [À CONFIRMER : prise en charge en allemand]. Pour les francophones d'une commune germanophone, c'est souvent la raison de venir à Ins : chaque consigne est comprise du premier coup."
@@ -193,11 +192,6 @@
     "a_text": "Le MTT, ou entraînement thérapeutique médical, désigne un entraînement sur appareils encadré par un physiothérapeute, pour reconstruire force et endurance après une blessure. Physio Activa le propose à Ins, dans les locaux de l'InsGym ; voir notre page MTT et fitness médical ."
    },
    {
-    "q": "Quel est le rôle d'un physiothérapeute ?",
-    "a_html": "Évaluer le mouvement, traiter la douleur par des techniques manuelles et des exercices, puis vous rendre autonome.",
-    "a_text": "Évaluer le mouvement, traiter la douleur par des techniques manuelles et des exercices, puis vous rendre autonome."
-   },
-   {
     "q": "C'est quoi une séance de physiothérapie ?",
     "a_html": "Un rendez-vous individuel où l'on alterne traitement et exercices actifs. Vous repartez à chaque fois avec un ou deux exercices à refaire chez vous.",
     "a_text": "Un rendez-vous individuel où l'on alterne traitement et exercices actifs. Vous repartez à chaque fois avec un ou deux exercices à refaire chez vous."
@@ -209,13 +203,8 @@
    },
    {
     "q": "Ma sciatique m'empêche de conduire : pouvez-vous venir chez moi ?",
-    "a_html": "C'est précisément le cas où le domicile est utile [À CONFIRMER : déplacements à Chiètres et délai pour un premier rendez-vous]. Il faut une ordonnance mentionnant la physiothérapie.",
-    "a_text": "C'est précisément le cas où le domicile est utile [À CONFIRMER : déplacements à Chiètres et délai pour un premier rendez-vous]. Il faut une ordonnance mentionnant la physiothérapie."
-   },
-   {
-    "q": "Quel est le tarif d'une séance de physiothérapie en Suisse ?",
-    "a_html": "Le prix découle de la structure tarifaire nationale convenue avec les assureurs, pas d'un choix du cabinet. Avec une ordonnance, l'assurance paie et vous réglez seulement franchise et quote-part [À CONFIRMER : tarif appliqué].",
-    "a_text": "Le prix découle de la structure tarifaire nationale convenue avec les assureurs, pas d'un choix du cabinet. Avec une ordonnance, l'assurance paie et vous réglez seulement franchise et quote-part [À CONFIRMER : tarif appliqué]."
+    "a_html": "C'est précisément le cas où le domicile est utile [À CONFIRMER : déplacements à Chiètres et délai pour un premier rendez-vous].",
+    "a_text": "C'est précisément le cas où le domicile est utile [À CONFIRMER : déplacements à Chiètres et délai pour un premier rendez-vous]."
    },
    {
     "q": "Couvrez-vous Fräschels, Agriswil et Galmiz ?",
@@ -227,7 +216,7 @@
  {
   "tipo": "cta",
   "h2": "Besoin d'un physio à Chiètres ou dans les environs ?",
-  "s1": "Le plus simple est de <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réserver en ligne</a>. Vous pouvez aussi appeler le 076 627 38 38 ou envoyer votre ordonnance par WhatsApp au +41 76 627 38 38.",
+  "s1": "Le plus simple est de <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réserver en ligne</a>. Vous pouvez aussi appeler le 076 627 38 38 ou écrire sur WhatsApp au +41 76 627 38 38.",
   "s2": null
  },
  {

@@ -3,11 +3,11 @@
   "tipo": "hero",
   "eyebrow": "Physiothérapie à Ins · cabinet et domicile",
   "h1": "Fasciite plantaire et douleur du pied : physio à Ins",
-  "sub": "La fasciite plantaire est l'une des causes les plus fréquentes de douleur au talon, surtout aux premiers pas du matin. La physiothérapie peut aider à diminuer la douleur et à mieux tolérer la marche grâce à des exercices adaptés, des conseils de charge et, selon l'indication, des techniques comme les ondes de choc. Chez Physio Activa, nous traitons aussi la périostite tibiale, l'entorse de la cheville et la tendinite d'Achille, au cabinet à Ins ou à domicile, sur prescription médicale.",
+  "sub": "La fasciite plantaire est l'une des causes les plus fréquentes de douleur au talon, surtout aux premiers pas du matin. La physiothérapie peut aider à diminuer la douleur et à mieux tolérer la marche grâce à des exercices adaptés, des conseils de charge et, selon l'indication, des techniques comme les ondes de choc. Chez Physio Activa, nous traitons aussi la périostite tibiale, l'entorse de la cheville et la tendinite d'Achille, au cabinet à Ins ou à domicile.",
   "pills": [
-   "Sur prescription médicale",
+   "Reconnu par toutes les assurances",
    "Au cabinet d'Ins ou à domicile",
-   "Remboursé LAMal / LAA"
+   "Ouvert jusqu'à 20h"
   ],
   "img": "https://physioactiva.ch/wp-content/uploads/2025/06/Centerbild_IMG_9184-scaled-1.jpg",
   "alt": "Espace d'entraînement pour la rééducation du pied et de la cheville",
@@ -22,9 +22,9 @@
   "bg": "trust",
   "cards": [
    {
-    "h3": "Sur prescription, remboursé LAMal / LAA",
-    "html": "<p>Avec une ordonnance médicale, les séances sont prises en charge par la LAMal, la LAA, l&#x27;AI ou l&#x27;AM.</p>",
-    "icon": "fa-file-medical"
+    "h3": "Reconnu par toutes les assurances",
+    "html": "<p>Notre cabinet est reconnu par toutes les compagnies d&#x27;assurance maladie en Suisse, quel que soit votre canton de résidence.</p>",
+    "icon": "fa-shield-heart"
    },
    {
     "h3": "Au cabinet ou à domicile",
@@ -38,7 +38,7 @@
    },
    {
     "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
-    "html": "<p>Réservation sur OneDoc, au 076 627 38 38 ou par WhatsApp au +41 76 627 38 38.</p>",
+    "html": "<p>Réservation sur OneDoc, au 076 627 38 38 ou par WhatsApp, du lundi au vendredi jusqu&#x27;à 20h.</p>",
     "icon": "fa-calendar-check"
    }
   ]
@@ -190,15 +190,15 @@
   "eyebrow": "Vos séances",
   "h2": "Déroulement des séances",
   "lead": [
-   "La première séance commence par un entretien : quand la douleur est apparue, vos activités, vos chaussures, vos attentes. Suit un examen du pied, de la cheville et de la marche, puis nous fixons des objectifs avec vous et vous recevez un programme d'exercices pour la maison. Le nombre de séances dépend de votre situation et de l'ordonnance ; il est réévalué en cours de traitement."
+   "La première séance commence par un entretien : quand la douleur est apparue, vos activités, vos chaussures, vos attentes. Suit un examen du pied, de la cheville et de la marche, puis nous fixons des objectifs avec vous et vous recevez un programme d'exercices pour la maison. Le nombre de séances dépend de votre situation ; il est réévalué en cours de traitement."
   ],
   "bg": null,
   "cta_mid": true,
   "cards": [
    {
-    "h3": "Ordonnance",
-    "html": "<p>Votre médecin prescrit la physiothérapie ; apportez l&#x27;ordonnance et votre carte d&#x27;assuré à la première séance.</p>",
-    "icon": "fa-file-medical"
+    "h3": "Prise de rendez-vous",
+    "html": "<p>Vous réservez en ligne, par téléphone ou par WhatsApp, au cabinet d&#x27;Ins ou à domicile.</p>",
+    "icon": "fa-calendar-check"
    },
    {
     "h3": "Bilan",
@@ -207,7 +207,7 @@
    },
    {
     "h3": "Séances au cabinet ou à domicile",
-    "html": "<p>Le traitement se déroule au cabinet d&#x27;Ins ou chez vous, selon votre situation et la prescription.</p>",
+    "html": "<p>Le traitement se déroule au cabinet d&#x27;Ins ou chez vous, selon votre situation.</p>",
     "icon": "fa-house-medical"
    },
    {
@@ -227,11 +227,11 @@
  },
  {
   "tipo": "texte",
-  "eyebrow": "Remboursement",
-  "h2": "Remboursement et coût de la physio à Ins",
+  "eyebrow": "Assurances",
+  "h2": "Assurances et horaires",
   "lead": [],
   "bg": null,
-  "html": "<p>La physiothérapie est remboursée par l'assurance de base (LAMal), par l'assurance accident (LAA) en cas d'entorse ou d'autre accident, ainsi que par l'AI et l'AM, <strong>avec une prescription médicale</strong> de votre médecin.</p>"
+  "html": "<p>Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Nous vous recevons du lundi au vendredi, jusqu'à 20h : prenez rendez-vous <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">en ligne</a>, par téléphone au <strong>076 627 38 38</strong> ou sur <strong>WhatsApp au +41 76 627 38 38</strong>.</p>"
  },
  {
   "tipo": "villes",
@@ -285,6 +285,21 @@
   "h2": "Questions fréquentes sur le pied et la cheville et la physio à Ins",
   "faq": [
    {
+    "q": "Quand dois-je consulter un physiothérapeute pour une douleur au pied ou au talon ?",
+    "a_html": "Si la douleur au pied, au talon ou à la cheville dure plus d'une semaine, gêne la marche ou le sport, est forte aux premiers pas du matin ou revient régulièrement, un bilan en physiothérapie est utile. Plus on la traite tôt, plus la prise en charge est simple. Si vous ne pouvez plus poser le pied après une torsion, consultez d'abord un médecin.",
+    "a_text": "Si la douleur au pied, au talon ou à la cheville dure plus d'une semaine, gêne la marche ou le sport, est forte aux premiers pas du matin ou revient régulièrement, un bilan en physiothérapie est utile. Plus on la traite tôt, plus la prise en charge est simple. Si vous ne pouvez plus poser le pied après une torsion, consultez d'abord un médecin."
+   },
+   {
+    "q": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+    "a_html": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.",
+    "a_text": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
+   },
+   {
+    "q": "Combien de séances me faut-il pour une fasciite plantaire ?",
+    "a_html": "La durée du traitement varie selon votre situation : ancienneté des symptômes, charge quotidienne, activités et évolution au fil des séances. Lors de la première visite, nous établissons une estimation adaptée à votre cas.",
+    "a_text": "La durée du traitement varie selon votre situation : ancienneté des symptômes, charge quotidienne, activités et évolution au fil des séances. Lors de la première visite, nous établissons une estimation adaptée à votre cas."
+   },
+   {
     "q": "Quelle est la cause de la douleur au talon ?",
     "a_html": "La cause la plus fréquente est la fasciite plantaire, mais une douleur au talon peut aussi venir du tendon d'Achille, d'un nerf ou d'une fracture de fatigue. Un examen permet d'orienter le traitement.",
     "a_text": "La cause la plus fréquente est la fasciite plantaire, mais une douleur au talon peut aussi venir du tendon d'Achille, d'un nerf ou d'une fracture de fatigue. Un examen permet d'orienter le traitement."
@@ -308,11 +323,6 @@
     "q": "Est-ce bon de masser une périostite ?",
     "a_html": "Un massage des muscles du mollet peut soulager temporairement certaines personnes. Il ne remplace pas l'adaptation de l'entraînement et le renforcement, qui restent la base de la rééducation.",
     "a_text": "Un massage des muscles du mollet peut soulager temporairement certaines personnes. Il ne remplace pas l'adaptation de l'entraînement et le renforcement, qui restent la base de la rééducation."
-   },
-   {
-    "q": "Les remèdes de grand-mère soulagent-ils la douleur au talon ?",
-    "a_html": "Rouler une balle ou une bouteille froide sous le pied peut apporter un soulagement passager. Si la douleur persiste plusieurs semaines, mieux vaut demander un avis médical.",
-    "a_text": "Rouler une balle ou une bouteille froide sous le pied peut apporter un soulagement passager. Si la douleur persiste plusieurs semaines, mieux vaut demander un avis médical."
    },
    {
     "q": "Les ondes de choc sont-elles indiquées pour la fasciite plantaire ?",

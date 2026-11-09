@@ -3,7 +3,7 @@
 - Lote: A · Plantilla: lombaire · Validación: OK
 - Indexación: index, follow
 
-## Marcadores [À CONFIRMER] (11)
+## Marcadores [À CONFIRMER] (9)
 
 - [À CONFIRMER : titre et formation] — «[À CONFIRMER : titre et formation]»
 - [À CONFIRMER : titre, formation et numéro d'enregistrement NAREG / RCC] — «Francisco est physiothérapeute [À CONFIRMER : titre, formation et numéro d'enregistrement NAREG / RCC].»
@@ -12,9 +12,7 @@
 - [À CONFIRMER : titre, formation et numéro d'enregistrement NAREG / RCC] — «Lucile est physiothérapeute [À CONFIRMER : titre, formation et numéro d'enregistrement NAREG / RCC].»
 - [À CONFIRMER] — «Elle parle français et espagnol, ainsi que portugais [À CONFIRMER].»
 - [À CONFIRMER : durée] — «La durée d'une séance est [À CONFIRMER : durée].»
-- [À CONFIRMER : lun–ven 8h30–19h30 ou jusqu'à 20h] — «Horaires : [À CONFIRMER : lun–ven 8h30–19h30 ou jusqu'à 20h].»
 - [À CONFIRMER : titres, formations, enregistrement professionnel] — «Leurs titres et formations seront précisés ici : [À CONFIRMER : titres, formations, enregistrement professionnel].»
-- [À CONFIRMER : tarif appliqué] — «Il suit la structure tarifaire nationale convenue avec les assureurs [À CONFIRMER : tarif appliqué].»
 - [À CONFIRMER] — «Le portugais est [À CONFIRMER].»
 
 ## Publicación
@@ -36,7 +34,7 @@
 | Tipos según el caso (H2 + H3 por subtipo) | sí |  |
 | Proceso en pasos (H2 + H3) + CTA intermedio | sí |  |
 | Reembolso y coste | no | omitida |
-| FAQ (8-10) | sí | 8 preguntas |
+| FAQ (8-10) | sí | 9 preguntas |
 | CTA final en pregunta con la ciudad | sí |  |
 
-- receta: ciudad en 3 H2 · FAQ 8 · CTA reserva 6 / tel 3 / WhatsApp 3 · palabras visibles 1162
+- receta: ciudad en 3 H2 · FAQ 9 · CTA reserva 6 / tel 3 / WhatsApp 3 · palabras visibles 1213

@@ -25,7 +25,7 @@
 | Tipos según el caso (H2 + H3 por subtipo) | no | no aplica a esta página |
 | Proceso en pasos (H2 + H3) + CTA intermedio | sí |  |
 | Reembolso y coste | no | omitida |
-| FAQ (8-10) | sí | 8 preguntas |
+| FAQ (8-10) | sí | 9 preguntas |
 | CTA final en pregunta con la ciudad | sí |  |
 
-- receta: ciudad en 2 H2 · FAQ 8 · CTA reserva 3 / tel 3 / WhatsApp 3 · palabras visibles 982
+- receta: ciudad en 2 H2 · FAQ 9 · CTA reserva 3 / tel 3 / WhatsApp 3 · palabras visibles 1016

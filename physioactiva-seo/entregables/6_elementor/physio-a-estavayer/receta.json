@@ -3,11 +3,11 @@
   "tipo": "hero",
   "eyebrow": "Physio · Estavayer-le-Lac",
   "h1": "Physio à Estavayer-le-Lac : au cabinet d'Ins ou à domicile",
-  "sub": "Estavayer-le-Lac se trouve à environ 26,4 km en ligne droite d'Ins, dans la Broye fribourgeoise. Physio Activa vous accueille au cabinet d'Ins et étudie la possibilité de séances à domicile dans la Broye [À CONFIRMER : domicile à Estavayer]. Prescrite par un médecin, la physiothérapie est remboursée, et vous pouvez réserver en ligne à toute heure.",
+  "sub": "Estavayer-le-Lac se trouve à environ 26,4 km en ligne droite d'Ins, dans la Broye fribourgeoise. Physio Activa vous accueille au cabinet d'Ins et étudie la possibilité de séances à domicile dans la Broye [À CONFIRMER : domicile à Estavayer]. Le cabinet est reconnu par toutes les assurances maladie en Suisse, et vous pouvez réserver en ligne à toute heure.",
   "pills": [
    "Cabinet à Ins, à 26,4 km",
-   "Sur prescription médicale",
-   "LAMal · LAA · AI · AM"
+   "Reconnu par toutes les assurances",
+   "Ouvert jusqu'à 20h"
   ],
   "img": "https://physioactiva.ch/wp-content/uploads/2025/06/fxbtrjhiol.jpg",
   "alt": "Espace d'entraînement de l'InsGym, où se trouve le cabinet Physio Activa à Ins",
@@ -22,8 +22,8 @@
   "bg": null,
   "cards": [
    {
-    "h3": "Sur prescription, remboursé LAMal / LAA",
-    "html": "<p>Une ordonnance de votre médecin staviacois, de l'hôpital ou d'un spécialiste ouvre le droit au remboursement par la caisse maladie ou, en cas d'accident, par l'assurance accidents.</p>",
+    "h3": "Reconnu par toutes les assurances",
+    "html": "<p>Notre cabinet est reconnu par toutes les assurances maladie en Suisse : être domicilié dans la Broye fribourgeoise ne change rien.</p>",
     "icon": "fa-file-medical"
    },
    {
@@ -49,7 +49,7 @@
   "h2": "Quand consulter un physio, et quand voir d'abord un médecin ?",
   "lead": [],
   "bg": "trust",
-  "html": "<p>Une épaule qui fait mal dès qu'on lève le bras, un talon qui pique au réveil, des fourmillements qui descendent dans la jambe, un genou arthrosique qui limite la marche, une jambe qui reste enflée après une chirurgie : ce sont des raisons typiques de consulter un physiothérapeute.</p><p style=\"margin-top:12px\">La démarche commence chez le médecin, qui pose le diagnostic et rédige la prescription. Il faut le voir en priorité, ou appeler le 144 si la situation est grave, en présence :\n- d'un gonflement soudain d'une jambe, chaud et douloureux ;\n- d'une douleur intense après une chute ou un choc ;\n- de fourmillements accompagnés d'une perte de force ou de troubles urinaires ;\n- de fièvre, de frissons ou d'une plaie opératoire qui rougit.</p>"
+  "html": "<p>Une épaule qui fait mal dès qu'on lève le bras, un talon qui pique au réveil, des fourmillements qui descendent dans la jambe, un genou arthrosique qui limite la marche, une jambe qui reste enflée après une chirurgie : ce sont des raisons typiques de consulter un physiothérapeute.</p><p style=\"margin-top:12px\">Il faut voir un médecin en priorité, ou appeler le 144 si la situation est grave, en présence :\n- d'un gonflement soudain d'une jambe, chaud et douloureux ;\n- d'une douleur intense après une chute ou un choc ;\n- de fourmillements accompagnés d'une perte de force ou de troubles urinaires ;\n- de fièvre, de frissons ou d'une plaie opératoire qui rougit.</p>"
  },
  {
   "tipo": "grid",
@@ -70,7 +70,7 @@
    },
    {
     "h3": "Après une opération ou une hospitalisation",
-    "html": "<p>Hospitalisé ou opéré à l'HIB, sur le site d'Estavayer-le-Lac ? L'ordonnance de sortie suffit pour commencer la rééducation chez nous.</p>",
+    "html": "<p>Hospitalisé ou opéré à l'HIB, sur le site d'Estavayer-le-Lac ? Nous pouvons poursuivre la rééducation chez nous, sur la base des consignes de sortie.</p>",
     "icon": "fa-hospital"
    },
    {
@@ -80,7 +80,7 @@
    },
    {
     "h3": "Drainage lymphatique",
-    "html": "<p>Après une opération du genou ou de la hanche, une entorse sévère ou en cas de lymphœdème, un gonflement peut persister : c'est la situation type pour un drainage lymphatique manuel prescrit par le médecin. Depuis Estavayer, il se fera en principe à Ins [À CONFIRMER : drainage à domicile dans la Broye]. En savoir plus : <a href=\"/drainage-lymphatique/\" style=\"color:var(--azure);font-weight:600\">drainage lymphatique</a>.</p>",
+    "html": "<p>Après une opération du genou ou de la hanche, une entorse sévère ou en cas de lymphœdème, un gonflement peut persister : c'est la situation type pour un drainage lymphatique manuel. Depuis Estavayer, il se fera en principe à Ins [À CONFIRMER : drainage à domicile dans la Broye]. En savoir plus : <a href=\"/drainage-lymphatique/\" style=\"color:var(--azure);font-weight:600\">drainage lymphatique</a>.</p>",
     "icon": "fa-shield-heart"
    }
   ]
@@ -93,9 +93,9 @@
   "bg": "trust",
   "cards": [
    {
-    "h3": "Ordonnance",
-    "html": "<p>Faites établir une prescription de physiothérapie, ou de drainage lymphatique si c'est votre besoin. Elle accompagne votre carte d'assuré au premier rendez-vous.</p>",
-    "icon": "fa-file-medical"
+    "h3": "Prise de rendez-vous",
+    "html": "<p>Réservez en ligne ou par téléphone en précisant s'il s'agit de physiothérapie ou de drainage lymphatique. Depuis Estavayer, nous essayons de regrouper vos rendez-vous pour limiter les trajets.</p>",
+    "icon": "fa-calendar-check"
    },
    {
     "h3": "Bilan",
@@ -124,28 +124,12 @@
   "html": "<p>Le cabinet est à environ 26,4 km en ligne droite d'Estavayer, qui fait partie du district de la Broye, dans le canton de Fribourg. Toutes les indications pour venir sont sur <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Estavayer est une commune francophone : les séances se font naturellement en français, ou en espagnol si vous préférez.</p>"
  },
  {
-  "tipo": "grid",
-  "eyebrow": "Remboursement",
-  "h2": "Remboursement et coût de la physio à Estavayer-le-Lac",
+  "tipo": "texte",
+  "eyebrow": "Assurances",
+  "h2": "Assurances et horaires : physio à Estavayer-le-Lac",
   "lead": [],
   "bg": "trust",
-  "cards": [
-   {
-    "h3": "Assurance de base (LAMal)",
-    "html": "<p>Prescrite par un médecin, la physiothérapie, drainage lymphatique compris, est couverte par l'assurance obligatoire des soins, même si le cabinet se trouve dans le canton de Berne.</p>",
-    "icon": "fa-file-medical"
-   },
-   {
-    "h3": "Accident, AI et AM",
-    "html": "<p>Après un accident, c'est l'assurance accidents (LAA) qui paie. L'AI et l'assurance militaire (AM) prennent en charge la physiothérapie prescrite dans les cas qui les concernent.</p>",
-    "icon": "fa-stethoscope"
-   },
-   {
-    "h3": "Ce qui détermine ce que vous payez",
-    "html": "<p>En LAMal, la franchise et la quote-part restent à votre charge. Le montant facturé suit la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué].</p>",
-    "icon": "fa-heart-pulse"
-   }
-  ]
+  "html": "<p>Que vous veniez pour une rééducation ou un drainage lymphatique, notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse et accueille les patients quel que soit leur canton de résidence. Il est ouvert du lundi au vendredi, jusqu'à 20h, ce qui laisse le temps de faire la route après le travail. Réservez en ligne, au 076 627 38 38 ou sur WhatsApp.</p>"
  },
  {
   "tipo": "villes",
@@ -183,14 +167,29 @@
   "h2": "Questions fréquentes sur la physio à Estavayer-le-Lac",
   "faq": [
    {
+    "q": "Quand dois-je consulter un physiothérapeute pour une douleur ?",
+    "a_html": "Quand la douleur dure depuis plus d'une semaine, réduit votre mobilité ou trouble votre sommeil, ou quand un gonflement persiste après une opération. Plus on la traite tôt, plus le traitement est simple. Un gonflement soudain, chaud et douloureux se montre d'abord au médecin.",
+    "a_text": "Quand la douleur dure depuis plus d'une semaine, réduit votre mobilité ou trouble votre sommeil, ou quand un gonflement persiste après une opération. Plus on la traite tôt, plus le traitement est simple. Un gonflement soudain, chaud et douloureux se montre d'abord au médecin."
+   },
+   {
+    "q": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+    "a_html": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.",
+    "a_text": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
+   },
+   {
+    "q": "Combien de séances me faut-il ?",
+    "a_html": "La durée du traitement varie selon votre situation, et le trajet depuis la Broye est pris en compte dans le rythme proposé. Lors de la première visite, nous établissons une estimation adaptée à votre cas.",
+    "a_text": "La durée du traitement varie selon votre situation, et le trajet depuis la Broye est pris en compte dans le rythme proposé. Lors de la première visite, nous établissons une estimation adaptée à votre cas."
+   },
+   {
     "q": "Est-ce raisonnable de venir jusqu'à Ins pour une rééducation ?",
     "a_html": "Le cabinet est à environ 26,4 km en ligne droite. Une rééducation comporte souvent plusieurs séances : voyez si le trajet est compatible avec votre agenda. Sinon, le domicile peut être une option [À CONFIRMER : domicile à Estavayer].",
     "a_text": "Le cabinet est à environ 26,4 km en ligne droite. Une rééducation comporte souvent plusieurs séances : voyez si le trajet est compatible avec votre agenda. Sinon, le domicile peut être une option [À CONFIRMER : domicile à Estavayer]."
    },
    {
     "q": "Comment choisir son physiothérapeute ?",
-    "a_html": "Vérifiez qu'il est reconnu par les assurances, qu'il traite votre problème et que vous comprenez ses explications. La distance et les horaires comptent aussi [À CONFIRMER : horaires du cabinet].",
-    "a_text": "Vérifiez qu'il est reconnu par les assurances, qu'il traite votre problème et que vous comprenez ses explications. La distance et les horaires comptent aussi [À CONFIRMER : horaires du cabinet]."
+    "a_html": "Vérifiez qu'il est reconnu par les assurances, qu'il traite votre problème et que vous comprenez ses explications. La distance et les horaires comptent aussi : nous recevons du lundi au vendredi, jusqu'à 20h.",
+    "a_text": "Vérifiez qu'il est reconnu par les assurances, qu'il traite votre problème et que vous comprenez ses explications. La distance et les horaires comptent aussi : nous recevons du lundi au vendredi, jusqu'à 20h."
    },
    {
     "q": "Qu'est-ce que ça veut dire, la rééducation ?",
@@ -203,29 +202,9 @@
     "a_text": "Un gonflement qui persiste après une opération, une jambe lourde qui marque la pression du doigt ou un lymphœdème diagnostiqué sont des signes à montrer au médecin, qui décidera."
    },
    {
-    "q": "Qui prescrit un drainage lymphatique ?",
-    "a_html": "Le médecin : généraliste, chirurgien ou spécialiste. Sans ordonnance, l'assurance de base ne rembourse pas la séance.",
-    "a_text": "Le médecin : généraliste, chirurgien ou spécialiste. Sans ordonnance, l'assurance de base ne rembourse pas la séance."
-   },
-   {
-    "q": "Le drainage lymphatique est-il remboursé en Suisse ?",
-    "a_html": "Oui, lorsqu'il est prescrit et réalisé dans le cadre de la physiothérapie, aux mêmes conditions LAMal que les autres séances.",
-    "a_text": "Oui, lorsqu'il est prescrit et réalisé dans le cadre de la physiothérapie, aux mêmes conditions LAMal que les autres séances."
-   },
-   {
     "q": "Puis-je commencer après une hospitalisation à l'HIB ?",
-    "a_html": "Oui. Avec l'ordonnance remise par le médecin, nous organisons la suite de votre rééducation [À CONFIRMER : délai pour une première séance].",
-    "a_text": "Oui. Avec l'ordonnance remise par le médecin, nous organisons la suite de votre rééducation [À CONFIRMER : délai pour une première séance]."
-   },
-   {
-    "q": "Ma caisse maladie rembourse-t-elle les séances si le cabinet est dans le canton de Berne ?",
-    "a_html": "Oui, la LAMal est une assurance fédérale : le remboursement sur prescription ne dépend pas du canton du cabinet.",
-    "a_text": "Oui, la LAMal est une assurance fédérale : le remboursement sur prescription ne dépend pas du canton du cabinet."
-   },
-   {
-    "q": "Quel est le tarif d'un physiothérapeute ?",
-    "a_html": "Il découle de la structure tarifaire nationale, identique pour tous les assureurs ; vous payez franchise et quote-part [À CONFIRMER : tarif appliqué].",
-    "a_text": "Il découle de la structure tarifaire nationale, identique pour tous les assureurs ; vous payez franchise et quote-part [À CONFIRMER : tarif appliqué]."
+    "a_html": "Oui. Avec les consignes remises à la sortie, nous organisons la suite de votre rééducation [À CONFIRMER : délai pour une première séance].",
+    "a_text": "Oui. Avec les consignes remises à la sortie, nous organisons la suite de votre rééducation [À CONFIRMER : délai pour une première séance]."
    },
    {
     "q": "Venez-vous à Cheyres-Châbles ou à Font ?",

@@ -43,7 +43,7 @@ La publicación se hace a mano. Orden: técnica → reserva → home → hub y p
 
 ## 01. `/reservation-en-ligne/` — lote C
 
-Archivo: `reservation-en-ligne/elementor.json` · Marcadores [À CONFIRMER]: 3 (ver `reservation-en-ligne/checklist.md`)
+Archivo: `reservation-en-ligne/elementor.json` · Marcadores [À CONFIRMER]: 1 (ver `reservation-en-ligne/checklist.md`)
 
 - [ ] **Copia de seguridad:** la página ya existe → Elementor → Guardar como plantilla → Exportar (guardar el .json con fecha)
 - [ ] **Borrador de prueba:** crear página `reservation-en-ligne-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -68,7 +68,7 @@ Estado: publicable tras revisión
 
 ## 02. `/` — lote A
 
-Archivo: `accueil/elementor.json` · Marcadores [À CONFIRMER]: 6 (ver `accueil/checklist.md`)
+Archivo: `accueil/elementor.json` · Marcadores [À CONFIRMER]: 4 (ver `accueil/checklist.md`)
 
 - [ ] **Copia de seguridad:** la página ya existe → Elementor → Guardar como plantilla → Exportar (guardar el .json con fecha)
 - [ ] **Borrador de prueba:** crear página `accueil-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -80,7 +80,7 @@ Archivo: `accueil/elementor.json` · Marcadores [À CONFIRMER]: 6 (ver `accueil/
 
 ```
 SEO title (49/60): Physio à Ins (Anet) et à domicile | Physio Activa
-Meta description (141/155): Physio à Ins (Anet) et physiothérapie à domicile dans le Seeland et les Trois-Lacs. Remboursé sur ordonnance (LAMal, LAA). Réservez en ligne.
+Meta description (145/155): Physio à Ins (Anet) et physiothérapie à domicile dans le Seeland et les Trois-Lacs. Reconnu par toutes les assurances maladie. Réservez en ligne.
 Slug: /
 Focus keyphrase: physio à Ins
 H1: Physio à Ins (Anet)
@@ -155,7 +155,7 @@ Archivo: `douleur-cervicale-au-cou/elementor.json` · Marcadores [À CONFIRMER]:
 
 ```
 SEO title (56/60): Cervicalgie : physio à Ins et à domicile | Physio Activa
-Meta description (148/155): Cervicalgie, douleur de nuque, torticolis ou coup du lapin ? Physiothérapie à Ins et à domicile dans le Seeland, sur ordonnance. Prenez rendez-vous.
+Meta description (132/155): Cervicalgie, douleur de nuque, torticolis ou coup du lapin ? Physiothérapie à Ins et à domicile dans le Seeland. Prenez rendez-vous.
 Slug: /douleur-cervicale-au-cou/
 Focus keyphrase: cervicalgie
 H1: Cervicalgie et douleur cervicale : physio à Ins
@@ -180,7 +180,7 @@ Archivo: `lesions-de-lepaule/elementor.json` · Marcadores [À CONFIRMER]: 1 (ve
 
 ```
 SEO title (51/60): Coiffe des rotateurs : physio à Ins | Physio Activa
-Meta description (137/155): Coiffe des rotateurs, tendinite ou épaule gelée ? Physiothérapie à Ins et à domicile dans le Seeland, sur ordonnance. Prenez rendez-vous.
+Meta description (133/155): Coiffe des rotateurs, tendinite ou épaule gelée ? Physiothérapie de l'épaule à Ins et à domicile dans le Seeland. Prenez rendez-vous.
 Slug: /lesions-de-lepaule/
 Focus keyphrase: coiffe des rotateurs
 H1: Coiffe des rotateurs et douleur à l'épaule : physio à Ins
@@ -268,7 +268,7 @@ Estado: publicable tras revisión
 
 ## 10. `/douleur-de-hanche-protheses/` — lote C
 
-Archivo: `douleur-de-hanche-protheses/elementor.json` · Marcadores [À CONFIRMER]: 2 (ver `douleur-de-hanche-protheses/checklist.md`)
+Archivo: `douleur-de-hanche-protheses/elementor.json` · Marcadores [À CONFIRMER]: 1 (ver `douleur-de-hanche-protheses/checklist.md`)
 
 - [ ] **Copia de seguridad:** página nueva: no hace falta
 - [ ] **Borrador de prueba:** crear página `douleur-de-hanche-protheses-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -293,7 +293,7 @@ Estado: publicable tras revisión
 
 ## 11. `/a-propos-de-nous/` — lote A
 
-Archivo: `a-propos-de-nous/elementor.json` · Marcadores [À CONFIRMER]: 11 (ver `a-propos-de-nous/checklist.md`)
+Archivo: `a-propos-de-nous/elementor.json` · Marcadores [À CONFIRMER]: 9 (ver `a-propos-de-nous/checklist.md`)
 
 - [ ] **Copia de seguridad:** la página ya existe → Elementor → Guardar como plantilla → Exportar (guardar el .json con fecha)
 - [ ] **Borrador de prueba:** crear página `a-propos-de-nous-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -305,7 +305,7 @@ Archivo: `a-propos-de-nous/elementor.json` · Marcadores [À CONFIRMER]: 11 (ver
 
 ```
 SEO title (54/60): Physiothérapeutes à Ins : notre équipe | Physio Activa
-Meta description (147/155): Découvrez Physio Activa, physiothérapeutes à Ins (InsGym) : bilan, traitement actif, domicile dans le Seeland. Sur ordonnance LAMal, LAA. Réservez.
+Meta description (145/155): Physio Activa, physiothérapeutes à Ins (InsGym) : bilan, traitement actif, domicile dans le Seeland. Reconnu par toutes les assurances. Réservez.
 Slug: /a-propos-de-nous/
 Focus keyphrase: physiothérapeutes à Ins
 H1: Vos physiothérapeutes à Ins : l'équipe Physio Activa
@@ -318,7 +318,7 @@ Estado: publicable tras revisión
 
 ## 12. `/physio-a-sugiez/` — lote A
 
-Archivo: `physio-a-sugiez/elementor.json` · Marcadores [À CONFIRMER]: 8 (ver `physio-a-sugiez/checklist.md`)
+Archivo: `physio-a-sugiez/elementor.json` · Marcadores [À CONFIRMER]: 6 (ver `physio-a-sugiez/checklist.md`)
 
 - [ ] **Copia de seguridad:** la página ya existe → Elementor → Guardar como plantilla → Exportar (guardar el .json con fecha)
 - [ ] **Borrador de prueba:** crear página `physio-a-sugiez-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -330,7 +330,7 @@ Archivo: `physio-a-sugiez/elementor.json` · Marcadores [À CONFIRMER]: 8 (ver `
 
 ```
 SEO title (58/60): Physio à Sugiez et Vully – domicile ou Ins | Physio Activa
-Meta description (150/155): Physio dans le Vully, à Sugiez et alentour : au cabinet d'Ins ou à domicile, remboursé sur ordonnance (LAMal, LAA). Réservez en ligne ou par WhatsApp.
+Meta description (146/155): Physio dans le Vully, à Sugiez et alentour : au cabinet d'Ins ou à domicile, reconnu par toutes les assurances. Réservez en ligne ou par WhatsApp.
 Slug: /physio-a-sugiez/
 Focus keyphrase: physio vully
 H1: Physio à Sugiez et dans le Vully : au cabinet d'Ins ou à domicile
@@ -343,7 +343,7 @@ Estado: publicable tras revisión
 
 ## 13. `/physio-a-neuchatel/` — lote A
 
-Archivo: `physio-a-neuchatel/elementor.json` · Marcadores [À CONFIRMER]: 7 (ver `physio-a-neuchatel/checklist.md`)
+Archivo: `physio-a-neuchatel/elementor.json` · Marcadores [À CONFIRMER]: 5 (ver `physio-a-neuchatel/checklist.md`)
 
 - [ ] **Copia de seguridad:** la página ya existe → Elementor → Guardar como plantilla → Exportar (guardar el .json con fecha)
 - [ ] **Borrador de prueba:** crear página `physio-a-neuchatel-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -355,7 +355,7 @@ Archivo: `physio-a-neuchatel/elementor.json` · Marcadores [À CONFIRMER]: 7 (ve
 
 ```
 SEO title (56/60): Physio à Neuchâtel – à domicile ou à Ins | Physio Activa
-Meta description (151/155): Physio à Neuchâtel : physiothérapie à domicile ou au cabinet d'Ins, drainage lymphatique, remboursement sur ordonnance (LAMal, LAA). Réservez en ligne.
+Meta description (151/155): Physio à Neuchâtel : physiothérapie à domicile ou au cabinet d'Ins, drainage lymphatique, cabinet reconnu par toutes les assurances. Réservez en ligne.
 Slug: /physio-a-neuchatel/
 Focus keyphrase: physio neuchâtel
 H1: Physio à Neuchâtel : au cabinet d'Ins ou à domicile
@@ -368,7 +368,7 @@ Estado: publicable tras revisión
 
 ## 14. `/physio-a-la-neuveville/` — lote A
 
-Archivo: `physio-a-la-neuveville/elementor.json` · Marcadores [À CONFIRMER]: 5 (ver `physio-a-la-neuveville/checklist.md`)
+Archivo: `physio-a-la-neuveville/elementor.json` · Marcadores [À CONFIRMER]: 3 (ver `physio-a-la-neuveville/checklist.md`)
 
 - [ ] **Copia de seguridad:** página nueva: no hace falta
 - [ ] **Borrador de prueba:** crear página `physio-a-la-neuveville-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -380,7 +380,7 @@ Archivo: `physio-a-la-neuveville/elementor.json` · Marcadores [À CONFIRMER]: 5
 
 ```
 SEO title (56/60): Physio à La Neuveville – domicile ou Ins | Physio Activa
-Meta description (153/155): Physio pour La Neuveville et le Plateau de Diesse : séances à domicile ou au cabinet d'Ins, remboursées sur ordonnance. Rendez-vous en ligne ou WhatsApp.
+Meta description (148/155): Physio pour La Neuveville et le Plateau de Diesse : séances à domicile ou au cabinet d'Ins, reconnu par toutes les assurances. Rendez-vous en ligne.
 Slug: /physio-a-la-neuveville/
 Focus keyphrase: physio la neuveville
 H1: Physio à La Neuveville : au cabinet d'Ins ou à domicile
@@ -393,7 +393,7 @@ Estado: publicable tras revisión
 
 ## 15. `/physio-a-avenches/` — lote A
 
-Archivo: `physio-a-avenches/elementor.json` · Marcadores [À CONFIRMER]: 6 (ver `physio-a-avenches/checklist.md`)
+Archivo: `physio-a-avenches/elementor.json` · Marcadores [À CONFIRMER]: 4 (ver `physio-a-avenches/checklist.md`)
 
 - [ ] **Copia de seguridad:** página nueva: no hace falta
 - [ ] **Borrador de prueba:** crear página `physio-a-avenches-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -405,7 +405,7 @@ Archivo: `physio-a-avenches/elementor.json` · Marcadores [À CONFIRMER]: 6 (ver
 
 ```
 SEO title (59/60): Physiothérapie à Avenches – domicile ou Ins | Physio Activa
-Meta description (151/155): Physiothérapie à Avenches et dans la Broye-Vully : à domicile ou au cabinet d'Ins, remboursée sur ordonnance (LAMal, LAA). Prenez rendez-vous en ligne.
+Meta description (146/155): Physiothérapie à Avenches et dans la Broye-Vully : à domicile ou au cabinet d'Ins, reconnu par toutes les assurances. Prenez rendez-vous en ligne.
 Slug: /physio-a-avenches/
 Focus keyphrase: physiothérapie avenches
 H1: Physiothérapie à Avenches : au cabinet d'Ins ou à domicile
@@ -418,7 +418,7 @@ Estado: publicable tras revisión
 
 ## 16. `/physio-a-lyss/` — lote A
 
-Archivo: `physio-a-lyss/elementor.json` · Marcadores [À CONFIRMER]: 8 (ver `physio-a-lyss/checklist.md`)
+Archivo: `physio-a-lyss/elementor.json` · Marcadores [À CONFIRMER]: 6 (ver `physio-a-lyss/checklist.md`)
 
 - [ ] **Copia de seguridad:** página nueva: no hace falta
 - [ ] **Borrador de prueba:** crear página `physio-a-lyss-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -430,7 +430,7 @@ Archivo: `physio-a-lyss/elementor.json` · Marcadores [À CONFIRMER]: 8 (ver `ph
 
 ```
 SEO title (51/60): Physio à Lyss – à domicile ou à Ins | Physio Activa
-Meta description (137/155): Physio à Lyss : séances en français au cabinet d'Ins ou à domicile, remboursées sur prescription (LAMal, LAA, AI, AM). Réservez en ligne.
+Meta description (145/155): Physio à Lyss : séances en français au cabinet d'Ins ou à domicile, reconnu par toutes les assurances, jusqu'à 20h en semaine. Réservez en ligne.
 Slug: /physio-a-lyss/
 Focus keyphrase: physio lyss
 H1: Physio à Lyss : au cabinet d'Ins ou à domicile
@@ -443,7 +443,7 @@ Estado: publicable tras revisión
 
 ## 17. `/physio-a-bienne/` — lote A
 
-Archivo: `physio-a-bienne/elementor.json` · Marcadores [À CONFIRMER]: 8 (ver `physio-a-bienne/checklist.md`)
+Archivo: `physio-a-bienne/elementor.json` · Marcadores [À CONFIRMER]: 6 (ver `physio-a-bienne/checklist.md`)
 
 - [ ] **Copia de seguridad:** página nueva: no hace falta
 - [ ] **Borrador de prueba:** crear página `physio-a-bienne-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -455,7 +455,7 @@ Archivo: `physio-a-bienne/elementor.json` · Marcadores [À CONFIRMER]: 8 (ver `
 
 ```
 SEO title (60/60): Physio à Bienne (Biel) – à domicile ou à Ins | Physio Activa
-Meta description (149/155): Physiothérapeute pour Bienne (Biel) et environs : cabinet à Ins ou séances à domicile, remboursées sur ordonnance. Réservez en ligne ou par WhatsApp.
+Meta description (152/155): Physiothérapeute pour Bienne (Biel) et environs : cabinet à Ins ou séances à domicile, reconnu par toutes les assurances. Réservez en ligne ou WhatsApp.
 Slug: /physio-a-bienne/
 Focus keyphrase: physio biel
 H1: Physio à Bienne (Biel) : au cabinet d'Ins ou à domicile
@@ -468,7 +468,7 @@ Estado: publicable tras revisión
 
 ## 18. `/physio-a-fribourg/` — lote A
 
-Archivo: `physio-a-fribourg/elementor.json` · Marcadores [À CONFIRMER]: 8 (ver `physio-a-fribourg/checklist.md`)
+Archivo: `physio-a-fribourg/elementor.json` · Marcadores [À CONFIRMER]: 7 (ver `physio-a-fribourg/checklist.md`)
 
 - [ ] **Copia de seguridad:** página nueva: no hace falta
 - [ ] **Borrador de prueba:** crear página `physio-a-fribourg-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -480,7 +480,7 @@ Archivo: `physio-a-fribourg/elementor.json` · Marcadores [À CONFIRMER]: 8 (ver
 
 ```
 SEO title (59/60): Physiothérapie à Fribourg – domicile ou Ins | Physio Activa
-Meta description (151/155): Physiothérapie à Fribourg : physio à domicile ou au cabinet d'Ins, drainage lymphatique, remboursée sur ordonnance (LAMal, LAA, AI). Réservez en ligne.
+Meta description (150/155): Physiothérapie à Fribourg : physio à domicile ou au cabinet d'Ins, drainage lymphatique, cabinet reconnu par toutes les assurances. Réservez en ligne.
 Slug: /physio-a-fribourg/
 Focus keyphrase: physiothérapie fribourg
 H1: Physiothérapie à Fribourg : au cabinet d'Ins ou à domicile
@@ -493,7 +493,7 @@ Estado: publicable tras revisión
 
 ## 19. `/physio-a-payerne/` — lote A
 
-Archivo: `physio-a-payerne/elementor.json` · Marcadores [À CONFIRMER]: 9 (ver `physio-a-payerne/checklist.md`)
+Archivo: `physio-a-payerne/elementor.json` · Marcadores [À CONFIRMER]: 6 (ver `physio-a-payerne/checklist.md`)
 
 - [ ] **Copia de seguridad:** página nueva: no hace falta
 - [ ] **Borrador de prueba:** crear página `physio-a-payerne-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -505,7 +505,7 @@ Archivo: `physio-a-payerne/elementor.json` · Marcadores [À CONFIRMER]: 9 (ver 
 
 ```
 SEO title (54/60): Physio à Payerne – à domicile ou à Ins | Physio Activa
-Meta description (151/155): Physio à Payerne et dans la Broye : à domicile ou au cabinet d'Ins, séances remboursées sur prescription médicale. Réservez votre rendez-vous en ligne.
+Meta description (145/155): Physio à Payerne et dans la Broye : à domicile ou au cabinet d'Ins, ouvert du lundi au vendredi jusqu'à 20h. Réservez votre rendez-vous en ligne.
 Slug: /physio-a-payerne/
 Focus keyphrase: physio payerne
 H1: Physio à Payerne : au cabinet d'Ins ou à domicile
@@ -518,7 +518,7 @@ Estado: publicable tras revisión
 
 ## 20. `/physio-a-morat/` — lote B · BORRADOR (noindex hasta confirmación)
 
-Archivo: `physio-a-morat/elementor.json` · Marcadores [À CONFIRMER]: 9 (ver `physio-a-morat/checklist.md`)
+Archivo: `physio-a-morat/elementor.json` · Marcadores [À CONFIRMER]: 6 (ver `physio-a-morat/checklist.md`)
 
 - [ ] **Copia de seguridad:** página nueva: no hace falta
 - [ ] **Borrador de prueba:** crear página `physio-a-morat-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -530,7 +530,7 @@ Archivo: `physio-a-morat/elementor.json` · Marcadores [À CONFIRMER]: 9 (ver `p
 
 ```
 SEO title (57/60): Physio à Morat (Murten) – domicile ou Ins | Physio Activa
-Meta description (133/155): Physio à Morat (Murten) : séances en français au cabinet d'Ins, à 8,7 km, ou à domicile. Remboursé sur ordonnance. Réservez en ligne.
+Meta description (138/155): Physio à Morat (Murten) : séances en français au cabinet d'Ins, à 8,7 km, ou à domicile. Ouvert en semaine jusqu'à 20h. Réservez en ligne.
 Slug: /physio-a-morat/
 Focus keyphrase: physio morat
 H1: Physio à Morat (Murten) : au cabinet d'Ins ou à domicile
@@ -543,7 +543,7 @@ Estado: borrador — noindex hasta confirmación
 
 ## 21. `/physio-a-chietres/` — lote B · BORRADOR (noindex hasta confirmación)
 
-Archivo: `physio-a-chietres/elementor.json` · Marcadores [À CONFIRMER]: 9 (ver `physio-a-chietres/checklist.md`)
+Archivo: `physio-a-chietres/elementor.json` · Marcadores [À CONFIRMER]: 7 (ver `physio-a-chietres/checklist.md`)
 
 - [ ] **Copia de seguridad:** página nueva: no hace falta
 - [ ] **Borrador de prueba:** crear página `physio-a-chietres-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -555,7 +555,7 @@ Archivo: `physio-a-chietres/elementor.json` · Marcadores [À CONFIRMER]: 9 (ver
 
 ```
 SEO title (45/60): Physio à Chiètres (Kerzers) – domicile ou Ins
-Meta description (137/155): Physio à Chiètres (Kerzers) : cabinet à Ins, à 7,6 km, ou séances à domicile, en français. Remboursé sur prescription. Réservez en ligne.
+Meta description (140/155): Physio à Chiètres (Kerzers) : cabinet à Ins, à 7,6 km, ou séances à domicile, en français. Ouvert jusqu'à 20h en semaine. Réservez en ligne.
 Slug: /physio-a-chietres/
 Focus keyphrase: physio chiètres
 H1: Physio à Chiètres (Kerzers) : au cabinet d'Ins ou à domicile
@@ -568,7 +568,7 @@ Estado: borrador — noindex hasta confirmación
 
 ## 22. `/physio-a-estavayer/` — lote B · BORRADOR (noindex hasta confirmación)
 
-Archivo: `physio-a-estavayer/elementor.json` · Marcadores [À CONFIRMER]: 10 (ver `physio-a-estavayer/checklist.md`)
+Archivo: `physio-a-estavayer/elementor.json` · Marcadores [À CONFIRMER]: 7 (ver `physio-a-estavayer/checklist.md`)
 
 - [ ] **Copia de seguridad:** página nueva: no hace falta
 - [ ] **Borrador de prueba:** crear página `physio-a-estavayer-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -580,7 +580,7 @@ Archivo: `physio-a-estavayer/elementor.json` · Marcadores [À CONFIRMER]: 10 (v
 
 ```
 SEO title (43/60): Physio à Estavayer-le-Lac – domicile ou Ins
-Meta description (139/155): Physio à Estavayer-le-Lac : cabinet à Ins (26,4 km) ou séances à domicile selon disponibilité. Remboursé sur ordonnance. Réservez en ligne.
+Meta description (144/155): Physio à Estavayer-le-Lac : cabinet à Ins (26,4 km) ou séances à domicile selon disponibilité. Ouvert jusqu'à 20h en semaine. Réservez en ligne.
 Slug: /physio-a-estavayer/
 Focus keyphrase: physio estavayer
 H1: Physio à Estavayer-le-Lac : au cabinet d'Ins ou à domicile
@@ -593,7 +593,7 @@ Estado: borrador — noindex hasta confirmación
 
 ## 23. `/physio-a-yvonand/` — lote B · BORRADOR (noindex hasta confirmación)
 
-Archivo: `physio-a-yvonand/elementor.json` · Marcadores [À CONFIRMER]: 7 (ver `physio-a-yvonand/checklist.md`)
+Archivo: `physio-a-yvonand/elementor.json` · Marcadores [À CONFIRMER]: 5 (ver `physio-a-yvonand/checklist.md`)
 
 - [ ] **Copia de seguridad:** página nueva: no hace falta
 - [ ] **Borrador de prueba:** crear página `physio-a-yvonand-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -605,7 +605,7 @@ Archivo: `physio-a-yvonand/elementor.json` · Marcadores [À CONFIRMER]: 7 (ver 
 
 ```
 SEO title (54/60): Physio à Yvonand – à domicile ou à Ins | Physio Activa
-Meta description (141/155): Physio à Yvonand (VD) : rééducation au cabinet d'Ins ou à domicile selon disponibilité. Remboursée sur prescription LAMal. Réservez en ligne.
+Meta description (147/155): Physio à Yvonand (VD) : rééducation au cabinet d'Ins ou à domicile selon disponibilité. Ouvert du lundi au vendredi jusqu'à 20h. Réservez en ligne.
 Slug: /physio-a-yvonand/
 Focus keyphrase: physio yvonand
 H1: Physio à Yvonand : au cabinet d'Ins ou à domicile
@@ -618,7 +618,7 @@ Estado: borrador — noindex hasta confirmación
 
 ## 24. `/physio-a-yverdon/` — lote B · BORRADOR (noindex hasta confirmación)
 
-Archivo: `physio-a-yverdon/elementor.json` · Marcadores [À CONFIRMER]: 8 (ver `physio-a-yverdon/checklist.md`)
+Archivo: `physio-a-yverdon/elementor.json` · Marcadores [À CONFIRMER]: 7 (ver `physio-a-yverdon/checklist.md`)
 
 - [ ] **Copia de seguridad:** página nueva: no hace falta
 - [ ] **Borrador de prueba:** crear página `physio-a-yverdon-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -630,7 +630,7 @@ Archivo: `physio-a-yverdon/elementor.json` · Marcadores [À CONFIRMER]: 8 (ver 
 
 ```
 SEO title (54/60): Physio à Yverdon – à domicile ou à Ins | Physio Activa
-Meta description (151/155): Physio à Yverdon : pas de cabinet sur place, nous recevons à Ins (43,5 km) ; domicile à confirmer. Remboursé sur ordonnance LAMal, LAA. Contactez-nous.
+Meta description (145/155): Physio à Yverdon : pas de cabinet sur place, nous recevons à Ins (43,5 km) ; domicile à confirmer. Ouvert jusqu'à 20h en semaine. Contactez-nous.
 Slug: /physio-a-yverdon/
 Focus keyphrase: physio yverdon
 H1: Physio à Yverdon-les-Bains : au cabinet d'Ins ou à domicile
@@ -643,7 +643,7 @@ Estado: borrador — noindex hasta confirmación
 
 ## 25. `/physio-a-lausanne/` — lote B · BORRADOR (noindex hasta confirmación)
 
-Archivo: `physio-a-lausanne/elementor.json` · Marcadores [À CONFIRMER]: 10 (ver `physio-a-lausanne/checklist.md`)
+Archivo: `physio-a-lausanne/elementor.json` · Marcadores [À CONFIRMER]: 7 (ver `physio-a-lausanne/checklist.md`)
 
 - [ ] **Copia de seguridad:** página nueva: no hace falta
 - [ ] **Borrador de prueba:** crear página `physio-a-lausanne-v2` en borrador → Elementor → Plantillas → Importar `elementor.json` → Insertar
@@ -655,7 +655,7 @@ Archivo: `physio-a-lausanne/elementor.json` · Marcadores [À CONFIRMER]: 10 (ve
 
 ```
 SEO title (55/60): Physio à Lausanne – à domicile ou à Ins | Physio Activa
-Meta description (144/155): Physio à Lausanne ? Notre physiothérapeute vous reçoit à Ins, à 65 km ; domicile à confirmer. Remboursé sur ordonnance LAMal, LAA. Appelez-nous.
+Meta description (141/155): Physio à Lausanne ? Notre physiothérapeute vous reçoit à Ins, à 65 km, du lundi au vendredi jusqu'à 20h ; domicile à confirmer. Appelez-nous.
 Slug: /physio-a-lausanne/
 Focus keyphrase: physio lausanne
 H1: Physio à Lausanne : au cabinet d'Ins ou à domicile

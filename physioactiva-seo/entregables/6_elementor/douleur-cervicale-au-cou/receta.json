@@ -3,11 +3,11 @@
   "tipo": "hero",
   "eyebrow": "Physiothérapie à Ins · cabinet et domicile",
   "h1": "Cervicalgie et douleur cervicale : physio à Ins",
-  "sub": "La cervicalgie désigne une douleur au niveau du cou et de la nuque, souvent accompagnée de raideur et parfois de maux de tête. Dans la plupart des cas, elle est liée aux muscles et aux articulations du rachis cervical et peut être prise en charge en physiothérapie, sur prescription médicale. Chez Physio Activa, nous vous accueillons au cabinet à Ins ou à domicile dans le Seeland.",
+  "sub": "La cervicalgie désigne une douleur au niveau du cou et de la nuque, souvent accompagnée de raideur et parfois de maux de tête. Dans la plupart des cas, elle est liée aux muscles et aux articulations du rachis cervical et peut être prise en charge en physiothérapie. Chez Physio Activa, nous vous accueillons au cabinet à Ins ou à domicile dans le Seeland.",
   "pills": [
-   "Sur prescription médicale",
+   "Reconnu par toutes les assurances",
    "Au cabinet d'Ins ou à domicile",
-   "Remboursé LAMal / LAA"
+   "Ouvert jusqu'à 20h"
   ],
   "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00036.jpg",
   "alt": "Salle de traitement pour la physiothérapie des douleurs cervicales à Ins",
@@ -22,9 +22,9 @@
   "bg": "trust",
   "cards": [
    {
-    "h3": "Sur prescription, remboursé LAMal / LAA",
-    "html": "<p>Avec une ordonnance médicale, les séances sont prises en charge par la LAMal, la LAA, l&#x27;AI ou l&#x27;AM.</p>",
-    "icon": "fa-file-medical"
+    "h3": "Reconnu par toutes les assurances",
+    "html": "<p>Notre cabinet est reconnu par toutes les compagnies d&#x27;assurance maladie en Suisse, quel que soit votre canton de résidence.</p>",
+    "icon": "fa-shield-heart"
    },
    {
     "h3": "Au cabinet ou à domicile",
@@ -38,7 +38,7 @@
    },
    {
     "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
-    "html": "<p>Réservation sur OneDoc, au 076 627 38 38 ou par WhatsApp au +41 76 627 38 38.</p>",
+    "html": "<p>Réservation sur OneDoc, au 076 627 38 38 ou par WhatsApp, du lundi au vendredi jusqu&#x27;à 20h.</p>",
     "icon": "fa-calendar-check"
    }
   ]
@@ -178,9 +178,9 @@
   "cta_mid": true,
   "cards": [
    {
-    "h3": "Ordonnance",
-    "html": "<p>Votre médecin prescrit la physiothérapie ; apportez l&#x27;ordonnance et votre carte d&#x27;assuré à la première séance.</p>",
-    "icon": "fa-file-medical"
+    "h3": "Prise de rendez-vous",
+    "html": "<p>Vous réservez en ligne, par téléphone ou par WhatsApp, au cabinet d&#x27;Ins ou à domicile.</p>",
+    "icon": "fa-calendar-check"
    },
    {
     "h3": "Bilan",
@@ -189,7 +189,7 @@
    },
    {
     "h3": "Séances au cabinet ou à domicile",
-    "html": "<p>Le traitement se déroule au cabinet d&#x27;Ins ou chez vous, selon votre situation et la prescription.</p>",
+    "html": "<p>Le traitement se déroule au cabinet d&#x27;Ins ou chez vous, selon votre situation.</p>",
     "icon": "fa-house-medical"
    },
    {
@@ -209,11 +209,11 @@
  },
  {
   "tipo": "texte",
-  "eyebrow": "Remboursement",
-  "h2": "Remboursement et coût de la physio à Ins",
+  "eyebrow": "Assurances",
+  "h2": "Assurances et horaires",
   "lead": [],
   "bg": "trust",
-  "html": "<p>La physiothérapie est remboursée par l'assurance de base (LAMal), par l'assurance accident (LAA) après un accident (par exemple un coup du lapin), ainsi que par l'AI et l'AM, <strong>avec une prescription médicale</strong>. Demandez une ordonnance de physiothérapie à votre médecin, puis prenez rendez-vous.</p>"
+  "html": "<p>Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Nous vous recevons du lundi au vendredi, jusqu'à 20h : prenez rendez-vous <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">en ligne</a>, par téléphone au <strong>076 627 38 38</strong> ou sur <strong>WhatsApp au +41 76 627 38 38</strong>.</p>"
  },
  {
   "tipo": "villes",
@@ -267,6 +267,21 @@
   "h2": "Questions fréquentes sur la douleur cervicale et la physio à Ins",
   "faq": [
    {
+    "q": "Quand dois-je consulter un physiothérapeute pour une douleur au cou ?",
+    "a_html": "Si la douleur au cou dure plus d'une semaine, limite vos mouvements (tourner la tête, conduire), perturbe votre sommeil ou revient régulièrement, un bilan en physiothérapie est utile. Plus on la traite tôt, plus la prise en charge est simple. En présence d'un signe d'alarme décrit plus haut, consultez d'abord un médecin.",
+    "a_text": "Si la douleur au cou dure plus d'une semaine, limite vos mouvements (tourner la tête, conduire), perturbe votre sommeil ou revient régulièrement, un bilan en physiothérapie est utile. Plus on la traite tôt, plus la prise en charge est simple. En présence d'un signe d'alarme décrit plus haut, consultez d'abord un médecin."
+   },
+   {
+    "q": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+    "a_html": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.",
+    "a_text": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
+   },
+   {
+    "q": "Combien de séances me faut-il pour la douleur cervicale ?",
+    "a_html": "La durée du traitement varie selon votre situation : origine de la douleur, ancienneté des symptômes, activités et évolution au fil des séances. Lors de la première visite, nous établissons une estimation adaptée à votre cas.",
+    "a_text": "La durée du traitement varie selon votre situation : origine de la douleur, ancienneté des symptômes, activités et évolution au fil des séances. Lors de la première visite, nous établissons une estimation adaptée à votre cas."
+   },
+   {
     "q": "Comment soulager un mal de cervicales ?",
     "a_html": "Bouger doucement, dans la limite de la douleur, est généralement préférable au repos complet. La chaleur et des pauses devant l'écran peuvent aider. Si la douleur persiste, une évaluation en physiothérapie permet d'adapter les exercices.",
     "a_text": "Bouger doucement, dans la limite de la douleur, est généralement préférable au repos complet. La chaleur et des pauses devant l'écran peuvent aider. Si la douleur persiste, une évaluation en physiothérapie permet d'adapter les exercices."
@@ -300,18 +315,13 @@
     "q": "Quelle douleur ressent-on lors d'une cervicalgie ?",
     "a_html": "Le plus souvent, une douleur et une raideur de la nuque, parfois vers les épaules ou entre les omoplates, qui augmentent avec certains mouvements de la tête. Des maux de tête peuvent s'y associer. L'intensité et l'évolution varient selon chaque personne.",
     "a_text": "Le plus souvent, une douleur et une raideur de la nuque, parfois vers les épaules ou entre les omoplates, qui augmentent avec certains mouvements de la tête. Des maux de tête peuvent s'y associer. L'intensité et l'évolution varient selon chaque personne."
-   },
-   {
-    "q": "Quels sont les signes d'une atteinte du rachis cervical ?",
-    "a_html": "Douleur et raideur du cou, parfois avec une douleur, des fourmillements ou une faiblesse qui descendent dans le bras. Une perte de force, des troubles de l'équilibre, des vertiges inhabituels ou une douleur après un choc doivent être évalués rapidement par un médecin.",
-    "a_text": "Douleur et raideur du cou, parfois avec une douleur, des fourmillements ou une faiblesse qui descendent dans le bras. Une perte de force, des troubles de l'équilibre, des vertiges inhabituels ou une douleur après un choc doivent être évalués rapidement par un médecin."
    }
   ]
  },
  {
   "tipo": "cta",
   "h2": "Douleur à la nuque : besoin d'un physio à Ins ou dans les environs ?",
-  "s1": "Vous avez une ordonnance ou des questions sur votre douleur cervicale ? Appelez-nous au <strong>076 627 38 38</strong>, écrivez-nous sur <strong>WhatsApp au +41 76 627 38 38</strong> ou <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservez votre séance en ligne</a>.",
+  "s1": "Vous avez des questions sur votre douleur cervicale ? Appelez-nous au <strong>076 627 38 38</strong>, écrivez-nous sur <strong>WhatsApp au +41 76 627 38 38</strong> ou <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservez votre séance en ligne</a>.",
   "s2": null
  },
  {

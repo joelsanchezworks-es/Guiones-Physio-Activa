@@ -3,11 +3,11 @@
   "tipo": "hero",
   "eyebrow": "Physio · Payerne",
   "h1": "Physio à Payerne : au cabinet d'Ins ou à domicile",
-  "sub": "Vous cherchez un physiothérapeute à Payerne ? Notre cabinet d'Ins se situe à environ 24,1 km en ligne droite et, pour les patients de la Broye, des séances à domicile peuvent être envisagées [À CONFIRMER : domicile à Payerne]. La physiothérapie prescrite par un médecin est remboursée par votre assurance. Pour fixer un rendez-vous, utilisez notre agenda en ligne ou appelez-nous.",
+  "sub": "Vous cherchez un physiothérapeute à Payerne ? Notre cabinet d'Ins se situe à environ 24,1 km en ligne droite et, pour les patients de la Broye, des séances à domicile peuvent être envisagées [À CONFIRMER : domicile à Payerne]. Le cabinet est reconnu par toutes les assurances maladie en Suisse et ouvert du lundi au vendredi, jusqu'à 20h. Pour fixer un rendez-vous, utilisez notre agenda en ligne ou appelez-nous.",
   "pills": [
    "Cabinet à Ins, à 24,1 km",
-   "Sur prescription médicale",
-   "LAMal · LAA · AI · AM"
+   "Reconnu par toutes les assurances",
+   "Ouvert jusqu'à 20h"
   ],
   "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00036.jpg",
   "alt": "Salle de traitement du cabinet Physio Activa à Ins",
@@ -22,8 +22,8 @@
   "bg": null,
   "cards": [
    {
-    "h3": "Sur prescription, remboursé LAMal / LAA",
-    "html": "<p>Vous êtes assuré dans le canton de Vaud et le cabinet se trouve dans le canton de Berne ? Peu importe : sur ordonnance, la LAMal ou la LAA prend en charge le traitement partout en Suisse.</p>",
+    "h3": "Reconnu par toutes les assurances",
+    "html": "<p>Vous habitez dans le canton de Vaud et le cabinet se trouve dans le canton de Berne ? Peu importe : notre cabinet est reconnu par toutes les assurances maladie en Suisse.</p>",
     "icon": "fa-file-medical"
    },
    {
@@ -70,7 +70,7 @@
    },
    {
     "h3": "Après une opération ou une hospitalisation",
-    "html": "<p>L'HIB – Hôpital intercantonal de la Broye a un site à Payerne. Si vous y avez été opéré ou hospitalisé, nous pouvons poursuivre la rééducation à partir de votre ordonnance.</p>",
+    "html": "<p>L'HIB – Hôpital intercantonal de la Broye a un site à Payerne. Si vous y avez été opéré ou hospitalisé, nous pouvons poursuivre la rééducation à partir des consignes de sortie.</p>",
     "icon": "fa-hospital"
    },
    {
@@ -80,7 +80,7 @@
    },
    {
     "h3": "Drainage lymphatique",
-    "html": "<p>Le drainage lymphatique manuel s'adresse aux personnes qui gardent un membre enflé, par exemple après une prothèse, une fracture ou le traitement d'un cancer. Il se pratique sur prescription, au cabinet d'Ins ou chez vous si le domicile est possible dans la Broye [À CONFIRMER : drainage à domicile à Payerne]. Indications et déroulement : <a href=\"/drainage-lymphatique/\" style=\"color:var(--azure);font-weight:600\">notre page sur le drainage lymphatique</a>.</p>",
+    "html": "<p>Le drainage lymphatique manuel s'adresse aux personnes qui gardent un membre enflé, par exemple après une prothèse, une fracture ou le traitement d'un cancer. Il se pratique au cabinet d'Ins ou chez vous si le domicile est possible dans la Broye [À CONFIRMER : drainage à domicile à Payerne]. Indications et déroulement : <a href=\"/drainage-lymphatique/\" style=\"color:var(--azure);font-weight:600\">notre page sur le drainage lymphatique</a>.</p>",
     "icon": "fa-shield-heart"
    }
   ]
@@ -93,9 +93,9 @@
   "bg": "trust",
   "cards": [
    {
-    "h3": "Ordonnance",
-    "html": "<p>Votre médecin traitant, un spécialiste ou l'hôpital rédige la prescription. Gardez-la avec votre carte d'assuré pour le premier rendez-vous.</p>",
-    "icon": "fa-file-medical"
+    "h3": "Prise de rendez-vous",
+    "html": "<p>Choisissez un créneau en ligne, appelez le 076 627 38 38 ou écrivez sur WhatsApp. Si vous sortez de l'hôpital, apportez votre rapport de sortie au premier rendez-vous.</p>",
+    "icon": "fa-calendar-check"
    },
    {
     "h3": "Bilan",
@@ -124,28 +124,12 @@
   "html": "<p>Le cabinet se trouve à environ 24,1 km en ligne droite de Payerne, de l'autre côté de la limite cantonale. Adresse et plan : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Payerne est une commune francophone du district de la Broye-Vully, dans le canton de Vaud. Vous serez suivi en français, ou en espagnol si cela vous convient mieux.</p>"
  },
  {
-  "tipo": "grid",
-  "eyebrow": "Remboursement",
-  "h2": "Remboursement et coût de la physio à Payerne",
+  "tipo": "texte",
+  "eyebrow": "Assurances",
+  "h2": "Assurances et horaires : physio à Payerne",
   "lead": [],
   "bg": "trust",
-  "cards": [
-   {
-    "h3": "Assurance de base (LAMal)",
-    "html": "<p>Avec une prescription médicale, la physiothérapie est prise en charge par l'assurance obligatoire des soins (LAMal).</p>",
-    "icon": "fa-file-medical"
-   },
-   {
-    "h3": "Accident, AI et AM",
-    "html": "<p>En cas d'accident, l'assurance accidents (LAA) intervient ; l'assurance invalidité (AI) et l'assurance militaire (AM) couvrent aussi la physiothérapie prescrite dans leur cadre.</p>",
-    "icon": "fa-stethoscope"
-   },
-   {
-    "h3": "Ce qui détermine ce que vous payez",
-    "html": "<p>Les séances sont facturées selon la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué]. En LAMal, la franchise et la quote-part de votre contrat restent à votre charge.</p>",
-    "icon": "fa-heart-pulse"
-   }
-  ]
+  "html": "<p>Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse et accueille les patients quel que soit leur canton de résidence : habiter dans la Broye vaudoise ne change rien. Nous vous recevons du lundi au vendredi, jusqu'à 20h, ce qui permet de venir après le travail. Pour réserver : en ligne, au 076 627 38 38 ou sur WhatsApp au +41 76 627 38 38.</p>"
  },
  {
   "tipo": "villes",
@@ -183,6 +167,21 @@
   "h2": "Questions fréquentes sur la physio à Payerne",
   "faq": [
    {
+    "q": "Quand dois-je consulter un physiothérapeute pour une douleur ?",
+    "a_html": "Si la douleur dure plus d'une semaine, limite vos mouvements ou perturbe votre sommeil. Au travail comme au jardin, plus on la traite tôt, plus c'est simple. Après une chute, surtout chez une personne âgée, voyez d'abord votre médecin.",
+    "a_text": "Si la douleur dure plus d'une semaine, limite vos mouvements ou perturbe votre sommeil. Au travail comme au jardin, plus on la traite tôt, plus c'est simple. Après une chute, surtout chez une personne âgée, voyez d'abord votre médecin."
+   },
+   {
+    "q": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+    "a_html": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.",
+    "a_text": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
+   },
+   {
+    "q": "Combien de séances me faut-il ?",
+    "a_html": "La durée du traitement varie selon votre situation : une douleur récente, une prothèse de hanche ou un œdème ne demandent pas le même suivi. Lors de la première visite, nous établissons une estimation adaptée à votre cas.",
+    "a_text": "La durée du traitement varie selon votre situation : une douleur récente, une prothèse de hanche ou un œdème ne demandent pas le même suivi. Lors de la première visite, nous établissons une estimation adaptée à votre cas."
+   },
+   {
     "q": "Comment choisir son physiothérapeute ?",
     "a_html": "Vérifiez qu'il traite votre problème, qu'il parle votre langue et qu'il est accessible pour vous, au cabinet ou à domicile. Depuis la Broye, vous pouvez choisir entre Ins et votre domicile [À CONFIRMER : domicile à Payerne].",
     "a_text": "Vérifiez qu'il traite votre problème, qu'il parle votre langue et qu'il est accessible pour vous, au cabinet ou à domicile. Depuis la Broye, vous pouvez choisir entre Ins et votre domicile [À CONFIRMER : domicile à Payerne]."
@@ -198,29 +197,14 @@
     "a_text": "C'est le travail progressif qui permet de retrouver une fonction perdue ou diminuée, après une opération, une fracture ou une longue immobilisation : marcher, monter un escalier, lever le bras."
    },
    {
-    "q": "Est-ce que la physiothérapie est remboursée en Suisse ?",
-    "a_html": "Oui, sur prescription médicale, par l'assurance de base, l'assurance accidents, l'AI ou l'AM. Habiter dans le canton de Vaud et se soigner dans le canton de Berne ne change pas cette règle.",
-    "a_text": "Oui, sur prescription médicale, par l'assurance de base, l'assurance accidents, l'AI ou l'AM. Habiter dans le canton de Vaud et se soigner dans le canton de Berne ne change pas cette règle."
-   },
-   {
-    "q": "Quel est le tarif d'un physiothérapeute ?",
-    "a_html": "Avec une ordonnance, la séance est facturée selon le tarif en vigueur pour la physiothérapie et remboursée par votre assurance ; en LAMal, seules la franchise et la quote-part restent à votre charge [À CONFIRMER : tarif appliqué].",
-    "a_text": "Avec une ordonnance, la séance est facturée selon le tarif en vigueur pour la physiothérapie et remboursée par votre assurance ; en LAMal, seules la franchise et la quote-part restent à votre charge [À CONFIRMER : tarif appliqué]."
-   },
-   {
-    "q": "Quel est le nouveau tarif pour la physiothérapie ?",
-    "a_html": "La structure tarifaire est fixée au niveau national et peut évoluer. Pour connaître le tarif appliqué actuellement, contactez-nous [À CONFIRMER : tarif en vigueur et date de changement].",
-    "a_text": "La structure tarifaire est fixée au niveau national et peut évoluer. Pour connaître le tarif appliqué actuellement, contactez-nous [À CONFIRMER : tarif en vigueur et date de changement]."
-   },
-   {
     "q": "Quelle est la différence entre lipœdème et lymphœdème ?",
     "a_html": "Le lymphœdème vient d'un mauvais écoulement de la lymphe, souvent d'un seul côté. Le lipœdème est une répartition anormale de la graisse, en général symétrique sur les jambes. Le diagnostic revient au médecin.",
     "a_text": "Le lymphœdème vient d'un mauvais écoulement de la lymphe, souvent d'un seul côté. Le lipœdème est une répartition anormale de la graisse, en général symétrique sur les jambes. Le diagnostic revient au médecin."
    },
    {
     "q": "J'ai été hospitalisé à l'HIB : pouvez-vous prendre le relais ?",
-    "a_html": "Oui. Après un séjour sur le site de Payerne de l'Hôpital intercantonal de la Broye, apportez l'ordonnance de sortie : nous poursuivons la rééducation selon les consignes reçues.",
-    "a_text": "Oui. Après un séjour sur le site de Payerne de l'Hôpital intercantonal de la Broye, apportez l'ordonnance de sortie : nous poursuivons la rééducation selon les consignes reçues."
+    "a_html": "Oui. Après un séjour sur le site de Payerne de l'Hôpital intercantonal de la Broye, apportez le rapport de sortie : nous poursuivons la rééducation selon les consignes reçues.",
+    "a_text": "Oui. Après un séjour sur le site de Payerne de l'Hôpital intercantonal de la Broye, apportez le rapport de sortie : nous poursuivons la rééducation selon les consignes reçues."
    },
    {
     "q": "Venez-vous à Grandcour ou à Trey ?",

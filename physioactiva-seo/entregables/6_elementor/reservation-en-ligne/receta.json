@@ -7,7 +7,7 @@
   "pills": [
    "En ligne, par téléphone ou WhatsApp",
    "Au cabinet d'Ins ou à domicile",
-   "Sur prescription médicale"
+   "Ouvert jusqu'à 20h"
   ],
   "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00036.jpg",
   "alt": "Cabinet Physio Activa à Ins prêt à accueillir les patients",
@@ -23,9 +23,9 @@
   "bg": "trust",
   "cards": [
    {
-    "h3": "Sur prescription, remboursé LAMal / LAA",
-    "html": "<p>Avec une ordonnance médicale, les séances sont prises en charge par la LAMal, la LAA, l&#x27;AI ou l&#x27;AM.</p>",
-    "icon": "fa-file-medical"
+    "h3": "Reconnu par toutes les assurances",
+    "html": "<p>Notre cabinet est reconnu par toutes les compagnies d&#x27;assurance maladie en Suisse, quel que soit votre canton de résidence.</p>",
+    "icon": "fa-shield-heart"
    },
    {
     "h3": "Au cabinet ou à domicile",
@@ -39,7 +39,7 @@
    },
    {
     "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
-    "html": "<p>Réservation sur OneDoc, au 076 627 38 38 ou par WhatsApp au +41 76 627 38 38.</p>",
+    "html": "<p>Réservation sur OneDoc, au 076 627 38 38 ou par WhatsApp, du lundi au vendredi jusqu&#x27;à 20h.</p>",
     "icon": "fa-calendar-check"
    }
   ]
@@ -56,7 +56,7 @@
    "<strong>Par WhatsApp</strong> : +41 76 627 38 38, si vous préférez écrire."
   ],
   "after": [
-   "Horaires : du lundi au vendredi, de 8 h 30 à 19 h 30 [À CONFIRMER]."
+   "Horaires : du lundi au vendredi, jusqu'à 20h."
   ]
  },
  {
@@ -68,36 +68,20 @@
   "html": "<p>Le cabinet se trouve chez InsGym, Rämismatte 21, 3232 Ins (BE). Si vous ne pouvez pas vous déplacer, après une opération par exemple, nous venons chez vous : découvrez notre <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>. Nous parlons français et espagnol.</p>"
  },
  {
-  "tipo": "grid",
+  "tipo": "texte",
   "eyebrow": "Physio Activa",
   "h2": "Ce qu'il faut apporter",
   "lead": [],
   "bg": null,
-  "cards": [
-   {
-    "h3": null,
-    "html": "<p>votre <strong>ordonnance médicale</strong> (prescription de physiothérapie) ;</p>",
-    "icon": "fa-file-medical"
-   },
-   {
-    "h3": null,
-    "html": "<p>votre <strong>carte d'assurance</strong> ;</p>",
-    "icon": "fa-file-medical"
-   },
-   {
-    "h3": null,
-    "html": "<p>si vous en avez, vos comptes rendus médicaux ou d'imagerie.</p>",
-    "icon": "fa-heart-pulse"
-   }
-  ]
+  "html": "<p>Si vous en avez, apportez vos comptes rendus médicaux ou d'imagerie.</p>"
  },
  {
   "tipo": "texte",
-  "eyebrow": "Remboursement",
-  "h2": "Remboursement et coût de la physio à Ins",
+  "eyebrow": "Assurances",
+  "h2": "Assurances et horaires",
   "lead": [],
   "bg": "trust",
-  "html": "<p>La physiothérapie est remboursée par l'assurance de base (LAMal), l'assurance accident (LAA), l'AI et l'AM, <strong>avec une prescription médicale</strong>.</p>"
+  "html": "<p>Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Le cabinet est ouvert du lundi au vendredi, jusqu'à 20h. Pour prendre rendez-vous, réservez en ligne, appelez le 076 627 38 38 ou écrivez-nous sur WhatsApp au +41 76 627 38 38.</p>"
  },
  {
   "tipo": "villes",
@@ -151,19 +135,29 @@
   "h2": "Questions fréquentes sur la réservation à Ins",
   "faq": [
    {
+    "q": "Quand dois-je consulter un physiothérapeute ?",
+    "a_html": "Lorsqu'une douleur ou une raideur dure plus d'une semaine, limite vos mouvements, perturbe votre sommeil ou revient régulièrement, ou après un accident ou une opération. Plus on la traite tôt, plus c'est simple. Une douleur forte qui s'aggrave, un gonflement important ou de la fièvre nécessitent d'abord un avis médical.",
+    "a_text": "Lorsqu'une douleur ou une raideur dure plus d'une semaine, limite vos mouvements, perturbe votre sommeil ou revient régulièrement, ou après un accident ou une opération. Plus on la traite tôt, plus c'est simple. Une douleur forte qui s'aggrave, un gonflement important ou de la fièvre nécessitent d'abord un avis médical."
+   },
+   {
+    "q": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+    "a_html": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.",
+    "a_text": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
+   },
+   {
+    "q": "Combien de séances me faut-il ?",
+    "a_html": "La durée du traitement varie selon votre situation et vos objectifs. Lors de la première visite, nous établissons une estimation adaptée à votre cas.",
+    "a_text": "La durée du traitement varie selon votre situation et vos objectifs. Lors de la première visite, nous établissons une estimation adaptée à votre cas."
+   },
+   {
     "q": "Quel type de consultation choisir ?",
     "a_html": "Si c'est votre première visite, choisissez « Première consultation » : nous faisons le bilan et fixons avec vous les objectifs du traitement. Les séances de suivi se réservent ensuite de la même façon.",
     "a_text": "Si c'est votre première visite, choisissez « Première consultation » : nous faisons le bilan et fixons avec vous les objectifs du traitement. Les séances de suivi se réservent ensuite de la même façon."
    },
    {
-    "q": "Ai-je besoin d'une ordonnance ?",
-    "a_html": "Pour un remboursement par l'assurance, oui : il faut une prescription médicale. Si vous n'en avez pas encore, appelez-nous ou écrivez-nous et nous vous orientons.",
-    "a_text": "Pour un remboursement par l'assurance, oui : il faut une prescription médicale. Si vous n'en avez pas encore, appelez-nous ou écrivez-nous et nous vous orientons."
-   },
-   {
     "q": "Puis-je modifier ou annuler mon rendez-vous ?",
-    "a_html": "Oui. Contactez-nous dès que possible par téléphone ou WhatsApp. Délai d'annulation : [À CONFIRMER].",
-    "a_text": "Oui. Contactez-nous dès que possible par téléphone ou WhatsApp. Délai d'annulation : [À CONFIRMER]."
+    "a_html": "Oui. Contactez-nous dès que possible par téléphone ou WhatsApp, du lundi au vendredi jusqu'à 20h.",
+    "a_text": "Oui. Contactez-nous dès que possible par téléphone ou WhatsApp, du lundi au vendredi jusqu'à 20h."
    },
    {
     "q": "Venez-vous à domicile dans ma commune ?",
@@ -174,11 +168,6 @@
     "q": "Comment se passe une séance de physiothérapie ?",
     "a_html": "La première séance commence par un entretien sur vos douleurs et vos antécédents, puis un examen de vos mouvements. Nous fixons ensuite ensemble des objectifs et commençons le traitement : exercices, techniques manuelles et conseils. Durée d'une séance : [À CONFIRMER].",
     "a_text": "La première séance commence par un entretien sur vos douleurs et vos antécédents, puis un examen de vos mouvements. Nous fixons ensuite ensemble des objectifs et commençons le traitement : exercices, techniques manuelles et conseils. Durée d'une séance : [À CONFIRMER]."
-   },
-   {
-    "q": "Est-ce que la physiothérapie est remboursée en Suisse ?",
-    "a_html": "Oui, avec une prescription médicale, par l'assurance de base (LAMal), l'assurance accident (LAA), l'AI ou l'AM. La franchise et la quote-part dépendent de votre contrat d'assurance.",
-    "a_text": "Oui, avec une prescription médicale, par l'assurance de base (LAMal), l'assurance accident (LAA), l'AI ou l'AM. La franchise et la quote-part dépendent de votre contrat d'assurance."
    },
    {
     "q": "Comment choisir son physiothérapeute ?",

@@ -3,11 +3,11 @@
   "tipo": "hero",
   "eyebrow": "Physiothérapie à Ins · cabinet et domicile",
   "h1": "Coiffe des rotateurs et douleur à l'épaule : physio à Ins",
-  "sub": "Les lésions de la coiffe des rotateurs (tendinite, conflit, rupture partielle ou totale) font partie des causes les plus fréquentes de douleur à l'épaule. La physiothérapie peut aider à diminuer la douleur, à retrouver la mobilité et la force du bras, avec ou sans opération, sur prescription médicale. Chez Physio Activa, nous vous accueillons au cabinet à Ins ou à domicile dans le Seeland.",
+  "sub": "Les lésions de la coiffe des rotateurs (tendinite, conflit, rupture partielle ou totale) font partie des causes les plus fréquentes de douleur à l'épaule. La physiothérapie peut aider à diminuer la douleur, à retrouver la mobilité et la force du bras, avec ou sans opération. Chez Physio Activa, nous vous accueillons au cabinet à Ins ou à domicile dans le Seeland.",
   "pills": [
-   "Sur prescription médicale",
+   "Reconnu par toutes les assurances",
    "Au cabinet d'Ins ou à domicile",
-   "Remboursé LAMal / LAA"
+   "Ouvert jusqu'à 20h"
   ],
   "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00032.jpg",
   "alt": "Rééducation de l'épaule avec bande élastique guidée par un physiothérapeute",
@@ -22,9 +22,9 @@
   "bg": "trust",
   "cards": [
    {
-    "h3": "Sur prescription, remboursé LAMal / LAA",
-    "html": "<p>Avec une ordonnance médicale, les séances sont prises en charge par la LAMal, la LAA, l&#x27;AI ou l&#x27;AM.</p>",
-    "icon": "fa-file-medical"
+    "h3": "Reconnu par toutes les assurances",
+    "html": "<p>Notre cabinet est reconnu par toutes les compagnies d&#x27;assurance maladie en Suisse, quel que soit votre canton de résidence.</p>",
+    "icon": "fa-shield-heart"
    },
    {
     "h3": "Au cabinet ou à domicile",
@@ -38,7 +38,7 @@
    },
    {
     "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
-    "html": "<p>Réservation sur OneDoc, au 076 627 38 38 ou par WhatsApp au +41 76 627 38 38.</p>",
+    "html": "<p>Réservation sur OneDoc, au 076 627 38 38 ou par WhatsApp, du lundi au vendredi jusqu&#x27;à 20h.</p>",
     "icon": "fa-calendar-check"
    }
   ]
@@ -143,9 +143,9 @@
   "cta_mid": true,
   "cards": [
    {
-    "h3": "Ordonnance",
-    "html": "<p>Votre médecin prescrit la physiothérapie ; apportez l&#x27;ordonnance et votre carte d&#x27;assuré à la première séance.</p>",
-    "icon": "fa-file-medical"
+    "h3": "Prise de rendez-vous",
+    "html": "<p>Vous réservez en ligne, par téléphone ou par WhatsApp, au cabinet d&#x27;Ins ou à domicile.</p>",
+    "icon": "fa-calendar-check"
    },
    {
     "h3": "Bilan",
@@ -154,7 +154,7 @@
    },
    {
     "h3": "Séances au cabinet ou à domicile",
-    "html": "<p>Le traitement se déroule au cabinet d&#x27;Ins ou chez vous, selon votre situation et la prescription.</p>",
+    "html": "<p>Le traitement se déroule au cabinet d&#x27;Ins ou chez vous, selon votre situation.</p>",
     "icon": "fa-house-medical"
    },
    {
@@ -174,11 +174,11 @@
  },
  {
   "tipo": "texte",
-  "eyebrow": "Remboursement",
-  "h2": "Remboursement et coût de la physio à Ins",
+  "eyebrow": "Assurances",
+  "h2": "Assurances et horaires",
   "lead": [],
   "bg": "trust",
-  "html": "<p>La physiothérapie est remboursée par l'assurance de base (LAMal), par l'assurance accident (LAA) après une chute ou un accident, ainsi que par l'AI et l'AM, <strong>avec une prescription médicale</strong>. Demandez une ordonnance de physiothérapie à votre médecin ou à votre orthopédiste.</p>"
+  "html": "<p>Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Nous vous recevons du lundi au vendredi, jusqu'à 20h : prenez rendez-vous <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">en ligne</a>, par téléphone au <strong>076 627 38 38</strong> ou sur <strong>WhatsApp au +41 76 627 38 38</strong>.</p>"
  },
  {
   "tipo": "villes",
@@ -232,14 +232,24 @@
   "h2": "Questions fréquentes sur l'épaule et la physio à Ins",
   "faq": [
    {
+    "q": "Quand dois-je consulter un physiothérapeute pour une douleur à l'épaule ?",
+    "a_html": "Si la douleur à l'épaule dure plus d'une semaine, vous empêche de lever le bras ou de vous habiller, perturbe votre sommeil ou fait perdre de la force, un bilan en physiothérapie est utile. Plus on la traite tôt, plus la prise en charge est simple. Après une chute, avec une déformation ou une douleur dans la poitrine, consultez d'abord un médecin ou appelez le 144.",
+    "a_text": "Si la douleur à l'épaule dure plus d'une semaine, vous empêche de lever le bras ou de vous habiller, perturbe votre sommeil ou fait perdre de la force, un bilan en physiothérapie est utile. Plus on la traite tôt, plus la prise en charge est simple. Après une chute, avec une déformation ou une douleur dans la poitrine, consultez d'abord un médecin ou appelez le 144."
+   },
+   {
+    "q": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+    "a_html": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.",
+    "a_text": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
+   },
+   {
+    "q": "Combien de séances me faut-il pour une lésion de la coiffe des rotateurs ?",
+    "a_html": "La durée du traitement varie selon votre situation : type de lésion (tendinite, rupture, opération), âge, activités et évolution au fil des séances. Lors de la première visite, nous établissons une estimation adaptée à votre cas.",
+    "a_text": "La durée du traitement varie selon votre situation : type de lésion (tendinite, rupture, opération), âge, activités et évolution au fil des séances. Lors de la première visite, nous établissons une estimation adaptée à votre cas."
+   },
+   {
     "q": "Quels sont les symptômes d'une lésion de la coiffe des rotateurs ?",
     "a_html": "Douleur sur le côté de l'épaule en levant le bras, douleur la nuit, difficulté à mettre une veste, parfois perte de force. Le médecin confirme le diagnostic, si besoin avec une imagerie.",
     "a_text": "Douleur sur le côté de l'épaule en levant le bras, douleur la nuit, difficulté à mettre une veste, parfois perte de force. Le médecin confirme le diagnostic, si besoin avec une imagerie."
-   },
-   {
-    "q": "Combien de temps faut-il pour récupérer d'une lésion de la coiffe des rotateurs ?",
-    "a_html": "Cela varie selon la lésion (tendinite, rupture, opération), l'âge et les activités. Aucun délai ne peut être donné sans évaluation.",
-    "a_text": "Cela varie selon la lésion (tendinite, rupture, opération), l'âge et les activités. Aucun délai ne peut être donné sans évaluation."
    },
    {
     "q": "Comment renforcer la coiffe des rotateurs ?",
@@ -276,7 +286,7 @@
  {
   "tipo": "cta",
   "h2": "Douleur à l'épaule : besoin d'un physio à Ins ou dans les environs ?",
-  "s1": "Vous avez une ordonnance ou des questions sur votre douleur à l'épaule ? Appelez-nous au <strong>076 627 38 38</strong>, écrivez-nous sur <strong>WhatsApp au +41 76 627 38 38</strong> ou <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservez votre séance en ligne</a>.",
+  "s1": "Vous avez des questions sur votre douleur à l'épaule ? Appelez-nous au <strong>076 627 38 38</strong>, écrivez-nous sur <strong>WhatsApp au +41 76 627 38 38</strong> ou <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservez votre séance en ligne</a>.",
   "s2": null
  },
  {
