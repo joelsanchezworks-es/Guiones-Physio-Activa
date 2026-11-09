@@ -1,6 +1,6 @@
 ---
 title: "Physiothérapie à Avenches – domicile ou Ins | Physio Activa"
-meta: "Physiothérapie à Avenches et dans la Broye-Vully : à domicile ou au cabinet d'Ins, remboursée sur ordonnance (LAMal, LAA). Prenez rendez-vous en ligne."
+meta: "Physiothérapie à Avenches et dans la Broye-Vully : à domicile ou au cabinet d'Ins, reconnu par toutes les assurances. Prenez rendez-vous en ligne."
 slug: "/physio-a-avenches/"
 keyword_principal: "physiothérapie avenches"
 tipo: "zona"
@@ -9,13 +9,13 @@ zona: "avenches"
 
 # Physiothérapie à Avenches : au cabinet d'Ins ou à domicile
 
-Habitant d'Avenches, vous êtes à environ 14,8 km en ligne droite de Physio Activa, installé à Ins. Selon votre situation, les séances de physio ont lieu au cabinet ou à votre domicile [À CONFIRMER : déplacements à Avenches]. Prescrites par un médecin, elles sont remboursées par votre assurance, même si vous êtes assuré dans le canton de Vaud ; un rendez-vous se prend en quelques clics, par téléphone ou par WhatsApp.
+Habitant d'Avenches, vous êtes à environ 14,8 km en ligne droite de Physio Activa, installé à Ins. Selon votre situation, les séances de physio ont lieu au cabinet ou à votre domicile [À CONFIRMER : déplacements à Avenches]. Le cabinet est reconnu par toutes les assurances maladie en Suisse, y compris pour les habitants du canton de Vaud, et ouvert du lundi au vendredi jusqu'à 20h ; un rendez-vous se prend en quelques clics, par téléphone ou par WhatsApp.
 
 ## L'essentiel en bref
 
-### Sur prescription, remboursé LAMal / LAA
+### Reconnu par toutes les assurances
 
-Un médecin vaudois peut prescrire des séances réalisées dans le canton de Berne : l'assurance de base, l'assurance accidents, l'AI ou l'AM remboursent selon les mêmes règles fédérales.
+Être Vaudois et se soigner dans le canton de Berne ne pose aucun problème : notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse.
 
 ### Au cabinet d'Ins ou à domicile
 
@@ -31,7 +31,7 @@ Réservez sur l'agenda en ligne ou contactez-nous au 076 627 38 38, également s
 
 ## Quand consulter un physio, et quand voir d'abord un médecin ?
 
-Dans la région, beaucoup de demandes concernent la rééducation après une prothèse de hanche ou de genou, une sciatique qui irradie dans la fesse, une épaule gelée ou une coiffe des rotateurs abîmée, une cheville instable. Dans tous les cas, c'est le médecin qui pose le diagnostic et rédige la prescription.
+Dans la région, beaucoup de demandes concernent la rééducation après une prothèse de hanche ou de genou, une sciatique qui irradie dans la fesse, une épaule gelée ou une coiffe des rotateurs abîmée, une cheville instable. Dans tous les cas, plus la prise en charge commence tôt, plus elle est simple.
 
 Consultez rapidement un médecin si une jambe opérée devient chaude, rouge et gonflée, si la cicatrice coule, si la fièvre apparaît, ou si une douleur au dos s'accompagne d'une faiblesse nouvelle. Douleur thoracique, gêne respiratoire brutale ou trouble de la parole : composez le 144.
 
@@ -57,9 +57,9 @@ Vous ne trouvez pas votre cas ? Consultez [toutes les pathologies](/pour-les-pat
 
 ## Comment se déroule votre prise en charge ?
 
-### Ordonnance
+### Prise de rendez-vous
 
-Elle peut être rédigée par votre généraliste, votre chirurgien ou l'hôpital à la sortie ; son canton n'a pas d'importance.
+Réservez en ligne, par téléphone ou sur WhatsApp, du lundi au vendredi jusqu'à 20h. Après une opération, apportez les consignes du chirurgien ou de l'hôpital.
 
 ### Bilan
 
@@ -71,37 +71,31 @@ Les exercices progressent avec vous, dans le respect des consignes chirurgicales
 
 ### Autonomie et prévention
 
-Un programme à domicile vous permet de conserver les acquis une fois l'ordonnance terminée.
+Un programme à domicile vous permet de conserver les acquis une fois le traitement terminé.
 
 ## Venir au cabinet d'Ins depuis Avenches
 
 Notre cabinet se trouve à l'InsGym, Rämismatte 21, 3232 Ins, à environ 14,8 km en ligne droite de la cité romaine. Accès et parking : [Nous trouver](/nous-trouver/).
 
-Avenches est une commune vaudoise francophone du district de la Broye-Vully, et nous vous recevons en français. L'hôpital de référence de la région est le HIB – Hôpital intercantonal de la Broye, à Payerne : après une intervention ou un séjour là-bas, la rééducation peut se poursuivre à Ins ou chez vous, sur prescription médicale.
+Avenches est une commune vaudoise francophone du district de la Broye-Vully, et nous vous recevons en français. L'hôpital de référence de la région est le HIB – Hôpital intercantonal de la Broye, à Payerne : après une intervention ou un séjour là-bas, la rééducation peut se poursuivre à Ins ou chez vous, selon les consignes médicales.
 
-## Remboursement et coût de la physio à Avenches
+## Assurances et horaires : physio à Avenches
 
-### Assurance de base (LAMal)
-
-Sur prescription médicale, l'assurance obligatoire prend en charge la physiothérapie, y compris pour un assuré vaudois traité dans le canton de Berne.
-
-### Accident, AI et AM
-
-Après un accident, l'assurance accidents (LAA) intervient ; l'assurance invalidité (AI) et l'assurance militaire (AM) couvrent aussi les séances prescrites dans leur domaine.
-
-### Ce qui détermine ce que vous payez
-
-Avec la LAMal, la franchise et la quote-part restent à votre charge selon votre contrat. Les séances suivent la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué]. Apportez votre ordonnance et votre carte d'assuré.
+Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence : habiter la Broye vaudoise et venir à Ins, dans le canton de Berne, ne change rien. Les rendez-vous sont possibles du lundi au vendredi, jusqu'à 20h, en ligne, au 076 627 38 38 ou sur WhatsApp.
 
 ## Questions fréquentes sur la physio à Avenches
 
-### J'habite dans le canton de Vaud : mon assurance rembourse-t-elle un cabinet bernois ?
+### Quand dois-je consulter un physiothérapeute pour une douleur ?
 
-Oui. L'assurance de base est régie par une loi fédérale, la LAMal ; une ordonnance établie par un médecin vaudois est valable pour un traitement à Ins.
+Si la douleur dure plus d'une semaine, limite votre mobilité, perturbe votre sommeil ou vous empêche de marcher comme avant, par exemple après une prothèse. Plus on la traite tôt, plus c'est simple.
 
-### Quel est le tarif d'une consultation de physiothérapie en Suisse ?
+### Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?
 
-Il n'y a pas de prix fixé librement par chaque cabinet : la physiothérapie prescrite est facturée selon une structure tarifaire nationale négociée avec les assureurs [À CONFIRMER : tarif appliqué]. Ce qui varie pour vous, c'est la franchise et la quote-part de votre contrat.
+Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.
+
+### Combien de séances me faut-il ?
+
+La durée du traitement varie selon votre situation, l'intervention subie et vos objectifs de marche ou d'effort. Lors de la première visite, nous établissons une estimation adaptée à votre cas.
 
 ### Faites-vous des visites à Faoug, Salavaux ou Domdidier ?
 
@@ -109,7 +103,7 @@ Ces villages entourent la commune, tout comme Donatyre et Oleyres, mais nous dev
 
 ### Quels sont les problèmes de lymphe possibles après une opération ?
 
-Un œdème persistant, une sensation de lourdeur ou un lymphœdème peuvent apparaître, surtout après une chirurgie touchant les ganglions. Parlez-en à votre médecin : il peut prescrire un [drainage lymphatique manuel](/drainage-lymphatique/) intégré à la physiothérapie.
+Un œdème persistant, une sensation de lourdeur ou un lymphœdème peuvent apparaître, surtout après une chirurgie touchant les ganglions. Parlez-en à votre médecin : un [drainage lymphatique manuel](/drainage-lymphatique/) peut alors s'intégrer à la physiothérapie.
 
 ### Est-ce normal d'avoir plus mal après une séance de physio ?
 
@@ -117,7 +111,7 @@ Une gêne musculaire légère le lendemain, comme après un effort inhabituel, e
 
 ### Je sors du HIB à Payerne : par où commencer ?
 
-Demandez l'ordonnance à la sortie, gardez les consignes de l'hôpital, puis réservez. Si vous ne pouvez pas encore conduire, signalez-le pour envisager le domicile.
+Gardez les consignes de l'hôpital, puis réservez. Si vous ne pouvez pas encore conduire, signalez-le pour envisager le domicile.
 
 ### Qui peut aller en centre de rééducation ?
 
@@ -141,5 +135,6 @@ Fixez votre premier rendez-vous avec la [réservation en ligne](/reservation-en-
 - Datos de la ficha usados: 14,8 km en línea recta, comuna francófona, district de la Broye-Vully, cantón de Vaud, HIB (Payerne), localidades vecinas (Faoug, Donatyre, Oleyres, Salavaux, Domdidier).
 - FAQ del banco PAA: tarif en Suisse, lymphe après opération, plus mal après séance, centre de rééducation, MTT; locales: Vaud/Berna, pueblos, HIB, distancia.
 - «Cité romaine» (Aventicum) es dato histórico general, no de la ficha: quitar si no se quiere.
-- Pendiente: domicilio en Avenches y pueblos vecinos, días de paso, tarifa aplicada, si se ofrece MTT en InsGym.
+- Pendiente: domicilio en Avenches y pueblos vecinos, días de paso, si se ofrece MTT en InsGym.
+- Ajuste v3: sin receta ni detalle de seguro; FAQ estándar; horario hasta las 20h. FAQ: 3 estándar + 7 existentes (se quitan «Vaud/Berna reembolso» y «tarif en Suisse»).
 - La palabra alemana «Medizinische Trainingstherapie» solo explica la sigla MTT; quitar si se quiere 100 % francés.

@@ -1,6 +1,6 @@
 ---
 title: "Physio à Yverdon – à domicile ou à Ins | Physio Activa"
-meta: "Physio à Yverdon : pas de cabinet sur place, nous recevons à Ins (43,5 km) ; domicile à confirmer. Remboursé sur ordonnance LAMal, LAA. Contactez-nous."
+meta: "Physio à Yverdon : pas de cabinet sur place, nous recevons à Ins (43,5 km) ; domicile à confirmer. Ouvert jusqu'à 20h en semaine. Contactez-nous."
 slug: "/physio-a-yverdon/"
 keyword_principal: "physio yverdon"
 tipo: "zona"
@@ -9,13 +9,13 @@ zona: "yverdon"
 
 # Physio à Yverdon-les-Bains : au cabinet d'Ins ou à domicile
 
-Vous cherchez un physio à Yverdon-les-Bains ? Disons-le d'emblée : Physio Activa n'a pas de cabinet dans la ville. Notre seule adresse est à Ins (Rämismatte 21), à environ 43,5 km en ligne droite, et les visites à domicile à Yverdon restent [À CONFIRMER : déplacements à Yverdon-les-Bains possibles ou non]. Sur ordonnance, les séances sont remboursées ; appelez-nous avant de réserver.
+Vous cherchez un physio à Yverdon-les-Bains ? Disons-le d'emblée : Physio Activa n'a pas de cabinet dans la ville. Notre seule adresse est à Ins (Rämismatte 21), à environ 43,5 km en ligne droite, et les visites à domicile à Yverdon restent [À CONFIRMER : déplacements à Yverdon-les-Bains possibles ou non]. Le cabinet est reconnu par toutes les assurances maladie en Suisse ; appelez-nous avant de réserver.
 
 ## L'essentiel en bref
 
-### Sur prescription, remboursé LAMal / LAA
+### Reconnu par toutes les assurances
 
-Une ordonnance de votre médecin, yverdonnois ou non, suffit pour une prise en charge par l'assurance maladie, l'assurance accidents, l'AI ou l'AM.
+Notre cabinet est reconnu par toutes les assurances maladie en Suisse : votre domicile dans le Nord vaudois ne change rien.
 
 ### Au cabinet d'Ins ou à domicile
 
@@ -43,11 +43,11 @@ La formule que nous pouvons proposer sans réserve, surtout si vous travaillez d
 
 ### À domicile et localités voisines
 
-Grandson, Montagny-près-Yverdon, Cheseaux-Noréaz ou Treycovagnes sortent de notre zone habituelle (Seeland et Trois-Lacs) : [À CONFIRMER : couverture de ces localités, jours de passage et délai du premier rendez-vous]. L'ordonnance doit mentionner le domicile. Voir [physiothérapie à domicile](/physiotherapeute-a-domicile/).
+Grandson, Montagny-près-Yverdon, Cheseaux-Noréaz ou Treycovagnes sortent de notre zone habituelle (Seeland et Trois-Lacs) : [À CONFIRMER : couverture de ces localités, jours de passage et délai du premier rendez-vous]. Voir [physiothérapie à domicile](/physiotherapeute-a-domicile/).
 
 ### Après une opération ou une hospitalisation
 
-Vous rentrez d'un séjour à l'eHnv avec une prescription de rééducation ? Le suivi peut reprendre à Ins. Les premières semaines sont souvent chargées : parlons du trajet avant de commencer.
+Vous rentrez d'un séjour à l'eHnv avec une rééducation à poursuivre ? Le suivi peut reprendre à Ins. Les premières semaines sont souvent chargées : parlons du trajet avant de commencer.
 
 ### Hanche, genou, dos et épaule
 
@@ -60,7 +60,7 @@ Autres motifs : [toutes les pathologies](/pour-les-patients/).
 
 ### Drainage lymphatique
 
-Pour un œdème ou un lymphœdème après une chirurgie ou un traitement oncologique, sur ordonnance et souvent à un rythme serré : la distance devient déterminante [À CONFIRMER : drainage à domicile dans la région d'Yverdon]. Voir [drainage lymphatique](/drainage-lymphatique/).
+Pour un œdème ou un lymphœdème après une chirurgie ou un traitement oncologique, souvent à un rythme serré : la distance devient déterminante [À CONFIRMER : drainage à domicile dans la région d'Yverdon]. Voir [drainage lymphatique](/drainage-lymphatique/).
 
 ### Physio du sport
 
@@ -68,9 +68,9 @@ Après une entorse, une tendinopathie ou une opération du genou, on travaille f
 
 ## Comment se déroule votre prise en charge ?
 
-### Ordonnance
+### Prise de rendez-vous
 
-Votre médecin traitant ou le service hospitalier précise le nombre de séances et, si nécessaire, la mention « à domicile ».
+Appelez le 076 627 38 38 ou écrivez sur WhatsApp : nous faisons le point sur la distance et vos disponibilités, puis vous réservez en ligne.
 
 ### Bilan
 
@@ -88,35 +88,29 @@ Des exercices à faire chez vous, d'autant plus utiles que le cabinet est loin.
 
 Le cabinet se trouve à environ 43,5 km en ligne droite, dans le bâtiment de l'InsGym et son espace d'entraînement. Plan et accès : [Nous trouver](/nous-trouver/).
 
-Ins appartient au canton de Berne, mais comme à Yverdon, chef-lieu francophone du district du Jura-Nord vaudois, vous êtes accueilli en français du premier appel à la dernière séance (espagnol possible). Opéré à l'eHnv ? Apportez le rapport de sortie avec l'ordonnance : il nous aide à reprendre la rééducation là où l'hôpital l'a laissée.
+Ins appartient au canton de Berne, mais comme à Yverdon, chef-lieu francophone du district du Jura-Nord vaudois, vous êtes accueilli en français du premier appel à la dernière séance (espagnol possible). Opéré à l'eHnv ? Apportez le rapport de sortie : il nous aide à reprendre la rééducation là où l'hôpital l'a laissée.
 
-## Remboursement et coût de la physio à Yverdon-les-Bains
+## Assurances et horaires : physio à Yverdon-les-Bains
 
-### Assurance de base (LAMal)
-
-Avec une ordonnance médicale, l'assurance obligatoire des soins (LAMal) prend en charge la physiothérapie. La franchise et la quote-part de votre contrat s'appliquent.
-
-### Accident, AI et AM
-
-Après un accident, l'assurance accidents (LAA) intervient ; l'assurance invalidité (AI) et l'assurance militaire (AM) couvrent aussi les séances dans leur domaine. Apportez ordonnance et carte d'assuré à la première séance.
-
-### Ce qui détermine ce que vous payez
-
-Les séances sont facturées selon la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué]. Votre part dépend de la franchise, de la quote-part et de l'assurance concernée.
+Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence : venir du canton de Vaud ne pose aucun problème. Le cabinet d'Ins est ouvert du lundi au vendredi, jusqu'à 20h. Avant de réserver en ligne, appelez le 076 627 38 38 ou écrivez sur WhatsApp pour parler du trajet.
 
 ## Questions fréquentes sur la physio à Yverdon-les-Bains
+
+### Quand dois-je consulter un physiothérapeute pour une douleur ?
+
+Quand la douleur persiste plus d'une semaine, gêne la marche ou le sommeil, ou après une opération récente. Plus on commence tôt, plus c'est simple. Fièvre, perte de force ou douleur après une chute importante : consultez d'abord votre médecin.
+
+### Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?
+
+Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.
+
+### Combien de séances me faut-il ?
+
+La durée du traitement varie selon votre situation. Lors de la première visite, nous établissons une estimation adaptée à votre cas et vérifions avec vous que le rythme est tenable depuis le Nord vaudois.
 
 ### Avez-vous un cabinet sur place ?
 
 Non. Notre unique cabinet est à Ins, à environ 43,5 km en ligne droite d'Yverdon.
-
-### Est-ce que la physiothérapie est remboursée en Suisse ?
-
-Oui, sur prescription. Un habitant d'Yverdon est couvert par la LAMal comme partout en Suisse ; un cabinet bernois n'y change rien. Franchise et quote-part restent à votre charge.
-
-### Quel est le tarif d'une séance de physiothérapie ?
-
-Il découle de la structure tarifaire nationale convenue avec les assureurs [À CONFIRMER : tarif appliqué]. Avec une ordonnance, l'assurance rembourse selon votre contrat.
 
 ### Quelle est la différence entre un kiné et un physiothérapeute ?
 
@@ -126,17 +120,13 @@ Aucune sur le fond : « kiné » est le terme courant en France, physiothérapeu
 
 Entretien, bilan des mouvements, puis traitement, souvent dès le premier jour, avec des exercices pour la maison.
 
-### Qui prescrit un drainage lymphatique ?
+### Quand un drainage lymphatique est-il utile ?
 
-Un médecin : votre généraliste, ou le chirurgien ou l'oncologue qui vous suit, par exemple à l'eHnv. Sans ordonnance, l'assurance de base ne rembourse pas.
+En cas d'œdème ou de lymphœdème persistant après une chirurgie, un traitement oncologique suivi par exemple à l'eHnv, ou une entorse sévère. Le diagnostic revient au médecin ; les séances ont lieu à Ins [À CONFIRMER : drainage à domicile dans la région d'Yverdon].
 
 ### Venez-vous à domicile à Grandson ou à Treycovagnes ?
 
 Ces communes sont loin de notre zone habituelle de déplacement. Réponse : [À CONFIRMER : déplacements dans la région d'Yverdon et conditions].
-
-### Une ordonnance d'un médecin vaudois est-elle valable à Ins ?
-
-Oui. Une prescription établie en Suisse est valable dans tous les cantons ; le remboursement suit les règles de votre assurance.
 
 ### Le suivi peut-il se faire en français ?
 
@@ -154,3 +144,4 @@ Décrivez-nous votre situation : nous vous dirons franchement si un suivi à Ins
 - Datos de la ficha usados: 43,5 km en línea recta, distrito del Jura-Nord vaudois, idioma francófono, hospital eHnv, localidades vecinas Grandson, Montagny-près-Yverdon, Cheseaux-Noréaz, Treycovagnes.
 - FAQ: 5 preguntas de `data/paa_banco.json` (reembolso en Suiza, tarifa, kiné/physio, cómo es una sesión, quién prescribe un drenaje) + 4 locales (cabinet, domicilio en localidades vecinas, ordonnance vaudoise, idioma).
 - Pendiente [À CONFIRMER]: domicilio en Yverdon y alrededores, días de paso, plazo del primer rendez-vous, drenaje a domicilio, reembolso del masaje, tarifa aplicada.
+- Ajuste v3: sin receta ni detalle de seguro; FAQ estándar; horario hasta las 20h.

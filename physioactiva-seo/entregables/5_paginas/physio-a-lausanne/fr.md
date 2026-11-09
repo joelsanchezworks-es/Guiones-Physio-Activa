@@ -1,6 +1,6 @@
 ---
 title: "Physio à Lausanne – à domicile ou à Ins | Physio Activa"
-meta: "Physio à Lausanne ? Notre physiothérapeute vous reçoit à Ins, à 65 km ; domicile à confirmer. Remboursé sur ordonnance LAMal, LAA. Appelez-nous."
+meta: "Physio à Lausanne ? Notre physiothérapeute vous reçoit à Ins, à 65 km, du lundi au vendredi jusqu'à 20h ; domicile à confirmer. Appelez-nous."
 slug: "/physio-a-lausanne/"
 keyword_principal: "physio lausanne"
 tipo: "zona"
@@ -9,13 +9,13 @@ zona: "lausanne"
 
 # Physio à Lausanne : au cabinet d'Ins ou à domicile
 
-Vous habitez Lausanne et cherchez un physio ? Physio Activa est installé à Ins, dans le Seeland bernois, à environ 65 km en ligne droite de la capitale vaudoise : nous n'avons ni centre ni cabinet de physiothérapie à Lausanne. Un suivi à domicile sur place est [À CONFIRMER : déplacements à Lausanne possibles ou non]. Les séances prescrites par un médecin sont remboursées ; le plus simple est de nous téléphoner.
+Vous habitez Lausanne et cherchez un physio ? Physio Activa est installé à Ins, dans le Seeland bernois, à environ 65 km en ligne droite de la capitale vaudoise : nous n'avons ni centre ni cabinet de physiothérapie à Lausanne. Un suivi à domicile sur place est [À CONFIRMER : déplacements à Lausanne possibles ou non]. Le cabinet est reconnu par toutes les assurances maladie en Suisse ; le plus simple est de nous téléphoner.
 
 ## L'essentiel en bref
 
-### Sur prescription, remboursé LAMal / LAA
+### Reconnu par toutes les assurances
 
-Maladie, accident, invalidité ou assurance militaire : avec une ordonnance, la LAMal, la LAA, l'AI ou l'AM couvrent la physiothérapie, que le médecin consulte au CHUV ou en ville.
+Notre cabinet est reconnu par toutes les assurances maladie en Suisse et accueille les patients de tous les cantons, Vaud compris.
 
 ### Au cabinet d'Ins ou à domicile
 
@@ -43,11 +43,11 @@ Le cabinet d'Ins, dans l'InsGym, a du sens si vous travaillez, étudiez ou passe
 
 ### À domicile et communes voisines
 
-Plusieurs séances par semaine depuis Ins jusqu'à Pully, Prilly, Renens ou Épalinges ne sont pas toujours réalistes, et nous préférons le dire. Jours de passage : [À CONFIRMER : couverture, fréquence et délai du premier rendez-vous]. La mention « à domicile » doit figurer sur l'ordonnance ; voir [physiothérapie à domicile](/physiotherapeute-a-domicile/).
+Plusieurs séances par semaine depuis Ins jusqu'à Pully, Prilly, Renens ou Épalinges ne sont pas toujours réalistes, et nous préférons le dire. Jours de passage : [À CONFIRMER : couverture, fréquence et délai du premier rendez-vous]. Voir [physiothérapie à domicile](/physiotherapeute-a-domicile/).
 
 ### Après une intervention au CHUV
 
-La rééducation peut se poursuivre chez nous si vous résidez temporairement dans le Seeland, sur la base de votre prescription de sortie.
+La rééducation peut se poursuivre chez nous si vous résidez temporairement dans le Seeland, sur la base de vos consignes de sortie.
 
 ### Dos, nuque, sciatique et épaule
 
@@ -60,11 +60,11 @@ Liste complète : [toutes les pathologies](/pour-les-patients/).
 
 ### Drainage lymphatique
 
-Prescrit pour un lymphœdème ou un gonflement persistant après une opération, il demande souvent des séances rapprochées, un rythme difficile à tenir depuis Lausanne [À CONFIRMER : drainage à domicile dans l'agglomération lausannoise]. Présentation : [drainage lymphatique chez Physio Activa](/drainage-lymphatique/).
+Indiqué pour un lymphœdème ou un gonflement persistant après une opération, il demande souvent des séances rapprochées, un rythme difficile à tenir depuis Lausanne [À CONFIRMER : drainage à domicile dans l'agglomération lausannoise]. Présentation : [drainage lymphatique chez Physio Activa](/drainage-lymphatique/).
 
 ### Massage thérapeutique
 
-Il cible contractures et tensions de nuque ou de dos, au cabinet d'Ins [À CONFIRMER : conditions de remboursement du massage sur ordonnance]. Détails : [massage thérapeutique](/massage-therapeutique/).
+Il cible contractures et tensions de nuque ou de dos, au cabinet d'Ins. Détails : [massage thérapeutique](/massage-therapeutique/).
 
 ### Physio du sport
 
@@ -76,9 +76,9 @@ La puncture sèche traite des points gâchettes avec une aiguille fine et stéri
 
 ## Comment se déroule votre prise en charge ?
 
-### Ordonnance
+### Prise de rendez-vous
 
-Le médecin lausannois qui vous suit rédige la prescription ; elle reste valable pour un cabinet bernois.
+Appelez-nous ou écrivez sur WhatsApp avant de réserver : à 65 km, nous vérifions ensemble qu'un suivi à Ins est réaliste pour vous, puis vous choisissez un créneau en ligne.
 
 ### Bilan
 
@@ -96,21 +96,23 @@ Un programme personnel vous permet de continuer seul et de mieux gérer les rech
 
 Le cabinet, dans le bâtiment de l'InsGym, est à environ 65 km en ligne droite de Lausanne, chef-lieu du district de Lausanne. Accès : [Nous trouver](/nous-trouver/). Bonne nouvelle pour les Lausannois, venus d'une ville francophone : malgré l'adresse bernoise, tout se fait en français, et l'espagnol est aussi possible.
 
-## Remboursement et coût de la physio à Lausanne
+## Assurances et horaires : physio à Lausanne
 
-### Assurance de base (LAMal)
-
-Avec une ordonnance médicale, l'assurance obligatoire des soins (LAMal) prend en charge la physiothérapie. La franchise et la quote-part de votre contrat s'appliquent.
-
-### Accident, AI et AM
-
-Après un accident, l'assurance accidents (LAA) intervient ; l'assurance invalidité (AI) et l'assurance militaire (AM) couvrent aussi les séances dans leur domaine. Apportez ordonnance et carte d'assuré à la première séance.
-
-### Ce qui détermine ce que vous payez
-
-Les séances sont facturées selon la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué]. Votre part dépend de la franchise, de la quote-part et de l'assurance concernée.
+Malgré l'adresse bernoise, rien ne change pour un patient vaudois : notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse et accueille les patients quel que soit leur canton de résidence. Nous recevons du lundi au vendredi, jusqu'à 20h, ce qui peut faciliter une venue en fin de journée. Prenez contact au 076 627 38 38 ou sur WhatsApp, ou réservez en ligne.
 
 ## Questions fréquentes sur la physio à Lausanne
+
+### Quand dois-je consulter un physiothérapeute pour une douleur ?
+
+Lorsqu'une douleur dure plus d'une semaine, limite vos gestes ou vous empêche de dormir, ou pour préparer une reprise sportive. Traitée tôt, elle se règle en général plus simplement. Une douleur constante au repos ou une faiblesse qui s'aggrave relèvent d'abord du médecin.
+
+### Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?
+
+Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.
+
+### Combien de séances me faut-il ?
+
+La durée du traitement varie selon votre situation. Lors de la première visite, nous établissons une estimation adaptée à votre cas ; à 65 km, nous privilégions un programme qui vous rend vite autonome.
 
 ### À quelle distance se trouve le cabinet ?
 
@@ -118,23 +120,15 @@ Environ 65 km en ligne droite séparent Lausanne d'Ins.
 
 ### Comment choisir son physiothérapeute ?
 
-Vérifiez qu'il peut vous suivre au rythme prescrit : sur plusieurs semaines, la proximité compte autant que la spécialité, une question honnête à se poser depuis Lausanne.
-
-### Quand faire de la physiothérapie ?
-
-Quand une douleur ou une raideur limite vos gestes, après une opération ou un accident, ou pour préparer une reprise sportive. Votre médecin décide de la prescription.
+Vérifiez qu'il peut vous suivre au rythme nécessaire : sur plusieurs semaines, la proximité compte autant que la spécialité, une question honnête à se poser depuis Lausanne.
 
 ### Comment appelle-t-on un kinésithérapeute en Suisse ?
 
 Physiothérapeute. « Kiné » est le mot employé en France pour le même métier.
 
-### Quel est le prix d'une séance de physiothérapie en Suisse ?
+### À quoi sert le drainage lymphatique ?
 
-Il est fixé par la structure tarifaire nationale [À CONFIRMER : tarif appliqué] ; avec une ordonnance, vous ne payez que votre franchise et votre quote-part.
-
-### Le drainage lymphatique est-il remboursé en Suisse ?
-
-Oui, s'il est prescrit par un médecin et réalisé par un physiothérapeute, dans le cadre de la LAMal. Sans ordonnance, il reste à votre charge.
+À faciliter l'écoulement de la lymphe quand un membre reste gonflé, après une opération, un traitement oncologique ou en cas de lymphœdème. Comme il demande souvent des séances rapprochées, parlons ensemble du rythme possible depuis Lausanne.
 
 ### Pourquoi faire du dry needling ?
 
@@ -143,10 +137,6 @@ Pour relâcher un point gâchette qui entretient une douleur musculaire, à l'é
 ### Pouvez-vous venir à Pully, Prilly ou Renens ?
 
 Ces communes sont loin de notre zone habituelle (Seeland et Trois-Lacs) : [À CONFIRMER : déplacements dans l'agglomération lausannoise].
-
-### Ma prescription me permet-elle de consulter dans le canton de Berne ?
-
-Oui, une ordonnance établie par un médecin en Suisse permet de consulter un physiothérapeute dans un autre canton.
 
 ## Besoin d'un physio à Lausanne ou dans les environs ?
 
@@ -161,3 +151,4 @@ Expliquez-nous vos besoins : nous répondons sans détour, même si la distance 
 - FAQ: 6 preguntas de `data/paa_banco.json` (elegir physio, cuándo hacer physio, kiné en Suiza, precio en Suiza, reembolso del drenaje, por qué dry needling) + 3 locales (distancia, domicilio en comunas vecinas, ordonnance en otro cantón).
 - Reembolso del drenaje: respuesta general (LAMal con prescripción por fisioterapeuta); validar con el cliente.
 - Pendiente [À CONFIRMER]: domicilio en Lausanne y alrededores, días de paso, plazo del primer rendez-vous, drenaje y dry needling a domicilio, reembolso del masaje, tarifa aplicada.
+- Ajuste v3: sin receta ni detalle de seguro; FAQ estándar; horario hasta las 20h.

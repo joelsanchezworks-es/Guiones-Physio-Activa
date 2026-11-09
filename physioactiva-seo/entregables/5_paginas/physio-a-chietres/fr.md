@@ -1,6 +1,6 @@
 ---
 title: "Physio à Chiètres (Kerzers) – domicile ou Ins"
-meta: "Physio à Chiètres (Kerzers) : cabinet à Ins, à 7,6 km, ou séances à domicile, en français. Remboursé sur prescription. Réservez en ligne."
+meta: "Physio à Chiètres (Kerzers) : cabinet à Ins, à 7,6 km, ou séances à domicile, en français. Ouvert jusqu'à 20h en semaine. Réservez en ligne."
 slug: "/physio-a-chietres/"
 keyword_principal: "physio chiètres"
 tipo: "zona"
@@ -9,12 +9,12 @@ zona: "chietres"
 
 # Physio à Chiètres (Kerzers) : au cabinet d'Ins ou à domicile
 
-Depuis Chiètres, le cabinet Physio Activa d'Ins n'est qu'à environ 7,6 km en ligne droite. Nous vous recevons au cabinet et pouvons aussi venir chez vous [À CONFIRMER : visites à domicile à Chiètres]. Avec une ordonnance, vos séances sont remboursées ; prenez rendez-vous en ligne, au 076 627 38 38 ou par WhatsApp.
+Depuis Chiètres, le cabinet Physio Activa d'Ins n'est qu'à environ 7,6 km en ligne droite. Nous vous recevons au cabinet et pouvons aussi venir chez vous [À CONFIRMER : visites à domicile à Chiètres]. Le cabinet est reconnu par toutes les assurances maladie en Suisse ; prenez rendez-vous en ligne, au 076 627 38 38 ou par WhatsApp.
 
 ## L'essentiel en bref
 
-### Sur prescription, remboursé LAMal / LAA
-Il suffit d'une ordonnance de votre médecin : maladie, l'assurance de base paie ; accident, c'est l'assureur LAA de votre employeur ou le vôtre.
+### Reconnu par toutes les assurances
+Quelle que soit votre caisse maladie, notre cabinet est reconnu par toutes les assurances maladie en Suisse.
 
 ### Au cabinet d'Ins ou à domicile
 Ins compte parmi les localités les plus proches de Kerzers, ce qui rend le cabinet facile d'accès. Si vous ne pouvez pas conduire, le domicile reste une option [À CONFIRMER : déplacements à Chiètres].
@@ -29,7 +29,7 @@ Réservez à toute heure sur la [page de réservation](/reservation-en-ligne/), 
 
 Les motifs les plus courants sont très concrets : un blocage lombaire après avoir soulevé une charge, une douleur qui descend dans la fesse et la jambe, une nuque raide après des heures d'écran, un talon douloureux aux premiers pas du matin, une cheville qui reste instable après une entorse.
 
-Le médecin reste la première étape, puisque c'est lui qui prescrit. Ne tardez pas à le consulter, ou à appeler le 144 en cas d'urgence, si vous constatez :
+Ne tardez pas à consulter un médecin, ou à appeler le 144 en cas d'urgence, si vous constatez :
 - une perte de sensibilité entre les cuisses ou des difficultés à contrôler la vessie ;
 - une jambe qui s'affaiblit de jour en jour ;
 - une douleur après un accident, avec suspicion de fracture ;
@@ -44,7 +44,7 @@ Le cabinet se trouve dans le centre d'entraînement InsGym : une partie de la s�
 Le domicile vise les personnes à mobilité réduite : douleur aiguë qui empêche de rester assis en voiture, âge avancé, absence de transport. Autour de Chiètres, Fräschels, Ried bei Kerzers, Galmiz et Agriswil seraient concernés [À CONFIRMER : localités couvertes et jours de passage]. Conditions et matériel : [physiothérapie à domicile](/physiotherapeute-a-domicile/).
 
 ### Après une opération ou une hospitalisation
-Opéré du dos ou d'une articulation, ou de retour d'un séjour à l'HFR Meyriez-Murten, l'hôpital de la région ? L'ordonnance de sortie suffit pour démarrer : nous reprenons les consignes reçues et adaptons la charge pas à pas.
+Opéré du dos ou d'une articulation, ou de retour d'un séjour à l'HFR Meyriez-Murten, l'hôpital de la région ? Nous reprenons les consignes reçues à la sortie et adaptons la charge pas à pas.
 
 ### Dos, sciatique, nuque et pied
 - [Mal de dos et lombalgie](/mal-de-dos-lombaire/) : blocage, douleur qui revient après l'effort, posture au travail.
@@ -56,8 +56,8 @@ D'autres motifs sont décrits sur [toutes les pathologies](/pour-les-patients/).
 
 ## Comment se déroule votre prise en charge ?
 
-### Ordonnance
-Demandez à votre médecin une prescription de physiothérapie. Envoyez-nous une photo par WhatsApp : nous vérifions qu'elle est complète avant votre venue.
+### Prise de rendez-vous
+Réservez à toute heure en ligne ou envoyez-nous un message WhatsApp en décrivant brièvement votre problème : nous vous proposons le créneau le plus adapté, en fin de journée si besoin.
 
 ### Bilan
 Entretien, tests de mouvement et palpation permettent de cerner l'origine de vos symptômes.
@@ -74,18 +74,20 @@ Avec environ 7,6 km en ligne droite, Ins est tout proche de Chiètres. Accès et
 
 Chiètres est une commune germanophone du district du Lac. Chez Physio Activa, les séances se déroulent en français ou en espagnol : une solution pratique pour les familles francophones ou hispanophones installées à Kerzers et dans les villages voisins [À CONFIRMER : séances possibles en allemand ?].
 
-## Remboursement et coût de la physio à Chiètres
+## Assurances et horaires : physio à Chiètres
 
-### Assurance de base (LAMal)
-La physiothérapie prescrite fait partie des prestations de l'assurance obligatoire des soins. Votre caisse maladie rembourse, même si vous habitez le canton de Fribourg et que le cabinet est bernois.
-
-### Accident, AI et AM
-Accident de travail, de loisirs ou de la route : l'assurance accidents (LAA) couvre la physiothérapie prescrite. L'AI et l'assurance militaire (AM) la prennent aussi en charge dans leur domaine.
-
-### Ce qui détermine ce que vous payez
-En LAMal, votre part dépend de la franchise choisie et de la quote-part. La facturation suit la structure tarifaire nationale pour la physiothérapie convenue avec les assureurs [À CONFIRMER : tarif appliqué].
+Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence, Fribourg compris. Ouvert du lundi au vendredi, jusqu'à 20h : à quelques kilomètres de Kerzers, une séance en fin de journée se cale facilement. Rendez-vous en ligne, par téléphone ou par WhatsApp.
 
 ## Questions fréquentes sur la physio à Chiètres
+
+### Quand dois-je consulter un physiothérapeute pour une douleur ?
+Dès qu'un blocage, une raideur ou une douleur qui irradie persiste plus d'une semaine, limite vos gestes ou vous réveille la nuit. Une prise en charge précoce évite souvent que la gêne s'installe. En cas de perte de force ou de troubles urinaires, voyez d'abord un médecin.
+
+### Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?
+Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.
+
+### Combien de séances me faut-il ?
+La durée du traitement varie selon votre situation : un blocage lombaire récent ne se traite pas comme une sciatique ancienne. Lors de la première visite, nous établissons une estimation adaptée à votre cas.
 
 ### Le cabinet reçoit-il les patients qui parlent surtout allemand ?
 Les séances ont lieu en français ou en espagnol [À CONFIRMER : prise en charge en allemand]. Pour les francophones d'une commune germanophone, c'est souvent la raison de venir à Ins : chaque consigne est comprise du premier coup.
@@ -96,9 +98,6 @@ Environ 7,6 km en ligne droite, ce qui en fait l'une des zones les plus proches 
 ### Qu'est-ce que le MTT ?
 Le MTT, ou entraînement thérapeutique médical, désigne un entraînement sur appareils encadré par un physiothérapeute, pour reconstruire force et endurance après une blessure. Physio Activa le propose à Ins, dans les locaux de l'InsGym ; voir notre page [MTT et fitness médical](/medical-training-therapy-mtt/).
 
-### Quel est le rôle d'un physiothérapeute ?
-Évaluer le mouvement, traiter la douleur par des techniques manuelles et des exercices, puis vous rendre autonome.
-
 ### C'est quoi une séance de physiothérapie ?
 Un rendez-vous individuel où l'on alterne traitement et exercices actifs. Vous repartez à chaque fois avec un ou deux exercices à refaire chez vous.
 
@@ -106,17 +105,14 @@ Un rendez-vous individuel où l'on alterne traitement et exercices actifs. Vous 
 Une légère gêne musculaire le lendemain d'un renforcement est fréquente et passe vite. Une douleur nettement plus forte ou durable doit nous être signalée : nous ajusterons la charge.
 
 ### Ma sciatique m'empêche de conduire : pouvez-vous venir chez moi ?
-C'est précisément le cas où le domicile est utile [À CONFIRMER : déplacements à Chiètres et délai pour un premier rendez-vous]. Il faut une ordonnance mentionnant la physiothérapie.
-
-### Quel est le tarif d'une séance de physiothérapie en Suisse ?
-Le prix découle de la structure tarifaire nationale convenue avec les assureurs, pas d'un choix du cabinet. Avec une ordonnance, l'assurance paie et vous réglez seulement franchise et quote-part [À CONFIRMER : tarif appliqué].
+C'est précisément le cas où le domicile est utile [À CONFIRMER : déplacements à Chiètres et délai pour un premier rendez-vous].
 
 ### Couvrez-vous Fräschels, Agriswil et Galmiz ?
 Ce sont, avec Ried, des villages voisins que nous souhaitons inclure dans nos tournées à domicile [À CONFIRMER : liste des localités et jours de passage].
 
 ## Besoin d'un physio à Chiètres ou dans les environs ?
 
-Le plus simple est de [réserver en ligne](/reservation-en-ligne/). Vous pouvez aussi appeler le 076 627 38 38 ou envoyer votre ordonnance par WhatsApp au +41 76 627 38 38.
+Le plus simple est de [réserver en ligne](/reservation-en-ligne/). Vous pouvez aussi appeler le 076 627 38 38 ou écrire sur WhatsApp au +41 76 627 38 38.
 
 ## Notes pour l'équipe (ES)
 
@@ -125,3 +121,4 @@ Le plus simple est de [réserver en ligne](/reservation-en-ligne/). Vous pouvez 
 - Keywords locales (DataForSEO, Google Ads CH, 2026-11-06): sin volumen medible en francés ni servicios locales; se mantiene «physio chiètres».
 - Pendiente: domicilio en Chiètres, localidades cubiertas, días de paso, plazo de primera cita, si se atiende en alemán y tarifa aplicada. (MTT: se ofrece, existe /medical-training-therapy-mtt/.)
 - Lote B: no publicar hasta confirmación del cliente.
+- Ajuste v3: sin receta ni detalle de seguro; FAQ estándar; horario hasta las 20h.
