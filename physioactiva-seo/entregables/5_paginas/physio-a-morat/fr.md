@@ -1,117 +1,117 @@
 ---
-title: "Physio à Morat (Murten) – domicile ou Ins | Physio Activa"
-meta: "Physio à Morat (Murten) : à domicile à Morat et alentour ou au cabinet d'Ins, à 8,7 km. En français ou en allemand, jusqu'à 20h. Réservez en ligne."
+title: "Physio Morat (Murten) : à domicile ou à Ins | Physio Activa"
+meta: "Physio à Morat (Murten) : séances à domicile à Morat, Meyriez ou Muntelier, ou au cabinet d'Ins à 8,7 km. En français ou en allemand, jusqu'à 20h."
 slug: "/physio-a-morat/"
 keyword_principal: "physio morat"
 tipo: "zona"
 zona: "morat"
 ---
 
-# Physio à Morat (Murten) : au cabinet d'Ins ou à domicile
+# Physio à Morat (Murten) : rééducation au cabinet d'Ins ou chez vous
 
-Vous habitez Morat et cherchez un physiothérapeute à Morat ou tout près, qui vous explique tout dans votre langue ? Physio Activa vous accueille à Ins, à environ 8,7 km en ligne droite de la vieille ville, ou vient chez vous. Séances en français ou en allemand, rendez-vous dans la semaine dans la plupart des cas.
+Un physio à Morat qui vous parle en français ou en allemand, vient chez vous si la marche est difficile et vous reçoit le soir après le travail : c'est ce que propose Physio Activa. Le cabinet est à Ins, à environ 8,7 km en ligne droite des remparts, et le premier rendez-vous a lieu dans la semaine dans la plupart des cas.
 
 ## L'essentiel en bref
 
-### Reconnu par toutes les assurances
+### Toutes les assurances maladie suisses
 
-Que vous soyez assuré dans le canton de Fribourg ou ailleurs, notre cabinet est reconnu par toutes les assurances maladie en Suisse.
+Vous habitez le canton de Fribourg et nous sommes dans le canton de Berne : aucun souci, le cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse.
 
-### Au cabinet ou à domicile
+### Ins ou votre salon : vous choisissez
 
-La plupart des rééducations se font au cabinet ; pour ceux qui ne peuvent plus se déplacer, nous venons à la maison.
+Les séances ont lieu au cabinet d'Ins, ou à la maison quand sortir reste compliqué.
 
-### Bilan et plan de traitement
+### Un bilan qui fixe vos objectifs
 
-Un entretien et quelques tests ouvrent le premier rendez-vous ; vous repartez avec des objectifs et vos premiers exercices.
+Remonter l'escalier, refaire le tour de la vieille ville, reprendre le vélo : vos objectifs guident le plan de traitement.
 
-### Rendez-vous en ligne, par téléphone ou WhatsApp
+### Réserver en deux minutes
 
-Choisissez un créneau sur la [réservation en ligne](/reservation-en-ligne/), appelez le 076 627 38 38 ou écrivez-nous par WhatsApp.
+Agenda en ligne, téléphone au 076 627 38 38 ou message WhatsApp, selon ce qui vous arrange.
 
 ## Un physiothérapeute près de Morat
 
-Le cabinet est à Ins, Rämismatte 21, au 1er étage du bâtiment Lidl, juste de l'autre côté de la limite entre les cantons de Fribourg et de Berne. Le parking est sur place, ce qui compte quand on se déplace avec des cannes.
+Notre cabinet de physiothérapie se trouve à Ins, Rämismatte 21, au 1er étage du bâtiment Lidl, à quelques minutes de Morat en voiture, parking sur place. Il partage ses locaux avec le centre d'entraînement InsGym : un vrai atout quand la rééducation demande de la force et de l'endurance, pas seulement des exercices sur une table.
 
-Ce qui distingue le cabinet, c'est l'espace : il est installé dans le centre d'entraînement InsGym. Après une prothèse ou une longue immobilisation, nous pouvons doser précisément force, endurance et équilibre sur les appareils, avec un entraînement thérapeutique encadré ([MTT](/medical-training-therapy-mtt/)). Une physio à Morat ou près de Morat ne se résume donc pas à quelques exercices sur une table.
+Beaucoup de patients qui cherchent un physiothérapeute à Morat viennent pour un genou ou une hanche opérés, une épaule bloquée, un dos qui lâche au jardin ou des pertes d'équilibre sur les pavés. Les sportifs du lac, eux, nous consultent pour un tendon d'Achille irrité par la course sur les rives ou un genou fatigué par le vélo.
 
-On pense au physiothérapeute quand une gêne ne passe pas avec le repos : un dos qui se bloque, un genou qui gonfle après la promenade sur les remparts, une épaule qui empêche d'enfiler une veste, des pertes d'équilibre. La physiothérapie à Morat est aussi l'étape naturelle après une opération, à l'HFR ou ailleurs.
+Physiotherapie für Murten: Unser Team spricht Deutsch und Französisch, in der Praxis in Ins oder bei Ihnen zu Hause. La physiothérapie à Morat se fait ainsi dans la langue où vous êtes le plus à l'aise, et aussi en anglais, en espagnol ou en portugais.
 
 ## Physiothérapie à domicile à Morat et environs
 
-Nos physiothérapeutes se déplacent à domicile à Morat et dans les environs : Meyriez, Muntelier, Greng, Courgevaux et Galmiz. Avec des cannes, un déambulateur ou une grande fatigue, la séance a lieu chez vous, avec des exercices pensés pour votre logement et le petit matériel que nous apportons.
+Un retour à la maison après l'hôpital, une prothèse récente, une grande fatigue : dans ces moments, nos physiothérapeutes viennent à domicile à Morat et dans les environs, à Meyriez, Muntelier, Greng, Courgevaux et Galmiz.
 
-La physiothérapie à Morat à domicile est souvent la suite logique d'une sortie d'hôpital : les premières semaines à la maison, le domicile évite les trajets ; ensuite, le cabinet prend le relais. Voir [physiothérapie à domicile](/physiotherapeute-a-domicile/).
+Chez vous, on travaille ce qui compte vraiment : le seuil de la porte, l'escalier de la cave, la baignoire, le trajet jusqu'à la boîte aux lettres. Nous apportons le petit matériel. Dès que vous pouvez conduire ou être accompagné, la suite se fait au cabinet, avec les appareils. Tout sur la [physiothérapie à domicile](/physiotherapeute-a-domicile/).
 
-## Quand consulter un physio, et quand voir d'abord un médecin ?
+## Physio ou médecin d'abord ? Les signaux à connaître
 
-Après une prothèse, une fracture ou une longue immobilisation, la physio fait partie du parcours. Pour une douleur sans cause claire, consultez si elle dure plus d'une semaine ou limite vos activités.
+La physio est la bonne porte d'entrée pour une douleur de dos, de nuque ou d'épaule qui traîne depuis plus d'une semaine, pour une raideur après une blessure ou pour la rééducation prévue après une opération.
 
-Voyez d'abord un médecin, sans attendre, dans ces cas :
-- chute suivie d'une jambe ou d'un bras inutilisable ;
-- mal de dos avec fièvre, faiblesse d'une jambe ou troubles pour uriner ;
-- mollet chaud, rouge et enflé après une opération ;
-- douleur thoracique, essoufflement inhabituel ou malaise.
+Passez d'abord par votre médecin, ou par les urgences, si :
+- une chute vous laisse incapable d'utiliser un bras ou une jambe ;
+- le mal de dos s'accompagne de fièvre, d'une faiblesse dans la jambe ou de troubles urinaires ;
+- un mollet devient chaud, rouge et enflé après une opération ;
+- vous ressentez une douleur dans la poitrine ou un essoufflement inhabituel.
 
-En cas d'urgence vitale, composez le 144.
+En cas d'urgence vitale, appelez le 144.
 
-## Quelle prise en charge selon votre situation ?
+## Ce que nous traitons le plus souvent
 
-### Prothèse de hanche ou de genou
+### Après une prothèse de hanche ou de genou
 
-Remise en charge progressive, travail de la marche, des escaliers et de la sortie de voiture : voir [hanche et prothèses](/douleur-de-hanche-protheses/) et [genou](/douleur-du-genou-lesions-de-la-cheville/).
-
-### Épaule raide ou opérée
-
-Tendinopathies, raideur, suites d'une chirurgie de la coiffe des rotateurs : la rééducation de l'[épaule](/lesions-de-lepaule/) avance par étapes, au rythme de la cicatrisation.
+Reprise de l'appui, marche sans boiterie, escaliers, montée en voiture : voir [hanche et prothèses](/douleur-de-hanche-protheses/) et [genou](/douleur-du-genou-lesions-de-la-cheville/).
 
 ### Équilibre et prévention des chutes
 
-Pavés de la vieille ville, escaliers, sol mouillé : nous entraînons l'équilibre et la force des jambes pour sortir en confiance.
+Pavés, marches de la Grand-Rue, quais mouillés : nous renforçons les jambes et entraînons l'équilibre pour ressortir sans appréhension.
 
-### Gonflement après une opération
+### Course, vélo et sports du lac
 
-Un œdème qui tarde à se résorber peut bénéficier d'un [drainage lymphatique](/drainage-lymphatique/) manuel ; pour les tensions musculaires, le [massage thérapeutique](/massage-therapeutique/) complète le traitement.
+Tendinite, douleur au genou, cheville instable : nous traitons la blessure puis organisons le retour progressif à l'effort. Voir [physiothérapie du sport](/physio-du-sport/).
 
-Pour un autre motif, consultez [toutes les pathologies](/pour-les-patients/).
+### Jambes gonflées et tensions musculaires
 
-## Comment se déroule votre prise en charge ?
+Un œdème qui persiste après une opération peut relever d'un [drainage lymphatique](/drainage-lymphatique/) manuel ; une contracture tenace, d'un [massage thérapeutique](/massage-therapeutique/).
 
-### Prise de rendez-vous
+D'autres motifs ? Consultez [toutes les pathologies](/pour-les-patients/).
 
-Réservez en ligne, par téléphone ou sur WhatsApp, en indiquant si vous préférez venir à Ins ou être vu chez vous.
+## Votre parcours, de la réservation à l'autonomie
 
-### Bilan
+### Vous réservez
 
-Nous faisons le point sur ce que vous voulez retrouver : monter vos escaliers, porter vos courses, remonter sur le vélo. Des tests de mobilité et de force servent de repères.
+En ligne, par téléphone ou sur WhatsApp, en précisant si vous souhaitez venir à Ins ou être vu chez vous.
 
-### Séances au cabinet ou à domicile
+### Le premier rendez-vous
 
-Techniques manuelles, exercices guidés et conseils, avec une progression visible d'une séance à l'autre.
+Un entretien, quelques tests de mobilité et de force, puis des explications claires sur ce qui se passe.
 
-### Autonomie et prévention
+### Les séances
 
-Un programme court à faire à la maison, ajusté au fil des rendez-vous, vous aide à continuer seul.
+Traitement manuel, exercices guidés et, quand c'est le moment, entraînement sur appareils ([MTT](/medical-training-therapy-mtt/)).
+
+### Vous continuez seul
+
+Un court programme à la maison, ajusté d'une séance à l'autre, pour garder vos progrès.
 
 ## Venir au cabinet d'Ins depuis Morat
 
-Ins se trouve à environ 8,7 km en ligne droite de Morat. En voiture, vous vous garez devant le bâtiment ; en train, la ligne qui longe le lac relie Morat à Ins. Itinéraire et plan d'accès : [Nous trouver](/nous-trouver/).
+Comptez environ 8,7 km en ligne droite entre Morat et Ins. En voiture, vous vous garez devant le bâtiment. Plan d'accès et indications : [Nous trouver](/nous-trouver/).
 
-Morat est une commune majoritairement germanophone, avec une minorité francophone, dans le district du Lac. Nos consultations se tiennent en français ou en allemand, et aussi en anglais, en espagnol ou en portugais. L'HFR Meyriez-Murten est l'hôpital de la région : avec ses consignes de sortie, nous poursuivons la rééducation sans interruption.
+Morat, Murten en allemand, est le chef-lieu du district du Lac, dans le canton de Fribourg, une commune majoritairement germanophone avec une minorité francophone. L'hôpital de la région est l'HFR Meyriez-Murten : après une hospitalisation, gardez vos consignes de sortie, nous reprenons la rééducation là où l'hôpital l'a laissée.
 
 ## Assurances et horaires : physio à Morat
 
-Vivre dans le canton de Fribourg et se soigner à Ins, dans le canton de Berne, ne pose aucune difficulté : notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse, dispose de toutes les autorisations sanitaires nécessaires et accueille les patients quel que soit leur canton de résidence. Il est ouvert du lundi au vendredi, jusqu'à 20h. Réservez en ligne, au 076 627 38 38 ou par WhatsApp.
+Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Nous recevons du lundi au vendredi, jusqu'à 20h : de quoi passer après le travail. Réservation en ligne, au 076 627 38 38 ou sur WhatsApp.
 
 ## Questions fréquentes sur la physio à Morat
 
 ### Où trouver un physiothérapeute près de Morat ?
 
-À Ins, au cabinet Physio Activa : Rämismatte 21, 1er étage du bâtiment Lidl, parking sur place, à environ 8,7 km en ligne droite. Si vous ne pouvez pas vous déplacer, un physiothérapeute à Morat même, à domicile, prend le relais.
+À Ins, au cabinet Physio Activa : Rämismatte 21, 1er étage du bâtiment Lidl, parking sur place, à environ 8,7 km en ligne droite de Morat. Si vous ne pouvez pas vous déplacer, nos physiothérapeutes viennent à domicile à Morat et dans les villages voisins.
 
 ### Quand dois-je consulter un physiothérapeute pour une douleur ?
 
-Lorsqu'une gêne ne passe pas après une semaine de repos, qu'elle vous empêche de marcher, de porter ou de bien dormir. Plus on intervient tôt, plus la rééducation est simple.
+Quand une douleur dure plus d'une semaine, limite vos mouvements, vous réveille la nuit ou vous empêche de marcher normalement. Plus la prise en charge est précoce, plus elle est simple.
 
 ### Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?
 
@@ -119,37 +119,34 @@ Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en 
 
 ### Combien de séances me faut-il ?
 
-La durée du traitement varie selon votre situation, votre âge et ce que vous voulez retrouver. Lors de la première visite, nous établissons une estimation adaptée à votre cas, puis nous la revoyons au fil des progrès.
+Tout dépend de votre situation et de vos objectifs. Lors de la première visite, nous établissons une estimation adaptée à votre cas, puis nous l'ajustons selon vos progrès.
 
-### Venez-vous aussi à Muntelier, Greng ou Courgevaux ?
+### Je rentre de l'HFR Meyriez-Murten : quand commencer ?
 
-Oui, ces localités font partie des environs où nous nous déplaçons, avec Meyriez et Galmiz. Précisez votre adresse en réservant.
+Dès que possible, en suivant les consignes de sortie. Si vous ne pouvez pas encore conduire, les premières séances ont lieu chez vous.
 
-### Les séances se déroulent-elles en français ?
+### Venez-vous à Muntelier, Meyriez ou Galmiz ?
 
-Oui, ou en allemand si vous préférez. Dans une commune majoritairement germanophone, choisir sa langue est un confort pour comprendre chaque conseil.
+Oui, comme à Greng et à Courgevaux. Indiquez simplement votre adresse au moment de réserver.
 
-### Pouvez-vous prendre le relais après un séjour à l'hôpital ?
+### Physiotherapie in Murten: Sprechen Sie Deutsch?
 
-Oui : avec les consignes de sortie de l'HFR Meyriez-Murten, nous poursuivons la rééducation, au cabinet ou à domicile. Dans la plupart des cas, le premier rendez-vous a lieu dans la semaine.
+Ja. Unser Team behandelt Sie auf Deutsch oder Französisch, in der Praxis in Ins oder zu Hause in Murten und Umgebung.
 
-### Quels sont les problèmes de lymphe possibles après une opération ?
+### Pouvez-vous m'aider à reprendre la course ou le vélo ?
 
-Un gonflement peut persister après une prothèse ou une chirurgie touchant les ganglions (œdème, voire lymphœdème). Un gonflement brutal et chaud se montre vite au médecin.
+Oui. Une fois la douleur calmée, nous construisons une reprise progressive, avec des exercices de force et des repères simples pour savoir quand augmenter.
 
-### C'est quoi un massage thérapeutique ?
+### Que faut-il apporter au premier rendez-vous ?
 
-Un massage à but de soin : relâcher une tension, diminuer une douleur, préparer le mouvement. Il s'intègre à un plan de physiothérapie.
+Une tenue confortable, les consignes de l'hôpital ou du chirurgien si vous avez été opéré, et les comptes rendus d'examens (radiographie, IRM) si vous en avez.
 
-## Besoin d'un physio à Morat ou dans les environs ?
+## Prêt à reprendre le mouvement à Morat ?
 
-Votre physio à Morat commence par un message : décrivez-nous votre situation, et nous vous proposerons une séance au cabinet ou à domicile. [Réservez en ligne](/reservation-en-ligne/), appelez le 076 627 38 38 ou écrivez sur WhatsApp au +41 76 627 38 38.
+Au cabinet d'Ins ou chez vous, en français ou en allemand, du lundi au vendredi jusqu'à 20h. Réservez en ligne, appelez le 076 627 38 38 ou écrivez-nous sur WhatsApp.
 
 ## Notes pour l'équipe (ES)
 
-- Ajuste v4: sin marcadores; domicilio afirmado (zona Trois-Lacs ya cubierta en la web); plazo «dans la semaine dans la plupart des cas»; idiomas de la web (incluido alemán); estructura de 12 secciones de `prompts/redaccion-zona-v4.md`.
-- Keyword «physio morat» en title, H1, intro y texto; «physio / physiothérapeute / physiothérapie à Morat» ≥ 2 veces cada una; ciudad nunca en H3 de sección (solo en la primera pregunta de la FAQ, exigida por v4).
-- Datos de la ficha: 8,7 km en línea recta, mayoritariamente germanófona con minoría francófona, district du Lac / Friburgo, HFR Meyriez-Murten, localidades vecinas (Meyriez, Muntelier, Greng, Courgevaux, Galmiz).
-- Demanda en alemán (medizinische massage murten 10, lymphdrainage murten 10, < 20): cubierta con un H3 de situación y dos FAQ, sin keywords alemanas.
-- «Línea de tren Morat–Ins junto al lago» y «remparts / pavés»: contexto geográfico general, verificar.
-- Ajuste v3: sin receta ni detalle de seguro; FAQ estándar; horario hasta las 20h.
+- Versión variada (2026-11-10) para diferenciarla de las otras ciudades: H1, H3 de «L'essentiel», sección «Ce que nous traitons», «Votre parcours», FAQ y CTA final reescritos. Versión anterior en `fr-v4-anterior.md`.
+- DataForSEO (Suiza): sin volumen medible para «physio morat/murten» ni variantes; «physio muntelier» 20/mes. Se trabajan ambos nombres (Morat/Murten) y una frase y una FAQ en alemán.
+- Comprobar antes de publicar: «Grand-Rue», «quais», «sports du lac» y «chef-lieu du district du Lac», que son contexto general.

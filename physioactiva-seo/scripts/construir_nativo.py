@@ -38,6 +38,22 @@ def ficha(key):
                 soins_first=[k for k in ("domicile", "drainage", "massage", "sport") if k in dem] or ["domicile"])
 
 
+VAR = {  # frases fijas del constructor que cambian por ciudad para que las páginas no se parezcan
+    "morat": dict(
+        ameta="Physio Activa · physiothérapie pour Morat (Murten) et le district du Lac",
+        soins_h2="Physiothérapie à Morat : nos soins les plus demandés",
+        soins_p="Au cabinet d'Ins ou chez vous à Morat, voici les prises en charge que nos patients du bord du lac nous demandent le plus :",
+        cta_p="Une douleur qui ne passe pas, une sortie d'hôpital à préparer ? Écrivez-nous : un physiothérapeute vous propose un créneau, en général dans la semaine, à Ins ou à domicile à Morat.",
+        why_eb="Physio Activa en bref", why_h2="Quatre raisons de choisir Physio Activa depuis Morat",
+        why_p="Bilingue, ouvert jusqu'à 20h et à quelques minutes de Morat, avec un espace d'entraînement complet.",
+        faq_eb="Vos questions"),
+}
+
+
+def var(key, k, default):
+    return VAR.get(key, {}).get(k, default)
+
+
 def de(v):
     return ("d'" if v[0].lower() in "aeiouyéèêiîh" else "de ") + v
 
@@ -129,7 +145,7 @@ def build(key):
     secciones.append(b.sec([b.col([
         b.w("heading", {"title": f"Physiothérapie · {vtitre}", "header_size": "p", "align": "center"}, "pa-eyebrow"),
         b.w("heading", {"title": h1t, "header_size": "h1", "align": "center"}, "pa-h1"),
-        b.w("heading", {"title": f"Par l'équipe Physio Activa · Physiothérapie à {ville}", "header_size": "div", "align": "center"}, "pa-ameta"),
+        b.w("heading", {"title": var(key, "ameta", f"Par l'équipe Physio Activa · Physiothérapie à {ville}"), "header_size": "div", "align": "center"}, "pa-ameta"),
         btn_rdv(), btn_wa(),
     ], css="pa-center")], "pa-lp pa-hero", layout="full_width", stretch_section="section-stretched",
         background_background="classic", background_image={"url": f["hero"], "id": ""}, background_position="center center",
@@ -166,11 +182,11 @@ def build(key):
             art.append(b.w("image", {"image": {"url": UP + "2025/04/Physio-Activa-00031.jpg", "id": "", "alt": (f"Physiothérapeute de Physio Activa en séance au cabinet de physiothérapie à {ville}" if es_ins else f"Physiothérapeute de Physio Activa en séance, physio pour les patients {de(ville)}")},
                                      "image_size": "full"}, "pa-img"))
         if re.search(r"domicile", h2t, re.I):
-            art.append(b.w("heading", {"title": (f"Nos soins de physiothérapie à {ville}" if es_ins else f"Nos soins de physiothérapie pour les patients {de(ville)}"), "header_size": "h2"}, "pa-h2"))
-            art.append(b.w("text-editor", {"editor": f"<p>Vous avez accès à l'ensemble de nos soins, {"au cabinet" if es_ins else cab} ou à domicile selon votre situation. Les plus demandés :</p>\n{soins_html}"}, "pa-text"))
-            art.append(b.w("text-editor", {"editor": f'<div class="cta-inline"><p>Vous habitez {esc(ville)} ou un village voisin et vous avez mal ? Nous vous proposons un rendez-vous dans la semaine dans la plupart des cas, ' + ((("au cabinet" if es_ins else cab) + " ou chez vous.") if f["domicile"] else f"{cab} ou à domicile selon votre adresse.") + '</p>'
+            art.append(b.w("heading", {"title": var(key, "soins_h2", f"Nos soins de physiothérapie à {ville}" if es_ins else f"Nos soins de physiothérapie pour les patients {de(ville)}"), "header_size": "h2"}, "pa-h2"))
+            art.append(b.w("text-editor", {"editor": "<p>" + var(key, "soins_p", f"Vous avez accès à l'ensemble de nos soins, {'au cabinet' if es_ins else cab} ou à domicile selon votre situation. Les plus demandés :") + f"</p>\n{soins_html}"}, "pa-text"))
+            art.append(b.w("text-editor", {"editor": '<div class="cta-inline"><p>' + var(key, "cta_p", f"Vous habitez {esc(ville)} ou un village voisin et vous avez mal ? Nous vous proposons un rendez-vous dans la semaine dans la plupart des cas, " + ((("au cabinet" if es_ins else cab) + " ou chez vous.") if f["domicile"] else f"{cab} ou à domicile selon votre adresse.")) + '</p>'
                                                      f'<p><a class="btn" href="{ONEDOC}" target="_blank" rel="noopener">Rendez-vous online</a></p></div>'}, "pa-text"))
-        if re.search(r"déroule", h2t, re.I):
+        if re.search(r"déroule|parcours", h2t, re.I):
             art.append(b.w("image", {"image": {"url": UP + "2025/04/Physio-Activa-00036.jpg", "id": "", "alt": (f"Salle de traitement du cabinet Physio Activa à {ville}" if es_ins else f"Salle de traitement du cabinet Physio Activa à Ins, proche {de(ville)}")},
                                      "image_size": "full"}, "pa-img"))
     secciones.append(b.sec([b.col(art, css="article")], "pa-lp pa-article", content_width={"unit": "px", "size": 828}, padding=pad(56, 0, 72, 0)))
@@ -182,9 +198,9 @@ def build(key):
     grid = b.sec([b.col(cards[0:1] + cards[2:3], 50, inner=True), b.col(cards[1:2] + cards[3:4], 50, inner=True)], "pa-why-grid", inner=True,
                  gap="extended", content_width={"unit": "px", "size": 1000})
     secciones.append(b.sec([b.col([
-        b.w("heading", {"title": "Pourquoi Physio Activa", "header_size": "p", "align": "center"}, "pa-eyebrow"),
-        b.w("heading", {"title": f"Pourquoi les patients {de(ville)} choisissent Physio Activa", "header_size": "h2", "align": "center"}, "pa-title"),
-        b.w("text-editor", {"editor": "<p>Un cabinet de physiothérapie à Ins, des soins à domicile dans la région et une équipe qui vous reçoit en cinq langues.</p>", "align": "center"}, "pa-sub"),
+        b.w("heading", {"title": var(key, "why_eb", "Pourquoi Physio Activa"), "header_size": "p", "align": "center"}, "pa-eyebrow"),
+        b.w("heading", {"title": var(key, "why_h2", f"Pourquoi les patients {de(ville)} choisissent Physio Activa"), "header_size": "h2", "align": "center"}, "pa-title"),
+        b.w("text-editor", {"editor": "<p>" + var(key, "why_p", "Un cabinet de physiothérapie à Ins, des soins à domicile dans la région et une équipe qui vous reçoit en cinq langues.") + "</p>", "align": "center"}, "pa-sub"),
         grid])], "pa-lp pa-soft", padding=pad(72, 24, 72, 24), padding_mobile=pad(54, 16, 54, 16)))
     # 5 · FAQ (acordeón nativo + FAQ Schema de Elementor)
     tabs = []
@@ -192,7 +208,7 @@ def build(key):
         ans = "".join((f'<p lang="de">' if re.match(r"(Ja\.|Unser )", c.get_text()) else "<p>") + inline(c) + "</p>" for c in sb["c"] if c.name == "p")
         tabs.append({"tab_title": texto(sb["h3"]), "tab_content": ans, "_id": eid(slug, "faq", str(i))})
     secciones.append(b.sec([b.col([
-        b.w("heading", {"title": "Questions fréquentes", "header_size": "p", "align": "center"}, "pa-eyebrow"),
+        b.w("heading", {"title": var(key, "faq_eb", "Questions fréquentes"), "header_size": "p", "align": "center"}, "pa-eyebrow"),
         b.w("heading", {"title": texto(faq["h2"]), "header_size": "h2", "align": "center"}, "pa-title"),
         b.w("accordion", {"tabs": tabs, "faq_schema": "yes", "title_html_tag": "h3", "icon_align": "right",
                           "selected_icon": icon("fas fa-plus"), "selected_active_icon": icon("fas fa-minus")}, "pa-faq"),
