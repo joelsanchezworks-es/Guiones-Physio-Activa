@@ -104,3 +104,7 @@ Una línea por decisión. Fecha de la ejecución: 2026-11-06.
 ## Guía de montaje (2026-11-09)
 - `entregables/6_elementor/GUIA_SEO_MONTAJE.md`: prácticas SEO para el montaje y el mantenimiento (WordPress/Yoast/Elementor, indexación, on-page, Core Web Vitals, ficha de Google, enlaces, medición GA4/GSC, plan a 12 meses y comprobaciones tras publicar).
 - Se quita el `BreadcrumbList` propio del JSON-LD: Yoast ya lo genera en su @graph y estaría duplicado.
+
+## 2026-11-10 · Ciudades v4 en diseño pa-lp
+- 14 elementor.json autocontenidos (CSS+HTML+JS+JSON-LD en un único widget HTML), copy v4 sin marcadores, SEO local reforzado (validado: ≥2 por variante, similitud máx. 30,5 %).
+- Imagen de hero: Neuchâtel con su imagen de la web; resto con la foto del cabinet como provisional. El cliente sube la de cada ciudad a WordPress y reemplaza la URL (lista de fotos libres sugeridas en 9_ciudades/LEEME.md).
