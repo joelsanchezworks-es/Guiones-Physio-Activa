@@ -31,9 +31,9 @@ Le plus simple est l'agenda en ligne ; le 076 627 38 38 et WhatsApp restent ouve
 
 ## Un physiothérapeute près de La Neuveville
 
-Le cabinet Physio Activa est installé à Ins, Rämismatte 21, au 1er étage du bâtiment Lidl. Vous vous garez sur place, sans chercher de place dans les ruelles du vieux bourg. Pour un physio à La Neuveville, c'est une alternative proche, avec un avantage : le cabinet partage ses locaux avec le centre d'entraînement InsGym.
+Le cabinet Physio Activa est installé à Ins, Rämismatte 21, au 1er étage du bâtiment Lidl. Vous vous garez sur place, tout près de La Neuveville, sans chercher de place dans les ruelles du vieux bourg. Pour un physio à La Neuveville, c'est une alternative proche, avec un avantage : le cabinet partage ses locaux avec le centre d'entraînement InsGym.
 
-Concrètement, une rééducation peut commencer par des techniques manuelles et se poursuivre sur les appareils de la salle, grâce à l'entraînement thérapeutique ([MTT](/medical-training-therapy-mtt/)). C'est utile quand l'objectif est de remarcher longtemps, de remonter des escaliers sans appréhension ou de reprendre la randonnée.
+Concrètement, une rééducation peut commencer par des techniques manuelles et se poursuivre sur les appareils de la salle, grâce à l'entraînement thérapeutique ([MTT](/medical-training-therapy-mtt/)). C'est utile pour remarcher longtemps ou reprendre la randonnée.
 
 On vient nous voir pour une cheville qui reste instable, un talon douloureux, une hanche raide, une nuque bloquée ou un genou qui craint les descentes. La physiothérapie à La Neuveville et autour du lac de Bienne, c'est souvent une histoire d'appuis et de marche.
 
@@ -133,7 +133,7 @@ Les consignes de sortie ou le compte rendu opératoire, si vous les avez, et la 
 
 ### Quand consulter un docteur en médecine physique et de réadaptation ?
 
-Lorsque la douleur ou le handicap touche plusieurs fonctions, après un AVC ou une opération lourde, ou si la rééducation n'avance pas. Ce spécialiste coordonne le traitement ; le physio applique ensuite le programme.
+Lorsque le handicap touche plusieurs fonctions, après un AVC ou une opération lourde, ou si la rééducation n'avance pas. Ce spécialiste coordonne le traitement.
 
 ## Besoin d'un physio à La Neuveville ou dans les environs ?
 

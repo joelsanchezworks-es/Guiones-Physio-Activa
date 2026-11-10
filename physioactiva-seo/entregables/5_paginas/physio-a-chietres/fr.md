@@ -33,9 +33,9 @@ Réservez à toute heure sur la [page de réservation](/reservation-en-ligne/), 
 
 Notre cabinet se trouve à Ins, Rämismatte 21, au 1er étage du bâtiment Lidl, avec parking. Il occupe une partie du centre d'entraînement InsGym : une partie de la séance peut donc se faire directement sur les machines, pour apprendre à bien les utiliser et continuer ensuite par vous-même. C'est le principe de l'entraînement thérapeutique, le [MTT](/medical-training-therapy-mtt/).
 
-Pourquoi chercher un physiothérapeute à Chiètres jusqu'à Ins ? Pour la proximité, les horaires jusqu'à 20h, et la langue : Chiètres est germanophone, et beaucoup de familles francophones apprécient de tout comprendre dans leur langue, tandis que d'autres préfèrent l'allemand. Les deux sont possibles.
+Pourquoi venir à Ins plutôt que chercher un physiothérapeute à Chiètres même ? Pour la proximité, les horaires jusqu'à 20h, et la langue : Chiètres est germanophone, et beaucoup de familles francophones apprécient de tout comprendre dans leur langue, tandis que d'autres préfèrent l'allemand. Les deux sont possibles.
 
-Les motifs les plus courants sont très concrets : un blocage lombaire après avoir soulevé une charge, une douleur qui descend dans la fesse et la jambe, une nuque raide après des heures d'écran, un talon douloureux aux premiers pas du matin.
+Les motifs qui amènent nos patients de Chiètres sont très concrets : un blocage lombaire après avoir soulevé une charge, une douleur qui descend dans la fesse et la jambe, une nuque raide après des heures d'écran, un talon douloureux aux premiers pas du matin.
 
 ## Physiothérapie à domicile à Chiètres et environs
 
@@ -93,7 +93,7 @@ Vers la fin, les séances s'espacent et l'entraînement prend le relais. Vous sa
 
 ## Venir au cabinet d'Ins depuis Chiètres
 
-Avec environ 7,6 km en ligne droite, Ins est tout proche de Chiètres : en voiture, vous vous garez devant le bâtiment ; en train, Kerzers et Ins sont sur la même ligne, entre Berne et Neuchâtel. Accès et plan : [Nous trouver](/nous-trouver/).
+Avec environ 7,6 km en ligne droite, Ins est tout près de Chiètres : en voiture, vous vous garez devant le bâtiment ; en train, Kerzers et Ins sont sur la même ligne, entre Berne et Neuchâtel. Accès et plan : [Nous trouver](/nous-trouver/).
 
 Chiètres est une commune germanophone du district du Lac, dans le canton de Fribourg. Chez Physio Activa, les séances se déroulent en français, en allemand, en anglais, en espagnol ou en portugais. Pour les patients qui sortent de l'HFR Meyriez-Murten, l'hôpital de la région, nous reprenons les consignes reçues à la sortie et adaptons la charge pas à pas.
 
@@ -105,7 +105,7 @@ Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suiss
 
 ### Où trouver un physiothérapeute près de Chiètres ?
 
-À Ins, chez Physio Activa : Rämismatte 21, au 1er étage du bâtiment Lidl, avec parking, à environ 7,6 km en ligne droite. Si vous ne pouvez pas vous déplacer, votre physio à Chiètres se fait à domicile.
+À Ins, chez Physio Activa : Rämismatte 21, au 1er étage du bâtiment Lidl, avec parking, à environ 7,6 km en ligne droite. Si vous ne pouvez pas vous déplacer, un physiothérapeute à Chiètres vient chez vous : la physiothérapie à Chiètres se fait alors à domicile.
 
 ### Quand dois-je consulter un physiothérapeute pour une douleur ?
 
@@ -141,7 +141,7 @@ Oui, c'est précisément le cas où le domicile est utile. Dans la plupart des c
 
 ## Besoin d'un physio à Chiètres ou dans les environs ?
 
-Le plus simple est de [réserver en ligne](/reservation-en-ligne/). Vous pouvez aussi appeler le 076 627 38 38 ou écrire sur WhatsApp au +41 76 627 38 38.
+Pour une physio à Chiètres, au cabinet ou chez vous, le plus simple est de [réserver en ligne](/reservation-en-ligne/). Vous pouvez aussi appeler le 076 627 38 38 ou écrire sur WhatsApp au +41 76 627 38 38.
 
 ## Notes pour l'équipe (ES)
 

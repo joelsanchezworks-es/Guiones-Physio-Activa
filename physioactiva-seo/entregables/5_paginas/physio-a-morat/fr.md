@@ -33,15 +33,15 @@ Choisissez un créneau sur la [réservation en ligne](/reservation-en-ligne/), a
 
 Le cabinet est à Ins, Rämismatte 21, au 1er étage du bâtiment Lidl, juste de l'autre côté de la limite entre les cantons de Fribourg et de Berne. Le parking est sur place, ce qui compte quand on se déplace avec des cannes.
 
-Ce qui distingue le cabinet, c'est l'espace : il est installé dans le centre d'entraînement InsGym. Après une prothèse ou une longue immobilisation, nous pouvons doser précisément force, endurance et équilibre sur les appareils, avec un entraînement thérapeutique encadré ([MTT](/medical-training-therapy-mtt/)). Votre physio à Morat ne se résume donc pas à quelques exercices sur une table.
+Ce qui distingue le cabinet, c'est l'espace : il est installé dans le centre d'entraînement InsGym. Après une prothèse ou une longue immobilisation, nous pouvons doser précisément force, endurance et équilibre sur les appareils, avec un entraînement thérapeutique encadré ([MTT](/medical-training-therapy-mtt/)). Une physio à Morat ou près de Morat ne se résume donc pas à quelques exercices sur une table.
 
-On pense au physiothérapeute quand une gêne ne passe pas avec le repos : un dos qui se bloque, un genou qui gonfle après la promenade sur les remparts, une épaule qui empêche d'enfiler une veste, des pertes d'équilibre. La physiothérapie à Morat est aussi l'étape naturelle après une opération.
+On pense au physiothérapeute quand une gêne ne passe pas avec le repos : un dos qui se bloque, un genou qui gonfle après la promenade sur les remparts, une épaule qui empêche d'enfiler une veste, des pertes d'équilibre. La physiothérapie à Morat est aussi l'étape naturelle après une opération, à l'HFR ou ailleurs.
 
 ## Physiothérapie à domicile à Morat et environs
 
 Nos physiothérapeutes se déplacent à domicile à Morat et dans les environs : Meyriez, Muntelier, Greng, Courgevaux et Galmiz. Avec des cannes, un déambulateur ou une grande fatigue, la séance a lieu chez vous, avec des exercices pensés pour votre logement et le petit matériel que nous apportons.
 
-C'est souvent la suite logique d'une sortie d'hôpital : les premières semaines à la maison, le domicile évite les trajets ; ensuite, le cabinet prend le relais. Voir [physiothérapie à domicile](/physiotherapeute-a-domicile/).
+La physiothérapie à Morat à domicile est souvent la suite logique d'une sortie d'hôpital : les premières semaines à la maison, le domicile évite les trajets ; ensuite, le cabinet prend le relais. Voir [physiothérapie à domicile](/physiotherapeute-a-domicile/).
 
 ## Quand consulter un physio, et quand voir d'abord un médecin ?
 
@@ -107,7 +107,7 @@ Vivre dans le canton de Fribourg et se soigner à Ins, dans le canton de Berne, 
 
 ### Où trouver un physiothérapeute près de Morat ?
 
-À Ins, au cabinet Physio Activa : Rämismatte 21, 1er étage du bâtiment Lidl, parking sur place, à environ 8,7 km en ligne droite. Nous proposons aussi la physiothérapie à Morat même, à domicile, pour ceux qui ne peuvent pas se déplacer.
+À Ins, au cabinet Physio Activa : Rämismatte 21, 1er étage du bâtiment Lidl, parking sur place, à environ 8,7 km en ligne droite. Si vous ne pouvez pas vous déplacer, un physiothérapeute à Morat même, à domicile, prend le relais.
 
 ### Quand dois-je consulter un physiothérapeute pour une douleur ?
 
@@ -143,7 +143,7 @@ Un massage à but de soin : relâcher une tension, diminuer une douleur, prépar
 
 ## Besoin d'un physio à Morat ou dans les environs ?
 
-Décrivez-nous votre situation : nous vous proposerons une séance au cabinet ou à domicile. [Réservez en ligne](/reservation-en-ligne/), appelez le 076 627 38 38 ou écrivez sur WhatsApp au +41 76 627 38 38.
+Votre physio à Morat commence par un message : décrivez-nous votre situation, et nous vous proposerons une séance au cabinet ou à domicile. [Réservez en ligne](/reservation-en-ligne/), appelez le 076 627 38 38 ou écrivez sur WhatsApp au +41 76 627 38 38.
 
 ## Notes pour l'équipe (ES)
 

@@ -31,7 +31,7 @@ Agenda en ligne, 076 627 38 38 ou WhatsApp si vous préférez poser une question
 
 ## Un physiothérapeute près de Neuchâtel
 
-Le cabinet se situe à Ins, Rämismatte 21, au 1er étage du bâtiment Lidl, avec parking. Pour une physio à Neuchâtel quand on travaille en horaires décalés, l'ouverture jusqu'à 20h permet de caser une séance après le bureau, sans courir.
+Le cabinet se situe à Ins, Rämismatte 21, au 1er étage du bâtiment Lidl, avec parking : une adresse près de Neuchâtel, facile à rejoindre. Pour une physio à Neuchâtel quand on travaille en horaires décalés, l'ouverture jusqu'à 20h permet de caser une séance après le bureau, sans courir.
 
 Le cabinet est installé dans le centre d'entraînement InsGym : cabines de traitement, salle de fitness complète et entraînement thérapeutique sur appareils ([MTT](/medical-training-therapy-mtt/)). Pour un coureur des quais ou un cycliste, cela permet de passer du traitement au geste sportif sans changer de lieu.
 
@@ -123,7 +123,7 @@ Il évalue votre mouvement, traite la douleur par des techniques manuelles et vo
 
 ### Comment savoir si j'ai besoin d'un drainage lymphatique ?
 
-Un membre qui reste gonflé, lourd ou tendu après une opération ou un traitement contre le cancer doit être examiné par un médecin. C'est lui qui confirme si un drainage est indiqué.
+Un membre qui reste gonflé, lourd ou tendu après une opération ou un traitement contre le cancer doit être examiné par un médecin. C'est lui qui décide si un drainage est indiqué.
 
 ### Quelle est la différence entre un massage thérapeutique et un massage de détente ?
 
@@ -135,7 +135,7 @@ Dès votre retour à la maison, si le médecin n'a pas fixé d'autre délai. Dan
 
 ## Besoin d'un physio à Neuchâtel ou dans les environs ?
 
-Réservez votre première séance via la [réservation en ligne](/reservation-en-ligne/), au 076 627 38 38 ou sur WhatsApp (+41 76 627 38 38).
+Pour une physio à Neuchâtel, chez vous ou au cabinet, réservez votre première séance via la [réservation en ligne](/reservation-en-ligne/), au 076 627 38 38 ou sur WhatsApp (+41 76 627 38 38).
 
 ## Notes pour l'équipe (ES)
 

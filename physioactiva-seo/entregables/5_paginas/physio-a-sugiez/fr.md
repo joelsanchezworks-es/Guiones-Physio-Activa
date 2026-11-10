@@ -125,9 +125,9 @@ Dans la plupart des cas, nous proposons un rendez-vous dans la semaine. Le plus 
 
 C'est le travail progressif pour retrouver une fonction diminuée : marcher sans boiter, lever le bras, porter une caisse de raisin. Elle combine traitement manuel et exercices.
 
-### J'ai été opéré à l'HFR Meyriez-Murten : comment poursuivre ?
+### J'ai été opéré à l'hôpital de la région : comment poursuivre ?
 
-Apportez les consignes de l'hôpital et réservez dès votre retour. La rééducation reprend au cabinet, ou chez vous si vous ne pouvez pas encore conduire.
+Après un séjour à l'HFR Meyriez-Murten, apportez les consignes de l'hôpital et réservez dès votre retour. La rééducation reprend au cabinet, ou chez vous si vous ne pouvez pas encore conduire.
 
 ### Comment choisir son physiothérapeute ?
 
