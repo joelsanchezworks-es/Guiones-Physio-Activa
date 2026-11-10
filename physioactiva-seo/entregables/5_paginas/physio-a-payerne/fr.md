@@ -1,6 +1,6 @@
 ---
 title: "Physio à Payerne – à domicile ou à Ins | Physio Activa"
-meta: "Physio à Payerne et dans la Broye : physiothérapeute au cabinet d'Ins, domicile selon l'adresse, jusqu'à 20h en semaine. Réservez votre rendez-vous en ligne."
+meta: "Physio à Payerne et dans la Broye : physiothérapeute au cabinet d'Ins, domicile selon l'adresse, jusqu'à 20h en semaine. Réservez en ligne."
 slug: "/physio-a-payerne/"
 keyword_principal: "physio payerne"
 tipo: "zona"

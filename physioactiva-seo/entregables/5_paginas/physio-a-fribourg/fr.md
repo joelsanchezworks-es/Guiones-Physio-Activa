@@ -1,6 +1,6 @@
 ---
 title: "Physiothérapie à Fribourg – domicile ou Ins | Physio Activa"
-meta: "Physiothérapie à Fribourg : cabinet d'Ins ou séances à domicile selon l'adresse, drainage lymphatique, reconnu par toutes les assurances. Réservez en ligne."
+meta: "Physiothérapie à Fribourg : cabinet d'Ins ou domicile selon l'adresse, drainage lymphatique, reconnu par toutes les assurances. Réservez en ligne."
 slug: "/physio-a-fribourg/"
 keyword_principal: "physiothérapie fribourg"
 tipo: "zona"
