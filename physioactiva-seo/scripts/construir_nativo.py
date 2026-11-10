@@ -25,6 +25,9 @@ FICHAS = {
 }
 
 
+SOINS_FIRST = {"chietres": ["massage", "domicile"]}  # demanda local medida (massage kerzers 90/mes)
+
+
 def ficha(key):
     if key in FICHAS:
         return FICHAS[key]
@@ -35,7 +38,7 @@ def ficha(key):
                 voisines=z["localites_voisines"], km=str(z["km_depuis_ins"]).replace(".", ","), domicile=key in DOMICILE,
                 hero=UP + ("2026/09/Neuchatel-physio.jpg" if key == "neuchatel" else "2025/06/Centerbild_IMG_9184-scaled-1.jpg"),
                 cta=UP + "2025/04/Physio-Activa-00036.jpg",
-                soins_first=[k for k in ("domicile", "drainage", "massage", "sport") if k in dem] or ["domicile"])
+                soins_first=SOINS_FIRST.get(key) or [k for k in ("domicile", "drainage", "massage", "sport") if k in dem] or ["domicile"])
 
 
 VAR = {  # frases fijas del constructor que cambian por ciudad para que las páginas no se parezcan
@@ -47,6 +50,14 @@ VAR = {  # frases fijas del constructor que cambian por ciudad para que las pág
         why_eb="Physio Activa en bref", why_h2="Quatre raisons de choisir Physio Activa depuis Morat",
         why_p="Bilingue, ouvert jusqu'à 20h et à quelques minutes de Morat, avec un espace d'entraînement complet.",
         faq_eb="Vos questions"),
+    "chietres": dict(
+        ameta="Physio Activa · physiothérapie et massage pour Chiètres (Kerzers)",
+        soins_h2="Physiothérapie à Chiètres : ce que nous proposons",
+        soins_p="Du massage thérapeutique à la rééducation après une opération, au cabinet d'Ins ou chez vous à Chiètres :",
+        cta_p="Le dos qui coince, une épaule qui ne suit plus ? Envoyez-nous un message en allemand ou en français : un physiothérapeute vous rappelle et vous propose un créneau, souvent dans la semaine.",
+        why_eb="Ce qui change pour vous", why_h2="Physio Activa pour Chiètres, en quatre points",
+        why_p="Germanophone et francophone, ouvert le soir, à quelques minutes de Chiètres, avec massage et entraînement sur place.",
+        faq_eb="On nous demande souvent"),
 }
 
 
@@ -169,7 +180,7 @@ def build(key):
     ]
     fiche = ('<div class="fiche"><table><caption>' + esc((f"Physio Activa à {ville}, en bref" if es_ins else f"Physio Activa pour les patients {de(ville)}, en bref")) + "</caption><tbody>"
              + "".join(f'<tr><th scope="row">{esc(a)}</th><td>{esc(c)}</td></tr>' for a, c in fiche_rows) + "</tbody></table></div>")
-    soins = sorted(SOINS, key=lambda s: (0 if s[3] in f["soins_first"] else 1, SOINS.index(s)))[:10]
+    soins = sorted(SOINS, key=lambda s: (f["soins_first"].index(s[3]) if s[3] in f["soins_first"] else 99, SOINS.index(s)))[:10]
     soins_html = '<ul class="soins-list">' + "".join(f'<li><a href="{u}"><strong>{esc(t)}</strong><span>{esc(d)}</span></a></li>' for u, t, d, _ in soins) + "</ul>"
     art = [b.w("text-editor", {"editor": "<p>" + " ".join(inline(x) for x in intro if x.name == "p") + "</p>"}, "pa-lead"),
            b.w("html", {"html": fiche}, "pa-fiche")]
@@ -186,7 +197,7 @@ def build(key):
             art.append(b.w("text-editor", {"editor": "<p>" + var(key, "soins_p", f"Vous avez accès à l'ensemble de nos soins, {'au cabinet' if es_ins else cab} ou à domicile selon votre situation. Les plus demandés :") + f"</p>\n{soins_html}"}, "pa-text"))
             art.append(b.w("text-editor", {"editor": '<div class="cta-inline"><p>' + var(key, "cta_p", f"Vous habitez {esc(ville)} ou un village voisin et vous avez mal ? Nous vous proposons un rendez-vous dans la semaine dans la plupart des cas, " + ((("au cabinet" if es_ins else cab) + " ou chez vous.") if f["domicile"] else f"{cab} ou à domicile selon votre adresse.")) + '</p>'
                                                      f'<p><a class="btn" href="{ONEDOC}" target="_blank" rel="noopener">Rendez-vous online</a></p></div>'}, "pa-text"))
-        if re.search(r"déroule|parcours", h2t, re.I):
+        if re.search(r"déroule|parcours|premier contact", h2t, re.I):
             art.append(b.w("image", {"image": {"url": UP + "2025/04/Physio-Activa-00036.jpg", "id": "", "alt": (f"Salle de traitement du cabinet Physio Activa à {ville}" if es_ins else f"Salle de traitement du cabinet Physio Activa à Ins, proche {de(ville)}")},
                                      "image_size": "full"}, "pa-img"))
     secciones.append(b.sec([b.col(art, css="article")], "pa-lp pa-article", content_width={"unit": "px", "size": 828}, padding=pad(56, 0, 72, 0)))
