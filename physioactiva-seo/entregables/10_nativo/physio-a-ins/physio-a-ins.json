@@ -374,7 +374,7 @@
        "elType": "widget",
        "widgetType": "text-editor",
        "settings": {
-        "editor": "<p>Vous avez accès à l'ensemble de nos soins, au cabinet d'Ins ou à domicile selon votre situation. Les plus demandés :</p>\n<ul class=\"soins-list\"><li><a href=\"/physiotherapeute-a-domicile/\"><strong>Physiothérapie à domicile</strong><span>Les séances chez vous quand se déplacer est difficile.</span></a></li><li><a href=\"/physio-du-sport/\"><strong>Physiothérapie du sport</strong><span>Blessures, surcharge et retour à l&#x27;entraînement.</span></a></li><li><a href=\"/physio-generale/\"><strong>Physiothérapie générale</strong><span>Douleurs, raideurs et gênes du quotidien.</span></a></li><li><a href=\"/drainage-lymphatique/\"><strong>Drainage lymphatique</strong><span>Œdèmes, jambes lourdes, suites opératoires.</span></a></li><li><a href=\"/mal-de-dos-lombaire/\"><strong>Mal de dos et lombalgie</strong><span>Lumbago, douleurs en position assise, rechutes.</span></a></li><li><a href=\"/sciatique-hernie-discale/\"><strong>Sciatique et hernie discale</strong><span>Douleur qui descend dans la jambe.</span></a></li><li><a href=\"/douleur-cervicale-au-cou/\"><strong>Douleur cervicale</strong><span>Nuque raide, torticolis, travail de bureau.</span></a></li><li><a href=\"/lesions-de-lepaule/\"><strong>Douleur de l&#x27;épaule</strong><span>Coiffe des rotateurs, tendinite, capsulite.</span></a></li><li><a href=\"/douleur-du-genou-lesions-de-la-cheville/\"><strong>Genou</strong><span>Ménisque, ligament croisé, arthrose, prothèse.</span></a></li><li><a href=\"/physiotherapie-post-operatoire/\"><strong>Physiothérapie post-opératoire</strong><span>Rééducation après une prothèse ou une chirurgie.</span></a></li></ul>",
+        "editor": "<p>Vous avez accès à l'ensemble de nos soins, au cabinet ou à domicile selon votre situation. Les plus demandés :</p>\n<ul class=\"soins-list\"><li><a href=\"/physiotherapeute-a-domicile/\"><strong>Physiothérapie à domicile</strong><span>Les séances chez vous quand se déplacer est difficile.</span></a></li><li><a href=\"/physio-du-sport/\"><strong>Physiothérapie du sport</strong><span>Blessures, surcharge et retour à l&#x27;entraînement.</span></a></li><li><a href=\"/physio-generale/\"><strong>Physiothérapie générale</strong><span>Douleurs, raideurs et gênes du quotidien.</span></a></li><li><a href=\"/drainage-lymphatique/\"><strong>Drainage lymphatique</strong><span>Œdèmes, jambes lourdes, suites opératoires.</span></a></li><li><a href=\"/mal-de-dos-lombaire/\"><strong>Mal de dos et lombalgie</strong><span>Lumbago, douleurs en position assise, rechutes.</span></a></li><li><a href=\"/sciatique-hernie-discale/\"><strong>Sciatique et hernie discale</strong><span>Douleur qui descend dans la jambe.</span></a></li><li><a href=\"/douleur-cervicale-au-cou/\"><strong>Douleur cervicale</strong><span>Nuque raide, torticolis, travail de bureau.</span></a></li><li><a href=\"/lesions-de-lepaule/\"><strong>Douleur de l&#x27;épaule</strong><span>Coiffe des rotateurs, tendinite, capsulite.</span></a></li><li><a href=\"/douleur-du-genou-lesions-de-la-cheville/\"><strong>Genou</strong><span>Ménisque, ligament croisé, arthrose, prothèse.</span></a></li><li><a href=\"/physiotherapie-post-operatoire/\"><strong>Physiothérapie post-opératoire</strong><span>Rééducation après une prothèse ou une chirurgie.</span></a></li></ul>",
         "_css_classes": "pa-text"
        },
        "elements": [],
@@ -591,7 +591,7 @@
        "elType": "widget",
        "widgetType": "text-editor",
        "settings": {
-        "editor": "<p>Un cabinet de physiothérapie à Ins, des soins à domicile dans tout le Seeland et une équipe qui vous reçoit en cinq langues.</p>",
+        "editor": "<p>Un cabinet de physiothérapie à Ins, des soins à domicile dans la région et une équipe qui vous reçoit en cinq langues.</p>",
         "align": "center",
         "_css_classes": "pa-sub"
        },
@@ -1098,6 +1098,6 @@
   "hide_title": "yes"
  },
  "version": "0.4",
- "title": "Physio à Ins (widgets éditables)",
+ "title": "Physio à Ins",
  "type": "page"
 }

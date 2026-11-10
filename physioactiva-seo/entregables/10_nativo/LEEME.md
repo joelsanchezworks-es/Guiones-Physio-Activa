@@ -1,4 +1,4 @@
-# Página «Physio à Ins» con widgets editables de Elementor
+# Páginas de ciudad con widgets editables de Elementor (Ins, Bienne…)
 
 ## Archivos
 - `physio-a-ins/physio-a-ins.zip`, o el `.json` de dentro: se importan en **Plantillas › Plantillas guardadas › Importar plantillas**. Sirve el .zip o el .json.

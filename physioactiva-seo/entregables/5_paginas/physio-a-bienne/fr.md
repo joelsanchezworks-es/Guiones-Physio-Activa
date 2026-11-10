@@ -35,6 +35,8 @@ Le cabinet est installé à Ins, Rämismatte 21, au 1er étage du bâtiment Lidl
 
 Dans une ville bilingue, la langue compte : notre équipe parle français, allemand, anglais, espagnol et portugais. Vous expliquez ce que vous ressentez dans la langue où vous êtes le plus à l'aise, et vos documents médicaux en allemand restent parfaitement utilisables. Les séances sont possibles jusqu'à 20h, du lundi au vendredi, pour venir après le travail.
 
+Physiotherapie für Biel und Umgebung: Unser Team spricht Deutsch, in der Praxis in Ins oder bei Ihnen zu Hause in Biel, Nidau, Brügg, Port und Ipsach.
+
 Les motifs qui nous amènent des patients pour une physiothérapie à Bienne sont variés : nuque tendue par les heures d'écran, épaule qui accroche, talon douloureux au réveil, cheville fragile après une entorse, mal de dos qui revient à chaque déménagement.
 
 ## Physiothérapie à domicile à Bienne et environs
@@ -119,6 +121,10 @@ La durée du traitement varie selon votre situation, l'ancienneté des symptôme
 
 En français, en allemand, en anglais, en espagnol ou en portugais : vous choisissez. Pour les patients d'une ville bilingue, c'est l'assurance de comprendre chaque exercice.
 
+### Physio für Biel: Sprechen Sie Deutsch?
+
+Ja. Unser Team behandelt Sie auf Deutsch oder Französisch, in der Praxis in Ins oder als Physiotherapie zu Hause in Biel und Umgebung.
+
 ### Pouvez-vous venir à Nidau, Port ou Evilard ?
 
 Oui. Nidau, Port, Evilard, Brügg et Ipsach font partie des environs où nous nous déplaçons. Indiquez votre adresse au moment de réserver.
@@ -140,6 +146,8 @@ Non. Les mouvements sont doux, lents et rythmés. Une zone opérée récemment p
 Réservez votre première séance en quelques clics sur la [réservation en ligne](/reservation-en-ligne/), au 076 627 38 38 ou sur WhatsApp au +41 76 627 38 38.
 
 ## Notes pour l'équipe (ES)
+
+- Ajuste nativo (2026-11-10): «physio biel» y «physiotherapie biel» (720/mes cada una) → frase y FAQ en alemán para captarlas.
 
 - Ajuste v4: sin marcadores; domicilio afirmado (zona cubierta en la web del cliente); estructura v4; idiomas y plazo «dans la semaine» tomados de la web.
 - Keywords: «physio biel» (720) en title y una vez «Biel» en la intro; «physiothérapeute bienne» (320) en meta, intro y FAQ. Servicios ≥ 20: drainage lymphatique (90) y massage (70, demanda en alemán) → H3 sin ciudad.

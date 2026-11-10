@@ -9,7 +9,7 @@ from urllib.parse import quote
 from bs4 import BeautifulSoup
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
-from construir_ciudad_lp import parse, inline, subs, texto, SOINS, CLI, UP, SITE, ONEDOC, esc  # noqa: E402
+from construir_ciudad_lp import parse, inline, subs, texto, SOINS, CLI, UP, SITE, ONEDOC, esc, ZON, DOMICILE  # noqa: E402
 
 BASE = pathlib.Path(__file__).resolve().parent.parent
 PAG = BASE / "entregables/5_paginas"
@@ -23,6 +23,23 @@ FICHAS = {
                 hero=UP + "2025/06/Centerbild_IMG_9184-scaled-1.jpg", cta=UP + "2025/04/Physio-Activa-00036.jpg",
                 soins_first=["domicile", "sport"]),
 }
+
+
+def ficha(key):
+    if key in FICHAS:
+        return FICHAS[key]
+    z = ZON[key]
+    brief = json.loads((BASE / "data/z_briefs_local.json").read_text()).get(key, {})
+    dem = " ".join(k for _, k, _ in brief.get("services_locaux", []))
+    return dict(ville=z["nom_fr"], vtitre=z["nom_titre"], url=z["url"], commune=z["commune"], canton=z["canton"], wiki=z["source_publique"],
+                voisines=z["localites_voisines"], km=str(z["km_depuis_ins"]).replace(".", ","), domicile=key in DOMICILE,
+                hero=UP + ("2026/09/Neuchatel-physio.jpg" if key == "neuchatel" else "2025/06/Centerbild_IMG_9184-scaled-1.jpg"),
+                cta=UP + "2025/04/Physio-Activa-00036.jpg",
+                soins_first=[k for k in ("domicile", "drainage", "massage", "sport") if k in dem] or ["domicile"])
+
+
+def de(v):
+    return ("d'" if v[0].lower() in "aeiouyéèêiîh" else "de ") + v
 
 
 def eid(*p):
@@ -72,7 +89,7 @@ def bloques(bl):
     out = []
     for b in bl:
         if b.name == "p":
-            lang = ' lang="de"' if re.match(r"(Physiotherapie in|Ja\.|Unser Team)", b.get_text()) else ""
+            lang = ' lang="de"' if re.match(r"(Physiotherapie |Ja\.|Unser )", b.get_text()) else ""
             out.append(f"<p{lang}>{inline(b)}</p>")
         elif b.name in ("ul", "ol"):
             out.append('<ul class="plain">' + "".join(f"<li>{inline(li)}</li>" for li in b.find_all("li", recursive=False)) + "</ul>")
@@ -82,9 +99,13 @@ def bloques(bl):
 
 
 def build(key):
-    f = FICHAS[key]
+    f = ficha(key)
     slug = f"physio-a-{key}"
     ville, vtitre = f["ville"], f["vtitre"]
+    es_ins = key == "ins"
+    cab = "au cabinet d'Ins"
+    if es_ins:
+        f["domicile"] = True
     meta, h1, intro, secs = parse((PAG / slug / "fr.md").read_text())
     h1t = texto(h1)
     b = B(slug)
@@ -118,17 +139,19 @@ def build(key):
     secciones.append(b.sec([b.col([b.w("text-editor", {"editor": f'<p><a href="/">Accueil</a> <span aria-hidden="true">›</span> Physiothérapie à {esc(ville)}</p>'}, "pa-crumbs")])],
                            "pa-lp pa-crumbs-sec", content_width={"unit": "px", "size": 828}))
     # 3 · artículo
-    km_route = f"https://www.google.com/maps/dir/?api=1&destination={quote('Physio Activa, Rämismatte 21, 3232 Ins')}"
-    fiche_rows = [
-        ("Cabinet", "Rämismatte 21, 3232 Ins (1er étage du bâtiment Lidl, InsGym), parking sur place"),
-        ("À domicile", f"{ville} et environs ({', '.join(f['voisines'])})"),
+    km_route = "https://www.google.com/maps/dir/?api=1" + ("" if es_ins else f"&origin={quote(ville + ', Suisse')}") + f"&destination={quote('Physio Activa, Rämismatte 21, 3232 Ins')}"
+    fiche_rows = [("Cabinet", "Rämismatte 21, 3232 Ins (1er étage du bâtiment Lidl, InsGym), parking sur place")]
+    if not es_ins:
+        fiche_rows.append((f"Depuis {ville}", f"Environ {f['km']} km à vol d'oiseau jusqu'au cabinet d'Ins"))
+    fiche_rows += [
+        ("À domicile", f"{ville} et environs ({', '.join(f['voisines'])})" if f["domicile"] else f"Selon votre adresse ({', '.join(f['voisines'])}) : contactez-nous pour le vérifier"),
         ("Délai", "Rendez-vous dans la semaine dans la plupart des cas"),
         ("Horaires", "Du lundi au vendredi, jusqu'à 20h"),
         ("Langues", "Français, allemand, anglais, espagnol et portugais"),
         ("Assurances", "Cabinet reconnu par toutes les compagnies d'assurance maladie en Suisse"),
         ("Réservation", "En ligne (OneDoc), par WhatsApp ou au 076 627 38 38"),
     ]
-    fiche = ('<div class="fiche"><table><caption>' + esc(f"Physio Activa à {ville}, en bref") + "</caption><tbody>"
+    fiche = ('<div class="fiche"><table><caption>' + esc((f"Physio Activa à {ville}, en bref" if es_ins else f"Physio Activa pour les patients {de(ville)}, en bref")) + "</caption><tbody>"
              + "".join(f'<tr><th scope="row">{esc(a)}</th><td>{esc(c)}</td></tr>' for a, c in fiche_rows) + "</tbody></table></div>")
     soins = sorted(SOINS, key=lambda s: (0 if s[3] in f["soins_first"] else 1, SOINS.index(s)))[:10]
     soins_html = '<ul class="soins-list">' + "".join(f'<li><a href="{u}"><strong>{esc(t)}</strong><span>{esc(d)}</span></a></li>' for u, t, d, _ in soins) + "</ul>"
@@ -139,16 +162,16 @@ def build(key):
         art.append(b.w("heading", {"title": h2t, "header_size": "h2"}, "pa-h2"))
         art.append(b.w("text-editor", {"editor": bloques(s["b"])}, "pa-text"))
         if i == 0:
-            art.append(btn(f"Itinéraire vers le cabinet", km_route, "fas fa-route", "outline"))
-            art.append(b.w("image", {"image": {"url": UP + "2025/04/Physio-Activa-00031.jpg", "id": "", "alt": f"Physiothérapeute de Physio Activa en séance au cabinet de physiothérapie à {ville}"},
+            art.append(btn("Itinéraire vers le cabinet" if es_ins else f"Itinéraire depuis {ville}", km_route, "fas fa-route", "outline"))
+            art.append(b.w("image", {"image": {"url": UP + "2025/04/Physio-Activa-00031.jpg", "id": "", "alt": (f"Physiothérapeute de Physio Activa en séance au cabinet de physiothérapie à {ville}" if es_ins else f"Physiothérapeute de Physio Activa en séance, physio pour les patients {de(ville)}")},
                                      "image_size": "full"}, "pa-img"))
         if re.search(r"domicile", h2t, re.I):
-            art.append(b.w("heading", {"title": f"Nos soins de physiothérapie à {ville}", "header_size": "h2"}, "pa-h2"))
-            art.append(b.w("text-editor", {"editor": f"<p>Vous avez accès à l'ensemble de nos soins, au cabinet d'{ville} ou à domicile selon votre situation. Les plus demandés :</p>\n{soins_html}"}, "pa-text"))
-            art.append(b.w("text-editor", {"editor": f'<div class="cta-inline"><p>Vous habitez {esc(ville)} ou un village voisin et vous avez mal ? Nous vous proposons un rendez-vous dans la semaine dans la plupart des cas, au cabinet ou chez vous.</p>'
+            art.append(b.w("heading", {"title": (f"Nos soins de physiothérapie à {ville}" if es_ins else f"Nos soins de physiothérapie pour les patients {de(ville)}"), "header_size": "h2"}, "pa-h2"))
+            art.append(b.w("text-editor", {"editor": f"<p>Vous avez accès à l'ensemble de nos soins, {"au cabinet" if es_ins else cab} ou à domicile selon votre situation. Les plus demandés :</p>\n{soins_html}"}, "pa-text"))
+            art.append(b.w("text-editor", {"editor": f'<div class="cta-inline"><p>Vous habitez {esc(ville)} ou un village voisin et vous avez mal ? Nous vous proposons un rendez-vous dans la semaine dans la plupart des cas, ' + ((("au cabinet" if es_ins else cab) + " ou chez vous.") if f["domicile"] else f"{cab} ou à domicile selon votre adresse.") + '</p>'
                                                      f'<p><a class="btn" href="{ONEDOC}" target="_blank" rel="noopener">Rendez-vous online</a></p></div>'}, "pa-text"))
         if re.search(r"déroule", h2t, re.I):
-            art.append(b.w("image", {"image": {"url": UP + "2025/04/Physio-Activa-00036.jpg", "id": "", "alt": f"Salle de traitement du cabinet Physio Activa à {ville}"},
+            art.append(b.w("image", {"image": {"url": UP + "2025/04/Physio-Activa-00036.jpg", "id": "", "alt": (f"Salle de traitement du cabinet Physio Activa à {ville}" if es_ins else f"Salle de traitement du cabinet Physio Activa à Ins, proche {de(ville)}")},
                                      "image_size": "full"}, "pa-img"))
     secciones.append(b.sec([b.col(art, css="article")], "pa-lp pa-article", content_width={"unit": "px", "size": 828}, padding=pad(56, 0, 72, 0)))
     # 4 · pourquoi
@@ -160,13 +183,13 @@ def build(key):
                  gap="extended", content_width={"unit": "px", "size": 1000})
     secciones.append(b.sec([b.col([
         b.w("heading", {"title": "Pourquoi Physio Activa", "header_size": "p", "align": "center"}, "pa-eyebrow"),
-        b.w("heading", {"title": f"Pourquoi les patients d'{ville} choisissent Physio Activa", "header_size": "h2", "align": "center"}, "pa-title"),
-        b.w("text-editor", {"editor": "<p>Un cabinet de physiothérapie à Ins, des soins à domicile dans tout le Seeland et une équipe qui vous reçoit en cinq langues.</p>", "align": "center"}, "pa-sub"),
+        b.w("heading", {"title": f"Pourquoi les patients {de(ville)} choisissent Physio Activa", "header_size": "h2", "align": "center"}, "pa-title"),
+        b.w("text-editor", {"editor": "<p>Un cabinet de physiothérapie à Ins, des soins à domicile dans la région et une équipe qui vous reçoit en cinq langues.</p>", "align": "center"}, "pa-sub"),
         grid])], "pa-lp pa-soft", padding=pad(72, 24, 72, 24), padding_mobile=pad(54, 16, 54, 16)))
     # 5 · FAQ (acordeón nativo + FAQ Schema de Elementor)
     tabs = []
     for i, sb in enumerate(subs(faq["b"])):
-        ans = "".join((f'<p lang="de">' if re.match(r"(Ja\.|Unser)", c.get_text()) else "<p>") + inline(c) + "</p>" for c in sb["c"] if c.name == "p")
+        ans = "".join((f'<p lang="de">' if re.match(r"(Ja\.|Unser )", c.get_text()) else "<p>") + inline(c) + "</p>" for c in sb["c"] if c.name == "p")
         tabs.append({"tab_title": texto(sb["h3"]), "tab_content": ans, "_id": eid(slug, "faq", str(i))})
     secciones.append(b.sec([b.col([
         b.w("heading", {"title": "Questions fréquentes", "header_size": "p", "align": "center"}, "pa-eyebrow"),
@@ -198,7 +221,7 @@ def build(key):
          "geo": {"@type": "GeoCoordinates", "latitude": CLI["geo"]["lat"], "longitude": CLI["geo"]["lng"]},
          "hasMap": "https://www.google.com/maps?cid=17004812906479027083",
          "openingHoursSpecification": [{"@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"], "opens": "08:30", "closes": "20:00"}],
-         "areaServed": [{"@type": "City", "name": f["commune"], "sameAs": f["wiki"]}] + [{"@type": "Place", "name": v} for v in f["voisines"]],
+         "areaServed": [{"@type": "City", "name": f["commune"], "sameAs": f["wiki"]}] + [{"@type": "Place", "name": v} for v in f["voisines"]] + ([] if es_ins else [{"@type": "Place", "name": "Ins"}]),
          "availableLanguage": ["fr", "de", "en", "es", "pt"],
          "sameAs": ["https://www.instagram.com/physio_activa_/", "https://www.facebook.com/profile.php?id=100094154144954", "https://www.google.com/maps?cid=17004812906479027083"]},
         {"@type": "WebPage", "@id": full + "#webpage", "url": full, "name": meta["title"], "description": meta["meta"], "inLanguage": "fr-CH",
@@ -210,7 +233,7 @@ def build(key):
             '<script type="application/ld+json">' + json.dumps(ld, ensure_ascii=False).replace("</", "<\\/") + "</script>")
     secciones.append(b.sec([b.col([b.w("html", {"html": tail}, "pa-tail")])], "pa-lp pa-tail-sec"))
 
-    tpl = {"content": secciones, "page_settings": {"hide_title": "yes"}, "version": "0.4", "title": f"Physio à {ville} (widgets éditables)", "type": "page"}
+    tpl = {"content": secciones, "page_settings": {"hide_title": "yes"}, "version": "0.4", "title": f"Physio à {ville}", "type": "page"}
     d = OUT / slug
     d.mkdir(parents=True, exist_ok=True)
     (d / f"{slug}.json").write_text(json.dumps(tpl, ensure_ascii=False, indent=1))
@@ -307,6 +330,6 @@ def preview(tpl, meta):
 
 
 if __name__ == "__main__":
-    for k in (sys.argv[1:] or list(FICHAS)):
+    for k in sys.argv[1:]:
         tpl, meta = build(k)
         print(k, "secciones", len(tpl["content"]), meta["title"], len(meta["title"]), len(meta["meta"]))
