@@ -5,6 +5,14 @@
 - `physio-a-ins/yoast.txt`: título SEO, meta descripción, slug `/physio-a-ins/` y keyword principal «physio ins».
 - `physio-a-ins/preview.html`: vista previa aproximada (no se sube).
 
+## Imágenes: la plantilla se importa SIN fotos
+Elementor descarga y vuelve a subir a la biblioteca cada imagen que encuentra en una plantilla importada, y por eso se creaban duplicados. Ahora la plantilla trae todos los huecos de imagen vacíos:
+- **Hero:** fondo azul oscuro. Ve a la sección › Estilo › Fondo y elige la foto de la ciudad o del cabinet.
+- **Imágenes 1 y 2 del artículo:** marcador gris. Elige la foto en el widget Imagen. El texto alternativo sugerido está en `yoast.txt`.
+- **CTA final:** fondo azul oscuro con la capa ya puesta. Elige la foto en la sección › Estilo › Fondo.
+
+Si ya importaste versiones anteriores, borra de la biblioteca de medios los duplicados que se crearon (los «Physio-Activa-00036», «-00031» y «Centerbild…» repetidos).
+
 ## Montaje
 1. Importa el .zip.
 2. Crea la página «Physio à Ins» con el slug `/physio-a-ins/`. Edita con Elementor › carpeta › «Mis plantillas» › Insertar.

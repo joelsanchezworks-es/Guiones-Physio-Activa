@@ -69,6 +69,24 @@ def de(v):
     return ("d'" if v[0].lower() in "aeiouyéèêiîh" else "de ") + v
 
 
+def imgs_alt(tpl):
+    """Huecos de imagen de la plantilla con su texto alternativo sugerido."""
+    out = []
+    def walk(e):
+        s = e.get("settings", {})
+        if e["elType"] == "section" and "pa-hero" in s.get("css_classes", ""):
+            out.append(("Fondo del hero (sección › Estilo › Fondo)", "foto de la ciudad o del cabinet, 1920 px"))
+        if e["elType"] == "section" and "pa-cta" in s.get("css_classes", ""):
+            out.append(("Fondo del CTA final (sección › Estilo › Fondo)", "foto del cabinet; la capa azul oscura ya está puesta"))
+        if e.get("widgetType") == "image":
+            out.append((f"Imagen {sum(1 for x in out if x[0].startswith('Imagen')) + 1} del artículo", "alt: " + s["image"]["alt"]))
+        for x in e.get("elements", []):
+            walk(x)
+    for s in tpl["content"]:
+        walk(s)
+    return out
+
+
 def eid(*p):
     return hashlib.sha1("|".join(p).encode()).hexdigest()[:7]
 
@@ -160,7 +178,7 @@ def build(key):
         b.w("heading", {"title": var(key, "ameta", f"Par l'équipe Physio Activa · Physiothérapie à {ville}"), "header_size": "div", "align": "center"}, "pa-ameta"),
         btn_rdv(), btn_wa(),
     ], css="pa-center")], "pa-lp pa-hero", layout="full_width", stretch_section="section-stretched",
-        background_background="classic", background_image={"url": f["hero"], "id": ""}, background_position="center center",
+        background_background="classic", background_color="#0E2C4F", background_position="center center",
         background_size="cover", background_overlay_background="classic", background_overlay_color="#000000",
         background_overlay_opacity={"unit": "px", "size": 0.45}, padding=pad(120, 24, 120, 24), padding_mobile=pad(84, 18, 76, 18)))
     # 2 · migas
@@ -191,7 +209,7 @@ def build(key):
         art.append(b.w("text-editor", {"editor": bloques(s["b"])}, "pa-text"))
         if i == 0:
             art.append(btn("Itinéraire vers le cabinet" if es_ins else f"Itinéraire depuis {ville}", km_route, "fas fa-route", "outline"))
-            art.append(b.w("image", {"image": {"url": UP + "2025/04/Physio-Activa-00031.jpg", "id": "", "alt": (f"Physiothérapeute de Physio Activa en séance au cabinet de physiothérapie à {ville}" if es_ins else f"Physiothérapeute de Physio Activa en séance, physio pour les patients {de(ville)}")},
+            art.append(b.w("image", {"image": {"url": "", "id": "", "alt": (f"Physiothérapeute de Physio Activa en séance au cabinet de physiothérapie à {ville}" if es_ins else f"Physiothérapeute de Physio Activa en séance, physio pour les patients {de(ville)}")},
                                      "image_size": "full"}, "pa-img"))
         if re.search(r"domicile", h2t, re.I):
             art.append(b.w("heading", {"title": var(key, "soins_h2", f"Nos soins de physiothérapie à {ville}" if es_ins else f"Nos soins de physiothérapie pour les patients {de(ville)}"), "header_size": "h2"}, "pa-h2"))
@@ -199,7 +217,7 @@ def build(key):
             art.append(b.w("text-editor", {"editor": '<div class="cta-inline"><p>' + var(key, "cta_p", f"Vous habitez {esc(ville)} ou un village voisin et vous avez mal ? Nous vous proposons un rendez-vous dans la semaine dans la plupart des cas, " + ((("au cabinet" if es_ins else cab) + " ou chez vous.") if f["domicile"] else f"{cab} ou à domicile selon votre adresse.")) + '</p>'
                                                      f'<p><a class="btn" href="{ONEDOC}" target="_blank" rel="noopener">Rendez-vous online</a></p></div>'}, "pa-text"))
         if re.search(r"déroule|parcours|premier contact", h2t, re.I):
-            art.append(b.w("image", {"image": {"url": UP + "2025/04/Physio-Activa-00036.jpg", "id": "", "alt": (f"Salle de traitement du cabinet Physio Activa à {ville}" if es_ins else f"Salle de traitement du cabinet Physio Activa à Ins, proche {de(ville)}")},
+            art.append(b.w("image", {"image": {"url": "", "id": "", "alt": (f"Salle de traitement du cabinet Physio Activa à {ville}" if es_ins else f"Salle de traitement du cabinet Physio Activa à Ins, proche {de(ville)}")},
                                      "image_size": "full"}, "pa-img"))
     secciones.append(b.sec([b.col(art, css="article")], "pa-lp pa-article", content_width={"unit": "px", "size": 828}, padding=pad(56, 0, 72, 0)))
     # 4 · pourquoi
@@ -232,7 +250,7 @@ def build(key):
         b.w("text-editor", {"editor": f"<p>{esc(cta_p)}</p>", "align": "center"}, "pa-cta-sub"),
         btn_rdv(), btn_wa(), btn("Appelez-nous · 076 627 38 38", "tel:+41766273838", "fas fa-phone", "ghost", ext=False),
     ], css="pa-center")], "pa-lp pa-cta", layout="full_width", stretch_section="section-stretched",
-        background_background="classic", background_image={"url": f["cta"], "id": ""}, background_position="center center", background_size="cover",
+        background_background="classic", background_color="#0E2C4F", background_position="center center", background_size="cover",
         background_overlay_background="classic", background_overlay_color="#0E2C4F", background_overlay_opacity={"unit": "px", "size": 0.86},
         padding=pad(88, 24, 88, 24), padding_mobile=pad(64, 16, 64, 16)))
     # 7 · mapa
@@ -269,7 +287,9 @@ def build(key):
         z.write(d / f"{slug}.json", f"{slug}.json")
     (d / "yoast.txt").write_text(f"SEO title ({len(meta['title'])}/60): {meta['title']}\nMeta description ({len(meta['meta'])}/155): {meta['meta']}\n"
                                  f"Slug: {f['url']}\nFocus keyphrase: {meta['keyword_principal']}\nH1: {h1t}\nIndexación: index, follow\n"
-                                 f"Imagen destacada / Open Graph: {f['hero']}\n")
+                                 "\nIMÁGENES (la plantilla se importa SIN imágenes para no duplicarlas en la biblioteca; elígelas en Elementor):\n"
+                                 + "".join(f"- {n}: {a}\n" for n, a in imgs_alt(tpl)) +
+                                 "- Imagen destacada / Open Graph de Yoast: la misma del hero.\n")
     (d / "preview.html").write_text(preview(tpl, meta))
     return tpl, meta
 
@@ -300,7 +320,8 @@ def r_widget(w):
         inner = (f'<div class="elementor-button-wrapper"><a class="elementor-button elementor-button-link elementor-size-sm" href="{esc(s["link"]["url"])}">'
                  f'<span class="elementor-button-content-wrapper"><span class="elementor-button-icon"><i class="{ic}"></i></span><span class="elementor-button-text">{esc(s["text"])}</span></span></a></div>')
     elif t == "image":
-        inner = f'<img src="{s["image"]["url"]}" alt="{esc(s["image"]["alt"])}" loading="lazy">'
+        inner = (f'<img src="{s["image"]["url"]}" alt="{esc(s["image"]["alt"])}" loading="lazy">' if s["image"]["url"] else
+                 '<div style="aspect-ratio:16/9;border-radius:16px;background:#e3e8ee;display:flex;align-items:center;justify-content:center;color:#7a8794;font:14px sans-serif">Imagen: elígela en Elementor</div>')
     elif t == "icon-box":
         ic = s["selected_icon"]["value"].replace("fas ", "fa-solid ")
         inner = (f'<div class="elementor-icon-box-wrapper"><div class="elementor-icon-box-icon"><span class="elementor-icon"><i class="{ic}"></i></span></div>'

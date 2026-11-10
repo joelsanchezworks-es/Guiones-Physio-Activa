@@ -4,4 +4,10 @@ Slug: /physio-a-kerzers/
 Focus keyphrase: physio kerzers
 H1: Physio à Kerzers (Chiètres) : soins à domicile ou au cabinet d'Ins, à 7,6 km
 Indexación: index, follow
-Imagen destacada / Open Graph: https://physioactiva.ch/wp-content/uploads/2025/06/Centerbild_IMG_9184-scaled-1.jpg
+
+IMÁGENES (la plantilla se importa SIN imágenes para no duplicarlas en la biblioteca; elígelas en Elementor):
+- Fondo del hero (sección › Estilo › Fondo): foto de la ciudad o del cabinet, 1920 px
+- Imagen 1 del artículo: alt: Physiothérapeute de Physio Activa en séance, physio pour les patients de Kerzers
+- Imagen 2 del artículo: alt: Salle de traitement du cabinet Physio Activa à Ins, proche de Kerzers
+- Fondo del CTA final (sección › Estilo › Fondo): foto del cabinet; la capa azul oscura ya está puesta
+- Imagen destacada / Open Graph de Yoast: la misma del hero.
