@@ -1,0 +1,312 @@
+"""Página de ciudad en widgets NATIVOS de Elementor (cada bloque editable desde el panel).
+Diseño pa-lp: el CSS va en un widget HTML pequeño al inicio; textos en Encabezado / Editor de texto / Botón /
+Cuadro de icono / Acordeón (con «FAQ Schema» de Elementor) / Google Maps; imágenes de fondo nativas.
+Uso: python3 scripts/construir_nativo.py ins
+Salida: entregables/10_nativo/physio-a-<key>/{physio-a-<key>.json, preview.html, yoast.txt} + .zip
+"""
+import json, re, sys, pathlib, hashlib, html as H, zipfile
+from urllib.parse import quote
+from bs4 import BeautifulSoup
+
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+from construir_ciudad_lp import parse, inline, subs, texto, SOINS, CLI, UP, SITE, ONEDOC, esc  # noqa: E402
+
+BASE = pathlib.Path(__file__).resolve().parent.parent
+PAG = BASE / "entregables/5_paginas"
+OUT = BASE / "entregables/10_nativo"
+CSS = (BASE / "plantillas/pa-lp-nativo.css").read_text()
+
+FICHAS = {
+    "ins": dict(ville="Ins", vtitre="Ins (Anet)", url="/physio-a-ins/", commune="Ins", canton="Berne",
+                wiki="https://fr.wikipedia.org/wiki/Ins_(Berne)",
+                voisines=["Gampelen", "Müntschemier", "Brüttelen", "Treiten", "Siselen", "Erlach", "Vinelz", "Lüscherz"],
+                hero=UP + "2025/06/Centerbild_IMG_9184-scaled-1.jpg", cta=UP + "2025/04/Physio-Activa-00036.jpg",
+                soins_first=["domicile", "sport"]),
+}
+
+
+def eid(*p):
+    return hashlib.sha1("|".join(p).encode()).hexdigest()[:7]
+
+
+class B:
+    """Generador de elementos Elementor con IDs estables."""
+    def __init__(s, slug):
+        s.slug, s.n = slug, 0
+
+    def _id(s):
+        s.n += 1
+        return eid(s.slug, "nat", str(s.n))
+
+    def w(s, wtype, settings, css=""):
+        if css:
+            settings["_css_classes"] = css
+        return {"id": s._id(), "elType": "widget", "widgetType": wtype, "settings": settings, "elements": [], "isInner": False}
+
+    def col(s, widgets, size=100, css="", inner=False):
+        st = {"_column_size": size, "_inline_size": None}
+        if css:
+            st["css_classes"] = css
+        return {"id": s._id(), "elType": "column", "settings": st, "elements": widgets, "isInner": inner}
+
+    def sec(s, cols, css="", inner=False, **st):
+        settings = {"gap": "no"} | st
+        if css:
+            settings["css_classes"] = css
+        return {"id": s._id(), "elType": "section", "settings": settings, "elements": cols, "isInner": inner}
+
+
+def pad(t, r, b, l, unit="px"):
+    return {"unit": unit, "top": str(t), "right": str(r), "bottom": str(b), "left": str(l), "isLinked": False}
+
+
+def icon(v, lib="fa-solid"):
+    return {"value": v, "library": lib}
+
+
+def link(u, ext=False):
+    return {"url": u, "is_external": "on" if ext else "", "nofollow": "", "custom_attributes": ""}
+
+
+def bloques(bl):
+    out = []
+    for b in bl:
+        if b.name == "p":
+            lang = ' lang="de"' if re.match(r"(Physiotherapie in|Ja\.|Unser Team)", b.get_text()) else ""
+            out.append(f"<p{lang}>{inline(b)}</p>")
+        elif b.name in ("ul", "ol"):
+            out.append('<ul class="plain">' + "".join(f"<li>{inline(li)}</li>" for li in b.find_all("li", recursive=False)) + "</ul>")
+        elif b.name == "h3":
+            out.append(f"<h3>{inline(b)}</h3>")
+    return "\n".join(out)
+
+
+def build(key):
+    f = FICHAS[key]
+    slug = f"physio-a-{key}"
+    ville, vtitre = f["ville"], f["vtitre"]
+    meta, h1, intro, secs = parse((PAG / slug / "fr.md").read_text())
+    h1t = texto(h1)
+    b = B(slug)
+    wa = CLI["whatsapp_href"] + "?text=" + quote(f"Bonjour, je souhaite prendre rendez-vous chez Physio Activa (physio à {ville}).")
+    why = next(s for s in secs if re.search(r"essentiel", texto(s["h2"]), re.I))
+    faq = next(s for s in secs if re.match(r"questions fréquentes", texto(s["h2"]), re.I))
+    cta = secs[-1]
+    cuerpo = [s for s in secs if s not in (why, faq, cta)]
+
+    def btn(text, href, ic, kind="", ext=True, lib="fa-solid"):
+        return b.w("button", {"text": text, "link": link(href, ext), "selected_icon": icon(ic, lib), "icon_indent": {"unit": "px", "size": 8},
+                              "_element_width": "auto", "_element_width_mobile": "inherit"}, ("pa-btn " + kind).strip())
+
+    btn_rdv = lambda: btn("Rendez-vous online", ONEDOC, "fas fa-calendar-check")
+    btn_wa = lambda: btn("WhatsApp", wa, "fab fa-whatsapp", "wa", lib="fa-brands")
+
+    secciones = []
+    # 0 · estilos (no editar)
+    secciones.append(b.sec([b.col([b.w("html", {"html": "<style>\n" + CSS + "\n</style>"}, "pa-styles")])], "pa-lp pa-styles-sec"))
+    # 1 · hero
+    secciones.append(b.sec([b.col([
+        b.w("heading", {"title": f"Physiothérapie · {vtitre}", "header_size": "p", "align": "center"}, "pa-eyebrow"),
+        b.w("heading", {"title": h1t, "header_size": "h1", "align": "center"}, "pa-h1"),
+        b.w("heading", {"title": f"Par l'équipe Physio Activa · Physiothérapie à {ville}", "header_size": "div", "align": "center"}, "pa-ameta"),
+        btn_rdv(), btn_wa(),
+    ], css="pa-center")], "pa-lp pa-hero", layout="full_width", stretch_section="section-stretched",
+        background_background="classic", background_image={"url": f["hero"], "id": ""}, background_position="center center",
+        background_size="cover", background_overlay_background="classic", background_overlay_color="#000000",
+        background_overlay_opacity={"unit": "px", "size": 0.45}, padding=pad(120, 24, 120, 24), padding_mobile=pad(84, 18, 76, 18)))
+    # 2 · migas
+    secciones.append(b.sec([b.col([b.w("text-editor", {"editor": f'<p><a href="/">Accueil</a> <span aria-hidden="true">›</span> Physiothérapie à {esc(ville)}</p>'}, "pa-crumbs")])],
+                           "pa-lp pa-crumbs-sec", content_width={"unit": "px", "size": 828}))
+    # 3 · artículo
+    km_route = f"https://www.google.com/maps/dir/?api=1&destination={quote('Physio Activa, Rämismatte 21, 3232 Ins')}"
+    fiche_rows = [
+        ("Cabinet", "Rämismatte 21, 3232 Ins (1er étage du bâtiment Lidl, InsGym), parking sur place"),
+        ("À domicile", f"{ville} et environs ({', '.join(f['voisines'])})"),
+        ("Délai", "Rendez-vous dans la semaine dans la plupart des cas"),
+        ("Horaires", "Du lundi au vendredi, jusqu'à 20h"),
+        ("Langues", "Français, allemand, anglais, espagnol et portugais"),
+        ("Assurances", "Cabinet reconnu par toutes les compagnies d'assurance maladie en Suisse"),
+        ("Réservation", "En ligne (OneDoc), par WhatsApp ou au 076 627 38 38"),
+    ]
+    fiche = ('<div class="fiche"><table><caption>' + esc(f"Physio Activa à {ville}, en bref") + "</caption><tbody>"
+             + "".join(f'<tr><th scope="row">{esc(a)}</th><td>{esc(c)}</td></tr>' for a, c in fiche_rows) + "</tbody></table></div>")
+    soins = sorted(SOINS, key=lambda s: (0 if s[3] in f["soins_first"] else 1, SOINS.index(s)))[:10]
+    soins_html = '<ul class="soins-list">' + "".join(f'<li><a href="{u}"><strong>{esc(t)}</strong><span>{esc(d)}</span></a></li>' for u, t, d, _ in soins) + "</ul>"
+    art = [b.w("text-editor", {"editor": "<p>" + " ".join(inline(x) for x in intro if x.name == "p") + "</p>"}, "pa-lead"),
+           b.w("html", {"html": fiche}, "pa-fiche")]
+    for i, s in enumerate(cuerpo):
+        h2t = texto(s["h2"])
+        art.append(b.w("heading", {"title": h2t, "header_size": "h2"}, "pa-h2"))
+        art.append(b.w("text-editor", {"editor": bloques(s["b"])}, "pa-text"))
+        if i == 0:
+            art.append(btn(f"Itinéraire vers le cabinet", km_route, "fas fa-route", "outline"))
+            art.append(b.w("image", {"image": {"url": UP + "2025/04/Physio-Activa-00031.jpg", "id": "", "alt": f"Physiothérapeute de Physio Activa en séance au cabinet de physiothérapie à {ville}"},
+                                     "image_size": "full"}, "pa-img"))
+        if re.search(r"domicile", h2t, re.I):
+            art.append(b.w("heading", {"title": f"Nos soins de physiothérapie à {ville}", "header_size": "h2"}, "pa-h2"))
+            art.append(b.w("text-editor", {"editor": f"<p>Vous avez accès à l'ensemble de nos soins, au cabinet d'{ville} ou à domicile selon votre situation. Les plus demandés :</p>\n{soins_html}"}, "pa-text"))
+            art.append(b.w("text-editor", {"editor": f'<div class="cta-inline"><p>Vous habitez {esc(ville)} ou un village voisin et vous avez mal ? Nous vous proposons un rendez-vous dans la semaine dans la plupart des cas, au cabinet ou chez vous.</p>'
+                                                     f'<p><a class="btn" href="{ONEDOC}" target="_blank" rel="noopener">Rendez-vous online</a></p></div>'}, "pa-text"))
+        if re.search(r"déroule", h2t, re.I):
+            art.append(b.w("image", {"image": {"url": UP + "2025/04/Physio-Activa-00036.jpg", "id": "", "alt": f"Salle de traitement du cabinet Physio Activa à {ville}"},
+                                     "image_size": "full"}, "pa-img"))
+    secciones.append(b.sec([b.col(art, css="article")], "pa-lp pa-article", content_width={"unit": "px", "size": 828}, padding=pad(56, 0, 72, 0)))
+    # 4 · pourquoi
+    ICON = ["fas fa-shield-heart", "fas fa-house-medical", "fas fa-clipboard-list", "fas fa-calendar-check"]
+    cards = [b.w("icon-box", {"selected_icon": icon(ICON[j]), "title_text": texto(sb["h3"]),
+                              "description_text": " ".join(texto(c) for c in sb["c"] if c.name == "p"), "title_size": "h3", "position": "top", "text_align": "left"},
+                 "pa-wcard") for j, sb in enumerate(subs(why["b"]))]
+    grid = b.sec([b.col(cards[0:1] + cards[2:3], 50, inner=True), b.col(cards[1:2] + cards[3:4], 50, inner=True)], "pa-why-grid", inner=True,
+                 gap="extended", content_width={"unit": "px", "size": 1000})
+    secciones.append(b.sec([b.col([
+        b.w("heading", {"title": "Pourquoi Physio Activa", "header_size": "p", "align": "center"}, "pa-eyebrow"),
+        b.w("heading", {"title": f"Pourquoi les patients d'{ville} choisissent Physio Activa", "header_size": "h2", "align": "center"}, "pa-title"),
+        b.w("text-editor", {"editor": "<p>Un cabinet de physiothérapie à Ins, des soins à domicile dans tout le Seeland et une équipe qui vous reçoit en cinq langues.</p>", "align": "center"}, "pa-sub"),
+        grid])], "pa-lp pa-soft", padding=pad(72, 24, 72, 24), padding_mobile=pad(54, 16, 54, 16)))
+    # 5 · FAQ (acordeón nativo + FAQ Schema de Elementor)
+    tabs = []
+    for i, sb in enumerate(subs(faq["b"])):
+        ans = "".join((f'<p lang="de">' if re.match(r"(Ja\.|Unser)", c.get_text()) else "<p>") + inline(c) + "</p>" for c in sb["c"] if c.name == "p")
+        tabs.append({"tab_title": texto(sb["h3"]), "tab_content": ans, "_id": eid(slug, "faq", str(i))})
+    secciones.append(b.sec([b.col([
+        b.w("heading", {"title": "Questions fréquentes", "header_size": "p", "align": "center"}, "pa-eyebrow"),
+        b.w("heading", {"title": texto(faq["h2"]), "header_size": "h2", "align": "center"}, "pa-title"),
+        b.w("accordion", {"tabs": tabs, "faq_schema": "yes", "title_html_tag": "h3", "icon_align": "right",
+                          "selected_icon": icon("fas fa-plus"), "selected_active_icon": icon("fas fa-minus")}, "pa-faq"),
+    ])], "pa-lp pa-faq-sec", content_width={"unit": "px", "size": 868}, padding=pad(72, 24, 72, 24), padding_mobile=pad(54, 16, 54, 16)))
+    # 6 · CTA con imagen de fondo oscurecida
+    cta_p = " ".join(texto(x) for x in cta["b"] if x.name == "p")
+    secciones.append(b.sec([b.col([
+        b.w("heading", {"title": texto(cta["h2"]), "header_size": "h2", "align": "center"}, "pa-cta-title"),
+        b.w("text-editor", {"editor": f"<p>{esc(cta_p)}</p>", "align": "center"}, "pa-cta-sub"),
+        btn_rdv(), btn_wa(), btn("Appelez-nous · 076 627 38 38", "tel:+41766273838", "fas fa-phone", "ghost", ext=False),
+    ], css="pa-center")], "pa-lp pa-cta", layout="full_width", stretch_section="section-stretched",
+        background_background="classic", background_image={"url": f["cta"], "id": ""}, background_position="center center", background_size="cover",
+        background_overlay_background="classic", background_overlay_color="#0E2C4F", background_overlay_opacity={"unit": "px", "size": 0.86},
+        padding=pad(88, 24, 88, 24), padding_mobile=pad(64, 16, 64, 16)))
+    # 7 · mapa
+    secciones.append(b.sec([b.col([b.w("google_maps", {"address": "Physio Activa, Rämismatte 21, 3232 Ins", "zoom": {"unit": "px", "size": 16},
+                                                         "height": {"unit": "px", "size": 480}, "height_mobile": {"unit": "px", "size": 380}}, "pa-map")])],
+                           "pa-lp pa-map-sec", layout="full_width", stretch_section="section-stretched"))
+    # 8 · botón flotante WhatsApp + schema local (no editar)
+    full = SITE + f["url"]
+    ld = {"@context": "https://schema.org", "@graph": [
+        {"@type": "Physiotherapy", "@id": SITE + "/#physiotherapy", "name": "Physio Activa", "url": SITE + "/",
+         "logo": UP + "2026/06/Physio-Activa-Logo00001.png", "image": UP + "2025/04/Physio-Activa-00031.jpg",
+         "telephone": "+41 76 627 38 38", "email": "physio@physioactiva.ch",
+         "address": {"@type": "PostalAddress", "streetAddress": "Rämismatte 21", "postalCode": "3232", "addressLocality": "Ins", "addressRegion": "BE", "addressCountry": "CH"},
+         "geo": {"@type": "GeoCoordinates", "latitude": CLI["geo"]["lat"], "longitude": CLI["geo"]["lng"]},
+         "hasMap": "https://www.google.com/maps?cid=17004812906479027083",
+         "openingHoursSpecification": [{"@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"], "opens": "08:30", "closes": "20:00"}],
+         "areaServed": [{"@type": "City", "name": f["commune"], "sameAs": f["wiki"]}] + [{"@type": "Place", "name": v} for v in f["voisines"]],
+         "availableLanguage": ["fr", "de", "en", "es", "pt"],
+         "sameAs": ["https://www.instagram.com/physio_activa_/", "https://www.facebook.com/profile.php?id=100094154144954", "https://www.google.com/maps?cid=17004812906479027083"]},
+        {"@type": "WebPage", "@id": full + "#webpage", "url": full, "name": meta["title"], "description": meta["meta"], "inLanguage": "fr-CH",
+         "about": {"@id": full + "#service"}, "primaryImageOfPage": {"@type": "ImageObject", "url": f["hero"]}},
+        {"@type": "Service", "@id": full + "#service", "name": f"Physiothérapie à {ville}", "serviceType": "Physiothérapie au cabinet et à domicile",
+         "provider": {"@id": SITE + "/#physiotherapy"},
+         "areaServed": {"@type": "City", "name": f["commune"], "containedInPlace": {"@type": "AdministrativeArea", "name": f"Canton de {f['canton']}"}}}]}
+    tail = (f'<a class="pa-wafab" href="{esc(wa)}" target="_blank" rel="noopener" aria-label="Contacter Physio Activa sur WhatsApp"><i class="fa-brands fa-whatsapp" aria-hidden="true"></i></a>\n'
+            '<script type="application/ld+json">' + json.dumps(ld, ensure_ascii=False).replace("</", "<\\/") + "</script>")
+    secciones.append(b.sec([b.col([b.w("html", {"html": tail}, "pa-tail")])], "pa-lp pa-tail-sec"))
+
+    tpl = {"content": secciones, "page_settings": {"hide_title": "yes"}, "version": "0.4", "title": f"Physio à {ville} (widgets éditables)", "type": "page"}
+    d = OUT / slug
+    d.mkdir(parents=True, exist_ok=True)
+    (d / f"{slug}.json").write_text(json.dumps(tpl, ensure_ascii=False, indent=1))
+    with zipfile.ZipFile(d / f"{slug}.zip", "w", zipfile.ZIP_DEFLATED) as z:
+        z.write(d / f"{slug}.json", f"{slug}.json")
+    (d / "yoast.txt").write_text(f"SEO title ({len(meta['title'])}/60): {meta['title']}\nMeta description ({len(meta['meta'])}/155): {meta['meta']}\n"
+                                 f"Slug: {f['url']}\nFocus keyphrase: {meta['keyword_principal']}\nH1: {h1t}\nIndexación: index, follow\n"
+                                 f"Imagen destacada / Open Graph: {f['hero']}\n")
+    (d / "preview.html").write_text(preview(tpl, meta))
+    return tpl, meta
+
+
+# ---------- vista previa aproximada (imita el DOM de Elementor en el frontend) ----------
+BASE_CSS = """body{margin:0;font-family:sans-serif}.elementor-section{position:relative}.elementor-section .elementor-container{display:flex;margin:0 auto;position:relative;max-width:1140px}
+.elementor-section.elementor-section-full_width>.elementor-container{max-width:none}.elementor-column{position:relative;display:flex;min-height:1px;width:100%}
+.elementor-col-50{width:50%}.elementor-widget-wrap{position:relative;width:100%;display:flex;flex-wrap:wrap;align-content:flex-start;padding:10px}
+.elementor-section-gap-no .elementor-widget-wrap{padding:0}.elementor-widget{position:relative;width:100%}.elementor-widget:not(:last-child){margin-bottom:20px}
+.elementor-widget__width-auto{width:auto;max-width:100%}.elementor-background-overlay{position:absolute;inset:0}
+.elementor-button{display:inline-block;line-height:1;padding:12px 24px;background:#69727d;color:#fff;border-radius:3px}.elementor-button-content-wrapper{display:flex;justify-content:center;gap:8px}
+.elementor-heading-title{margin:0;padding:0;line-height:1}.elementor-tab-content{display:none}.elementor-tab-content.elementor-active{display:block}
+.elementor-icon{display:inline-block}.elementor-accordion-icon-right{float:right}.elementor-image img{max-width:100%;height:auto}
+@media(max-width:767px){.elementor-column{width:100% !important}.elementor-container{flex-wrap:wrap}.elementor-widget-mobile__width-inherit{width:inherit;max-width:100%}}"""
+
+
+def r_widget(w):
+    s, t = w["settings"], w["widgetType"]
+    if t == "html":
+        inner = s["html"]
+    elif t == "heading":
+        tag = s["header_size"]
+        inner = f'<{tag} class="elementor-heading-title elementor-size-default">{esc(s["title"])}</{tag}>'
+    elif t == "text-editor":
+        inner = s["editor"]
+    elif t == "button":
+        ic = s["selected_icon"]["value"].replace("fas ", "fa-solid ").replace("fab ", "fa-brands ")
+        inner = (f'<div class="elementor-button-wrapper"><a class="elementor-button elementor-button-link elementor-size-sm" href="{esc(s["link"]["url"])}">'
+                 f'<span class="elementor-button-content-wrapper"><span class="elementor-button-icon"><i class="{ic}"></i></span><span class="elementor-button-text">{esc(s["text"])}</span></span></a></div>')
+    elif t == "image":
+        inner = f'<img src="{s["image"]["url"]}" alt="{esc(s["image"]["alt"])}" loading="lazy">'
+    elif t == "icon-box":
+        ic = s["selected_icon"]["value"].replace("fas ", "fa-solid ")
+        inner = (f'<div class="elementor-icon-box-wrapper"><div class="elementor-icon-box-icon"><span class="elementor-icon"><i class="{ic}"></i></span></div>'
+                 f'<div class="elementor-icon-box-content"><h3 class="elementor-icon-box-title"><span>{esc(s["title_text"])}</span></h3><p class="elementor-icon-box-description">{esc(s["description_text"])}</p></div></div>')
+    elif t == "accordion":
+        items = "".join(
+            f'<div class="elementor-accordion-item"><h3 class="elementor-tab-title{" elementor-active" if i == 0 else ""}"><span class="elementor-accordion-icon elementor-accordion-icon-right">'
+            f'<span class="elementor-accordion-icon-closed"><i class="fa-solid fa-plus"></i></span><span class="elementor-accordion-icon-opened"><i class="fa-solid fa-minus"></i></span></span>'
+            f'<a class="elementor-accordion-title" href="">{esc(x["tab_title"])}</a></h3><div class="elementor-tab-content elementor-clearfix{" elementor-active" if i == 0 else ""}">{x["tab_content"]}</div></div>'
+            for i, x in enumerate(s["tabs"]))
+        inner = f'<div class="elementor-accordion">{items}</div>'
+    elif t == "google_maps":
+        inner = (f'<div class="elementor-custom-embed"><iframe loading="lazy" style="width:100%;height:{s["height"]["size"]}px;border:0" '
+                 f'src="https://maps.google.com/maps?q={quote(s["address"])}&amp;t=m&amp;z=16&amp;output=embed&amp;iwloc=near" title="{esc(s["address"])}"></iframe></div>')
+    elif t == "section":
+        return r_section(w)
+    cls = f'elementor-element elementor-widget elementor-widget-{t} {s.get("_css_classes", "")}'
+    if s.get("_element_width") == "auto":
+        cls += " elementor-widget__width-auto"
+    if s.get("_element_width_mobile") == "inherit":
+        cls += " elementor-widget-mobile__width-inherit"
+    return f'<div class="{cls}"><div class="elementor-widget-container">{inner}</div></div>'
+
+
+def r_section(sec):
+    s = sec["settings"]
+    cls = f'elementor-section elementor-element {"elementor-inner-section" if sec["isInner"] else "elementor-top-section"} elementor-section-{"full_width" if s.get("layout") == "full_width" else "boxed"} elementor-section-gap-{s.get("gap", "default")} {s.get("css_classes", "")}'
+    style = ""
+    if s.get("background_image"):
+        style += f'background-image:url({s["background_image"]["url"]});background-size:cover;background-position:center;'
+    p = s.get("padding")
+    if p:
+        style += f'padding:{p["top"]}px {p["right"]}px {p["bottom"]}px {p["left"]}px;'
+    ov = ""
+    if s.get("background_overlay_color"):
+        ov = f'<div class="elementor-background-overlay" style="background:{s["background_overlay_color"]};opacity:{s["background_overlay_opacity"]["size"]}"></div>'
+    cw = s.get("content_width", {}).get("size")
+    cstyle = f' style="max-width:{cw}px"' if cw else ""
+    cols = ""
+    for c in sec["elements"]:
+        cs = c["settings"]
+        cols += (f'<div class="elementor-column elementor-col-{cs["_column_size"]} elementor-element {cs.get("css_classes", "")}"><div class="elementor-widget-wrap elementor-element-populated">'
+                 + "".join(r_section(x) if x["elType"] == "section" else r_widget(x) for x in c["elements"]) + "</div></div>")
+    return f'<section class="{cls}" style="{style}">{ov}<div class="elementor-container elementor-column-gap-{s.get("gap", "default")}"{cstyle}>{cols}</div></section>'
+
+
+def preview(tpl, meta):
+    body = "".join(r_section(s) for s in tpl["content"])
+    return (f'<!doctype html><html lang="fr-CH"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">'
+            f'<title>{esc(meta["title"])}</title><meta name="description" content="{esc(meta["meta"])}"><style>{BASE_CSS}</style></head>'
+            f'<body><div class="elementor elementor-page">{body}</div>'
+            "<script>document.querySelectorAll('.elementor-tab-title').forEach(function(t){t.addEventListener('click',function(e){e.preventDefault();var c=t.nextElementSibling,o=t.classList.contains('elementor-active');"
+            "t.closest('.elementor-accordion').querySelectorAll('.elementor-active').forEach(function(x){x.classList.remove('elementor-active')});if(!o){t.classList.add('elementor-active');c.classList.add('elementor-active')}})})</script>"
+            "</body></html>")
+
+
+if __name__ == "__main__":
+    for k in (sys.argv[1:] or list(FICHAS)):
+        tpl, meta = build(k)
+        print(k, "secciones", len(tpl["content"]), meta["title"], len(meta["title"]), len(meta["meta"]))
