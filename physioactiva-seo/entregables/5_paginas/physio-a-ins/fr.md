@@ -91,7 +91,7 @@ Un programme à faire à la maison vous aide à garder les acquis une fois le tr
 
 Le cabinet est à la Rämismatte 21, au 1er étage du bâtiment Lidl, avec parking sur place. Depuis la gare d'Ins, comptez quelques minutes à pied. Plan d'accès et indications : [Nous trouver](/nous-trouver/).
 
-Ins (Anet en français) est une commune germanophone du Seeland bernois, entre le lac de Bienne, le lac de Neuchâtel et le lac de Morat. C'est pourquoi nos patients viennent aussi de [Chiètres](/physio-a-chietres/), de [La Neuveville](/physio-a-la-neuveville/), de [Morat](/physio-a-morat/), de [Sugiez](/physio-a-sugiez/) ou de [Neuchâtel](/physio-a-neuchatel/). Après une hospitalisation à Bienne, Aarberg, Berne ou Neuchâtel, la rééducation peut se poursuivre près de chez vous, à Ins ou à domicile.
+Ins (Anet en français) est une commune germanophone du Seeland bernois, entre le lac de Bienne, le lac de Neuchâtel et le lac de Morat. C'est pourquoi nos patients viennent aussi de [Kerzers](/physio-a-kerzers/), de [La Neuveville](/physio-a-la-neuveville/), de [Morat](/physio-a-morat/), de [Sugiez](/physio-a-sugiez/) ou de [Neuchâtel](/physio-a-neuchatel/). Après une hospitalisation à Bienne, Aarberg, Berne ou Neuchâtel, la rééducation peut se poursuivre près de chez vous, à Ins ou à domicile.
 
 ## Assurances et horaires : physio à Ins
 

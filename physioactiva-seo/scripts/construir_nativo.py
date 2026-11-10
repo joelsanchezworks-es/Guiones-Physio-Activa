@@ -51,12 +51,12 @@ VAR = {  # frases fijas del constructor que cambian por ciudad para que las pág
         why_p="Bilingue, ouvert jusqu'à 20h et à quelques minutes de Morat, avec un espace d'entraînement complet.",
         faq_eb="Vos questions"),
     "chietres": dict(
-        ameta="Physio Activa · physiothérapie et massage pour Chiètres (Kerzers)",
-        soins_h2="Physiothérapie à Chiètres : ce que nous proposons",
-        soins_p="Du massage thérapeutique à la rééducation après une opération, au cabinet d'Ins ou chez vous à Chiètres :",
+        ameta="Physio Activa · physiothérapie et massage pour Kerzers (Chiètres)",
+        soins_h2="Physiothérapie à Kerzers : ce que nous proposons",
+        soins_p="Du massage thérapeutique à la rééducation après une opération, au cabinet d'Ins ou chez vous à Kerzers :",
         cta_p="Le dos qui coince, une épaule qui ne suit plus ? Envoyez-nous un message en allemand ou en français : un physiothérapeute vous rappelle et vous propose un créneau, souvent dans la semaine.",
-        why_eb="Ce qui change pour vous", why_h2="Physio Activa pour Chiètres, en quatre points",
-        why_p="Germanophone et francophone, ouvert le soir, à quelques minutes de Chiètres, avec massage et entraînement sur place.",
+        why_eb="Ce qui change pour vous", why_h2="Physio Activa pour Kerzers, en quatre points",
+        why_p="Germanophone et francophone, ouvert le soir, à quelques minutes de Kerzers, avec massage et entraînement sur place.",
         faq_eb="On nous demande souvent"),
 }
 
@@ -127,13 +127,14 @@ def bloques(bl):
 
 def build(key):
     f = ficha(key)
-    slug = f"physio-a-{key}"
+    src = f"physio-a-{key}"                 # carpeta del texto fuente (5_paginas)
+    slug = f["url"].strip("/")              # slug publicado = nombre de la plantilla y de los archivos
     ville, vtitre = f["ville"], f["vtitre"]
     es_ins = key == "ins"
     cab = "au cabinet d'Ins"
     if es_ins:
         f["domicile"] = True
-    meta, h1, intro, secs = parse((PAG / slug / "fr.md").read_text())
+    meta, h1, intro, secs = parse((PAG / src / "fr.md").read_text())
     h1t = texto(h1)
     b = B(slug)
     wa = CLI["whatsapp_href"] + "?text=" + quote(f"Bonjour, je souhaite prendre rendez-vous chez Physio Activa (physio à {ville}).")

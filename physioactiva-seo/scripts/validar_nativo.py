@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 BASE = pathlib.Path(__file__).resolve().parent.parent
 PROHIB = re.compile(r"ordonnance|prescri\w*|LAMal|\bLAA\b|franchise|quote-part|rembours\w*|CONFIRM|tarif|\bprix\b|\bCHF\b|gratuit", re.I)
 URLS = {u.strip().replace("https://physioactiva.ch", "") or "/" for u in (BASE / "data/site/urls.txt").read_text().split()}
-URLS |= {f"/physio-a-{k}/" for k in ["ins", "sugiez", "neuchatel", "la-neuveville", "avenches", "lyss", "bienne", "fribourg", "payerne", "morat", "chietres", "estavayer", "yvonand", "yverdon", "lausanne"]}
+URLS |= {f"/physio-a-{k}/" for k in ["ins", "sugiez", "neuchatel", "la-neuveville", "avenches", "lyss", "bienne", "fribourg", "payerne", "morat", "kerzers", "estavayer", "yvonand", "yverdon", "lausanne"]}
 URLS |= {"/", "/sciatique-hernie-discale/", "/douleur-pied-cheville-fasciite-plantaire/", "/douleur-de-hanche-protheses/", "/reservation-en-ligne/"}
 norm = lambda s: "".join(c for c in unicodedata.normalize("NFKD", s.lower()) if not unicodedata.combining(c))
 for slug, city in [a.split(":") for a in sys.argv[1:]]:

@@ -1,7 +1,7 @@
 {
  "content": [
   {
-   "id": "cc69b27",
+   "id": "dd8eeca",
    "elType": "section",
    "settings": {
     "gap": "no",
@@ -9,7 +9,7 @@
    },
    "elements": [
     {
-     "id": "c84dc8f",
+     "id": "b659a47",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -17,7 +17,7 @@
      },
      "elements": [
       {
-       "id": "ab526ee",
+       "id": "d4b4e20",
        "elType": "widget",
        "widgetType": "html",
        "settings": {
@@ -34,7 +34,7 @@
    "isInner": false
   },
   {
-   "id": "8d22796",
+   "id": "b5359b1",
    "elType": "section",
    "settings": {
     "gap": "no",
@@ -73,7 +73,7 @@
    },
    "elements": [
     {
-     "id": "0384e70",
+     "id": "04b47c0",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -82,11 +82,11 @@
      },
      "elements": [
       {
-       "id": "6a72ad9",
+       "id": "ec89d9c",
        "elType": "widget",
        "widgetType": "heading",
        "settings": {
-        "title": "Physiothérapie · Chiètres (Kerzers)",
+        "title": "Physiothérapie · Kerzers (Chiètres)",
         "header_size": "p",
         "align": "center",
         "_css_classes": "pa-eyebrow"
@@ -95,11 +95,11 @@
        "isInner": false
       },
       {
-       "id": "b35946a",
+       "id": "8d4b06b",
        "elType": "widget",
        "widgetType": "heading",
        "settings": {
-        "title": "Physio à Chiètres (Kerzers) : soins à domicile ou au cabinet d'Ins, à 7,6 km",
+        "title": "Physio à Kerzers (Chiètres) : soins à domicile ou au cabinet d'Ins, à 7,6 km",
         "header_size": "h1",
         "align": "center",
         "_css_classes": "pa-h1"
@@ -108,11 +108,11 @@
        "isInner": false
       },
       {
-       "id": "d2d26d4",
+       "id": "8df73a2",
        "elType": "widget",
        "widgetType": "heading",
        "settings": {
-        "title": "Physio Activa · physiothérapie et massage pour Chiètres (Kerzers)",
+        "title": "Physio Activa · physiothérapie et massage pour Kerzers (Chiètres)",
         "header_size": "div",
         "align": "center",
         "_css_classes": "pa-ameta"
@@ -121,7 +121,7 @@
        "isInner": false
       },
       {
-       "id": "c93cdba",
+       "id": "a4026f4",
        "elType": "widget",
        "widgetType": "button",
        "settings": {
@@ -148,13 +148,13 @@
        "isInner": false
       },
       {
-       "id": "313be2f",
+       "id": "d88675f",
        "elType": "widget",
        "widgetType": "button",
        "settings": {
         "text": "WhatsApp",
         "link": {
-         "url": "https://wa.me/41766273838?text=Bonjour%2C%20je%20souhaite%20prendre%20rendez-vous%20chez%20Physio%20Activa%20%28physio%20%C3%A0%20Chi%C3%A8tres%29.",
+         "url": "https://wa.me/41766273838?text=Bonjour%2C%20je%20souhaite%20prendre%20rendez-vous%20chez%20Physio%20Activa%20%28physio%20%C3%A0%20Kerzers%29.",
          "is_external": "on",
          "nofollow": "",
          "custom_attributes": ""
@@ -181,7 +181,7 @@
    "isInner": false
   },
   {
-   "id": "132227b",
+   "id": "ef1afbe",
    "elType": "section",
    "settings": {
     "gap": "no",
@@ -193,7 +193,7 @@
    },
    "elements": [
     {
-     "id": "e978c4f",
+     "id": "88b6fb7",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -201,11 +201,11 @@
      },
      "elements": [
       {
-       "id": "37704d6",
+       "id": "5993a96",
        "elType": "widget",
        "widgetType": "text-editor",
        "settings": {
-        "editor": "<p><a href=\"/\">Accueil</a> <span aria-hidden=\"true\">›</span> Physiothérapie à Chiètres</p>",
+        "editor": "<p><a href=\"/\">Accueil</a> <span aria-hidden=\"true\">›</span> Physiothérapie à Kerzers</p>",
         "_css_classes": "pa-crumbs"
        },
        "elements": [],
@@ -218,7 +218,7 @@
    "isInner": false
   },
   {
-   "id": "b3f245e",
+   "id": "c62c09b",
    "elType": "section",
    "settings": {
     "gap": "no",
@@ -238,7 +238,7 @@
    },
    "elements": [
     {
-     "id": "7663225",
+     "id": "e9cdee7",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -247,33 +247,33 @@
      },
      "elements": [
       {
-       "id": "bfcd3c0",
+       "id": "f83ab01",
        "elType": "widget",
        "widgetType": "text-editor",
        "settings": {
-        "editor": "<p>Travail aux champs, trajets en train vers Berne, longues journées debout : le dos et les épaules finissent par le dire. Physio Activa, c'est un physio à Chiètres qui vient chez vous ou vous reçoit à Ins, à environ 7,6 km en ligne droite, en allemand comme en français, avec un premier rendez-vous dans la semaine dans la plupart des cas.</p>",
+        "editor": "<p>Travail aux champs, trajets en train vers Berne, longues journées debout : le dos et les épaules finissent par le dire. Physio Activa, c'est un physio à Kerzers qui vient chez vous ou vous reçoit à Ins, à environ 7,6 km en ligne droite, en allemand comme en français, avec un premier rendez-vous dans la semaine dans la plupart des cas.</p>",
         "_css_classes": "pa-lead"
        },
        "elements": [],
        "isInner": false
       },
       {
-       "id": "ca15efc",
+       "id": "25d684b",
        "elType": "widget",
        "widgetType": "html",
        "settings": {
-        "html": "<div class=\"fiche\"><table><caption>Physio Activa pour les patients de Chiètres, en bref</caption><tbody><tr><th scope=\"row\">Cabinet</th><td>Rämismatte 21, 3232 Ins (1er étage du bâtiment Lidl, InsGym), parking sur place</td></tr><tr><th scope=\"row\">Depuis Chiètres</th><td>Environ 7,6 km à vol d&#x27;oiseau jusqu&#x27;au cabinet d&#x27;Ins</td></tr><tr><th scope=\"row\">À domicile</th><td>Chiètres et environs (Fräschels, Ried bei Kerzers, Galmiz, Agriswil)</td></tr><tr><th scope=\"row\">Délai</th><td>Rendez-vous dans la semaine dans la plupart des cas</td></tr><tr><th scope=\"row\">Horaires</th><td>Du lundi au vendredi, jusqu&#x27;à 20h</td></tr><tr><th scope=\"row\">Langues</th><td>Français, allemand, anglais, espagnol et portugais</td></tr><tr><th scope=\"row\">Assurances</th><td>Cabinet reconnu par toutes les compagnies d&#x27;assurance maladie en Suisse</td></tr><tr><th scope=\"row\">Réservation</th><td>En ligne (OneDoc), par WhatsApp ou au 076 627 38 38</td></tr></tbody></table></div>",
+        "html": "<div class=\"fiche\"><table><caption>Physio Activa pour les patients de Kerzers, en bref</caption><tbody><tr><th scope=\"row\">Cabinet</th><td>Rämismatte 21, 3232 Ins (1er étage du bâtiment Lidl, InsGym), parking sur place</td></tr><tr><th scope=\"row\">Depuis Kerzers</th><td>Environ 7,6 km à vol d&#x27;oiseau jusqu&#x27;au cabinet d&#x27;Ins</td></tr><tr><th scope=\"row\">À domicile</th><td>Kerzers et environs (Fräschels, Ried bei Kerzers, Galmiz, Agriswil)</td></tr><tr><th scope=\"row\">Délai</th><td>Rendez-vous dans la semaine dans la plupart des cas</td></tr><tr><th scope=\"row\">Horaires</th><td>Du lundi au vendredi, jusqu&#x27;à 20h</td></tr><tr><th scope=\"row\">Langues</th><td>Français, allemand, anglais, espagnol et portugais</td></tr><tr><th scope=\"row\">Assurances</th><td>Cabinet reconnu par toutes les compagnies d&#x27;assurance maladie en Suisse</td></tr><tr><th scope=\"row\">Réservation</th><td>En ligne (OneDoc), par WhatsApp ou au 076 627 38 38</td></tr></tbody></table></div>",
         "_css_classes": "pa-fiche"
        },
        "elements": [],
        "isInner": false
       },
       {
-       "id": "3ad28f4",
+       "id": "921fc2d",
        "elType": "widget",
        "widgetType": "heading",
        "settings": {
-        "title": "Un physiothérapeute près de Chiètres",
+        "title": "Un physiothérapeute près de Kerzers",
         "header_size": "h2",
         "_css_classes": "pa-h2"
        },
@@ -281,24 +281,24 @@
        "isInner": false
       },
       {
-       "id": "d6c389f",
+       "id": "f52dd4a",
        "elType": "widget",
        "widgetType": "text-editor",
        "settings": {
-        "editor": "<p>Le cabinet est à Ins, Rämismatte 21, au 1er étage du bâtiment Lidl, dans les locaux d'InsGym, avec parking devant la porte. Depuis Chiètres, c'est l'un des cabinets de physiothérapie les plus proches de l'autre côté de la frontière cantonale.</p>\n<p>Autour de Chiètres, beaucoup de patients travaillent dans les cultures maraîchères du Grand-Marais, sur les chantiers ou dans la logistique : on se penche, on porte des caisses, on répète les mêmes gestes. Un physiothérapeute près de Chiètres traite alors le dos, la nuque, les épaules et les genoux, mais il regarde aussi comment vous soulevez, vous vous penchez et récupérez.</p>\n<p lang=\"de\">Physiotherapie für Kerzers: Wir behandeln Sie auf Deutsch, in Ins oder direkt bei Ihnen daheim. La physiothérapie à Chiètres se fait donc dans la langue que vous préférez, avec des explications claires et un programme d'exercices écrit.</p>",
+        "editor": "<p>Le cabinet est à Ins, Rämismatte 21, au 1er étage du bâtiment Lidl, dans les locaux d'InsGym, avec parking devant la porte. Depuis Kerzers, c'est l'un des cabinets de physiothérapie les plus proches de l'autre côté de la frontière cantonale.</p>\n<p>Autour de Kerzers, beaucoup de patients travaillent dans les cultures maraîchères du Grand-Marais, sur les chantiers ou dans la logistique : on se penche, on porte des caisses, on répète les mêmes gestes. Un physiothérapeute près de Kerzers traite alors le dos, la nuque, les épaules et les genoux, mais il regarde aussi comment vous soulevez, vous vous penchez et récupérez.</p>\n<p lang=\"de\">Physiotherapie für Kerzers: Wir behandeln Sie auf Deutsch, in Ins oder direkt bei Ihnen daheim. La physiothérapie à Kerzers se fait donc dans la langue que vous préférez, avec des explications claires et un programme d'exercices écrit.</p>",
         "_css_classes": "pa-text"
        },
        "elements": [],
        "isInner": false
       },
       {
-       "id": "eaa3b41",
+       "id": "b5c8e3c",
        "elType": "widget",
        "widgetType": "button",
        "settings": {
-        "text": "Itinéraire depuis Chiètres",
+        "text": "Itinéraire depuis Kerzers",
         "link": {
-         "url": "https://www.google.com/maps/dir/?api=1&origin=Chi%C3%A8tres%2C%20Suisse&destination=Physio%20Activa%2C%20R%C3%A4mismatte%2021%2C%203232%20Ins",
+         "url": "https://www.google.com/maps/dir/?api=1&origin=Kerzers%2C%20Suisse&destination=Physio%20Activa%2C%20R%C3%A4mismatte%2021%2C%203232%20Ins",
          "is_external": "on",
          "nofollow": "",
          "custom_attributes": ""
@@ -319,14 +319,14 @@
        "isInner": false
       },
       {
-       "id": "eae4a83",
+       "id": "a8e7470",
        "elType": "widget",
        "widgetType": "image",
        "settings": {
         "image": {
          "url": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00031.jpg",
          "id": "",
-         "alt": "Physiothérapeute de Physio Activa en séance, physio pour les patients de Chiètres"
+         "alt": "Physiothérapeute de Physio Activa en séance, physio pour les patients de Kerzers"
         },
         "image_size": "full",
         "_css_classes": "pa-img"
@@ -335,11 +335,11 @@
        "isInner": false
       },
       {
-       "id": "2139523",
+       "id": "c9a8f76",
        "elType": "widget",
        "widgetType": "heading",
        "settings": {
-        "title": "Massage thérapeutique pour les patients de Chiètres",
+        "title": "Massage thérapeutique pour les patients de Kerzers",
         "header_size": "h2",
         "_css_classes": "pa-h2"
        },
@@ -347,22 +347,22 @@
        "isInner": false
       },
       {
-       "id": "4c75d1d",
+       "id": "45e1a48",
        "elType": "widget",
        "widgetType": "text-editor",
        "settings": {
-        "editor": "<p>Le massage thérapeutique est l'une des demandes les plus fréquentes à Chiètres. Une contracture dans la nuque après une semaine de récolte, des lombaires tendues après des heures au volant, des mollets durs chez les coureurs : le massage relâche la zone, diminue la douleur et prépare le mouvement.</p>\n<p>Chez nous, il s'intègre à la physiothérapie : on masse, puis on travaille la mobilité et la force pour que la tension ne revienne pas la semaine suivante. Plus d'informations sur le <a class=\"inlink\" href=\"/massage-therapeutique/\">massage thérapeutique</a>.</p>",
+        "editor": "<p>Le massage thérapeutique est l'une des demandes les plus fréquentes à Kerzers. Une contracture dans la nuque après une semaine de récolte, des lombaires tendues après des heures au volant, des mollets durs chez les coureurs : le massage relâche la zone, diminue la douleur et prépare le mouvement.</p>\n<p>Chez nous, il s'intègre à la physiothérapie : on masse, puis on travaille la mobilité et la force pour que la tension ne revienne pas la semaine suivante. Plus d'informations sur le <a class=\"inlink\" href=\"/massage-therapeutique/\">massage thérapeutique</a>.</p>",
         "_css_classes": "pa-text"
        },
        "elements": [],
        "isInner": false
       },
       {
-       "id": "9f911da",
+       "id": "a20fe47",
        "elType": "widget",
        "widgetType": "heading",
        "settings": {
-        "title": "Physiothérapie à domicile à Chiètres et environs",
+        "title": "Physiothérapie à domicile à Kerzers et environs",
         "header_size": "h2",
         "_css_classes": "pa-h2"
        },
@@ -370,22 +370,22 @@
        "isInner": false
       },
       {
-       "id": "52065d3",
+       "id": "99e6a70",
        "elType": "widget",
        "widgetType": "text-editor",
        "settings": {
-        "editor": "<p>Nos physiothérapeutes se déplacent à domicile à Chiètres et dans les environs, à Fräschels, Ried bei Kerzers, Galmiz et Agriswil. C'est la solution quand une sciatique vous empêche de conduire, après une prothèse ou une fracture, ou quand l'âge rend les trajets pénibles.</p>\n<p>À la maison, les exercices s'adaptent à votre escalier, à votre cour, au trajet jusqu'au jardin. Quand vous pouvez à nouveau vous déplacer, vous continuez au cabinet, sur les appareils. Voir la <a class=\"inlink\" href=\"/physiotherapeute-a-domicile/\">physiothérapie à domicile</a>.</p>",
+        "editor": "<p>Nos physiothérapeutes se déplacent à domicile à Kerzers et dans les environs, à Fräschels, Ried bei Kerzers, Galmiz et Agriswil. C'est la solution quand une sciatique vous empêche de conduire, après une prothèse ou une fracture, ou quand l'âge rend les trajets pénibles.</p>\n<p>À la maison, les exercices s'adaptent à votre escalier, à votre cour, au trajet jusqu'au jardin. Quand vous pouvez à nouveau vous déplacer, vous continuez au cabinet, sur les appareils. Voir la <a class=\"inlink\" href=\"/physiotherapeute-a-domicile/\">physiothérapie à domicile</a>.</p>",
         "_css_classes": "pa-text"
        },
        "elements": [],
        "isInner": false
       },
       {
-       "id": "806206a",
+       "id": "f1286de",
        "elType": "widget",
        "widgetType": "heading",
        "settings": {
-        "title": "Physiothérapie à Chiètres : ce que nous proposons",
+        "title": "Physiothérapie à Kerzers : ce que nous proposons",
         "header_size": "h2",
         "_css_classes": "pa-h2"
        },
@@ -393,18 +393,18 @@
        "isInner": false
       },
       {
-       "id": "fe69fc3",
+       "id": "41f4759",
        "elType": "widget",
        "widgetType": "text-editor",
        "settings": {
-        "editor": "<p>Du massage thérapeutique à la rééducation après une opération, au cabinet d'Ins ou chez vous à Chiètres :</p>\n<ul class=\"soins-list\"><li><a href=\"/massage-therapeutique/\"><strong>Massage thérapeutique</strong><span>Contractures et tensions musculaires.</span></a></li><li><a href=\"/physiotherapeute-a-domicile/\"><strong>Physiothérapie à domicile</strong><span>Les séances chez vous quand se déplacer est difficile.</span></a></li><li><a href=\"/physio-generale/\"><strong>Physiothérapie générale</strong><span>Douleurs, raideurs et gênes du quotidien.</span></a></li><li><a href=\"/drainage-lymphatique/\"><strong>Drainage lymphatique</strong><span>Œdèmes, jambes lourdes, suites opératoires.</span></a></li><li><a href=\"/mal-de-dos-lombaire/\"><strong>Mal de dos et lombalgie</strong><span>Lumbago, douleurs en position assise, rechutes.</span></a></li><li><a href=\"/sciatique-hernie-discale/\"><strong>Sciatique et hernie discale</strong><span>Douleur qui descend dans la jambe.</span></a></li><li><a href=\"/douleur-cervicale-au-cou/\"><strong>Douleur cervicale</strong><span>Nuque raide, torticolis, travail de bureau.</span></a></li><li><a href=\"/lesions-de-lepaule/\"><strong>Douleur de l&#x27;épaule</strong><span>Coiffe des rotateurs, tendinite, capsulite.</span></a></li><li><a href=\"/douleur-du-genou-lesions-de-la-cheville/\"><strong>Genou</strong><span>Ménisque, ligament croisé, arthrose, prothèse.</span></a></li><li><a href=\"/physiotherapie-post-operatoire/\"><strong>Physiothérapie post-opératoire</strong><span>Rééducation après une prothèse ou une chirurgie.</span></a></li></ul>",
+        "editor": "<p>Du massage thérapeutique à la rééducation après une opération, au cabinet d'Ins ou chez vous à Kerzers :</p>\n<ul class=\"soins-list\"><li><a href=\"/massage-therapeutique/\"><strong>Massage thérapeutique</strong><span>Contractures et tensions musculaires.</span></a></li><li><a href=\"/physiotherapeute-a-domicile/\"><strong>Physiothérapie à domicile</strong><span>Les séances chez vous quand se déplacer est difficile.</span></a></li><li><a href=\"/physio-generale/\"><strong>Physiothérapie générale</strong><span>Douleurs, raideurs et gênes du quotidien.</span></a></li><li><a href=\"/drainage-lymphatique/\"><strong>Drainage lymphatique</strong><span>Œdèmes, jambes lourdes, suites opératoires.</span></a></li><li><a href=\"/mal-de-dos-lombaire/\"><strong>Mal de dos et lombalgie</strong><span>Lumbago, douleurs en position assise, rechutes.</span></a></li><li><a href=\"/sciatique-hernie-discale/\"><strong>Sciatique et hernie discale</strong><span>Douleur qui descend dans la jambe.</span></a></li><li><a href=\"/douleur-cervicale-au-cou/\"><strong>Douleur cervicale</strong><span>Nuque raide, torticolis, travail de bureau.</span></a></li><li><a href=\"/lesions-de-lepaule/\"><strong>Douleur de l&#x27;épaule</strong><span>Coiffe des rotateurs, tendinite, capsulite.</span></a></li><li><a href=\"/douleur-du-genou-lesions-de-la-cheville/\"><strong>Genou</strong><span>Ménisque, ligament croisé, arthrose, prothèse.</span></a></li><li><a href=\"/physiotherapie-post-operatoire/\"><strong>Physiothérapie post-opératoire</strong><span>Rééducation après une prothèse ou une chirurgie.</span></a></li></ul>",
         "_css_classes": "pa-text"
        },
        "elements": [],
        "isInner": false
       },
       {
-       "id": "8954e9e",
+       "id": "a172f51",
        "elType": "widget",
        "widgetType": "text-editor",
        "settings": {
@@ -415,7 +415,7 @@
        "isInner": false
       },
       {
-       "id": "45aba58",
+       "id": "656dc70",
        "elType": "widget",
        "widgetType": "heading",
        "settings": {
@@ -427,7 +427,7 @@
        "isInner": false
       },
       {
-       "id": "a923bbc",
+       "id": "2ae555c",
        "elType": "widget",
        "widgetType": "text-editor",
        "settings": {
@@ -438,11 +438,11 @@
        "isInner": false
       },
       {
-       "id": "6527d49",
+       "id": "9473c7a",
        "elType": "widget",
        "widgetType": "heading",
        "settings": {
-        "title": "Les situations que nous rencontrons le plus à Chiètres",
+        "title": "Les situations que nous rencontrons le plus à Kerzers",
         "header_size": "h2",
         "_css_classes": "pa-h2"
        },
@@ -450,7 +450,7 @@
        "isInner": false
       },
       {
-       "id": "4a1b8c2",
+       "id": "58246c5",
        "elType": "widget",
        "widgetType": "text-editor",
        "settings": {
@@ -461,7 +461,7 @@
        "isInner": false
       },
       {
-       "id": "0af67ef",
+       "id": "67cfcb4",
        "elType": "widget",
        "widgetType": "heading",
        "settings": {
@@ -473,7 +473,7 @@
        "isInner": false
       },
       {
-       "id": "b170f4d",
+       "id": "a7f2868",
        "elType": "widget",
        "widgetType": "text-editor",
        "settings": {
@@ -484,14 +484,14 @@
        "isInner": false
       },
       {
-       "id": "d99a764",
+       "id": "158f995",
        "elType": "widget",
        "widgetType": "image",
        "settings": {
         "image": {
          "url": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00036.jpg",
          "id": "",
-         "alt": "Salle de traitement du cabinet Physio Activa à Ins, proche de Chiètres"
+         "alt": "Salle de traitement du cabinet Physio Activa à Ins, proche de Kerzers"
         },
         "image_size": "full",
         "_css_classes": "pa-img"
@@ -500,11 +500,11 @@
        "isInner": false
       },
       {
-       "id": "0b695ee",
+       "id": "8cd8860",
        "elType": "widget",
        "widgetType": "heading",
        "settings": {
-        "title": "Venir au cabinet d'Ins depuis Chiètres",
+        "title": "Venir au cabinet d'Ins depuis Kerzers",
         "header_size": "h2",
         "_css_classes": "pa-h2"
        },
@@ -512,22 +512,22 @@
        "isInner": false
       },
       {
-       "id": "500698f",
+       "id": "66dc077",
        "elType": "widget",
        "widgetType": "text-editor",
        "settings": {
-        "editor": "<p>Environ 7,6 km en ligne droite séparent Chiètres d'Ins, soit quelques minutes de route. Les places de parc sont juste devant l'entrée. Tous les détails pour venir : <a class=\"inlink\" href=\"/nous-trouver/\">Nous trouver</a>.</p>\n<p>Kerzers, Chiètres en français, est une commune germanophone fribourgeoise du district du Lac, au cœur du Grand-Marais. Pour une hospitalisation, la plupart des habitants passent par l'HFR Meyriez-Murten : munis des consignes de sortie, vous enchaînez la rééducation chez nous ou à la maison.</p>",
+        "editor": "<p>Environ 7,6 km en ligne droite séparent Kerzers d'Ins, soit quelques minutes de route. Les places de parc sont juste devant l'entrée. Tous les détails pour venir : <a class=\"inlink\" href=\"/nous-trouver/\">Nous trouver</a>.</p>\n<p>Kerzers, Chiètres en français, est une commune germanophone fribourgeoise du district du Lac, au cœur du Grand-Marais. Pour une hospitalisation, la plupart des habitants passent par l'HFR Meyriez-Murten : munis des consignes de sortie, vous enchaînez la rééducation chez nous ou à la maison.</p>",
         "_css_classes": "pa-text"
        },
        "elements": [],
        "isInner": false
       },
       {
-       "id": "3c17261",
+       "id": "e4db7a2",
        "elType": "widget",
        "widgetType": "heading",
        "settings": {
-        "title": "Assurances et horaires : physio à Chiètres",
+        "title": "Assurances et horaires : physio à Kerzers",
         "header_size": "h2",
         "_css_classes": "pa-h2"
        },
@@ -535,7 +535,7 @@
        "isInner": false
       },
       {
-       "id": "0e2c224",
+       "id": "26eeb7f",
        "elType": "widget",
        "widgetType": "text-editor",
        "settings": {
@@ -552,7 +552,7 @@
    "isInner": false
   },
   {
-   "id": "5f29856",
+   "id": "b0c5613",
    "elType": "section",
    "settings": {
     "gap": "no",
@@ -576,7 +576,7 @@
    },
    "elements": [
     {
-     "id": "7006aa9",
+     "id": "d9073ca",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -584,7 +584,7 @@
      },
      "elements": [
       {
-       "id": "cf79f8b",
+       "id": "1ef4096",
        "elType": "widget",
        "widgetType": "heading",
        "settings": {
@@ -597,11 +597,11 @@
        "isInner": false
       },
       {
-       "id": "0d2e82b",
+       "id": "0affdd3",
        "elType": "widget",
        "widgetType": "heading",
        "settings": {
-        "title": "Physio Activa pour Chiètres, en quatre points",
+        "title": "Physio Activa pour Kerzers, en quatre points",
         "header_size": "h2",
         "align": "center",
         "_css_classes": "pa-title"
@@ -610,11 +610,11 @@
        "isInner": false
       },
       {
-       "id": "e8cba29",
+       "id": "e5bdf2b",
        "elType": "widget",
        "widgetType": "text-editor",
        "settings": {
-        "editor": "<p>Germanophone et francophone, ouvert le soir, à quelques minutes de Chiètres, avec massage et entraînement sur place.</p>",
+        "editor": "<p>Germanophone et francophone, ouvert le soir, à quelques minutes de Kerzers, avec massage et entraînement sur place.</p>",
         "align": "center",
         "_css_classes": "pa-sub"
        },
@@ -622,7 +622,7 @@
        "isInner": false
       },
       {
-       "id": "62959ac",
+       "id": "b557e6c",
        "elType": "section",
        "settings": {
         "gap": "extended",
@@ -634,7 +634,7 @@
        },
        "elements": [
         {
-         "id": "3d31787",
+         "id": "b80488d",
          "elType": "column",
          "settings": {
           "_column_size": 50,
@@ -642,7 +642,7 @@
          },
          "elements": [
           {
-           "id": "2813f2d",
+           "id": "253e2fe",
            "elType": "widget",
            "widgetType": "icon-box",
            "settings": {
@@ -651,7 +651,7 @@
              "library": "fa-solid"
             },
             "title_text": "Accepté par toutes les assurances",
-            "description_text": "Chiètres est dans le canton de Fribourg, Ins dans celui de Berne : le cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse.",
+            "description_text": "Kerzers est dans le canton de Fribourg, Ins dans celui de Berne : le cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse.",
             "title_size": "h3",
             "position": "top",
             "text_align": "left",
@@ -661,7 +661,7 @@
            "isInner": false
           },
           {
-           "id": "44a9848",
+           "id": "846610d",
            "elType": "widget",
            "widgetType": "icon-box",
            "settings": {
@@ -683,7 +683,7 @@
          "isInner": true
         },
         {
-         "id": "819eea7",
+         "id": "e573b68",
          "elType": "column",
          "settings": {
           "_column_size": 50,
@@ -691,7 +691,7 @@
          },
          "elements": [
           {
-           "id": "933acac",
+           "id": "f553584",
            "elType": "widget",
            "widgetType": "icon-box",
            "settings": {
@@ -700,7 +700,7 @@
              "library": "fa-solid"
             },
             "title_text": "Deux façons de vous soigner",
-            "description_text": "Au cabinet, avec l'espace d'entraînement, ou chez vous à Chiètres quand se déplacer est difficile.",
+            "description_text": "Au cabinet, avec l'espace d'entraînement, ou chez vous à Kerzers quand se déplacer est difficile.",
             "title_size": "h3",
             "position": "top",
             "text_align": "left",
@@ -710,7 +710,7 @@
            "isInner": false
           },
           {
-           "id": "0ebf274",
+           "id": "863ea60",
            "elType": "widget",
            "widgetType": "icon-box",
            "settings": {
@@ -741,7 +741,7 @@
    "isInner": false
   },
   {
-   "id": "58f45ad",
+   "id": "ed3cf0d",
    "elType": "section",
    "settings": {
     "gap": "no",
@@ -769,7 +769,7 @@
    },
    "elements": [
     {
-     "id": "02c3411",
+     "id": "ed6417a",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -777,7 +777,7 @@
      },
      "elements": [
       {
-       "id": "0b728eb",
+       "id": "b4d1cb0",
        "elType": "widget",
        "widgetType": "heading",
        "settings": {
@@ -790,11 +790,11 @@
        "isInner": false
       },
       {
-       "id": "becf55d",
+       "id": "de27192",
        "elType": "widget",
        "widgetType": "heading",
        "settings": {
-        "title": "Questions fréquentes sur la physio à Chiètres",
+        "title": "Questions fréquentes sur la physio à Kerzers",
         "header_size": "h2",
         "align": "center",
         "_css_classes": "pa-title"
@@ -803,55 +803,55 @@
        "isInner": false
       },
       {
-       "id": "7bd32e8",
+       "id": "d250351",
        "elType": "widget",
        "widgetType": "accordion",
        "settings": {
         "tabs": [
          {
-          "tab_title": "Où trouver un physiothérapeute près de Chiètres ?",
-          "tab_content": "<p>Le cabinet le plus proche est celui de Physio Activa à Ins (Rämismatte 21, 1er étage du bâtiment Lidl), à environ 7,6 km de Chiètres, avec places de parc devant l'entrée. Pour les patients qui ne peuvent pas conduire, un physiothérapeute se rend à domicile à Chiètres, Fräschels, Ried ou Galmiz.</p>",
-          "_id": "e39903e"
+          "tab_title": "Où trouver un physiothérapeute près de Kerzers ?",
+          "tab_content": "<p>Le cabinet le plus proche est celui de Physio Activa à Ins (Rämismatte 21, 1er étage du bâtiment Lidl), à environ 7,6 km de Kerzers, avec places de parc devant l'entrée. Pour les patients qui ne peuvent pas conduire, un physiothérapeute se rend à domicile à Kerzers, Fräschels, Ried ou Galmiz.</p>",
+          "_id": "f7e5138"
          },
          {
           "tab_title": "Quand dois-je consulter un physiothérapeute pour une douleur ?",
           "tab_content": "<p>Dès qu'une douleur résiste à quelques jours de repos, qu'elle gêne votre travail ou vous réveille la nuit. Une prise en charge précoce simplifie la rééducation.</p>",
-          "_id": "b6f0fc4"
+          "_id": "65a3688"
          },
          {
           "tab_title": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
           "tab_content": "<p>Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.</p>",
-          "_id": "0990918"
+          "_id": "3f7dbd2"
          },
          {
           "tab_title": "Combien de séances me faut-il ?",
           "tab_content": "<p>Cela dépend de votre situation, de votre travail et de vos objectifs. Lors de la première visite, nous établissons une estimation adaptée à votre cas.</p>",
-          "_id": "5342b4b"
+          "_id": "974bf05"
          },
          {
           "tab_title": "Proposez-vous des massages thérapeutiques ?",
-          "tab_content": "<p>Oui. Le massage fait partie de nos traitements, au cabinet d'Ins ou à domicile à Chiètres, en général combiné à des exercices pour que l'effet dure.</p>",
-          "_id": "ad7117b"
+          "tab_content": "<p>Oui. Le massage fait partie de nos traitements, au cabinet d'Ins ou à domicile à Kerzers, en général combiné à des exercices pour que l'effet dure.</p>",
+          "_id": "2765a5f"
          },
          {
           "tab_title": "Physiotherapie in Kerzers: Sprechen Sie Deutsch?",
           "tab_content": "<p>Ja, natürlich. Ob in der Praxis in Ins oder zu Hause in Kerzers, Fräschels oder Ried: Wir sprechen Deutsch und Französisch.</p>",
-          "_id": "97beb2d"
+          "_id": "af36337"
          },
          {
           "tab_title": "Venez-vous à Fräschels, Ried ou Agriswil ?",
           "tab_content": "<p>Oui, nous y allons régulièrement, tout comme à Galmiz. Il suffit de préciser votre adresse lors de la réservation.</p>",
-          "_id": "8a5916f"
+          "_id": "0cedcb5"
          },
          {
           "tab_title": "Je travaille dans les cultures : quand faut-il consulter ?",
           "tab_content": "<p>Dès qu'une douleur revient chaque saison ou vous oblige à changer votre façon de travailler. Nous traitons la douleur et revoyons avec vous les gestes de port et de cueillette.</p>",
-          "_id": "05ba509"
+          "_id": "46b4cfc"
          },
          {
           "tab_title": "Puis-je venir après le travail ?",
           "tab_content": "<p>Oui, le cabinet reçoit du lundi au vendredi jusqu'à 20h. Réservez en ligne pour voir les créneaux du soir.</p>",
-          "_id": "506656d"
+          "_id": "7e26a75"
          }
         ],
         "faq_schema": "yes",
@@ -877,7 +877,7 @@
    "isInner": false
   },
   {
-   "id": "c020d98",
+   "id": "811b107",
    "elType": "section",
    "settings": {
     "gap": "no",
@@ -916,7 +916,7 @@
    },
    "elements": [
     {
-     "id": "47277b7",
+     "id": "81add97",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -925,11 +925,11 @@
      },
      "elements": [
       {
-       "id": "8a53b1e",
+       "id": "78a8446",
        "elType": "widget",
        "widgetType": "heading",
        "settings": {
-        "title": "Votre physio à Chiètres, dès cette semaine",
+        "title": "Votre physio à Kerzers, dès cette semaine",
         "header_size": "h2",
         "align": "center",
         "_css_classes": "pa-cta-title"
@@ -938,7 +938,7 @@
        "isInner": false
       },
       {
-       "id": "12dd6d6",
+       "id": "90adc36",
        "elType": "widget",
        "widgetType": "text-editor",
        "settings": {
@@ -950,7 +950,7 @@
        "isInner": false
       },
       {
-       "id": "5cfe61d",
+       "id": "e84e6b8",
        "elType": "widget",
        "widgetType": "button",
        "settings": {
@@ -977,13 +977,13 @@
        "isInner": false
       },
       {
-       "id": "c76f1f2",
+       "id": "f9984b4",
        "elType": "widget",
        "widgetType": "button",
        "settings": {
         "text": "WhatsApp",
         "link": {
-         "url": "https://wa.me/41766273838?text=Bonjour%2C%20je%20souhaite%20prendre%20rendez-vous%20chez%20Physio%20Activa%20%28physio%20%C3%A0%20Chi%C3%A8tres%29.",
+         "url": "https://wa.me/41766273838?text=Bonjour%2C%20je%20souhaite%20prendre%20rendez-vous%20chez%20Physio%20Activa%20%28physio%20%C3%A0%20Kerzers%29.",
          "is_external": "on",
          "nofollow": "",
          "custom_attributes": ""
@@ -1004,7 +1004,7 @@
        "isInner": false
       },
       {
-       "id": "636f11c",
+       "id": "062ec15",
        "elType": "widget",
        "widgetType": "button",
        "settings": {
@@ -1037,7 +1037,7 @@
    "isInner": false
   },
   {
-   "id": "57f4b4a",
+   "id": "b0ec90c",
    "elType": "section",
    "settings": {
     "gap": "no",
@@ -1047,7 +1047,7 @@
    },
    "elements": [
     {
-     "id": "fd15821",
+     "id": "6fadb02",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -1055,7 +1055,7 @@
      },
      "elements": [
       {
-       "id": "0b812f7",
+       "id": "9391873",
        "elType": "widget",
        "widgetType": "google_maps",
        "settings": {
@@ -1084,7 +1084,7 @@
    "isInner": false
   },
   {
-   "id": "27402b3",
+   "id": "f9106c7",
    "elType": "section",
    "settings": {
     "gap": "no",
@@ -1092,7 +1092,7 @@
    },
    "elements": [
     {
-     "id": "3d7bf04",
+     "id": "5b71aef",
      "elType": "column",
      "settings": {
       "_column_size": 100,
@@ -1100,11 +1100,11 @@
      },
      "elements": [
       {
-       "id": "fbaca30",
+       "id": "ec28581",
        "elType": "widget",
        "widgetType": "html",
        "settings": {
-        "html": "<a class=\"pa-wafab\" href=\"https://wa.me/41766273838?text=Bonjour%2C%20je%20souhaite%20prendre%20rendez-vous%20chez%20Physio%20Activa%20%28physio%20%C3%A0%20Chi%C3%A8tres%29.\" target=\"_blank\" rel=\"noopener\" aria-label=\"Contacter Physio Activa sur WhatsApp\"><i class=\"fa-brands fa-whatsapp\" aria-hidden=\"true\"></i></a>\n<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@graph\": [{\"@type\": \"Physiotherapy\", \"@id\": \"https://physioactiva.ch/#physiotherapy\", \"name\": \"Physio Activa\", \"url\": \"https://physioactiva.ch/\", \"logo\": \"https://physioactiva.ch/wp-content/uploads/2026/06/Physio-Activa-Logo00001.png\", \"image\": \"https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00031.jpg\", \"telephone\": \"+41 76 627 38 38\", \"email\": \"physio@physioactiva.ch\", \"address\": {\"@type\": \"PostalAddress\", \"streetAddress\": \"Rämismatte 21\", \"postalCode\": \"3232\", \"addressLocality\": \"Ins\", \"addressRegion\": \"BE\", \"addressCountry\": \"CH\"}, \"geo\": {\"@type\": \"GeoCoordinates\", \"latitude\": 46.99819373769458, \"longitude\": 7.107723111532297}, \"hasMap\": \"https://www.google.com/maps?cid=17004812906479027083\", \"openingHoursSpecification\": [{\"@type\": \"OpeningHoursSpecification\", \"dayOfWeek\": [\"Monday\", \"Tuesday\", \"Wednesday\", \"Thursday\", \"Friday\"], \"opens\": \"08:30\", \"closes\": \"20:00\"}], \"areaServed\": [{\"@type\": \"City\", \"name\": \"Kerzers/Chiètres\", \"sameAs\": \"https://fr.wikipedia.org/wiki/Chiètres\"}, {\"@type\": \"Place\", \"name\": \"Fräschels\"}, {\"@type\": \"Place\", \"name\": \"Ried bei Kerzers\"}, {\"@type\": \"Place\", \"name\": \"Galmiz\"}, {\"@type\": \"Place\", \"name\": \"Agriswil\"}, {\"@type\": \"Place\", \"name\": \"Ins\"}], \"availableLanguage\": [\"fr\", \"de\", \"en\", \"es\", \"pt\"], \"sameAs\": [\"https://www.instagram.com/physio_activa_/\", \"https://www.facebook.com/profile.php?id=100094154144954\", \"https://www.google.com/maps?cid=17004812906479027083\"]}, {\"@type\": \"WebPage\", \"@id\": \"https://physioactiva.ch/physio-a-chietres/#webpage\", \"url\": \"https://physioactiva.ch/physio-a-chietres/\", \"name\": \"Physio Chiètres Kerzers : massage, domicile | Physio Activa\", \"description\": \"Physio à Chiètres (Kerzers) : physiothérapie, massage thérapeutique et séances à domicile, ou cabinet d'Ins à 7,6 km. Auf Deutsch, jusqu'à 20h.\", \"inLanguage\": \"fr-CH\", \"about\": {\"@id\": \"https://physioactiva.ch/physio-a-chietres/#service\"}, \"primaryImageOfPage\": {\"@type\": \"ImageObject\", \"url\": \"https://physioactiva.ch/wp-content/uploads/2025/06/Centerbild_IMG_9184-scaled-1.jpg\"}}, {\"@type\": \"Service\", \"@id\": \"https://physioactiva.ch/physio-a-chietres/#service\", \"name\": \"Physiothérapie à Chiètres\", \"serviceType\": \"Physiothérapie au cabinet et à domicile\", \"provider\": {\"@id\": \"https://physioactiva.ch/#physiotherapy\"}, \"areaServed\": {\"@type\": \"City\", \"name\": \"Kerzers/Chiètres\", \"containedInPlace\": {\"@type\": \"AdministrativeArea\", \"name\": \"Canton de Fribourg\"}}}]}</script>",
+        "html": "<a class=\"pa-wafab\" href=\"https://wa.me/41766273838?text=Bonjour%2C%20je%20souhaite%20prendre%20rendez-vous%20chez%20Physio%20Activa%20%28physio%20%C3%A0%20Kerzers%29.\" target=\"_blank\" rel=\"noopener\" aria-label=\"Contacter Physio Activa sur WhatsApp\"><i class=\"fa-brands fa-whatsapp\" aria-hidden=\"true\"></i></a>\n<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@graph\": [{\"@type\": \"Physiotherapy\", \"@id\": \"https://physioactiva.ch/#physiotherapy\", \"name\": \"Physio Activa\", \"url\": \"https://physioactiva.ch/\", \"logo\": \"https://physioactiva.ch/wp-content/uploads/2026/06/Physio-Activa-Logo00001.png\", \"image\": \"https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00031.jpg\", \"telephone\": \"+41 76 627 38 38\", \"email\": \"physio@physioactiva.ch\", \"address\": {\"@type\": \"PostalAddress\", \"streetAddress\": \"Rämismatte 21\", \"postalCode\": \"3232\", \"addressLocality\": \"Ins\", \"addressRegion\": \"BE\", \"addressCountry\": \"CH\"}, \"geo\": {\"@type\": \"GeoCoordinates\", \"latitude\": 46.99819373769458, \"longitude\": 7.107723111532297}, \"hasMap\": \"https://www.google.com/maps?cid=17004812906479027083\", \"openingHoursSpecification\": [{\"@type\": \"OpeningHoursSpecification\", \"dayOfWeek\": [\"Monday\", \"Tuesday\", \"Wednesday\", \"Thursday\", \"Friday\"], \"opens\": \"08:30\", \"closes\": \"20:00\"}], \"areaServed\": [{\"@type\": \"City\", \"name\": \"Kerzers/Chiètres\", \"sameAs\": \"https://fr.wikipedia.org/wiki/Chiètres\"}, {\"@type\": \"Place\", \"name\": \"Fräschels\"}, {\"@type\": \"Place\", \"name\": \"Ried bei Kerzers\"}, {\"@type\": \"Place\", \"name\": \"Galmiz\"}, {\"@type\": \"Place\", \"name\": \"Agriswil\"}, {\"@type\": \"Place\", \"name\": \"Ins\"}], \"availableLanguage\": [\"fr\", \"de\", \"en\", \"es\", \"pt\"], \"sameAs\": [\"https://www.instagram.com/physio_activa_/\", \"https://www.facebook.com/profile.php?id=100094154144954\", \"https://www.google.com/maps?cid=17004812906479027083\"]}, {\"@type\": \"WebPage\", \"@id\": \"https://physioactiva.ch/physio-a-kerzers/#webpage\", \"url\": \"https://physioactiva.ch/physio-a-kerzers/\", \"name\": \"Physio Kerzers (Chiètres) : massage, domicile | Physio Activa\", \"description\": \"Physio à Kerzers (Chiètres) : physiothérapie, massage thérapeutique et séances à domicile, ou cabinet d'Ins à 7,6 km. Auf Deutsch, jusqu'à 20h.\", \"inLanguage\": \"fr-CH\", \"about\": {\"@id\": \"https://physioactiva.ch/physio-a-kerzers/#service\"}, \"primaryImageOfPage\": {\"@type\": \"ImageObject\", \"url\": \"https://physioactiva.ch/wp-content/uploads/2025/06/Centerbild_IMG_9184-scaled-1.jpg\"}}, {\"@type\": \"Service\", \"@id\": \"https://physioactiva.ch/physio-a-kerzers/#service\", \"name\": \"Physiothérapie à Kerzers\", \"serviceType\": \"Physiothérapie au cabinet et à domicile\", \"provider\": {\"@id\": \"https://physioactiva.ch/#physiotherapy\"}, \"areaServed\": {\"@type\": \"City\", \"name\": \"Kerzers/Chiètres\", \"containedInPlace\": {\"@type\": \"AdministrativeArea\", \"name\": \"Canton de Fribourg\"}}}]}</script>",
         "_css_classes": "pa-tail"
        },
        "elements": [],
@@ -1121,6 +1121,6 @@
   "hide_title": "yes"
  },
  "version": "0.4",
- "title": "Physio à Chiètres",
+ "title": "Physio à Kerzers",
  "type": "page"
 }

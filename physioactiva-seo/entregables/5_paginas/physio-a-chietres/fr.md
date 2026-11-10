@@ -1,25 +1,25 @@
 ---
-title: "Physio Chiètres Kerzers : massage, domicile | Physio Activa"
-meta: "Physio à Chiètres (Kerzers) : physiothérapie, massage thérapeutique et séances à domicile, ou cabinet d'Ins à 7,6 km. Auf Deutsch, jusqu'à 20h."
-slug: "/physio-a-chietres/"
-keyword_principal: "physio chiètres"
+title: "Physio Kerzers (Chiètres) : massage, domicile | Physio Activa"
+meta: "Physio à Kerzers (Chiètres) : physiothérapie, massage thérapeutique et séances à domicile, ou cabinet d'Ins à 7,6 km. Auf Deutsch, jusqu'à 20h."
+slug: "/physio-a-kerzers/"
+keyword_principal: "physio kerzers"
 tipo: "zona"
 zona: "chietres"
 ---
 
-# Physio à Chiètres (Kerzers) : soins à domicile ou au cabinet d'Ins, à 7,6 km
+# Physio à Kerzers (Chiètres) : soins à domicile ou au cabinet d'Ins, à 7,6 km
 
-Travail aux champs, trajets en train vers Berne, longues journées debout : le dos et les épaules finissent par le dire. Physio Activa, c'est un physio à Chiètres qui vient chez vous ou vous reçoit à Ins, à environ 7,6 km en ligne droite, en allemand comme en français, avec un premier rendez-vous dans la semaine dans la plupart des cas.
+Travail aux champs, trajets en train vers Berne, longues journées debout : le dos et les épaules finissent par le dire. Physio Activa, c'est un physio à Kerzers qui vient chez vous ou vous reçoit à Ins, à environ 7,6 km en ligne droite, en allemand comme en français, avec un premier rendez-vous dans la semaine dans la plupart des cas.
 
 ## L'essentiel en bref
 
 ### Accepté par toutes les assurances
 
-Chiètres est dans le canton de Fribourg, Ins dans celui de Berne : le cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse.
+Kerzers est dans le canton de Fribourg, Ins dans celui de Berne : le cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse.
 
 ### Deux façons de vous soigner
 
-Au cabinet, avec l'espace d'entraînement, ou chez vous à Chiètres quand se déplacer est difficile.
+Au cabinet, avec l'espace d'entraînement, ou chez vous à Kerzers quand se déplacer est difficile.
 
 ### On part de votre quotidien
 
@@ -29,23 +29,23 @@ Récolte, chantier, bureau ou trajet : le bilan part de ce que votre corps doit 
 
 Toute l'équipe peut vous recevoir en allemand, en français, en anglais, en espagnol ou en portugais.
 
-## Un physiothérapeute près de Chiètres
+## Un physiothérapeute près de Kerzers
 
-Le cabinet est à Ins, Rämismatte 21, au 1er étage du bâtiment Lidl, dans les locaux d'InsGym, avec parking devant la porte. Depuis Chiètres, c'est l'un des cabinets de physiothérapie les plus proches de l'autre côté de la frontière cantonale.
+Le cabinet est à Ins, Rämismatte 21, au 1er étage du bâtiment Lidl, dans les locaux d'InsGym, avec parking devant la porte. Depuis Kerzers, c'est l'un des cabinets de physiothérapie les plus proches de l'autre côté de la frontière cantonale.
 
-Autour de Chiètres, beaucoup de patients travaillent dans les cultures maraîchères du Grand-Marais, sur les chantiers ou dans la logistique : on se penche, on porte des caisses, on répète les mêmes gestes. Un physiothérapeute près de Chiètres traite alors le dos, la nuque, les épaules et les genoux, mais il regarde aussi comment vous soulevez, vous vous penchez et récupérez.
+Autour de Kerzers, beaucoup de patients travaillent dans les cultures maraîchères du Grand-Marais, sur les chantiers ou dans la logistique : on se penche, on porte des caisses, on répète les mêmes gestes. Un physiothérapeute près de Kerzers traite alors le dos, la nuque, les épaules et les genoux, mais il regarde aussi comment vous soulevez, vous vous penchez et récupérez.
 
-Physiotherapie für Kerzers: Wir behandeln Sie auf Deutsch, in Ins oder direkt bei Ihnen daheim. La physiothérapie à Chiètres se fait donc dans la langue que vous préférez, avec des explications claires et un programme d'exercices écrit.
+Physiotherapie für Kerzers: Wir behandeln Sie auf Deutsch, in Ins oder direkt bei Ihnen daheim. La physiothérapie à Kerzers se fait donc dans la langue que vous préférez, avec des explications claires et un programme d'exercices écrit.
 
-## Massage thérapeutique pour les patients de Chiètres
+## Massage thérapeutique pour les patients de Kerzers
 
-Le massage thérapeutique est l'une des demandes les plus fréquentes à Chiètres. Une contracture dans la nuque après une semaine de récolte, des lombaires tendues après des heures au volant, des mollets durs chez les coureurs : le massage relâche la zone, diminue la douleur et prépare le mouvement.
+Le massage thérapeutique est l'une des demandes les plus fréquentes à Kerzers. Une contracture dans la nuque après une semaine de récolte, des lombaires tendues après des heures au volant, des mollets durs chez les coureurs : le massage relâche la zone, diminue la douleur et prépare le mouvement.
 
 Chez nous, il s'intègre à la physiothérapie : on masse, puis on travaille la mobilité et la force pour que la tension ne revienne pas la semaine suivante. Plus d'informations sur le [massage thérapeutique](/massage-therapeutique/).
 
-## Physiothérapie à domicile à Chiètres et environs
+## Physiothérapie à domicile à Kerzers et environs
 
-Nos physiothérapeutes se déplacent à domicile à Chiètres et dans les environs, à Fräschels, Ried bei Kerzers, Galmiz et Agriswil. C'est la solution quand une sciatique vous empêche de conduire, après une prothèse ou une fracture, ou quand l'âge rend les trajets pénibles.
+Nos physiothérapeutes se déplacent à domicile à Kerzers et dans les environs, à Fräschels, Ried bei Kerzers, Galmiz et Agriswil. C'est la solution quand une sciatique vous empêche de conduire, après une prothèse ou une fracture, ou quand l'âge rend les trajets pénibles.
 
 À la maison, les exercices s'adaptent à votre escalier, à votre cour, au trajet jusqu'au jardin. Quand vous pouvez à nouveau vous déplacer, vous continuez au cabinet, sur les appareils. Voir la [physiothérapie à domicile](/physiotherapeute-a-domicile/).
 
@@ -55,7 +55,7 @@ Venez directement pour un dos bloqué, une nuque raide, une épaule qui ne monte
 
 Consultez d'abord un médecin si la douleur suit une chute ou un accident important, si une jambe s'affaiblit, si des fourmillements gagnent les deux jambes, si une fièvre ou une perte de poids inexpliquée accompagnent les symptômes, ou si un mollet devient rouge, chaud et gonflé. Douleur dans la poitrine ou malaise : appelez le 144.
 
-## Les situations que nous rencontrons le plus à Chiètres
+## Les situations que nous rencontrons le plus à Kerzers
 
 ### Dos et sciatique chez ceux qui portent
 
@@ -91,21 +91,21 @@ Thérapie manuelle, massage, exercices : la combinaison change selon vos progrè
 
 Quelques exercices courts, faciles à caser dans la journée, pour éviter la rechute.
 
-## Venir au cabinet d'Ins depuis Chiètres
+## Venir au cabinet d'Ins depuis Kerzers
 
-Environ 7,6 km en ligne droite séparent Chiètres d'Ins, soit quelques minutes de route. Les places de parc sont juste devant l'entrée. Tous les détails pour venir : [Nous trouver](/nous-trouver/).
+Environ 7,6 km en ligne droite séparent Kerzers d'Ins, soit quelques minutes de route. Les places de parc sont juste devant l'entrée. Tous les détails pour venir : [Nous trouver](/nous-trouver/).
 
 Kerzers, Chiètres en français, est une commune germanophone fribourgeoise du district du Lac, au cœur du Grand-Marais. Pour une hospitalisation, la plupart des habitants passent par l'HFR Meyriez-Murten : munis des consignes de sortie, vous enchaînez la rééducation chez nous ou à la maison.
 
-## Assurances et horaires : physio à Chiètres
+## Assurances et horaires : physio à Kerzers
 
 Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Nous recevons en semaine jusqu'à 20h, pratique quand on rentre tard des champs ou du travail.
 
-## Questions fréquentes sur la physio à Chiètres
+## Questions fréquentes sur la physio à Kerzers
 
-### Où trouver un physiothérapeute près de Chiètres ?
+### Où trouver un physiothérapeute près de Kerzers ?
 
-Le cabinet le plus proche est celui de Physio Activa à Ins (Rämismatte 21, 1er étage du bâtiment Lidl), à environ 7,6 km de Chiètres, avec places de parc devant l'entrée. Pour les patients qui ne peuvent pas conduire, un physiothérapeute se rend à domicile à Chiètres, Fräschels, Ried ou Galmiz.
+Le cabinet le plus proche est celui de Physio Activa à Ins (Rämismatte 21, 1er étage du bâtiment Lidl), à environ 7,6 km de Kerzers, avec places de parc devant l'entrée. Pour les patients qui ne peuvent pas conduire, un physiothérapeute se rend à domicile à Kerzers, Fräschels, Ried ou Galmiz.
 
 ### Quand dois-je consulter un physiothérapeute pour une douleur ?
 
@@ -121,7 +121,7 @@ Cela dépend de votre situation, de votre travail et de vos objectifs. Lors de l
 
 ### Proposez-vous des massages thérapeutiques ?
 
-Oui. Le massage fait partie de nos traitements, au cabinet d'Ins ou à domicile à Chiètres, en général combiné à des exercices pour que l'effet dure.
+Oui. Le massage fait partie de nos traitements, au cabinet d'Ins ou à domicile à Kerzers, en général combiné à des exercices pour que l'effet dure.
 
 ### Physiotherapie in Kerzers: Sprechen Sie Deutsch?
 
@@ -139,11 +139,13 @@ Dès qu'une douleur revient chaque saison ou vous oblige à changer votre façon
 
 Oui, le cabinet reçoit du lundi au vendredi jusqu'à 20h. Réservez en ligne pour voir les créneaux du soir.
 
-## Votre physio à Chiètres, dès cette semaine
+## Votre physio à Kerzers, dès cette semaine
 
 Une séance à Ins ou à la maison, en allemand ou en français : prenez rendez-vous en ligne, par téléphone au 076 627 38 38 ou via WhatsApp.
 
 ## Notes pour l'équipe (ES)
+
+- Renombrada (2026-11-10): prioridad a «Kerzers» (nombre local, comuna germanófona); slug /physio-a-kerzers/, «Chiètres» se mantiene como nombre francés en H1, intro y contexto. Si /physio-a-chietres/ llegó a publicarse, redirigir 301 a /physio-a-kerzers/.
 
 - Versión diferenciada (2026-11-10): enfoque en el trabajo físico (cultivos del Grand-Marais, obras, logística), el alemán y el massage. Versión anterior en `fr-v4-anterior.md`.
 - DataForSEO (Suiza): «massage kerzers» 90/mes (de ahí la sección H2 dedicada y una FAQ); sin volumen medible para «physio kerzers/chiètres». Se usan los dos nombres y frase/FAQ en alemán.

@@ -308,9 +308,9 @@ morat:
   faq_locales_serp: []
   verif_note: 'Datos públicos (comuna, distrito, idioma, hospital, localidades vecinas) aportados con fuente; no se pudieron abrir en línea en esta sesión (red restringida): revisar antes de publicar.'
 chietres:
-  nom_fr: Chiètres
-  nom_titre: Chiètres (Kerzers)
-  url: /physio-a-chietres/
+  nom_fr: Kerzers
+  nom_titre: Kerzers (Chiètres)
+  url: /physio-a-kerzers/
   lote: B
   km_depuis_ins: 7.6
   km_fuente: distance en ligne droite calculée depuis le centre d'Ins (investigación 2026-11-06)
