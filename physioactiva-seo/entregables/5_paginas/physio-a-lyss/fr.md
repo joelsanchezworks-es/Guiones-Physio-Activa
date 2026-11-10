@@ -1,111 +1,120 @@
 ---
-title: "Physio à Lyss – à domicile ou à Ins | Physio Activa"
-meta: "Physio à Lyss : physiothérapeute en français, au cabinet d'Ins ou à domicile dans le Seeland, reconnu par toutes les assurances. Réservez en ligne."
+title: "Physio Lyss : à domicile, drainage, massage | Physio Activa"
+meta: "Physio à Lyss : physiothérapie à domicile à Lyss, Aarberg ou Busswil, drainage lymphatique et massage, ou cabinet d'Ins. Auf Deutsch, jusqu'à 20h."
 slug: "/physio-a-lyss/"
 keyword_principal: "physio lyss"
 tipo: "zona"
 zona: "lyss"
 ---
 
-# Physio à Lyss : au cabinet d'Ins ou à domicile
+# Physio à Lyss : physiothérapie chez vous ou au cabinet d'Ins
 
-Trouver un physio à Lyss qui vous suive en français n'est pas toujours simple dans une commune germanophone. Physio Activa vous reçoit à Ins, à environ 17 km en ligne droite, ou vient chez vous si le trajet pose problème. Le cabinet est ouvert du lundi au vendredi jusqu'à 20h, et l'on obtient un rendez-vous dans la semaine dans la plupart des cas.
+Sortir de l'hôpital avec des cannes, garder une jambe gonflée après une opération, traîner un dos douloureux depuis des semaines : c'est souvent à ce moment qu'on cherche un physio à Lyss. Physio Activa se déplace à domicile à Lyss et dans les communes voisines, et vous reçoit aussi au cabinet d'Ins, du lundi au vendredi jusqu'à 20h, en allemand ou en français.
 
 ## L'essentiel en bref
 
-### Reconnu par toutes les assurances
+### Toutes les caisses maladie
 
-Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Que votre caisse vous écrive en allemand ou en français ne change rien.
+Le cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse et accueille les patients de tous les cantons.
 
-### Au cabinet ou à domicile
+### D'abord chez vous si nécessaire
 
-Vous venez à Ins si vous êtes mobile ; nous passons chez vous quand le déplacement devient un obstacle.
+Les premières séances peuvent avoir lieu à la maison ; le cabinet prend le relais quand vous êtes prêt.
 
-### Bilan et plan de traitement
+### Des objectifs mesurables
 
-Le premier rendez-vous sert à comprendre l'origine de la gêne, à tester vos mouvements et à fixer des objectifs concrets, comme reprendre le travail sans appréhension.
+Distance de marche, amplitude du genou, gonflement : on mesure au départ pour voir les progrès.
 
-### Rendez-vous en ligne, par téléphone ou WhatsApp
+### Contact simple
 
-Choisissez un créneau dans l'agenda en ligne, ou appelez le 076 627 38 38.
+Réservation en ligne, téléphone au 076 627 38 38 ou WhatsApp, en allemand ou en français.
 
 ## Un physiothérapeute près de Lyss
 
-Ins et Lyss appartiennent toutes deux à l'arrondissement administratif du Seeland. Le cabinet se trouve à la Rämismatte 21, au 1er étage du bâtiment Lidl, dans les locaux d'InsGym, avec parking devant l'entrée.
+Lyss est une commune germanophone du Seeland bernois, et la plupart de nos patients de Lyss préfèrent être soignés en allemand. Physiotherapie in Lyss: Wir kommen zu Ihnen nach Hause oder empfangen Sie in unserer Praxis in Ins. Les francophones du Seeland, eux, trouvent chez nous un physiothérapeute à Lyss et environs qui parle leur langue, ce qui reste rare dans la région.
 
-Ce qui distingue cette adresse d'un physiothérapeute à Lyss même, c'est d'abord la langue : l'équipe travaille en français, et parle aussi allemand, anglais, espagnol et portugais. Chacun peut ainsi décrire sa douleur avec ses propres mots. Ensuite, les créneaux jusqu'à 20h permettent de venir après une journée à l'atelier ou au bureau.
-
-Notre physiothérapie à Lyss s'adresse surtout aux troubles mécaniques du quotidien : lumbago après une charge soulevée, épaule usée par des gestes répétés, genou qui proteste dans les escaliers, nuque raide en fin de semaine.
+Le cabinet se trouve à Ins, Rämismatte 21, au 1er étage du bâtiment Lidl, dans les locaux d'InsGym. Places de parc devant l'entrée. On y vient pour les appareils d'entraînement et le travail de force ; pour le reste, la physiothérapie à Lyss peut très bien se faire à domicile.
 
 ## Physiothérapie à domicile à Lyss et environs
 
-Nos physiothérapeutes se déplacent à domicile à Lyss et dans les environs : Aarberg, Kappelen, Worben, Busswil et Grossaffoltern. Une séance chez soi a du sens quand la voiture ou le train ne sont pas une option : entorse qui empêche de marcher, dos qui ne tolère pas un trajet assis, personne âgée qui se sent plus en sécurité chez elle.
+Nos physiothérapeutes viennent à domicile à Lyss et dans les environs : Aarberg, Kappelen, Worben, Busswil et Grossaffoltern. La séance commence là où la difficulté se trouve : se lever du fauteuil, descendre à la cave, sortir sur le balcon, retrouver de l'assurance dans l'escalier.
 
-Nous apportons le matériel nécessaire et adaptons les exercices à votre logement. Le fonctionnement est expliqué sur la page [physiothérapie à domicile](/physiotherapeute-a-domicile/).
+Ce suivi à la maison est particulièrement utile après une prothèse, une fracture du col du fémur ou une longue hospitalisation, et pour les personnes âgées qui ne conduisent plus. Plus d'informations sur la [physiothérapie à domicile](/physiotherapeute-a-domicile/).
 
-## Quand consulter un physio, et quand voir d'abord un médecin ?
+## Drainage lymphatique et massage à Lyss
 
-Une douleur qui persiste au-delà d'une semaine, qui gêne votre travail ou vous réveille la nuit mérite d'être évaluée par un physiothérapeute, de même que la reprise après une entorse, une fracture ou une opération.
+Ce sont deux demandes fréquentes chez nos patients de Lyss. Le [drainage lymphatique](/drainage-lymphatique/) manuel aide à résorber un œdème après une opération du genou ou de la hanche, ou des jambes lourdes qui gonflent en fin de journée. Il se fait très bien à domicile.
 
-Certains signes demandent un avis médical avant de commencer : douleur apparue après une chute violente, jambe qui perd sa force, engourdissement du bassin ou difficulté à uriner, fièvre avec mal de dos, douleur nocturne qui ne se calme dans aucune position. Douleur dans la poitrine, essoufflement brutal ou paralysie soudaine : composez le 144.
+Le [massage thérapeutique](/massage-therapeutique/) relâche une contracture de la nuque ou du dos ; nous l'associons à des exercices pour que la tension ne revienne pas.
 
-## Quelle prise en charge selon votre situation ?
+## Physio ou médecin : par où commencer ?
 
-### Dos et sciatique
+Une douleur au dos, à la nuque ou à l'épaule qui dure plus d'une semaine, une raideur après une blessure, une rééducation prévue après une opération : vous pouvez venir chez le physio.
 
-D'abord calmer la douleur qui descend dans la jambe, puis retrouver de la mobilité et la tolérance aux charges. Voir [mal de dos et lombalgie](/mal-de-dos-lombaire/) et [sciatique et hernie discale](/sciatique-hernie-discale/).
+Passez d'abord par le médecin si :
 
-### Genou et épaule
+- la jambe opérée devient chaude, rouge et très gonflée, ou si la cicatrice coule ;
+- de la fièvre s'ajoute à la douleur ;
+- une faiblesse nouvelle apparaît dans une jambe ou des troubles urinaires accompagnent un mal de dos ;
+- un gonflement apparaît brutalement d'un seul côté.
 
-Entorse, douleur en montée, bras difficile à lever ou douleur la nuit : consultez les pages [genou](/douleur-du-genou-lesions-de-la-cheville/) et [épaule](/lesions-de-lepaule/).
+Douleur thoracique, essoufflement soudain : appelez le 144.
 
-### Massage thérapeutique
+## Nos prises en charge les plus fréquentes à Lyss
 
-Pour une contracture ou une zone tendue qui limite vos gestes, le [massage thérapeutique](/massage-therapeutique/) s'intègre au plan de traitement, avec des exercices pour que l'effet dure.
+### Rééducation après une opération
 
-### Drainage lymphatique
+Prothèse de [hanche](/douleur-de-hanche-protheses/) ou de [genou](/douleur-du-genou-lesions-de-la-cheville/), ligament croisé, épaule opérée : nous suivons les consignes du chirurgien et progressons étape par étape.
 
-Jambes lourdes, œdème après une opération ou lymphœdème : le [drainage lymphatique manuel](/drainage-lymphatique/) se fait par des gestes lents et légers, au cabinet ou chez vous.
+### Mal de dos et sciatique
 
-Autres motifs : [toutes les pathologies](/pour-les-patients/).
+Soulager d'abord, puis reconstruire la tolérance à la position assise et au port de charge. Voir [mal de dos](/mal-de-dos-lombaire/) et [sciatique](/sciatique-hernie-discale/).
 
-## Comment se déroule votre prise en charge ?
+### Équilibre des seniors
 
-### Prise de rendez-vous
+Exercices de force et d'équilibre, à la maison ou au cabinet, pour réduire le risque de chute.
 
-Réservez en ligne en précisant si vous souhaitez une visite à domicile.
+### Retour à la force
 
-### Bilan
+Quand la douleur est maîtrisée, l'entraînement encadré [MTT](/medical-training-therapy-mtt/) sur les appareils de l'InsGym consolide les progrès.
 
-Entretien et tests de mobilité et de force pour trouver ce qui entretient la douleur.
+## Les étapes avec Physio Activa
 
-### Séances au cabinet ou à domicile
+### Le contact
 
-Thérapie manuelle et exercices actifs alternent, avec du matériel adapté à chaque étape.
+Un message, un appel ou une réservation en ligne : dites-nous si vous souhaitez une séance à domicile à Lyss.
 
-### Autonomie et prévention
+### La première séance
 
-Quelques exercices courts, faciles à caser dans la journée, pour garder le bénéfice une fois le suivi terminé.
+Entretien, tests et explications : vous savez ce qui se passe et ce que nous allons faire.
+
+### Le suivi
+
+Traitement manuel, drainage ou exercices selon votre cas, avec des progrès mesurés à chaque étape.
+
+### Après le traitement
+
+Un programme simple à poursuivre seul, pour garder les acquis.
 
 ## Venir au cabinet d'Ins depuis Lyss
 
-Comptez environ 17 km en ligne droite entre Lyss et Ins, dans le même canton de Berne. L'adresse, le plan et l'accès sont détaillés sur [Nous trouver](/nous-trouver/).
+Lyss est à environ 17 km en ligne droite d'Ins. Si vous venez en voiture, vous vous garez devant le bâtiment. Plan d'accès : [Nous trouver](/nous-trouver/). Si le trajet est trop long pour vous, la physiothérapie à domicile évite de faire la route.
 
-Si vous avez été opéré au Spital Aarberg, l'hôpital de la région, la rééducation peut commencer chez nous dès votre retour, selon les consignes du chirurgien.
+Lyss appartient à l'arrondissement administratif du Seeland, dans le canton de Berne. L'hôpital le plus proche est le Spital Aarberg : après une intervention, gardez vos consignes de sortie, nous poursuivons la rééducation chez vous ou au cabinet.
 
 ## Assurances et horaires : physio à Lyss
 
-Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Le cabinet est ouvert du lundi au vendredi, jusqu'à 20h. Réservez en ligne, au 076 627 38 38 ou sur WhatsApp.
+Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Séances en semaine jusqu'à 20h, au cabinet ou à domicile.
 
 ## Questions fréquentes sur la physio à Lyss
 
 ### Où trouver un physiothérapeute près de Lyss ?
 
-Au cabinet Physio Activa d'Ins, Rämismatte 21, au 1er étage du bâtiment Lidl, avec parking, à environ 17 km en ligne droite. Nos physiothérapeutes se déplacent aussi à domicile à Lyss et dans les communes voisines.
+Physio Activa a son cabinet à Ins, Rämismatte 21 (1er étage du bâtiment Lidl, places de parc devant l'entrée), à environ 17 km de Lyss. Pour éviter le trajet, nos physiothérapeutes viennent aussi à domicile à Lyss, Aarberg, Kappelen, Worben, Busswil et Grossaffoltern.
 
 ### Quand dois-je consulter un physiothérapeute pour une douleur ?
 
-Si la douleur dure plus d'une semaine, limite vos gestes au travail ou à la maison, ou perturbe votre sommeil. Plus on la traite tôt, plus c'est simple.
+Si la douleur persiste au-delà d'une semaine, limite vos déplacements ou trouble votre sommeil. Commencer tôt rend la rééducation plus simple.
 
 ### Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?
 
@@ -113,36 +122,34 @@ Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en 
 
 ### Combien de séances me faut-il ?
 
-La durée du traitement varie selon votre situation et les exigences de votre métier. Lors de la première visite, nous établissons une estimation adaptée à votre cas.
+La durée du traitement varie selon votre situation et vos objectifs. Lors de la première visite, nous établissons une estimation adaptée à votre cas.
 
-### Ma commune est germanophone : les séances se font-elles en français ?
+### Physio in Lyss: Kommen Sie auch nach Hause?
 
-Oui, et aussi en allemand, anglais, espagnol ou portugais si vous préférez. Vos documents médicaux en allemand ne posent aucun problème.
+Ja. Wir behandeln Sie auf Deutsch oder Französisch bei Ihnen zu Hause in Lyss, Aarberg, Busswil und Umgebung, oder in der Praxis in Ins.
 
-### Venez-vous aussi à Aarberg ou à Busswil ?
+### Faites-vous le drainage lymphatique à domicile ?
 
-Oui. Aarberg, Busswil, Kappelen, Worben et Grossaffoltern font partie des environs où nous nous déplaçons. Indiquez votre adresse lors de la réservation.
+Oui. Le drainage lymphatique manuel se pratique très bien chez vous, par exemple après une prothèse du genou ou de la hanche.
 
-### J'ai été opéré au Spital Aarberg : puis-je poursuivre chez vous ?
+### J'ai été opéré au Spital Aarberg : quand commencer ?
 
-Oui, dès votre sortie. Nous reprenons le programme selon les indications de votre chirurgien, au cabinet ou chez vous.
+Le plus tôt possible après la sortie, en suivant les consignes de l'hôpital. Les premières séances peuvent avoir lieu à domicile.
 
-### Quel est le rôle d'un physiothérapeute ?
+### Proposez-vous des massages thérapeutiques ?
 
-Il évalue votre mouvement, traite la douleur par des techniques manuelles et vous guide avec des exercices pour retrouver force, mobilité et confiance.
+Oui, au cabinet ou à domicile, en général combinés à des exercices pour un effet durable.
 
 ### Est-ce normal d'avoir plus mal après une séance ?
 
-Une légère sensibilité pendant un jour ou deux est fréquente après un travail sur des tissus tendus. Si la douleur augmente nettement ou dure, signalez-le pour ajuster le traitement.
+Une légère courbature le lendemain est fréquente et passe vite. Une douleur forte ou qui augmente doit nous être signalée.
 
-## Besoin d'un physio à Lyss ou dans les environs ?
+## Un physio à Lyss, chez vous ou à Ins
 
-Un suivi en français, à Ins ou chez vous : choisissez votre créneau sur la [réservation en ligne](/reservation-en-ligne/), appelez le 076 627 38 38 ou écrivez sur WhatsApp au +41 76 627 38 38.
+Expliquez-nous votre situation en allemand ou en français : nous vous proposons une séance à domicile à Lyss ou au cabinet d'Ins, en général dans la semaine. Réservation en ligne, au 076 627 38 38 ou sur WhatsApp.
 
 ## Notes pour l'équipe (ES)
 
-- Ajuste v4: sin marcadores; domicilio afirmado (zona cubierta en la web del cliente); estructura v4; idiomas y plazo «dans la semaine» tomados de la web.
-- Keyword «physio lyss» (390) en title, meta, H1 e intro. Demanda local de servicios solo en alemán (medizinische Massage 40, Lymphdrainage 40): se añaden H3 «Massage thérapeutique» y «Drainage lymphatique» con enlace, sin usar las keywords alemanas.
-- Datos de la ficha usados: 17 km en línea recta, comuna germanófona, arrondissement administratif du Seeland (cantón de Berna), Spital Aarberg, localidades vecinas (Aarberg, Kappelen, Worben, Busswil, Grossaffoltern).
-- No se afirma colaboración con el Spital Aarberg; solo contexto de la rehabilitación.
-- Ajuste v3: sin receta ni detalle de seguro; FAQ estándar; horario hasta las 20h.
+- Versión diferenciada (2026-11-10): enfoque domicilio en la zona Lyss–Aarberg, drenaje linfático + massage (H2 propio), alemán primero, Spital Aarberg. Versión anterior en `fr-v4-anterior.md`.
+- Keywords: «physio lyss» 390/mes; demanda DE «medizinische massage lyss» 40 y «lymphdrainage lyss» 40 → H2 «Drainage lymphatique et massage à Lyss» y 2 FAQ.
+- «Los francófonos del Seeland encuentran pocos physios en su idioma»: formulado como «ce qui reste rare dans la région»; quitar si el cliente no lo quiere afirmar.

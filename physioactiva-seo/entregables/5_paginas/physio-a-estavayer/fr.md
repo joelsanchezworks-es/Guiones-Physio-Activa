@@ -42,6 +42,7 @@ Juste après une prothèse ou une hospitalisation, le trajet n'est pas toujours 
 Une épaule qui fait mal dès qu'on lève le bras, un talon douloureux au réveil, des fourmillements qui descendent dans la jambe, un genou qui limite la marche, une jambe qui reste enflée après une chirurgie : ce sont des raisons typiques de consulter.
 
 Voyez d'abord un médecin, ou appelez le 144 si la situation est grave, en présence :
+
 - d'un gonflement soudain d'une jambe, chaud et douloureux ;
 - d'une douleur intense après une chute ou un choc ;
 - de fourmillements avec perte de force ou troubles urinaires ;
@@ -56,6 +57,7 @@ Opéré ou hospitalisé à l'HIB, sur le site d'Estavayer-le-Lac ? Nous reprenon
 Vous cherchez un drainage lymphatique à Estavayer ? Après une opération du genou ou de la hanche, une entorse sévère ou en cas de lymphœdème, un gonflement peut persister. Le drainage manuel aide la lymphe à circuler et s'accompagne de conseils et d'exercices simples. En savoir plus : [drainage lymphatique](/drainage-lymphatique/).
 
 ### Épaule, pied, sciatique, genou
+
 - [Épaule](/lesions-de-lepaule/) : douleur en levant le bras, conflit sous-acromial, suites d'une luxation.
 - [Pied et cheville, fasciite plantaire](/douleur-pied-cheville-fasciite-plantaire/) : talon douloureux, entorses répétées, reprise de la course.
 - [Sciatique et hernie discale](/sciatique-hernie-discale/) : douleur qui irradie dans la jambe, gestion des phases aiguës.

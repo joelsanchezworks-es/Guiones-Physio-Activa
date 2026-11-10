@@ -40,6 +40,7 @@ Pour une personne âgée, alitée ou qui vient de rentrer de l'hôpital, la rout
 Torticolis qui revient, raideur de la nuque après la conduite ou le télétravail, hanche qui raccourcit les promenades, lombalgie qui dure depuis des mois, genou qui lâche dans les escaliers : voilà des gênes pour lesquelles un physiothérapeute apporte une aide concrète. La préparation et les suites d'une prothèse de hanche en font aussi partie.
 
 Consultez d'abord un médecin, ou appelez le 144 en urgence, si :
+
 - la douleur de nuque s'accompagne de vertiges, de troubles de la parole ou de la vision ;
 - une hanche ou un genou devient brusquement impossible à charger ;
 - le mal de dos s'accompagne d'une perte de force ou de sensibilité ;

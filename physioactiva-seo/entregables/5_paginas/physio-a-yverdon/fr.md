@@ -55,6 +55,7 @@ Après une entorse, une tendinopathie ou une opération du genou, nous travaillo
 Vous rentrez d'un séjour à l'eHnv avec une rééducation à poursuivre ? Le suivi peut reprendre à Ins ou chez vous selon l'adresse. Les premières semaines sont souvent chargées : parlons du rythme avant de commencer.
 
 ### Hanche, genou, dos et épaule
+
 - [Hanche et prothèses](/douleur-de-hanche-protheses/) : rééducation progressive après une prothèse ou en cas d'arthrose.
 - [Genou](/douleur-du-genou-lesions-de-la-cheville/) : reprise de la marche, de la force et de la stabilité.
 - [Mal de dos et lombalgie](/mal-de-dos-lombaire/) : comprendre ce qui entretient la douleur et bouger à nouveau.

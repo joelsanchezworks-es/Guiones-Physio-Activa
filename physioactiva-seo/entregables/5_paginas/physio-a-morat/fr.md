@@ -48,6 +48,7 @@ Chez vous, on travaille ce qui compte vraiment : le seuil de la porte, l'escalie
 La physio est la bonne porte d'entrée pour une douleur de dos, de nuque ou d'épaule qui traîne depuis plus d'une semaine, pour une raideur après une blessure ou pour la rééducation prévue après une opération.
 
 Passez d'abord par votre médecin, ou par les urgences, si :
+
 - une chute vous laisse incapable d'utiliser un bras ou une jambe ;
 - le mal de dos s'accompagne de fièvre, d'une faiblesse dans la jambe ou de troubles urinaires ;
 - un mollet devient chaud, rouge et enflé après une opération ;

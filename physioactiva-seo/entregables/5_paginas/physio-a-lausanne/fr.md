@@ -58,6 +58,7 @@ Coureurs ou joueurs de club : après une déchirure ou une ligamentoplastie, la 
 La puncture sèche traite des points gâchettes avec une aiguille fine et stérile, sans injection, en complément d'une séance active. En savoir plus : [puncture sèche (dry needling)](/physioactiva-puncture-seche/).
 
 ### Dos, nuque, sciatique et épaule
+
 - [Sciatique et hernie discale](/sciatique-hernie-discale/) : soulager la jambe, puis reprendre l'effort pas à pas.
 - [Douleur cervicale](/douleur-cervicale-au-cou/) : tensions liées à l'écran ou au stress.
 - [Épaule](/lesions-de-lepaule/) : amplitude et force du bras.

@@ -405,7 +405,7 @@
        "elType": "widget",
        "widgetType": "text-editor",
        "settings": {
-        "editor": "<p>La physio est la bonne porte d'entrée pour une douleur de dos, de nuque ou d'épaule qui traîne depuis plus d'une semaine, pour une raideur après une blessure ou pour la rééducation prévue après une opération.</p>\n<p>Passez d'abord par votre médecin, ou par les urgences, si :\n- une chute vous laisse incapable d'utiliser un bras ou une jambe ;\n- le mal de dos s'accompagne de fièvre, d'une faiblesse dans la jambe ou de troubles urinaires ;\n- un mollet devient chaud, rouge et enflé après une opération ;\n- vous ressentez une douleur dans la poitrine ou un essoufflement inhabituel.</p>\n<p>En cas d'urgence vitale, appelez le 144.</p>",
+        "editor": "<p>La physio est la bonne porte d'entrée pour une douleur de dos, de nuque ou d'épaule qui traîne depuis plus d'une semaine, pour une raideur après une blessure ou pour la rééducation prévue après une opération.</p>\n<p>Passez d'abord par votre médecin, ou par les urgences, si :</p>\n<ul class=\"plain\"><li>une chute vous laisse incapable d'utiliser un bras ou une jambe ;</li><li>le mal de dos s'accompagne de fièvre, d'une faiblesse dans la jambe ou de troubles urinaires ;</li><li>un mollet devient chaud, rouge et enflé après une opération ;</li><li>vous ressentez une douleur dans la poitrine ou un essoufflement inhabituel.</li></ul>\n<p>En cas d'urgence vitale, appelez le 144.</p>",
         "_css_classes": "pa-text"
        },
        "elements": [],

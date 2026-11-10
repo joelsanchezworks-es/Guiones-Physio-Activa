@@ -25,7 +25,7 @@ FICHAS = {
 }
 
 
-SOINS_FIRST = {"chietres": ["massage", "domicile"]}  # demanda local medida (massage kerzers 90/mes)
+SOINS_FIRST = {"chietres": ["massage", "domicile"], "lyss": ["domicile", "drainage", "massage"]}  # demanda local medida (massage kerzers 90/mes)
 
 
 def ficha(key):
@@ -58,6 +58,14 @@ VAR = {  # frases fijas del constructor que cambian por ciudad para que las pág
         why_eb="Ce qui change pour vous", why_h2="Physio Activa pour Kerzers, en quatre points",
         why_p="Germanophone et francophone, ouvert le soir, à quelques minutes de Kerzers, avec massage et entraînement sur place.",
         faq_eb="On nous demande souvent"),
+    "lyss": dict(
+        ameta="Physio Activa · physiothérapie à domicile à Lyss et dans le Seeland",
+        soins_h2="Physiothérapie à Lyss : nos soins",
+        soins_p="Tous nos soins sont possibles pour les patients de Lyss ; la plupart se font aussi à domicile :",
+        cta_p="Vous ne pouvez pas faire la route jusqu'à Ins ? Pas de souci : nous venons chez vous à Lyss ou dans les communes voisines. Écrivez-nous en allemand ou en français.",
+        why_eb="Pour les patients de Lyss", why_h2="Physio Activa à Lyss, en quatre points",
+        why_p="Soins à domicile dans tout le secteur Lyss–Aarberg, drainage et massage, en allemand ou en français, jusqu'à 20h.",
+        faq_eb="Questions des patients"),
 }
 
 
@@ -216,7 +224,7 @@ def build(key):
             art.append(b.w("text-editor", {"editor": "<p>" + var(key, "soins_p", f"Vous avez accès à l'ensemble de nos soins, {'au cabinet' if es_ins else cab} ou à domicile selon votre situation. Les plus demandés :") + f"</p>\n{soins_html}"}, "pa-text"))
             art.append(b.w("text-editor", {"editor": '<div class="cta-inline"><p>' + var(key, "cta_p", f"Vous habitez {esc(ville)} ou un village voisin et vous avez mal ? Nous vous proposons un rendez-vous dans la semaine dans la plupart des cas, " + ((("au cabinet" if es_ins else cab) + " ou chez vous.") if f["domicile"] else f"{cab} ou à domicile selon votre adresse.")) + '</p>'
                                                      f'<p><a class="btn" href="{ONEDOC}" target="_blank" rel="noopener">Rendez-vous online</a></p></div>'}, "pa-text"))
-        if re.search(r"déroule|parcours|premier contact", h2t, re.I):
+        if re.search(r"déroule|parcours|premier contact|étapes", h2t, re.I):
             art.append(b.w("image", {"image": {"url": "", "id": "", "alt": (f"Salle de traitement du cabinet Physio Activa à {ville}" if es_ins else f"Salle de traitement du cabinet Physio Activa à Ins, proche {de(ville)}")},
                                      "image_size": "full"}, "pa-img"))
     secciones.append(b.sec([b.col(art, css="article")], "pa-lp pa-article", content_width={"unit": "px", "size": 828}, padding=pad(56, 0, 72, 0)))
