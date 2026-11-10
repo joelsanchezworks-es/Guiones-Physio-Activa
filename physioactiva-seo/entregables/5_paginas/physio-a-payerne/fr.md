@@ -1,111 +1,116 @@
 ---
-title: "Physio à Payerne – à domicile ou à Ins | Physio Activa"
-meta: "Physio à Payerne et dans la Broye : physiothérapeute au cabinet d'Ins, domicile selon l'adresse, jusqu'à 20h en semaine. Réservez en ligne."
+title: "Physio Payerne : physiothérapeute, Broye | Physio Activa"
+meta: "Physio pour Payerne et la Broye : rééducation après le HIB, drainage lymphatique, équilibre, au cabinet d'Ins jusqu'à 20h. Domicile selon l'adresse."
 slug: "/physio-a-payerne/"
 keyword_principal: "physio payerne"
 tipo: "zona"
 zona: "payerne"
 ---
 
-# Physio à Payerne : au cabinet d'Ins ou à domicile
+# Physio à Payerne : un physiothérapeute pour la Broye, au cabinet d'Ins
 
-Hanche qui grince, dos qui coince après une journée de travail physique, équilibre devenu incertain : un physio à Payerne peut vous aider à retrouver vos repères. Physio Activa vous accueille à Ins, à environ 24,1 km en ligne droite, du lundi au vendredi jusqu'à 20h, avec un rendez-vous dans la semaine dans la plupart des cas.
+Vous sortez du HIB, votre hanche fatigue à chaque marche ou une jambe reste gonflée après l'opération ? Pour une physio à Payerne et dans la Broye, le cabinet Physio Activa d'Ins, à environ 24 km en ligne droite, vous accueille en semaine jusqu'à 20h. Premier rendez-vous dans la semaine dans la plupart des cas ; une visite à domicile est parfois possible, selon l'adresse.
 
 ## L'essentiel en bref
 
-### Reconnu par toutes les assurances
+### Assurance : aucune démarche particulière
 
-Vous habitez le canton de Vaud et le cabinet se trouve dans le canton de Berne ? Peu importe : notre cabinet est reconnu par toutes les assurances maladie en Suisse.
+Habiter le canton de Vaud et se soigner à Ins ne change rien : toutes les compagnies d'assurance maladie en Suisse reconnaissent notre cabinet.
 
-### Au cabinet ou à domicile
+### Un suivi après l'hôpital
 
-Le cabinet accueille ceux qui préfèrent venir ; pour les autres, une visite chez soi est possible selon l'adresse.
+Avec les consignes de sortie du HIB, la rééducation continue sans interruption.
 
-### Bilan et plan de traitement
+### Un plan clair
 
-Nous prenons le temps d'écouter comment la douleur gêne votre quotidien, au travail, au jardin ou en voiture, avant de proposer un plan.
+Vous savez dès la première séance ce que nous allons travailler et comment mesurer les progrès.
 
-### Rendez-vous en ligne, par téléphone ou WhatsApp
+### Joignable facilement
 
-Trois canaux, une même réponse : agenda en ligne, 076 627 38 38 ou WhatsApp.
+En ligne, au 076 627 38 38 ou sur WhatsApp, avec des créneaux jusqu'à 20h.
+
+## Comment choisir son physiothérapeute à Payerne ?
+
+C'est l'une des questions les plus posées sur Google. Quelques critères simples aident à choisir un physiothérapeute à Payerne ou dans la région :
+- **le délai** : une rééducation commence mieux tôt ; chez nous, rendez-vous dans la semaine dans la plupart des cas ;
+- **les horaires** : des séances possibles après le travail, ici jusqu'à 20h ;
+- **le matériel** : après une prothèse ou une blessure, un espace d'entraînement fait la différence ;
+- **le dialogue** : un physio qui explique ce qu'il fait et pourquoi ;
+- **la langue** : français, allemand, anglais, espagnol ou portugais.
 
 ## Un physiothérapeute près de Payerne
 
-Le cabinet est situé à Ins, Rämismatte 21, au 1er étage du bâtiment Lidl, au sein d'InsGym. Le parking se trouve sur place : pratique quand on arrive en voiture depuis la Broye.
+Vous nous trouvez à la Rämismatte 21, à Ins : premier étage du bâtiment Lidl, parking juste en bas. Le cabinet partage ses locaux avec InsGym : la physiothérapie à Payerne que nous proposons ne s'arrête donc pas à la table de traitement, elle se poursuit sur les appareils, avec l'entraînement thérapeutique [MTT](/medical-training-therapy-mtt/).
 
-Choisir un physiothérapeute à Payerne ou un peu plus loin dépend de vos priorités. Chez nous, vous trouvez des créneaux en soirée, un espace équipé pour le renforcement et le travail de l'équilibre, et une équipe qui parle français, allemand, anglais, espagnol et portugais.
-
-La physiothérapie à Payerne que nous suivons le plus souvent touche la hanche et le genou usés ou opérés, le dos des métiers physiques, les chutes chez les personnes âgées et les membres qui restent enflés après une fracture.
+Nos patients de la Broye viennent surtout pour une hanche ou un genou arthrosiques ou opérés, un dos usé par le travail agricole, une épaule douloureuse ou des pertes d'équilibre. La liste complète est sur [toutes les pathologies](/pour-les-patients/).
 
 ## Physiothérapie à domicile à Payerne et environs
 
-Entre la ville et des villages comme Corcelles-près-Payerne, Grandcour, Trey ou Valbroye, les distances rendent parfois la venue au cabinet compliquée, surtout après une intervention. Selon votre adresse, nous pouvons aussi venir à domicile : contactez-nous pour le vérifier.
+Pour Payerne, Corcelles-près-Payerne, Grandcour, Trey et Valbroye, la règle est simple. Selon votre adresse, nous pouvons aussi venir à domicile : contactez-nous pour le vérifier. Ces visites servent surtout juste après une opération, tant que vous ne pouvez pas prendre le volant.
 
-Chez vous, nous travaillons avec ce qui vous entoure : escaliers, chaise, couloir. Plus d'informations sur la [physiothérapie à domicile](/physiotherapeute-a-domicile/).
+Ensuite, place au cabinet et à ses appareils. En savoir plus sur la [physiothérapie à domicile](/physiotherapeute-a-domicile/).
 
-## Quand consulter un physio, et quand voir d'abord un médecin ?
+## Avant de venir : physio ou médecin ?
 
-Une épaule raide, une cheville qui se dérobe, un dos qui ne récupère plus d'une semaine à l'autre : ce sont de bonnes raisons de commencer une physiothérapie, sans attendre que la gêne s'installe.
+Vous pouvez consulter directement un physio pour une douleur articulaire ou musculaire qui dure plus d'une semaine, une raideur, un manque d'équilibre ou une rééducation programmée.
 
-Consultez votre médecin sans attendre si une douleur intense survient après une chute, surtout chez une personne âgée, si une jambe devient faible ou insensible, si vous avez du mal à uriner, de la fièvre ou un mollet chaud et gonflé. Pour une douleur dans la poitrine, une gêne respiratoire soudaine ou un côté du visage qui s'affaisse, appelez le 144 sans délai.
+Voyez d'abord un médecin si une jambe devient rouge, chaude et gonflée, si une plaie opératoire coule, en cas de fièvre, de chute avec douleur vive ou de faiblesse soudaine. Douleur thoracique ou difficulté à parler : appelez le 144.
 
-## Quelle prise en charge selon votre situation ?
+## Ce que nous soignons le plus chez les patients de Payerne
 
-### Hanche et arthrose
+### Hanche et genou
 
-Rester actif malgré l'arthrose, ou retrouver une marche fluide après une prothèse : voir [hanche et prothèses](/douleur-de-hanche-protheses/).
+Arthrose, prothèse, reprise de la marche : plus de détails sur la [prothèse de hanche](/douleur-de-hanche-protheses/) et les [douleurs du genou](/douleur-du-genou-lesions-de-la-cheville/).
 
-### Dos des métiers physiques
+### Jambe gonflée après une opération
 
-Douleurs liées au port de charges, au jardinage ou aux longues heures de conduite : voir [mal de dos et lombalgie](/mal-de-dos-lombaire/).
+Le [drainage lymphatique](/drainage-lymphatique/) manuel aide à résorber un œdème qui persiste. C'est aussi une demande fréquente à Payerne.
 
-### Équilibre et prévention des chutes
+### Équilibre et chutes
 
-Après une chute ou avec l'âge, des exercices d'équilibre et de renforcement aident à se sentir plus sûr sur ses jambes. La [MTT](/medical-training-therapy-mtt/) au cabinet permet ensuite de poursuivre l'entraînement de façon encadrée.
+Renforcement des jambes et exercices d'équilibre pour sortir, jardiner et monter les escaliers en confiance.
 
-### Drainage lymphatique
+### Dos et épaule
 
-Il s'adresse aux personnes qui gardent un membre enflé, par exemple après une prothèse, une fracture ou le traitement d'un cancer. Indications et déroulement : [notre page sur le drainage lymphatique](/drainage-lymphatique/).
+Lombalgie chronique, épaule douloureuse au jardinage : lire nos pages [lombalgie](/mal-de-dos-lombaire/) et [épaule](/lesions-de-lepaule/).
 
-Autres motifs, dont le [pied et la cheville](/douleur-pied-cheville-fasciite-plantaire/) : [toutes les pathologies](/pour-les-patients/).
+## Votre rééducation en quatre temps
 
-## Comment se déroule votre prise en charge ?
+### Prendre rendez-vous
 
-### Prise de rendez-vous
+En ligne, au téléphone ou sur WhatsApp ; précisez si vous sortez de l'hôpital.
 
-Choisissez un créneau en ligne, appelez ou écrivez sur WhatsApp. Si vous sortez de l'hôpital, apportez votre rapport de sortie.
+### Faire le point
 
-### Bilan
+Entretien, tests de mobilité, de force et d'équilibre.
 
-Entretien sur vos antécédents, puis examen : amplitude, force, équilibre, marche.
+### Progresser
 
-### Séances au cabinet ou à domicile
+Thérapie manuelle, drainage, exercices, puis entraînement sur appareils.
 
-Au cabinet, le matériel d'InsGym permet d'aller plus loin dans le renforcement.
+### Garder les acquis
 
-### Autonomie et prévention
-
-Quelques exercices quotidiens et des conseils pour porter, jardiner ou conduire sans aggraver la douleur : l'objectif est que vous n'ayez plus besoin de nous.
+Quelques exercices simples à faire chez vous.
 
 ## Venir au cabinet d'Ins depuis Payerne
 
-Le cabinet se trouve à environ 24,1 km en ligne droite de Payerne, de l'autre côté de la limite cantonale. Adresse et plan : [Nous trouver](/nous-trouver/).
+Environ 24 km en ligne droite séparent Payerne d'Ins. Parking devant le bâtiment. Plan et itinéraire : [Nous trouver](/nous-trouver/).
 
-Payerne est une commune francophone du district de la Broye-Vully, dans le canton de Vaud. L'HIB – Hôpital intercantonal de la Broye y a un site : après une opération ou une hospitalisation, nous poursuivons la rééducation à partir des consignes de sortie.
+Payerne est une commune vaudoise francophone du district de la Broye-Vully, connue pour son abbatiale. Le HIB – Hôpital intercantonal de la Broye y a l'un de ses sites : beaucoup de nos patients de Payerne arrivent chez nous juste après une hospitalisation.
 
 ## Assurances et horaires : physio à Payerne
 
-Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Nous vous recevons du lundi au vendredi, jusqu'à 20h. Pour réserver : en ligne, au 076 627 38 38 ou sur WhatsApp.
+Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Séances du lundi au vendredi, jusqu'à 20h.
 
 ## Questions fréquentes sur la physio à Payerne
 
 ### Où trouver un physiothérapeute près de Payerne ?
 
-Au cabinet Physio Activa d'Ins, Rämismatte 21, 1er étage du bâtiment Lidl, avec parking, à environ 24,1 km en ligne droite. Selon votre adresse, nous pouvons aussi venir à domicile : contactez-nous pour le vérifier.
+Le plus simple est le cabinet Physio Activa, Rämismatte 21 à Ins (bâtiment Lidl, 1er étage, parking), à environ 24 km de Payerne. Une visite à domicile est parfois possible selon l'adresse : appelez-nous pour en parler.
 
 ### Quand dois-je consulter un physiothérapeute pour une douleur ?
 
-Si la douleur dure plus d'une semaine, limite vos mouvements ou perturbe votre sommeil. Plus on la traite tôt, plus c'est simple. Après une chute, voyez d'abord votre médecin.
+Si la douleur dure au-delà d'une semaine, limite vos gestes ou vous réveille la nuit. Commencer tôt facilite la rééducation.
 
 ### Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?
 
@@ -113,35 +118,34 @@ Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en 
 
 ### Combien de séances me faut-il ?
 
-La durée du traitement varie selon votre situation : une douleur récente, une prothèse de hanche ou un œdème ne demandent pas le même suivi. Lors de la première visite, nous établissons une estimation adaptée à votre cas.
+Chaque situation est différente. Lors de la première visite, nous établissons une estimation adaptée à votre cas.
 
-### Comment choisir son physiothérapeute ?
+### Je sors du HIB : quand prendre rendez-vous ?
 
-Vérifiez qu'il traite votre problème, qu'il parle votre langue, qu'il propose des horaires compatibles avec les vôtres et qu'il est accessible, au cabinet ou chez vous.
+Dès que vous avez vos consignes de sortie. Réservez en précisant votre opération ; si vous ne pouvez pas encore conduire, dites-le-nous.
 
-### Comment se passe une séance de physiothérapie ?
+### Comment se passe une première séance ?
 
-La première commence par un entretien et un bilan de vos mouvements et de votre douleur. Les suivantes associent traitement et exercices, avec un programme à refaire chez vous.
+Nous écoutons votre histoire, testons la mobilité et la force, expliquons le problème et commençons le traitement avec vos premiers exercices.
 
-### Venez-vous à Grandcour ou à Trey ?
+### Lipœdème ou lymphœdème : quelle différence ?
 
-Pour Grandcour, Trey, Corcelles-près-Payerne ou Valbroye, tout dépend de l'adresse exacte : contactez-nous pour le vérifier.
+Le lymphœdème est un gonflement lié à la circulation de la lymphe ; le lipœdème est une répartition anormale de la graisse, surtout aux jambes. Le diagnostic revient au médecin ; le drainage lymphatique peut faire partie de la prise en charge.
 
-### Quelle est la différence entre lipœdème et lymphœdème ?
+### Venez-vous à Grandcour, Trey ou Corcelles ?
 
-Le lymphœdème vient d'un mauvais écoulement de la lymphe, souvent d'un seul côté. Le lipœdème est une répartition anormale de la graisse, en général symétrique sur les jambes. Le diagnostic revient au médecin.
+C'est à vérifier selon l'adresse exacte : appelez-nous ou écrivez sur WhatsApp. Le cabinet d'Ins, lui, vous accueille en semaine jusqu'à 20h.
 
-### Qu'est-ce que ça veut dire, la rééducation ?
+### Pourquoi venir jusqu'à Ins depuis Payerne ?
 
-C'est le travail progressif qui permet de retrouver une fonction perdue ou diminuée, après une opération, une fracture ou une longue immobilisation : marcher, monter un escalier, lever le bras.
+Pour l'espace d'entraînement, les créneaux du soir et un premier rendez-vous rapide dans la plupart des cas.
 
-## Besoin d'un physio à Payerne ou dans les environs ?
+## Physio à Payerne : on s'organise ensemble
 
-Réservez votre séance sur la [réservation en ligne](/reservation-en-ligne/), par téléphone au 076 627 38 38 ou sur WhatsApp au +41 76 627 38 38.
+Dites-nous où vous en êtes : nous vous proposons un créneau au cabinet d'Ins, ou à domicile si votre adresse le permet. Réservez en ligne, au 076 627 38 38 ou sur WhatsApp.
 
 ## Notes pour l'équipe (ES)
 
-- Ajuste v4: sin marcadores; domicilio condicionado a la dirección (Payerne no figura como zona cubierta en la web del cliente); estructura v4; MTT, idiomas y plazo «dans la semaine» tomados de la web.
-- Keywords: physio payerne 320 (title, meta, H1, intro), physiothérapie payerne 140 y physiothérapeute payerne 140 en el cuerpo; drainage lymphatique payerne 50 → H3 «Drainage lymphatique» (sin ciudad).
-- Datos de la ficha usados: 24,1 km en línea recta, comuna francófona, district de la Broye-Vully (cantón de Vaud), HIB (site de Payerne), localidades vecinas (Corcelles-près-Payerne, Grandcour, Trey, Valbroye). FAQ de la SERP local: «Comment choisir son physiothérapeute ?» y «Comment se passe une séance de physiothérapie ?».
-- Ajuste v3: sin receta ni detalle de seguro; FAQ estándar; horario hasta las 20h.
+- Versión diferenciada (2026-11-10): enfoque Broye, salida del HIB, equilibrio y artrosis, H2 «Comment choisir son physiothérapeute» (pregunta PAA real). Domicilio NO confirmado: siempre «selon votre adresse». Versión anterior en `fr-v4-anterior.md`.
+- Keywords: «physio payerne» 320, «physiothérapie payerne» 140, «physiothérapeute payerne» 140, «drainage lymphatique payerne» 50.
+- «Connue pour son abbatiale»: dato general, verificar si se quiere mantener.

@@ -25,7 +25,7 @@ FICHAS = {
 }
 
 
-SOINS_FIRST = {"chietres": ["massage", "domicile"], "lyss": ["domicile", "drainage", "massage"], "fribourg": ["drainage", "massage", "domicile"]}  # demanda local medida (massage kerzers 90/mes)
+SOINS_FIRST = {"chietres": ["massage", "domicile"], "lyss": ["domicile", "drainage", "massage"], "fribourg": ["drainage", "massage", "domicile"], "payerne": ["drainage", "domicile"]}  # demanda local medida (massage kerzers 90/mes)
 
 
 def ficha(key):
@@ -74,6 +74,14 @@ VAR = {  # frases fijas del constructor que cambian por ciudad para que las pág
         why_eb="Pourquoi faire la route", why_h2="Pourquoi des patients de Fribourg viennent à Ins",
         why_p="Drainage lymphatique manuel, dry needling, entraînement sur appareils et créneaux jusqu'à 20h, en français ou en allemand.",
         faq_eb="Vos questions, nos réponses"),
+    "payerne": dict(
+        ameta="Physio Activa · physiothérapie pour Payerne et la Broye",
+        soins_h2="Physiothérapie à Payerne : nos soins",
+        soins_p="Les patients de Payerne et de la Broye ont accès à tous nos soins au cabinet d'Ins, notamment :",
+        cta_p="Vous sortez de l'hôpital ou une douleur s'installe ? Réservez dès maintenant : le premier rendez-vous a lieu dans la semaine dans la plupart des cas, en soirée si besoin.",
+        why_eb="L'essentiel pour vous", why_h2="Physio Activa pour les patients de la Broye",
+        why_p="Suivi après l'hôpital, espace d'entraînement, créneaux jusqu'à 20h et équipe multilingue.",
+        faq_eb="Ce que vous nous demandez"),
 }
 
 
@@ -168,7 +176,7 @@ def build(key):
     cab = "au cabinet d'Ins"
     if es_ins:
         f["domicile"] = True
-    meta, h1, intro, secs = parse((PAG / src / "fr.md").read_text())
+    meta, h1, intro, secs = parse(re.sub(r"^((?!- )[^\n]+)\n(- )", r"\1\n\n\2", (PAG / src / "fr.md").read_text(), flags=re.M))  # lista sin línea en blanco
     h1t = texto(h1)
     b = B(slug)
     wa = CLI["whatsapp_href"] + "?text=" + quote(f"Bonjour, je souhaite prendre rendez-vous chez Physio Activa (physio à {ville}).")
@@ -232,7 +240,7 @@ def build(key):
             art.append(b.w("text-editor", {"editor": "<p>" + var(key, "soins_p", f"Vous avez accès à l'ensemble de nos soins, {'au cabinet' if es_ins else cab} ou à domicile selon votre situation. Les plus demandés :") + f"</p>\n{soins_html}"}, "pa-text"))
             art.append(b.w("text-editor", {"editor": '<div class="cta-inline"><p>' + var(key, "cta_p", f"Vous habitez {esc(ville)} ou un village voisin et vous avez mal ? Nous vous proposons un rendez-vous dans la semaine dans la plupart des cas, " + ((("au cabinet" if es_ins else cab) + " ou chez vous.") if f["domicile"] else f"{cab} ou à domicile selon votre adresse.")) + '</p>'
                                                      f'<p><a class="btn" href="{ONEDOC}" target="_blank" rel="noopener">Rendez-vous online</a></p></div>'}, "pa-text"))
-        if re.search(r"déroule|parcours|premier contact|étapes|pas à pas", h2t, re.I):
+        if re.search(r"déroule|parcours|premier contact|étapes|pas à pas|quatre temps", h2t, re.I):
             art.append(b.w("image", {"image": {"url": "", "id": "", "alt": (f"Salle de traitement du cabinet Physio Activa à {ville}" if es_ins else f"Salle de traitement du cabinet Physio Activa à Ins, proche {de(ville)}")},
                                      "image_size": "full"}, "pa-img"))
     secciones.append(b.sec([b.col(art, css="article")], "pa-lp pa-article", content_width={"unit": "px", "size": 828}, padding=pad(56, 0, 72, 0)))
