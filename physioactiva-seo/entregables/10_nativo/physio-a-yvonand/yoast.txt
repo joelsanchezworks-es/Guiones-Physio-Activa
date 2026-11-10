@@ -1,0 +1,13 @@
+SEO title (49/60): Physio Yvonand : rééducation, MTT | Physio Activa
+Meta description (151/155): Physio à Yvonand : un physio qui explique, rééducation, dos, genou et MTT au cabinet d'Ins, du lundi au vendredi jusqu'à 20h. Domicile selon l'adresse.
+Slug: /physio-a-yvonand/
+Focus keyphrase: physio yvonand
+H1: Physio à Yvonand : votre physiothérapeute au cabinet d'Ins, en semaine jusqu'à 20h
+Indexación: index, follow
+
+IMÁGENES (la plantilla se importa SIN imágenes para no duplicarlas en la biblioteca; elígelas en Elementor):
+- Fondo del hero (sección › Estilo › Fondo): foto de la ciudad o del cabinet, 1920 px
+- Imagen 1 del artículo: alt: Physiothérapeute de Physio Activa en séance, physio pour les patients d'Yvonand
+- Imagen 2 del artículo: alt: Salle de traitement du cabinet Physio Activa à Ins, proche d'Yvonand
+- Fondo del CTA final (sección › Estilo › Fondo): foto del cabinet; la capa azul oscura ya está puesta
+- Imagen destacada / Open Graph de Yoast: la misma del hero.
