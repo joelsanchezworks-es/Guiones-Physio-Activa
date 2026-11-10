@@ -25,7 +25,7 @@ FICHAS = {
 }
 
 
-SOINS_FIRST = {"chietres": ["massage", "domicile"], "lyss": ["domicile", "drainage", "massage"], "fribourg": ["drainage", "massage", "domicile"], "payerne": ["drainage", "domicile"], "estavayer": ["sport", "drainage", "domicile"]}  # demanda local medida (massage kerzers 90/mes)
+SOINS_FIRST = {"chietres": ["massage", "domicile"], "lyss": ["domicile", "drainage", "massage"], "fribourg": ["drainage", "massage", "domicile"], "payerne": ["drainage", "domicile"], "estavayer": ["sport", "drainage", "domicile"], "yverdon": ["drainage", "sport", "domicile"]}  # demanda local medida (massage kerzers 90/mes)
 
 
 def ficha(key):
@@ -90,6 +90,14 @@ VAR = {  # frases fijas del constructor que cambian por ciudad para que las pág
         why_eb="En quelques mots", why_h2="Physio Activa pour les patients d'Estavayer",
         why_p="Rééducation et reprise du sport, drainage lymphatique, appareils d'entraînement et créneaux jusqu'à 20h.",
         faq_eb="Questions d'Estavayer"),
+    "yverdon": dict(
+        ameta="Physio Activa · drainage lymphatique médical et fitness médical pour Yverdon-les-Bains",
+        soins_h2="Physiothérapie pour Yverdon : nos soins",
+        soins_p="Les patients d'Yverdon-les-Bains ont accès à l'ensemble de nos soins au cabinet d'Ins, en particulier :",
+        cta_p="Un œdème après une opération, une blessure de sport, une rééducation à reprendre ? Réservez un créneau, y compris en soirée : premier rendez-vous dans la semaine dans la plupart des cas.",
+        why_eb="Ce que nous apportons", why_h2="Pourquoi des patients d'Yverdon choisissent Physio Activa",
+        why_p="Drainage lymphatique fait par un physiothérapeute, fitness médical encadré et créneaux jusqu'à 20h.",
+        faq_eb="Questions des patients d'Yverdon"),
 }
 
 
@@ -248,7 +256,7 @@ def build(key):
             art.append(b.w("text-editor", {"editor": "<p>" + var(key, "soins_p", f"Vous avez accès à l'ensemble de nos soins, {'au cabinet' if es_ins else cab} ou à domicile selon votre situation. Les plus demandés :") + f"</p>\n{soins_html}"}, "pa-text"))
             art.append(b.w("text-editor", {"editor": '<div class="cta-inline"><p>' + var(key, "cta_p", f"Vous habitez {esc(ville)} ou un village voisin et vous avez mal ? Nous vous proposons un rendez-vous dans la semaine dans la plupart des cas, " + ((("au cabinet" if es_ins else cab) + " ou chez vous.") if f["domicile"] else f"{cab} ou à domicile selon votre adresse.")) + '</p>'
                                                      f'<p><a class="btn" href="{ONEDOC}" target="_blank" rel="noopener">Rendez-vous online</a></p></div>'}, "pa-text"))
-        if re.search(r"déroule|parcours|premier contact|étapes|pas à pas|quatre temps|première séance", h2t, re.I):
+        if re.search(r"déroule|parcours|premier contact|étapes|pas à pas|quatre temps|première séance|votre suivi", h2t, re.I):
             art.append(b.w("image", {"image": {"url": "", "id": "", "alt": (f"Salle de traitement du cabinet Physio Activa à {ville}" if es_ins else f"Salle de traitement du cabinet Physio Activa à Ins, proche {de(ville)}")},
                                      "image_size": "full"}, "pa-img"))
     secciones.append(b.sec([b.col(art, css="article")], "pa-lp pa-article", content_width={"unit": "px", "size": 828}, padding=pad(56, 0, 72, 0)))

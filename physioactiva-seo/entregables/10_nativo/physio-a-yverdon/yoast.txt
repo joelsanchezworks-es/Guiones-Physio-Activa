@@ -1,0 +1,13 @@
+SEO title (53/60): Physio Yverdon : drainage lymphatique | Physio Activa
+Meta description (155/155): Physio pour Yverdon-les-Bains : drainage lymphatique médical par un physiothérapeute, fitness médical (MTT), physio du sport, au cabinet d'Ins jusqu'à 20h.
+Slug: /physio-a-yverdon/
+Focus keyphrase: physio yverdon
+H1: Physio à Yverdon-les-Bains : drainage lymphatique médical et rééducation au cabinet d'Ins
+Indexación: index, follow
+
+IMÁGENES (la plantilla se importa SIN imágenes para no duplicarlas en la biblioteca; elígelas en Elementor):
+- Fondo del hero (sección › Estilo › Fondo): foto de la ciudad o del cabinet, 1920 px
+- Imagen 1 del artículo: alt: Physiothérapeute de Physio Activa en séance, physio pour les patients d'Yverdon-les-Bains
+- Imagen 2 del artículo: alt: Salle de traitement du cabinet Physio Activa à Ins, proche d'Yverdon-les-Bains
+- Fondo del CTA final (sección › Estilo › Fondo): foto del cabinet; la capa azul oscura ya está puesta
+- Imagen destacada / Open Graph de Yoast: la misma del hero.
