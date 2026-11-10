@@ -1,5 +1,5 @@
 ---
-title: "Physio Kerzers (Chiètres) : massage, domicile | Physio Activa"
+title: "Physio Kerzers : massage, domicile ou Ins | Physio Activa"
 meta: "Physio à Kerzers (Chiètres) : physiothérapie, massage thérapeutique et séances à domicile, ou cabinet d'Ins à 7,6 km. Auf Deutsch, jusqu'à 20h."
 slug: "/physio-a-kerzers/"
 keyword_principal: "physio kerzers"
