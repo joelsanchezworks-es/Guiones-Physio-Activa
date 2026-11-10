@@ -1,135 +1,139 @@
 ---
-title: "Physio à Estavayer-le-Lac – cabinet d'Ins ou domicile"
-meta: "Physio à Estavayer-le-Lac : cabinet d'Ins à 26 km, reconnu par toutes les assurances, ouvert jusqu'à 20h, domicile selon l'adresse. Réservez en ligne."
+title: "Physio Estavayer : sport, drainage | Physio Activa"
+meta: "Physio pour Estavayer-le-Lac : rééducation, reprise du sport, drainage lymphatique, au cabinet d'Ins jusqu'à 20h. Domicile selon l'adresse. Réservez."
 slug: "/physio-a-estavayer/"
 keyword_principal: "physio estavayer"
 tipo: "zona"
 zona: "estavayer"
 ---
 
-# Physio à Estavayer-le-Lac : au cabinet d'Ins ou à domicile
+# Physio à Estavayer-le-Lac : rééducation et reprise du sport au cabinet d'Ins
 
-Vous cherchez un physio à Estavayer pour une épaule, un pied, une sciatique ou un gonflement après une opération ? Physio Activa vous reçoit dans son cabinet d'Ins, à environ 26,4 km en ligne droite de la Broye, et peut, selon votre adresse, venir chez vous. Le rendez-vous se prend en ligne, par téléphone ou sur WhatsApp.
+Une épaule qui proteste depuis la saison de paddle, un genou qui gêne la course au bord du lac, une rééducation après l'hôpital : pour une physio à Estavayer, Physio Activa vous propose son cabinet d'Ins, à environ 26 km en ligne droite. Créneaux jusqu'à 20h en semaine, premier rendez-vous dans la semaine dans la plupart des cas, et visites à domicile possibles selon l'adresse.
 
 ## L'essentiel en bref
 
-### Reconnu par toutes les assurances
-Notre cabinet est reconnu par toutes les assurances maladie en Suisse : habiter dans la Broye fribourgeoise ne change rien pour vous.
+### Toutes les caisses, tous les cantons
 
-### Au cabinet ou à domicile
-Le cabinet d'Ins est notre seule adresse. Selon votre adresse, nous pouvons aussi venir à domicile : contactez-nous pour le vérifier.
+Que vous soyez assuré dans le canton de Fribourg ou ailleurs, notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse.
 
-### Bilan et plan de traitement
-La première séance sert à comprendre votre problème, à mesurer mobilité et force, puis à fixer avec vous un plan de séances.
+### Un vrai espace d'entraînement
 
-### Rendez-vous en ligne, par téléphone ou WhatsApp
-[Réservation en ligne](/reservation-en-ligne/), 076 627 38 38 ou WhatsApp au +41 76 627 38 38 : un rendez-vous dans la semaine dans la plupart des cas.
+Les appareils de l'InsGym, dans le même bâtiment, pour reconstruire force et endurance.
 
-## Un physiothérapeute près d'Estavayer-le-Lac
+### Des objectifs concrets
 
-Soyons clairs : nous n'avons pas de cabinet sur place. Si vous cherchez un physiothérapeute à Estavayer même, notre adresse est à Ins, Rämismatte 21, au 1er étage du bâtiment Lidl, dans les locaux d'InsGym, avec parking à disposition. Depuis la Broye, comptez environ 26,4 km en ligne droite : un trajet à intégrer dans votre agenda.
+Retourner sur l'eau, refaire le tour de la vieille ville à pied, porter ses courses : on part de là.
 
-Pourquoi faire la route ? Le même thérapeute vous suit du bilan à la dernière séance, la salle d'InsGym permet de travailler force et équilibre, et le cabinet reste ouvert jusqu'à 20h en semaine.
+### Réserver sans attendre
 
-Les personnes qui cherchent une physiothérapie à Estavayer viennent surtout chez nous pour une épaule douloureuse, un talon qui pique, une sciatique, un genou arthrosique, une rééducation après une opération ou un drainage lymphatique.
+En ligne, au 076 627 38 38 ou par WhatsApp.
+
+## Un physiothérapeute près d'Estavayer, à Ins
+
+Notre cabinet est installé à Ins, Rämismatte 21, au premier étage du bâtiment Lidl, parking devant la porte. Ceux qui cherchent un physiothérapeute à Estavayer y trouvent un traitement manuel, des exercices guidés et, le moment venu, un entraînement sur appareils ([MTT](/medical-training-therapy-mtt/)).
+
+La physiothérapie à Estavayer-le-Lac que nous assurons concerne surtout l'appareil locomoteur : dos, nuque, épaule, genou, cheville, hanche et suites opératoires. Les autres motifs sont listés sur [toutes les pathologies](/pour-les-patients/).
+
+## Physio à Estavayer : sport, lac et reprise après une blessure
+
+Plage, voile, paddle, vélo sur la route du lac : à Estavayer, le sport se pratique beaucoup en été, et les blessures arrivent souvent en même temps. Épaule irritée à force de pagayer, entorse de cheville sur un sentier, tendon d'Achille douloureux en reprenant la course : nous traitons la blessure, puis préparons le retour à l'effort par étapes.
+
+Pour les sportifs, la [physiothérapie du sport](/physio-du-sport/) détaille notre approche ; pour l'[épaule](/lesions-de-lepaule/) et la [cheville](/douleur-pied-cheville-fasciite-plantaire/), voir les pages dédiées.
+
+## Drainage lymphatique pour les patients d'Estavayer
+
+Une jambe qui reste gonflée après une prothèse, des chevilles lourdes en fin de journée, un lymphœdème après une chirurgie : le [drainage lymphatique](/drainage-lymphatique/) manuel fait partie de nos soins. Nous mesurons le gonflement au départ et l'associons à des exercices pour un résultat durable. Un gonflement brutal, chaud et douloureux se montre d'abord au médecin.
 
 ## Physiothérapie à domicile à Estavayer-le-Lac et environs
 
-Juste après une prothèse ou une hospitalisation, le trajet n'est pas toujours possible. Une séance de physiothérapie à Estavayer, chez vous, peut alors remplacer la venue au cabinet. Selon votre adresse, nous pouvons aussi venir à domicile : contactez-nous pour le vérifier. La question se pose de la même façon pour Font, Cheyres-Châbles, Sévaz ou Les Montets : un appel suffit pour savoir ce qui est possible chez vous. Le principe est décrit sur la page [physiothérapie à domicile](/physiotherapeute-a-domicile/).
+Selon votre adresse, nous pouvons aussi venir à domicile : contactez-nous pour le vérifier. Cela vaut pour Estavayer, Font, Cheyres-Châbles, Sévaz et Les Montets.
 
-## Quand consulter un physio, et quand voir d'abord un médecin ?
+Quand l'adresse le permet, un physiothérapeute à Estavayer même, chez vous, est surtout pratique dans les premières semaines après une opération ; ensuite, le cabinet d'Ins et ses appareils prennent le relais. Plus d'informations sur la [physiothérapie à domicile](/physiotherapeute-a-domicile/).
 
-Une épaule qui fait mal dès qu'on lève le bras, un talon douloureux au réveil, des fourmillements qui descendent dans la jambe, un genou qui limite la marche, une jambe qui reste enflée après une chirurgie : ce sont des raisons typiques de consulter.
+## Préparer votre première séance
 
-Voyez d'abord un médecin, ou appelez le 144 si la situation est grave, en présence :
+Quelques conseils pour en tirer le meilleur :
 
-- d'un gonflement soudain d'une jambe, chaud et douloureux ;
-- d'une douleur intense après une chute ou un choc ;
-- de fourmillements avec perte de force ou troubles urinaires ;
-- de fièvre, de frissons ou d'une plaie opératoire qui rougit.
+- notez quand la douleur a commencé et ce qui l'aggrave ou la soulage ;
+- apportez les consignes de l'hôpital ou du chirurgien si vous avez été opéré, et vos comptes rendus d'imagerie s'il y en a ;
+- portez une tenue qui permet de bouger et de dégager la zone douloureuse ;
+- pensez à votre objectif : reprendre le paddle, marcher une heure, dormir sans douleur.
 
-## Quelle prise en charge selon votre situation ?
+En attendant, bougez doucement dans les limites de la douleur plutôt que de rester immobile. Fièvre, faiblesse soudaine d'une jambe, mollet chaud et gonflé ou douleur thoracique : voyez un médecin ou appelez le 144.
 
-### Après une opération ou une hospitalisation
-Opéré ou hospitalisé à l'HIB, sur le site d'Estavayer-le-Lac ? Nous reprenons la rééducation sur la base des consignes de sortie, au cabinet ou chez vous si votre adresse le permet.
+## Ce que nous traitons souvent pour Estavayer
 
-### Drainage lymphatique
-Vous cherchez un drainage lymphatique à Estavayer ? Après une opération du genou ou de la hanche, une entorse sévère ou en cas de lymphœdème, un gonflement peut persister. Le drainage manuel aide la lymphe à circuler et s'accompagne de conseils et d'exercices simples. En savoir plus : [drainage lymphatique](/drainage-lymphatique/).
+### Retour à la maison après l'hôpital
 
-### Épaule, pied, sciatique, genou
+Avec les consignes de sortie, nous reprenons la marche, l'équilibre et la force : voir [hanche et prothèses](/douleur-de-hanche-protheses/).
 
-- [Épaule](/lesions-de-lepaule/) : douleur en levant le bras, conflit sous-acromial, suites d'une luxation.
-- [Pied et cheville, fasciite plantaire](/douleur-pied-cheville-fasciite-plantaire/) : talon douloureux, entorses répétées, reprise de la course.
-- [Sciatique et hernie discale](/sciatique-hernie-discale/) : douleur qui irradie dans la jambe, gestion des phases aiguës.
-- [Genou](/douleur-du-genou-lesions-de-la-cheville/) : arthrose, ligament croisé, rééducation après arthroscopie.
+### Genou
 
-Liste complète : [toutes les pathologies](/pour-les-patients/).
+Ménisque, ligament croisé, arthrose : voir [genou](/douleur-du-genou-lesions-de-la-cheville/).
 
-### Renforcement sur appareils
-Quand la douleur se calme, la [Medical Training Therapy (MTT)](/medical-training-therapy-mtt/) permet de reconstruire force et endurance sur machines, avec un programme suivi.
+### Dos et sciatique
 
-## Comment se déroule votre prise en charge ?
+Voir [mal de dos](/mal-de-dos-lombaire/) et [sciatique et hernie discale](/sciatique-hernie-discale/).
 
-### Prise de rendez-vous
-Précisez s'il s'agit de rééducation ou de drainage lymphatique : nous regroupons vos rendez-vous pour limiter les trajets.
+### Nuque
 
-### Bilan
-Nous analysons vos limitations, mesurons mobilité et force et, en cas d'œdème, observons le gonflement. Les objectifs sont fixés ensemble.
+Écran, voiture, tensions : voir [douleur cervicale](/douleur-cervicale-au-cou/).
 
-### Séances au cabinet ou à domicile
-Traitement, exercices et conseils : chaque séance est construite pour être utile.
+## Venir au cabinet d'Ins depuis Estavayer
 
-### Autonomie et prévention
-Entre deux visites, vous travaillez seul grâce à un programme écrit. Le but : espacer les séances dès que possible et éviter les rechutes.
+Comptez environ 26 km en ligne droite entre Estavayer-le-Lac et Ins. Parking devant le bâtiment ; plan et itinéraire sur [Nous trouver](/nous-trouver/).
 
-## Venir au cabinet d'Ins depuis Estavayer-le-Lac
+Estavayer-le-Lac est une petite ville médiévale francophone sur la rive sud du lac de Neuchâtel, dans le district fribourgeois de la Broye. Le HIB – Hôpital intercantonal de la Broye y a un site : après un séjour à l'hôpital, la rééducation peut continuer chez nous.
 
-Ins se trouve à environ 26,4 km en ligne droite d'Estavayer, commune du district de la Broye, dans le canton de Fribourg. Le cabinet est au 1er étage du bâtiment Lidl, Rämismatte 21, avec parking sur place. Plan et accès : [Nous trouver](/nous-trouver/).
+## Assurances et horaires : physio à Estavayer
 
-Estavayer est francophone, et toute la prise en charge se fait en français ; nous parlons aussi allemand, anglais, espagnol et portugais.
+Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Les séances ont lieu en semaine, jusqu'à 20h.
 
-## Assurances et horaires : physio à Estavayer-le-Lac
-
-Que vous veniez pour une rééducation ou un drainage lymphatique, notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse et accueille les patients quel que soit leur canton de résidence. Il est ouvert du lundi au vendredi, jusqu'à 20h, ce qui laisse le temps de faire la route après le travail. Réservez en ligne, au 076 627 38 38 ou sur WhatsApp.
-
-## Questions fréquentes sur la physio à Estavayer-le-Lac
+## Questions fréquentes sur la physio à Estavayer
 
 ### Où trouver un physiothérapeute près d'Estavayer-le-Lac ?
-Notre cabinet est à Ins, Rämismatte 21, au 1er étage du bâtiment Lidl, avec parking, à environ 26,4 km en ligne droite d'Estavayer. Selon votre adresse, nous pouvons aussi venir à domicile : contactez-nous pour le vérifier.
+
+Au cabinet Physio Activa d'Ins, Rämismatte 21 (bâtiment Lidl, 1er étage, parking), à environ 26 km d'Estavayer-le-Lac. Un passage à domicile peut être possible selon l'adresse : demandez-nous.
 
 ### Quand dois-je consulter un physiothérapeute pour une douleur ?
-Quand la douleur dure depuis plus d'une semaine, réduit votre mobilité ou trouble votre sommeil, ou quand un gonflement persiste après une opération. Plus on la traite tôt, plus c'est simple. Un mollet soudain chaud et enflé se montre d'abord au médecin.
+
+Dès qu'une douleur dure plus d'une semaine, freine vos activités ou dérange votre sommeil. Plus la prise en charge est précoce, plus elle est simple.
 
 ### Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?
+
 Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.
 
 ### Combien de séances me faut-il ?
-La durée du traitement varie selon votre situation, et le trajet depuis la Broye est pris en compte dans le rythme proposé. Lors de la première visite, nous établissons une estimation adaptée à votre cas.
 
-### Venez-vous à Font, à Sévaz ou à Cheyres-Châbles ?
-Ces villages, comme Les Montets, sont proches d'Estavayer. Selon votre adresse, nous pouvons aussi venir à domicile : contactez-nous pour le vérifier.
+Tout dépend du problème et de vos objectifs. Lors de la première visite, nous établissons une estimation adaptée à votre cas.
 
-### Comment choisir son physiothérapeute ?
-Que vous choisissiez un physiothérapeute à Estavayer ou à Ins, vérifiez qu'il est reconnu par les assurances, qu'il traite votre problème et que vous comprenez ses explications. La distance et les horaires comptent aussi.
+### Quand reprendre le paddle ou la voile après une blessure à l'épaule ?
+
+Quand l'épaule a retrouvé son amplitude et assez de force, ce que nous vérifions par des tests simples. Nous préparons la reprise avec des exercices proches du geste.
 
 ### Comment savoir si j'ai besoin d'un drainage lymphatique ?
-Un gonflement qui persiste après une opération, une jambe lourde qui garde la marque du doigt ou un lymphœdème diagnostiqué sont des signes à montrer au médecin, qui oriente vers le drainage si besoin.
 
-### Puis-je commencer après une hospitalisation à l'HIB ?
-Oui. Avec les consignes remises à la sortie, nous organisons la suite de votre rééducation, avec un rendez-vous dans la semaine dans la plupart des cas.
+Un gonflement qui persiste après une opération ou des jambes lourdes qui gonflent chaque soir sont des signes à évoquer. Le médecin pose le diagnostic ; le drainage s'intègre ensuite au traitement.
+
+### Que faire en attendant le premier rendez-vous ?
+
+Rester actif doucement, sans forcer sur la douleur. Si des signes d'alerte apparaissent, comme de la fièvre ou une faiblesse soudaine, consultez un médecin.
+
+### Venez-vous à Font, Cheyres-Châbles ou Sévaz ?
+
+Cela dépend de l'adresse : appelez-nous ou écrivez sur WhatsApp pour le savoir. Le cabinet d'Ins vous reçoit aussi le soir.
 
 ### Dans quelles langues se passent les séances ?
-En français, la langue d'Estavayer, mais aussi en allemand, en anglais, en espagnol ou en portugais si vous préférez.
 
-## Besoin d'un physio à Estavayer-le-Lac ou dans les environs ?
+En français, mais aussi en allemand, en anglais, en espagnol ou en portugais.
 
-Choisissez un créneau en [réservation en ligne](/reservation-en-ligne/), ou contactez-nous au 076 627 38 38 ou sur WhatsApp au +41 76 627 38 38 : nous vous dirons si le cabinet ou le domicile vous convient le mieux.
+## Votre physio pour Estavayer, à Ins
+
+Pour votre physiothérapie à Estavayer, réservez votre premier rendez-vous en ligne, par téléphone au 076 627 38 38 ou sur WhatsApp : votre physiothérapeute pour Estavayer trouve avec vous le bon créneau, au cabinet ou chez vous si l'adresse le permet.
 
 ## Notes pour l'équipe (ES)
 
-- Ajuste v4: sin marcadores; domicilio con la frase estándar («Selon votre adresse…»); plazo «dans la semaine dans la plupart des cas»; idiomas de la web; enlace MTT añadido.
-- SEO local: physio estavayer 170 (principal), physiothérapie estavayer-le-lac 40, drainage lymphatique estavayer 40 (H3 de servicio sin la ciudad). Variantes physio / physiothérapeute / physiothérapie + Estavayer al menos 2 veces cada una.
-- Datos de la ficha usados: 26,4 km en línea recta, comuna francófona, distrito de la Broye / Friburgo, hospital HIB (sitio de Estavayer-le-Lac), localidades vecinas (Font, Cheyres-Châbles, Sévaz, Les Montets).
-- FAQ (9): «Où trouver…», las 3 estándar, localidades vecinas, elegir fisio, drenaje, HIB, idiomas.
-- Lote B: revisar con el cliente antes de publicar (página a 26 km del cabinet).
-- Ajuste v3: sin receta ni detalle de seguro; FAQ estándar; horario hasta las 20h.
+- Versión diferenciada (2026-11-10): enfoque lago y deporte de verano (paddle, vela, carrera), sección «Préparer votre première séance» y FAQ propias. Domicilio NO confirmado: siempre «selon votre adresse». Versión anterior en `fr-v4-anterior.md`.
+- Keywords: «physio estavayer» 170 (forma corta en title, H2 y FAQ), «physiothérapie estavayer-le-lac» 40, «drainage lymphatique estavayer» 40 (H2 propio + FAQ).
+- Comprobar: «petite ville médiévale», «rive sud du lac de Neuchâtel», deportes náuticos/plage (contexto general).

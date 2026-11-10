@@ -1,0 +1,13 @@
+SEO title (50/60): Physio Estavayer : sport, drainage | Physio Activa
+Meta description (149/155): Physio pour Estavayer-le-Lac : rééducation, reprise du sport, drainage lymphatique, au cabinet d'Ins jusqu'à 20h. Domicile selon l'adresse. Réservez.
+Slug: /physio-a-estavayer/
+Focus keyphrase: physio estavayer
+H1: Physio à Estavayer-le-Lac : rééducation et reprise du sport au cabinet d'Ins
+Indexación: index, follow
+
+IMÁGENES (la plantilla se importa SIN imágenes para no duplicarlas en la biblioteca; elígelas en Elementor):
+- Fondo del hero (sección › Estilo › Fondo): foto de la ciudad o del cabinet, 1920 px
+- Imagen 1 del artículo: alt: Physiothérapeute de Physio Activa en séance, physio pour les patients d'Estavayer
+- Imagen 2 del artículo: alt: Salle de traitement du cabinet Physio Activa à Ins, proche d'Estavayer
+- Fondo del CTA final (sección › Estilo › Fondo): foto del cabinet; la capa azul oscura ya está puesta
+- Imagen destacada / Open Graph de Yoast: la misma del hero.

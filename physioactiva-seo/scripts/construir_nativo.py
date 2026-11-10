@@ -25,7 +25,7 @@ FICHAS = {
 }
 
 
-SOINS_FIRST = {"chietres": ["massage", "domicile"], "lyss": ["domicile", "drainage", "massage"], "fribourg": ["drainage", "massage", "domicile"], "payerne": ["drainage", "domicile"]}  # demanda local medida (massage kerzers 90/mes)
+SOINS_FIRST = {"chietres": ["massage", "domicile"], "lyss": ["domicile", "drainage", "massage"], "fribourg": ["drainage", "massage", "domicile"], "payerne": ["drainage", "domicile"], "estavayer": ["sport", "drainage", "domicile"]}  # demanda local medida (massage kerzers 90/mes)
 
 
 def ficha(key):
@@ -82,6 +82,14 @@ VAR = {  # frases fijas del constructor que cambian por ciudad para que las pág
         why_eb="L'essentiel pour vous", why_h2="Physio Activa pour les patients de la Broye",
         why_p="Suivi après l'hôpital, espace d'entraînement, créneaux jusqu'à 20h et équipe multilingue.",
         faq_eb="Ce que vous nous demandez"),
+    "estavayer": dict(
+        ameta="Physio Activa · physiothérapie pour Estavayer-le-Lac et la rive sud du lac",
+        soins_h2="Physiothérapie pour Estavayer : nos soins",
+        soins_p="Au cabinet d'Ins, et parfois à domicile selon l'adresse, les patients d'Estavayer bénéficient de tous nos soins :",
+        cta_p="Blessure de sport, retour de l'hôpital ou douleur qui traîne ? Réservez : un premier rendez-vous est possible dans la semaine dans la plupart des cas, même en soirée.",
+        why_eb="En quelques mots", why_h2="Physio Activa pour les patients d'Estavayer",
+        why_p="Rééducation et reprise du sport, drainage lymphatique, appareils d'entraînement et créneaux jusqu'à 20h.",
+        faq_eb="Questions d'Estavayer"),
 }
 
 
@@ -240,7 +248,7 @@ def build(key):
             art.append(b.w("text-editor", {"editor": "<p>" + var(key, "soins_p", f"Vous avez accès à l'ensemble de nos soins, {'au cabinet' if es_ins else cab} ou à domicile selon votre situation. Les plus demandés :") + f"</p>\n{soins_html}"}, "pa-text"))
             art.append(b.w("text-editor", {"editor": '<div class="cta-inline"><p>' + var(key, "cta_p", f"Vous habitez {esc(ville)} ou un village voisin et vous avez mal ? Nous vous proposons un rendez-vous dans la semaine dans la plupart des cas, " + ((("au cabinet" if es_ins else cab) + " ou chez vous.") if f["domicile"] else f"{cab} ou à domicile selon votre adresse.")) + '</p>'
                                                      f'<p><a class="btn" href="{ONEDOC}" target="_blank" rel="noopener">Rendez-vous online</a></p></div>'}, "pa-text"))
-        if re.search(r"déroule|parcours|premier contact|étapes|pas à pas|quatre temps", h2t, re.I):
+        if re.search(r"déroule|parcours|premier contact|étapes|pas à pas|quatre temps|première séance", h2t, re.I):
             art.append(b.w("image", {"image": {"url": "", "id": "", "alt": (f"Salle de traitement du cabinet Physio Activa à {ville}" if es_ins else f"Salle de traitement du cabinet Physio Activa à Ins, proche {de(ville)}")},
                                      "image_size": "full"}, "pa-img"))
     secciones.append(b.sec([b.col(art, css="article")], "pa-lp pa-article", content_width={"unit": "px", "size": 828}, padding=pad(56, 0, 72, 0)))
