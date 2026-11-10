@@ -38,6 +38,11 @@
           <li><a class="pn-link" href="/contact/">Contact</a></li>
           <li><a class="pn-link" href="/nous-trouver/">Accès</a></li>
         </ul>
+        <div class="pn-mfoot">
+          <a class="pn-mwa" href="https://wa.me/41766273838?text=Bonjour%2C%20je%20souhaite%20prendre%20rendez-vous%20chez%20Physio%20Activa." target="_blank" rel="noopener"><i class="fa-brands fa-whatsapp"></i> Prendre RDV sur WhatsApp</a>
+          <a class="pn-mtel" href="tel:+41766273838"><i class="fa-solid fa-phone"></i> 076 627 38 38</a>
+          <p>Lun–Ven · jusqu'à 20h · Rämismatte 21, 3232 Ins</p>
+        </div>
       </nav>
       <a class="pn-cta" href="https://wa.me/41766273838?text=Bonjour%2C%20je%20souhaite%20prendre%20rendez-vous%20chez%20Physio%20Activa." target="_blank" rel="noopener" aria-label="Prendre rendez-vous par WhatsApp"><i class="fa-brands fa-whatsapp"></i> <span>Prendre RDV</span></a>
       <button class="pn-burger" aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="paNav"><i class="fa-solid fa-bars"></i></button>
@@ -65,7 +70,7 @@
 .pa-nav .pn-top-r i{color:#fff;font-size:15px}
 .pa-nav .pn-lang{border:1px solid rgba(255,255,255,.35);border-radius:6px;padding:2px 8px;font-weight:600;font-size:12px;color:#fff}
 /* barra principal */
-.pa-nav .pn-bar{background:#fff;border-bottom:1px solid var(--line);position:sticky;top:0;transition:box-shadow .3s}
+.pa-nav .pn-bar{background:#fff;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:1002;transition:box-shadow .3s}
 .pa-nav.pn-shrink .pn-bar{box-shadow:0 8px 30px rgba(14,44,79,.10)}
 .pa-nav .pn-row{display:flex;align-items:center;gap:20px;height:88px;transition:height .3s}
 .pa-nav.pn-shrink .pn-row{height:72px}
@@ -103,6 +108,10 @@
 .pa-nav .pn-cta i{font-size:20px}
 .pa-nav .pn-cta:hover{background:#1FB457;transform:translateY(-2px);box-shadow:0 12px 26px rgba(37,211,102,.34)}
 .pa-nav .pn-burger{display:none;margin-left:auto;background:none;border:0;font-size:24px;color:var(--navy);cursor:pointer;padding:8px}
+.pa-nav .pn-overlay{display:none;position:fixed;inset:0;background:rgba(8,18,32,.45);opacity:0;visibility:hidden;transition:.3s;z-index:1001}
+.pa-nav.pn-mobile-open .pn-overlay{opacity:1;visibility:visible}
+.pa-nav .pn-close{display:none;position:absolute;top:22px;right:18px;background:none;border:0;font-size:26px;color:var(--navy);cursor:pointer}
+.pa-nav .pn-mfoot{display:none}
 /* responsive */
 @media(max-width:1180px){.pa-nav .pn-link{font-size:14.5px;padding:10px 8px}.pa-nav .pn-cta{padding:12px 18px}}
 @media(max-width:1024px){
@@ -124,6 +133,11 @@
   .pa-nav .pn-grid-2,.pa-nav .pn-grid-3{grid-template-columns:1fr}
   .pa-nav .pn-close{display:block}
   .pa-nav .pn-overlay{display:block}
+  .pa-nav .pn-mfoot{display:grid;gap:12px;margin-top:24px}
+  .pa-nav .pn-mfoot a{display:flex;align-items:center;justify-content:center;gap:10px;padding:15px;border-radius:12px;font-family:'Poppins',sans-serif;font-weight:600;font-size:16px}
+  .pa-nav .pn-mfoot .pn-mwa{background:var(--wa);color:#fff}
+  .pa-nav .pn-mfoot .pn-mtel{border:1.5px solid var(--azure);color:var(--azure)}
+  .pa-nav .pn-mfoot p{text-align:center;color:var(--muted);font-size:13.5px}
 }
 @media(max-width:620px){
   .pa-nav .pn-top-l span{display:none}
@@ -133,9 +147,6 @@
   .pa-nav .pn-cta span{display:none}
   .pa-nav .pn-cta{width:46px;height:46px;padding:0;justify-content:center;border-radius:50%}
 }
-.pa-nav .pn-overlay{display:none;position:fixed;inset:0;background:rgba(8,18,32,.45);opacity:0;visibility:hidden;transition:.3s;z-index:1001}
-.pa-nav.pn-mobile-open .pn-overlay{opacity:1;visibility:visible}
-.pa-nav .pn-close{display:none;position:absolute;top:22px;right:18px;background:none;border:0;font-size:26px;color:var(--navy);cursor:pointer}
 /* el header queda por encima del hero de las páginas */
 .elementor-location-header,header:has(.pa-nav),.elementor-section:has(.pa-nav),.e-con:has(.pa-nav){position:relative;z-index:1000}
 </style>
