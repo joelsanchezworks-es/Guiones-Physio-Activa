@@ -25,7 +25,7 @@ FICHAS = {
 }
 
 
-SOINS_FIRST = {"chietres": ["massage", "domicile"], "lyss": ["domicile", "drainage", "massage"]}  # demanda local medida (massage kerzers 90/mes)
+SOINS_FIRST = {"chietres": ["massage", "domicile"], "lyss": ["domicile", "drainage", "massage"], "fribourg": ["drainage", "massage", "domicile"]}  # demanda local medida (massage kerzers 90/mes)
 
 
 def ficha(key):
@@ -66,6 +66,14 @@ VAR = {  # frases fijas del constructor que cambian por ciudad para que las pág
         why_eb="Pour les patients de Lyss", why_h2="Physio Activa à Lyss, en quatre points",
         why_p="Soins à domicile dans tout le secteur Lyss–Aarberg, drainage et massage, en allemand ou en français, jusqu'à 20h.",
         faq_eb="Questions des patients"),
+    "fribourg": dict(
+        ameta="Physio Activa · physiothérapie, drainage lymphatique et dry needling pour Fribourg",
+        soins_h2="Physiothérapie à Fribourg : tous nos soins",
+        soins_p="Au cabinet d'Ins, les patients de Fribourg ont accès à l'ensemble de nos soins, dont les plus demandés :",
+        cta_p="Un œdème, une prothèse récente, une douleur qui revient ? Réservez un créneau, en soirée si besoin : le premier rendez-vous a lieu dans la semaine dans la plupart des cas.",
+        why_eb="Pourquoi faire la route", why_h2="Pourquoi des patients de Fribourg viennent à Ins",
+        why_p="Drainage lymphatique manuel, dry needling, entraînement sur appareils et créneaux jusqu'à 20h, en français ou en allemand.",
+        faq_eb="Vos questions, nos réponses"),
 }
 
 
@@ -224,7 +232,7 @@ def build(key):
             art.append(b.w("text-editor", {"editor": "<p>" + var(key, "soins_p", f"Vous avez accès à l'ensemble de nos soins, {'au cabinet' if es_ins else cab} ou à domicile selon votre situation. Les plus demandés :") + f"</p>\n{soins_html}"}, "pa-text"))
             art.append(b.w("text-editor", {"editor": '<div class="cta-inline"><p>' + var(key, "cta_p", f"Vous habitez {esc(ville)} ou un village voisin et vous avez mal ? Nous vous proposons un rendez-vous dans la semaine dans la plupart des cas, " + ((("au cabinet" if es_ins else cab) + " ou chez vous.") if f["domicile"] else f"{cab} ou à domicile selon votre adresse.")) + '</p>'
                                                      f'<p><a class="btn" href="{ONEDOC}" target="_blank" rel="noopener">Rendez-vous online</a></p></div>'}, "pa-text"))
-        if re.search(r"déroule|parcours|premier contact|étapes", h2t, re.I):
+        if re.search(r"déroule|parcours|premier contact|étapes|pas à pas", h2t, re.I):
             art.append(b.w("image", {"image": {"url": "", "id": "", "alt": (f"Salle de traitement du cabinet Physio Activa à {ville}" if es_ins else f"Salle de traitement du cabinet Physio Activa à Ins, proche {de(ville)}")},
                                      "image_size": "full"}, "pa-img"))
     secciones.append(b.sec([b.col(art, css="article")], "pa-lp pa-article", content_width={"unit": "px", "size": 828}, padding=pad(56, 0, 72, 0)))
