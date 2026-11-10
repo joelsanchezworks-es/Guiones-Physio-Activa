@@ -29,13 +29,13 @@ La première séance sert à comprendre votre problème, à mesurer mobilité et
 
 Soyons clairs : nous n'avons pas de cabinet sur place. Si vous cherchez un physiothérapeute à Estavayer même, notre adresse est à Ins, Rämismatte 21, au 1er étage du bâtiment Lidl, dans les locaux d'InsGym, avec parking à disposition. Depuis la Broye, comptez environ 26,4 km en ligne droite : un trajet à intégrer dans votre agenda.
 
-Pourquoi faire la route ? Parce que le même thérapeute vous suit du bilan à la dernière séance, que la salle d'InsGym permet de travailler la force et l'équilibre sur des appareils, et que le cabinet reste ouvert jusqu'à 20h en semaine. Beaucoup de patients regroupent leurs rendez-vous avec une course ou un déplacement dans le Seeland.
+Pourquoi faire la route ? Le même thérapeute vous suit du bilan à la dernière séance, la salle d'InsGym permet de travailler force et équilibre, et le cabinet reste ouvert jusqu'à 20h en semaine.
 
 Les personnes qui cherchent une physiothérapie à Estavayer viennent surtout chez nous pour une épaule douloureuse, un talon qui pique, une sciatique, un genou arthrosique, une rééducation après une opération ou un drainage lymphatique.
 
 ## Physiothérapie à domicile à Estavayer-le-Lac et environs
 
-Certaines personnes ne peuvent pas faire le trajet : juste après une prothèse, au retour d'une hospitalisation ou quand la marche devient trop difficile. Pour elles, une séance à domicile à Estavayer peut remplacer la venue au cabinet. Selon votre adresse, nous pouvons aussi venir à domicile : contactez-nous pour le vérifier. La question se pose de la même façon pour Font, Cheyres-Châbles, Sévaz ou Les Montets : un appel suffit pour savoir ce qui est possible chez vous. Le principe est décrit sur la page [physiothérapie à domicile](/physiotherapeute-a-domicile/).
+Juste après une prothèse ou une hospitalisation, le trajet n'est pas toujours possible. Une séance de physiothérapie à Estavayer, chez vous, peut alors remplacer la venue au cabinet. Selon votre adresse, nous pouvons aussi venir à domicile : contactez-nous pour le vérifier. La question se pose de la même façon pour Font, Cheyres-Châbles, Sévaz ou Les Montets : un appel suffit pour savoir ce qui est possible chez vous. Le principe est décrit sur la page [physiothérapie à domicile](/physiotherapeute-a-domicile/).
 
 ## Quand consulter un physio, et quand voir d'abord un médecin ?
 
@@ -69,13 +69,13 @@ Quand la douleur se calme, la [Medical Training Therapy (MTT)](/medical-training
 ## Comment se déroule votre prise en charge ?
 
 ### Prise de rendez-vous
-Réservez en ligne ou par téléphone en précisant s'il s'agit de rééducation ou de drainage lymphatique. Nous essayons de regrouper vos rendez-vous pour limiter les trajets.
+Précisez s'il s'agit de rééducation ou de drainage lymphatique : nous regroupons vos rendez-vous pour limiter les trajets.
 
 ### Bilan
 Nous analysons vos limitations, mesurons mobilité et force et, en cas d'œdème, observons le gonflement. Les objectifs sont fixés ensemble.
 
 ### Séances au cabinet ou à domicile
-Comme le trajet compte, chaque séance est construite pour être utile : traitement, exercices et conseils, sans temps perdu.
+Traitement, exercices et conseils : chaque séance est construite pour être utile.
 
 ### Autonomie et prévention
 Entre deux visites, vous travaillez seul grâce à un programme écrit. Le but : espacer les séances dès que possible et éviter les rechutes.

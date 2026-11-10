@@ -100,7 +100,7 @@ Si une douleur de nuque, de hanche ou de dos dure plus d'une semaine, limite vos
 Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.
 
 ### Combien de séances me faut-il ?
-La durée du traitement varie selon votre situation et votre travail personnel entre les rendez-vous. Lors de la première visite, nous établissons une estimation adaptée à votre cas.
+Avec un physiothérapeute à Yvonand comme à Ins, la durée du traitement varie selon votre situation et votre travail personnel entre les rendez-vous. Lors de la première visite, nous établissons une estimation adaptée à votre cas.
 
 ### J'habite dans le canton de Vaud : puis-je être suivi à Ins ?
 Oui. Nous accueillons les patients quel que soit leur canton de résidence : votre adresse vaudoise ne change rien au suivi.

@@ -80,7 +80,7 @@ Un programme personnel, revu à chaque séance, vous permet de progresser entre 
 
 Ins est à environ 43,5 km en ligne droite d'Yverdon-les-Bains, chef-lieu du district du Jura-Nord vaudois. Le cabinet est au 1er étage du bâtiment Lidl, Rämismatte 21, avec parking. Plan d'accès : [Nous trouver](/nous-trouver/).
 
-Toute la prise en charge se fait en français, comme à Yverdon ; nous parlons aussi allemand, anglais, espagnol et portugais. Opéré à l'eHnv ? Apportez le rapport de sortie : il nous aide à reprendre la rééducation là où l'hôpital l'a laissée.
+Comme chez tout physiothérapeute à Yverdon, la prise en charge se fait en français ; nous parlons aussi allemand, anglais, espagnol et portugais. Opéré à l'eHnv ? Apportez le rapport de sortie : il nous aide à reprendre la rééducation là où l'hôpital l'a laissée.
 
 ## Assurances et horaires : physio à Yverdon-les-Bains
 
@@ -104,7 +104,7 @@ La durée du traitement varie selon votre situation. Lors de la première visite
 Comme pour Montagny-près-Yverdon et Cheseaux-Noréaz, cela dépend de la rue : selon votre adresse, nous pouvons aussi venir à domicile ; contactez-nous pour le vérifier.
 
 ### Comment se passe une séance de physiothérapie ?
-Entretien, bilan des mouvements, puis traitement, souvent dès le premier jour, avec des exercices à refaire à la maison.
+Que vous fassiez votre physiothérapie à Yverdon ou à Ins, le principe est le même : entretien, bilan des mouvements, puis traitement, souvent dès le premier jour, avec des exercices à refaire à la maison.
 
 ### Quand un drainage lymphatique est-il utile ?
 En cas d'œdème ou de lymphœdème persistant après une chirurgie, un traitement oncologique ou une entorse sévère. Le diagnostic revient au médecin ; le physiothérapeute réalise ensuite le drainage et vous apprend les gestes utiles.
