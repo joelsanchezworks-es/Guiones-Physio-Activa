@@ -27,7 +27,7 @@ for slug, city in [a.split(":") for a in sys.argv[1:]]:
     vis = " ".join(txt) + " " + soup.get_text(" ")
     n, v = norm(vis), norm(city)
     links = [a["href"] for a in soup.find_all("a") if a["href"].startswith("/")]
-    kw = {k: len(re.findall(rf"\b{k} (?:a |de |d'|pres de |pour )?{v}\b", n)) for k in ["physio", "physiotherapeute", "physiotherapie"]}
+    kw = {k: len(re.findall(rf"\b{k} (?:a |de |d'|pres de |pres d'|pour |au )?{v}\b", n)) for k in ["physio", "physiotherapeute", "physiotherapie"]}
     res = {"H1 único": h1 == 1, "sin términos prohibidos": not PROHIB.search(vis), "enlaces válidos": all(l in URLS for l in links),
            "FAQ 8-10 + schema": 8 <= len(faq) <= 10 and any(w["widgetType"] == "accordion" and w["settings"].get("faq_schema") == "yes" for w in ws),
            "keywords ≥2": all(x >= 2 for x in kw.values()), "IDs únicos": len({w["id"] for w in ws}) == len(ws)}

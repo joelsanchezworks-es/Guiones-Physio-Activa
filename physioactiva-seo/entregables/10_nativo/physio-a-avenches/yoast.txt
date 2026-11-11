@@ -1,0 +1,13 @@
+SEO title (58/60): Physiothérapie Avenches : massage, fitness | Physio Activa
+Meta description (145/155): Physiothérapie à Avenches, Domdidier et Salavaux : à domicile, massage thérapeutique et fitness médical au cabinet d'Ins, à 14,8 km. Jusqu'à 20h.
+Slug: /physio-a-avenches/
+Focus keyphrase: physiothérapie avenches
+H1: Physiothérapie à Avenches, Domdidier et Salavaux : à domicile ou au cabinet d'Ins
+Indexación: index, follow
+
+IMÁGENES (la plantilla se importa SIN imágenes para no duplicarlas en la biblioteca; elígelas en Elementor):
+- Fondo del hero (sección › Estilo › Fondo): foto de la ciudad o del cabinet, 1920 px
+- Imagen 1 del artículo: alt: Physiothérapeute de Physio Activa en séance, physio pour les patients d'Avenches
+- Imagen 2 del artículo: alt: Salle de traitement du cabinet Physio Activa à Ins, proche d'Avenches
+- Fondo del CTA final (sección › Estilo › Fondo): foto del cabinet; la capa azul oscura ya está puesta
+- Imagen destacada / Open Graph de Yoast: la misma del hero.

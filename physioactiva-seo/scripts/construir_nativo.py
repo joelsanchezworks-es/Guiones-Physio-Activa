@@ -25,7 +25,7 @@ FICHAS = {
 }
 
 
-SOINS_FIRST = {"chietres": ["massage", "domicile"], "lyss": ["domicile", "drainage", "massage"], "fribourg": ["drainage", "massage", "domicile"], "payerne": ["drainage", "domicile"], "estavayer": ["sport", "drainage", "domicile"], "yverdon": ["drainage", "sport", "domicile"], "yvonand": ["domicile"], "lausanne": ["domicile", "drainage", "massage", "sport"], "la-neuveville": ["domicile", "massage"]}  # demanda local medida (massage kerzers 90/mes)
+SOINS_FIRST = {"chietres": ["massage", "domicile"], "lyss": ["domicile", "drainage", "massage"], "fribourg": ["drainage", "massage", "domicile"], "payerne": ["drainage", "domicile"], "estavayer": ["sport", "drainage", "domicile"], "yverdon": ["drainage", "sport", "domicile"], "yvonand": ["domicile"], "lausanne": ["domicile", "drainage", "massage", "sport"], "la-neuveville": ["domicile", "massage"], "avenches": ["domicile", "massage"]}  # demanda local medida (massage kerzers 90/mes)
 
 
 def ficha(key):
@@ -122,6 +122,14 @@ VAR = {  # frases fijas del constructor que cambian por ciudad para que las pág
         why_eb="Pourquoi nous choisir", why_h2="Physio Activa pour La Neuveville et Le Landeron",
         why_p="Physiothérapie à domicile, massage thérapeutique, fitness médical et créneaux le soir, à quelques minutes de chez vous.",
         faq_eb="Vos questions"),
+    "avenches": dict(
+        ameta="Physio Activa · physiothérapie à domicile et fitness médical pour Avenches et la Broye-Vully",
+        soins_h2="Physiothérapie à Avenches : nos soins",
+        soins_p="À domicile à Avenches, Domdidier ou Salavaux, ou au cabinet d'Ins : voici nos soins les plus demandés.",
+        cta_p="Une contracture, un dos qui coince, une prothèse récente ? Nous venons chez vous ou vous recevons à Ins, généralement dans la semaine, jusqu'à 20h.",
+        why_eb="Les points forts", why_h2="Physio Activa pour Avenches et la Broye-Vully",
+        why_p="Physiothérapie à domicile, massage thérapeutique et fitness médical encadré, avec des créneaux le soir.",
+        faq_eb="Questions fréquentes"),
 }
 
 
