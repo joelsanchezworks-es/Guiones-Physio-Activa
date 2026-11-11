@@ -1,111 +1,117 @@
 ---
-title: "Physio à La Neuveville – domicile ou Ins | Physio Activa"
-meta: "Physio à La Neuveville : à domicile, au Landeron ou sur le Plateau de Diesse, ou au cabinet d'Ins à 6,6 km. Rendez-vous en ligne ou par WhatsApp."
+title: "Physio La Neuveville, Le Landeron : massage | Physio Activa"
+meta: "Physio à La Neuveville et au Landeron : physiothérapie à domicile, massage thérapeutique et fitness médical au cabinet d'Ins, à 6,6 km. Jusqu'à 20h."
 slug: "/physio-a-la-neuveville/"
 keyword_principal: "physio la neuveville"
 tipo: "zona"
 zona: "la-neuveville"
 ---
 
-# Physio à La Neuveville : au cabinet d'Ins ou à domicile
+# Physio à La Neuveville et au Landeron : à domicile ou au cabinet d'Ins, à 6,6 km
 
-Un physiothérapeute à La Neuveville, sans quitter le canton de Berne : Physio Activa vous accueille dans son cabinet d'Ins, à environ 6,6 km en ligne droite, ou se déplace jusque chez vous. Les séances se déroulent en français et, dans la plupart des cas, vous obtenez un rendez-vous dans la semaine.
+Vous cherchez un physio à La Neuveville ou au Landeron pour un dos bloqué, une épaule douloureuse, un massage thérapeutique ou une rééducation après une opération ? Physio Activa vient chez vous à La Neuveville, au Landeron et sur le Plateau de Diesse, ou vous reçoit au cabinet d'Ins, à environ 6,6 km en ligne droite. Dans la plupart des cas, un premier créneau se libère dans la semaine, y compris le soir.
 
 ## L'essentiel en bref
 
-### Reconnu par toutes les assurances
+### Toutes les caisses reconnues
 
-Toutes les compagnies d'assurance maladie en Suisse reconnaissent notre cabinet, qui dispose des autorisations sanitaires nécessaires.
+Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse, que vous habitiez le canton de Berne ou celui de Neuchâtel.
 
-### Au cabinet ou à domicile
+### À la maison, au besoin
 
-Le cabinet se trouve juste de l'autre côté de la frontière linguistique ; pour ceux qui ne peuvent pas faire le trajet, la séance a lieu à la maison.
+Nos physiothérapeutes se déplacent à La Neuveville, au Landeron et dans les villages voisins.
 
-### Bilan et plan de traitement
+### Massage et fitness médical
 
-Avant tout exercice, nous prenons le temps de comprendre l'origine de la gêne et de mesurer ce que vous pouvez faire aujourd'hui ; le plan en découle.
+Massage thérapeutique et entraînement sur appareils, en plus de la physiothérapie classique.
 
-### Rendez-vous en ligne, par téléphone ou WhatsApp
+### Tout près, le soir aussi
 
-Le plus simple est l'agenda en ligne ; le 076 627 38 38 et WhatsApp restent ouverts pour les questions pratiques.
+Quelques minutes de route et des créneaux jusqu'à 20h ; réservation en ligne, au 076 627 38 38 ou sur WhatsApp.
 
-## Un physiothérapeute près de La Neuveville
+## Un physiothérapeute près de La Neuveville et du Landeron
 
-Le cabinet Physio Activa est installé à Ins, Rämismatte 21, au 1er étage du bâtiment Lidl. Vous vous garez sur place, tout près de La Neuveville, sans chercher de place dans les ruelles du vieux bourg. Pour un physio à La Neuveville, c'est une alternative proche, avec un avantage : le cabinet partage ses locaux avec le centre d'entraînement InsGym.
+Notre cabinet de physiothérapie est installé à Ins, Rämismatte 21, au premier étage du bâtiment Lidl, avec parking. Que vous cherchiez un physiothérapeute à La Neuveville ou un physiothérapeute au Landeron, c'est l'un des cabinets les plus proches de l'autre côté du lac de Bienne, et il partage ses locaux avec l'InsGym : la table de traitement et les appareils d'entraînement sont dans les mêmes locaux.
 
-Concrètement, une rééducation peut commencer par des techniques manuelles et se poursuivre sur les appareils de la salle, grâce à l'entraînement thérapeutique ([MTT](/medical-training-therapy-mtt/)). C'est utile pour remarcher longtemps ou reprendre la randonnée.
-
-On vient nous voir pour une cheville qui reste instable, un talon douloureux, une hanche raide, une nuque bloquée ou un genou qui craint les descentes. La physiothérapie à La Neuveville et autour du lac de Bienne, c'est souvent une histoire d'appuis et de marche.
+La physiothérapie à La Neuveville que nous assurons s'occupe des muscles, des articulations et de la colonne : lumbago, hernie discale, cervicales, épaule, genou, hanche, cheville, rééducation post-opératoire. L'équipe parle français et allemand, un atout entre La Neuveville, Gléresse et le Seeland, et aussi anglais, espagnol et portugais. La liste complète est sur [toutes les pathologies](/pour-les-patients/).
 
 ## Physiothérapie à domicile à La Neuveville et environs
 
-Nos physiothérapeutes se déplacent à domicile à La Neuveville et dans les environs : Le Landeron, Gléresse (Ligerz), et sur le Plateau de Diesse, à Prêles et à Diesse. Le traitement se fait alors dans votre cadre de vie, avec les escaliers, les seuils et le fauteuil qui posent réellement problème.
+Un physiothérapeute de notre équipe peut venir chez vous à La Neuveville, mais aussi au Landeron, à Gléresse (Ligerz), à Prêles et à Diesse, sur le Plateau de Diesse. C'est la bonne solution après une prothèse ou une fracture, quand une sciatique empêche de conduire, ou quand les escaliers du bourg deviennent un obstacle.
 
-C'est la bonne formule après une fracture, une prothèse récente ou un alitement prolongé, ou pour aider une personne âgée à garder son autonomie. La physio à La Neuveville à domicile suit la même logique qu'au cabinet : bilan, objectifs, exercices. Plus d'informations sur la [physiothérapie à domicile](/physiotherapeute-a-domicile/).
+À la maison, nous travaillons ce qui compte pour vous : marches, seuils, salle de bain, sortie au jardin. Dès que vous pouvez vous déplacer, vous continuez au cabinet d'Ins, tout proche. Voir la [physiothérapie à domicile](/physiotherapeute-a-domicile/).
 
-## Quand consulter un physio, et quand voir d'abord un médecin ?
+## Massage thérapeutique à La Neuveville et au Landeron
 
-Promenades sur les rives du lac, montée vers le Plateau, travail à l'atelier ou au bureau : une gêne qui dure plus d'une semaine, qui limite la marche ou réveille la nuit mérite un avis. Plus elle est prise en charge tôt, plus la rééducation est simple.
+Le massage thérapeutique est l'un des soins les plus recherchés à La Neuveville et au Landeron. Une nuque tendue par l'écran, des lombaires fatiguées par le travail dans les vignes ou le jardin, des mollets durs après une longue randonnée : le massage relâche les tensions et diminue la douleur.
 
-Ne commencez pas sans avis médical si vous ne pouvez plus poser le pied après une torsion, si la douleur s'accompagne de fièvre ou d'une perte de poids inexpliquée, ou si des fourmillements gagnent les deux jambes. Pour un malaise, une douleur dans la poitrine ou une paralysie soudaine, appelez le 144 sans attendre.
+Chez Physio Activa, il fait partie d'un plan de physiothérapie : nous massons, puis travaillons la mobilité et la force pour que la tension ne revienne pas. Possible au cabinet ou à domicile. Plus d'informations sur le [massage thérapeutique](/massage-therapeutique/).
 
-## Quelle prise en charge selon votre situation ?
+## Fitness médical près de La Neuveville
 
-### Marcheurs et randonneurs
+Le fitness médical, ou entraînement thérapeutique [MTT](/medical-training-therapy-mtt/), se pratique sur les appareils de l'InsGym avec un programme fixé par le physiothérapeute. Il prolonge la rééducation après une prothèse, une blessure de sport ou un mal de dos qui revient, et aide à garder la forme sans risque.
 
-Les pentes du vignoble et les sentiers du Plateau sollicitent pieds et chevilles. Nous travaillons l'appui, l'équilibre et la reprise progressive : voir [pied et cheville, fasciite plantaire](/douleur-pied-cheville-fasciite-plantaire/) et [genou](/douleur-du-genou-lesions-de-la-cheville/).
+## Physio ou médecin d'abord ?
 
-### Arthrose et prothèse de hanche
+Lumbago, épaule bloquée, entorse mal remise, rééducation programmée : dans ces situations, le physio peut vous recevoir sans passer d'abord par le médecin.
 
-Préparer l'opération, puis réapprendre à marcher sans canne : la page [hanche et prothèses](/douleur-de-hanche-protheses/) détaille ce suivi.
+Voyez d'abord un médecin après une chute ou un choc important, en cas de fièvre, de perte de force dans un bras ou une jambe, de troubles urinaires avec un mal de dos, ou si un mollet devient rouge, chaud et gonflé. Douleur thoracique : 144.
 
-### Nuque et posture
+## Ce que nous traitons le plus à La Neuveville
 
-Tensions à force de travailler penché, rotation limitée pour tourner la tête en voiture : la [douleur cervicale](/douleur-cervicale-au-cou/) se traite par des techniques manuelles et des exercices simples.
+### Dos et épaules des vignes et du jardin
 
-### Entorse qui ne guérit pas
+Gestes répétés, port de caisses, taille de la vigne : nos pages [lombalgie](/mal-de-dos-lombaire/) et [épaule douloureuse](/lesions-de-lepaule/) détaillent la prise en charge.
 
-Une cheville qui se dérobe des semaines après l'entorse manque souvent de force et de contrôle. Exercices d'équilibre et renforcement progressif évitent la récidive.
+### Genou et cheville des randonneurs
 
-D'autres troubles sont présentés sur [toutes les pathologies](/pour-les-patients/).
+Descentes depuis le Plateau de Diesse ou le Chasseral, entorses : lire [genou douloureux](/douleur-du-genou-lesions-de-la-cheville/) et [fasciite plantaire et cheville](/douleur-pied-cheville-fasciite-plantaire/).
 
-## Comment se déroule votre prise en charge ?
+### Après une prothèse ou une opération
 
-### Prise de rendez-vous
+Marche, escaliers, équilibre : voir [hanche et prothèses](/douleur-de-hanche-protheses/).
 
-Indiquez en réservant si vous souhaitez une séance à domicile ; les créneaux vont du lundi au vendredi, jusqu'à 20h.
+### Nuque et sciatique
 
-### Bilan
+Torticolis, douleur qui descend dans la jambe : pages [cervicales](/douleur-cervicale-au-cou/) et [hernie discale](/sciatique-hernie-discale/).
 
-Entretien, observation de la marche ou du geste douloureux, tests de force : nous fixons ensemble deux ou trois objectifs.
+## Comment se passent vos séances
 
-### Séances au cabinet ou à domicile
+### Le premier contact
 
-Chaque séance mélange traitement et exercices actifs, avec une progression que vous pouvez suivre.
+En ligne, par téléphone ou WhatsApp ; dites-nous si vous préférez une séance à domicile.
 
-### Autonomie et prévention
+### Le bilan
 
-En fin de traitement, vous savez quels exercices garder et comment reprendre vos activités sans rechute.
+Entretien et tests pour comprendre d'où vient la douleur.
+
+### Le traitement
+
+Thérapie manuelle, massage, exercices et, si utile, fitness médical.
+
+### La suite chez vous
+
+Un court programme d'exercices pour éviter la rechute.
 
 ## Venir au cabinet d'Ins depuis La Neuveville
 
-Environ 6,6 km en ligne droite séparent La Neuveville de notre cabinet, à l'InsGym, Rämismatte 21, 3232 Ins. Le parking du bâtiment est à votre disposition ; itinéraire détaillé sur [Nous trouver](/nous-trouver/).
+Environ 6,6 km en ligne droite séparent La Neuveville d'Ins : quelques minutes de route, parking devant le bâtiment. Plan d'accès : [Nous trouver](/nous-trouver/).
 
-La Neuveville est une commune francophone de l'arrondissement administratif du Jura bernois. Ins, dans le Seeland, est germanophone, mais votre physiothérapie à La Neuveville comme à Ins se fait en français ; l'équipe parle aussi allemand, anglais, espagnol et portugais. Si vous sortez du Centre hospitalier Bienne après une opération, votre rééducation peut se poursuivre chez nous dès votre retour, selon les consignes de votre médecin.
+La Neuveville est une petite ville francophone du Jura bernois, au bord du lac de Bienne, au pied du Plateau de Diesse ; Le Landeron, juste à côté, se trouve dans le canton de Neuchâtel. Après une hospitalisation au Centre hospitalier Bienne, les consignes de sortie guident la suite de la rééducation, chez vous ou au cabinet.
 
 ## Assurances et horaires : physio à La Neuveville
 
-Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse et dispose de toutes les autorisations sanitaires nécessaires ; nous accueillons les patients quel que soit leur canton de résidence. Nous vous recevons du lundi au vendredi, jusqu'à 20h. Réservez en ligne, au 076 627 38 38 ou sur WhatsApp.
+Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Côté horaires : en semaine, dernier rendez-vous vers 20h.
 
 ## Questions fréquentes sur la physio à La Neuveville
 
 ### Où trouver un physiothérapeute près de La Neuveville ?
 
-À Ins, au cabinet Physio Activa : Rämismatte 21, 1er étage du bâtiment Lidl, parking sur place, à environ 6,6 km en ligne droite. Si vous ne pouvez pas vous déplacer, un physiothérapeute à La Neuveville vient chez vous.
+À 6,6 km, au cabinet Physio Activa d'Ins (Rämismatte 21, bâtiment Lidl, 1er étage, parking). Et si sortir est difficile, un physiothérapeute vient chez vous à La Neuveville, au Landeron ou sur le Plateau de Diesse.
 
 ### Quand dois-je consulter un physiothérapeute pour une douleur ?
 
-Si un talon, une cheville ou une hanche vous gêne depuis plus d'une semaine, si la douleur limite la marche ou perturbe le sommeil. Plus on la traite tôt, plus c'est simple.
+Dès qu'une gêne s'installe plus de quelques jours, freine vos activités ou vos nuits. N'attendez pas qu'elle devienne chronique.
 
 ### Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?
 
@@ -113,36 +119,40 @@ Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en 
 
 ### Combien de séances me faut-il ?
 
-La durée du traitement varie selon votre situation : une entorse récente, une arthrose ancienne ou une prothèse n'ont pas le même rythme. Lors de la première visite, nous établissons une estimation adaptée à votre cas.
+Chaque situation est différente. Lors de la première visite, nous établissons une estimation adaptée à votre cas.
 
-### Venez-vous au Landeron, à Prêles ou à Diesse ?
+### Avez-vous un physio pour Le Landeron ?
 
-Oui, ces localités font partie des environs où nous nous déplaçons, tout comme Gléresse (Ligerz). Donnez-nous votre adresse en réservant et nous organisons la visite.
+Oui : nos physiothérapeutes viennent à domicile au Landeron, et le cabinet d'Ins n'est qu'à quelques minutes. Les patients du Landeron sont reçus du lundi au vendredi jusqu'à 20h.
 
-### Peut-on être suivi en français à Ins ?
+### Proposez-vous des massages thérapeutiques à La Neuveville ?
 
-Oui. Même si Ins est un village germanophone, nous travaillons en français au quotidien ; l'équipe parle aussi allemand, anglais, espagnol et portugais.
+Oui, à domicile à La Neuveville et au Landeron, ou au cabinet d'Ins, en général associés à des exercices.
 
-### Comment se passe une séance de physiothérapie ?
+### Physio ou ostéopathe : que choisir ?
 
-Après un court point sur l'évolution, nous alternons traitement manuel et exercices, puis nous vérifions ce que vous ferez à la maison. La première séance est surtout consacrée au bilan.
+Pour une rééducation avec exercices et un suivi des progrès, le physiothérapeute. L'ostéopathie est une profession distincte, axée sur les techniques manuelles.
 
-### J'ai été opéré au Centre hospitalier Bienne : que dois-je apporter ?
+### Qu'est-ce que le fitness médical ?
 
-Les consignes de sortie ou le compte rendu opératoire, si vous les avez, et la liste de vos médicaments. Une tenue confortable suffit pour le reste.
+Des exercices sur machines, dosés et surveillés par le physiothérapeute, pour retrouver de la force et du souffle en toute sécurité.
 
-### Quand consulter un docteur en médecine physique et de réadaptation ?
+### Venez-vous à Prêles, Diesse ou Gléresse ?
 
-Lorsque le handicap touche plusieurs fonctions, après un AVC ou une opération lourde, ou si la rééducation n'avance pas. Ce spécialiste coordonne le traitement.
+Oui, nous y allons. Précisez simplement le village et la rue lors de la réservation.
 
-## Besoin d'un physio à La Neuveville ou dans les environs ?
+### Je sors du Centre hospitalier Bienne : quand commencer ?
 
-Le plus simple est la [réservation en ligne](/reservation-en-ligne/). Vous pouvez aussi nous appeler au 076 627 38 38 ou nous écrire sur WhatsApp au +41 76 627 38 38.
+Dès la sortie, avec les consignes de l'hôpital. Si vous ne pouvez pas encore conduire, les premières séances ont lieu chez vous.
+
+## Votre physio à La Neuveville et au Landeron
+
+À domicile ou au cabinet d'Ins, pour une rééducation, un massage ou du fitness médical : agenda en ligne, téléphone (076 627 38 38) ou message WhatsApp.
 
 ## Notes pour l'équipe (ES)
 
-- Ajuste v4: sin marcadores; domicilio afirmado (zona Trois-Lacs ya cubierta en la web); plazo «dans la semaine dans la plupart des cas»; idiomas de la web; estructura de 12 secciones de `prompts/redaccion-zona-v4.md`.
-- Keyword «physio la neuveville» (50) en title, H1, intro y texto; «physio / physiothérapeute / physiothérapie à La Neuveville» ≥ 2 veces cada una; ciudad nunca en H3 de sección (solo en la primera pregunta de la FAQ, exigida por v4).
-- Datos de la ficha: 6,6 km en línea recta, comuna francófona, arrondissement administratif du Jura bernois, cantón de Berna, Centre hospitalier Bienne, localidades vecinas (Le Landeron, Gléresse, Prêles, Diesse).
-- «Ins germanophone / Seeland» y «Plateau de Diesse» son contexto geográfico general, no de la ficha: verificar.
-- Ajuste v3: sin receta ni detalle de seguro; FAQ estándar; horario hasta las 20h.
+- Copy construido con DataForSEO (2026-11-11, coste 0,094 $): «physio la neuveville» 50/mes, «massage la neuveville» 50, «physio le landeron» 30, «massage le landeron» 30, «ostéopathe la neuveville» 20, «fitness la neuveville» 20, «physiothérapie/physiothérapeute le landeron» 10 cada una. Sin volumen medible para «physiothérapie/physiothérapeute la neuveville», Plateau de Diesse ni alemán (Neuenstadt).
+- SERP «physio la neuveville»: pack local con cabinets de la zona; resultados orgánicos poco relevantes (Aigle, Ginebra, Leysin…) → oportunidad real de posicionar una página local sólida.
+- Estructura: Le Landeron en title/H1/H2/FAQ (casi tanta demanda como La Neuveville), H2 «Massage thérapeutique à La Neuveville et au Landeron» (80/mes en conjunto), H2 «Fitness médical» (MTT), FAQ «physio ou ostéopathe». Domicilio confirmado (zona cubierta en la web del cliente). Versión anterior en `fr-v4-anterior.md`.
+- Oportunidad fuera del alcance: «physio marin» 110/mes, «physio boudry» 110/mes, «physio hauterive» 40/mes (lado Neuchâtel); Marin está muy cerca de Ins → valorar una página propia.
+- Comprobar: «travail dans les vignes», «Chasseral», «escaliers du bourg» (contexto general).
