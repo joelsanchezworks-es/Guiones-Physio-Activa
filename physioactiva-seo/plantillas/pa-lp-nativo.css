@@ -112,6 +112,9 @@
 .pa-lp .pa-faq .elementor-tab-content{padding:0 24px 22px !important;border:none !important;color:var(--muted);font-size:15.5px;line-height:1.75}
 .pa-lp .pa-faq .elementor-tab-content p{margin:0 0 10px;color:var(--muted)}
 
+/* CTA final: imagen de fondo por CSS (no se importa a la biblioteca → sin duplicados).
+   Si eliges otra imagen en Estilo › Fondo de la sección, la del panel tiene prioridad. */
+.pa-lp.pa-cta{background-image:url('https://physioactiva.ch/wp-content/uploads/2026/11/Centerbild_IMG_9184-scaled-1.jpg');background-size:cover;background-position:center center}
 /* CTA final */
 .pa-lp .pa-cta-title .elementor-heading-title{font-size:36px !important;font-weight:700 !important;line-height:1.2 !important;color:#fff !important;letter-spacing:-.5px;max-width:820px;margin:0 auto !important}
 .pa-lp .pa-cta-sub{max-width:720px;margin:0 auto 18px !important}

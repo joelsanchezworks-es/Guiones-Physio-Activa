@@ -45,3 +45,9 @@ Solo hay tres widgets HTML, que no hace falta tocar:
 - Enlaces internos a 5 páginas de ciudad, a las pathologies, a domicilio y a MTT.
 - Ningún precio, receta ni detalle de seguro: solo la frase aprobada del cliente.
 - **Canibalización con la home:** enlaza desde la home a `/physio-a-ins/` con el anchor «physio à Ins». Deja la home para la marca y la región.
+
+## Colores a prueba del tema (2026-11-11)
+- Títulos, textos y botones del hero y del CTA llevan sus colores y tipografía en los **ajustes nativos de Elementor** (Estilo del widget): el tema ya no puede cambiarlos y se editan desde el panel.
+- Fondo del CTA final: `Centerbild_IMG_9184-scaled-1.jpg` (subida a la biblioteca en 2026/11) aplicada **por CSS**, para que Elementor no la vuelva a importar y no se dupliquen fotos. Si eliges otra foto en Estilo › Fondo de la sección, la del panel tiene prioridad.
+- `plantillas-ciudades-elementor.zip` contiene las 14 plantillas en un solo archivo (Plantillas › Importar acepta un .zip con varias).
+- Páginas ya creadas: vuelve a insertar la plantilla, o en el CTA pon a mano título blanco, texto #DCE9F4, botones #29A9E0 / #25D366 y la imagen de fondo.

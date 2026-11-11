@@ -141,6 +141,65 @@ def de(v):
     return ("d'" if v[0].lower() in "aeiouyéèêiîh" else "de ") + v
 
 
+# ---------- estilos NATIVOS de Elementor (colores/tipografía en el panel: el tema no puede pisarlos) ----------
+NAVY, AZURE, AZURE_D, WA, WA_D = "#0E2C4F", "#29A9E0", "#1E8AC0", "#25D366", "#1FB457"
+def _pad(t, r, b_, l): return {"unit": "px", "top": str(t), "right": str(r), "bottom": str(b_), "left": str(l), "isLinked": False}
+def _all(v): return {"unit": "px", "top": str(v), "right": str(v), "bottom": str(v), "left": str(v), "isLinked": True}
+def _font(size, weight="700", tablet=None, mobile=None, family="Poppins", lh=None):
+    d = {"typography_typography": "custom", "typography_font_family": family, "typography_font_weight": weight,
+         "typography_font_size": {"unit": "px", "size": size}}
+    if tablet: d["typography_font_size_tablet"] = {"unit": "px", "size": tablet}
+    if mobile: d["typography_font_size_mobile"] = {"unit": "px", "size": mobile}
+    if lh: d["typography_line_height"] = {"unit": "em", "size": lh}
+    return d
+BTN = {
+    "": dict(background_color=AZURE, button_background_hover_color=AZURE_D, button_text_color="#FFFFFF", hover_color="#FFFFFF"),
+    "wa": dict(background_color=WA, button_background_hover_color=WA_D, button_text_color="#FFFFFF", hover_color="#FFFFFF"),
+    "ghost": dict(background_color="rgba(255,255,255,0)", button_background_hover_color="rgba(255,255,255,0.12)", button_text_color="#FFFFFF",
+                  hover_color="#FFFFFF", border_border="solid", border_width=_all(2), border_color="rgba(255,255,255,0.4)"),
+    "outline": dict(background_color="rgba(255,255,255,0)", button_background_hover_color=AZURE, button_text_color=AZURE_D,
+                    hover_color="#FFFFFF", border_border="solid", border_width=_all(2), border_color=AZURE),
+}
+
+
+def estilos_nativos(tpl):
+    def walk(e, sec_cls):
+        s = e.get("settings", {})
+        if e["elType"] == "section" and not e.get("isInner"):
+            sec_cls = s.get("css_classes", "")
+        cls = s.get("_css_classes", "")
+        oscuro = "pa-hero" in sec_cls or "pa-cta" in sec_cls
+        if e.get("widgetType") == "button":
+            kind = next((k for k in ("wa", "ghost", "outline") if k in cls.split()), "")
+            s.update(BTN[kind]); s["border_radius"] = _all(10)
+            s["text_padding"] = _pad(12, 22, 12, 22) if kind == "outline" else _pad(15, 28, 15, 28)
+            s.update(_font(14 if kind == "outline" else 15, "600"))
+        elif e.get("widgetType") == "heading":
+            if "pa-eyebrow" in cls:
+                s["title_color"] = "#FFFFFF" if oscuro else AZURE; s.update(_font(13, "600"))
+                s["typography_text_transform"] = "uppercase"; s["typography_letter_spacing"] = {"unit": "px", "size": 2}
+            elif "pa-h1" in cls:
+                s["title_color"] = "#FFFFFF"; s.update(_font(46, "700", 38, 30, lh=1.12))
+            elif "pa-ameta" in cls:
+                s["title_color"] = "#FFFFFF"; s.update(_font(14, "500"))
+            elif "pa-cta-title" in cls:
+                s["title_color"] = "#FFFFFF"; s.update(_font(36, "700", 30, 26, lh=1.2))
+            elif "pa-title" in cls:
+                s["title_color"] = NAVY; s.update(_font(36, "700", 30, 26, lh=1.2))
+            elif "pa-h2" in cls:
+                s["title_color"] = NAVY; s.update(_font(28, "700", None, 23, lh=1.25))
+        elif e.get("widgetType") == "text-editor":
+            if "pa-cta-sub" in cls:
+                s["text_color"] = "#DCE9F4"
+            elif "pa-sub" in cls:
+                s["text_color"] = "#5C7186"
+        for x in e.get("elements", []):
+            walk(x, sec_cls)
+    for sec in tpl["content"]:
+        walk(sec, "")
+    return tpl
+
+
 def imgs_alt(tpl):
     """Huecos de imagen de la plantilla con su texto alternativo sugerido."""
     out = []
@@ -352,6 +411,7 @@ def build(key):
     secciones.append(b.sec([b.col([b.w("html", {"html": tail}, "pa-tail")])], "pa-lp pa-tail-sec"))
 
     tpl = {"content": secciones, "page_settings": {"hide_title": "yes"}, "version": "0.4", "title": f"Physio à {ville}", "type": "page"}
+    estilos_nativos(tpl)
     d = OUT / slug
     d.mkdir(parents=True, exist_ok=True)
     (d / f"{slug}.json").write_text(json.dumps(tpl, ensure_ascii=False, indent=1))
