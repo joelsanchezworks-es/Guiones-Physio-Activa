@@ -106,7 +106,7 @@
   </div>
 </section>
 
-<section>
+<section class="access">
   <div class="wrap center">
     <span class="eyebrow center">Accès</span>
     <h2 class="title">Notre cabinet de physiothérapie à Ins</h2>
@@ -191,10 +191,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&family=Inter:wght@400;500;600&display=swap');
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css');
-.pa-home{--navy:#0E2C4F; --navy2:#15395f; --azure:#29A9E0; --azure-d:#1E8AC0;
-    --tint:#EAF6FC; --soft:#F4F9FD; --ink:#12273F; --muted:#5C7186;
-    --line:#E4EEF5; --white:#fff;
-    --green:#2E8B6E; --green-d:#256F58; --cream:#F7EAC4;}
+.pa-home{--navy:#0E2C4F !important; --navy2:#15395f !important; --azure:#29A9E0 !important; --azure-d:#1E8AC0 !important;
+    --tint:#EAF6FC !important; --soft:#F4F9FD !important; --ink:#12273F !important; --muted:#5C7186 !important;
+    --line:#E4EEF5 !important; --white:#fff !important;}
 .pa-home *{margin:0;padding:0;box-sizing:border-box}
 html{scroll-behavior:smooth}
 .pa-home{font-family:'Inter',system-ui,sans-serif;color:var(--ink);background:var(--white);line-height:1.7;overflow-x:hidden}
@@ -301,6 +300,33 @@ html{scroll-behavior:smooth}
 .pa-home .faq summary h3{font-size:17px;font-weight:600;color:var(--navy);line-height:1.4}
 .pa-home .faq .ans p{padding:0 24px 22px;color:var(--muted);font-size:15.5px}
 .pa-home .faq .ans a{color:var(--azure-d);font-weight:600}
+
+/* ===== Protección frente a los colores del tema ===== */
+.pa-home section{background:#fff !important}
+.pa-home section.gallery{background:var(--soft) !important}
+.pa-home section.hero,.pa-home section.cta-band,.pa-home section.access{background:var(--navy) !important}
+.pa-home section.map{background:transparent !important}
+.pa-home .eyebrow{color:var(--azure) !important}
+.pa-home .eyebrow::before{background:var(--azure) !important}
+.pa-home h2.title{color:var(--navy) !important}
+.pa-home .crumbs a,.pa-home .tcard p a,.pa-home .faq .ans a{color:var(--azure-d) !important}
+.pa-home .links-grid strong,.pa-home .zones a{color:var(--navy) !important}
+.pa-home .zones a:hover{color:var(--azure-d) !important}
+.pa-home .member .name{color:var(--azure) !important}
+.pa-home .btn{color:#fff !important}
+.pa-home .btn.outline{color:var(--azure) !important}
+.pa-home .btn.outline:hover{color:#fff !important}
+
+/* ===== Sección Accès: fondo azul marino del diseño ===== */
+.pa-home .access{position:relative;overflow:hidden;color:#fff}
+.pa-home .access::before{content:"";position:absolute;width:340px;height:340px;border-radius:50%;background:rgba(41,169,224,.14);top:-140px;left:-110px;pointer-events:none}
+.pa-home .access .wrap{position:relative}
+.pa-home .access h2.title{color:#fff !important}
+.pa-home .access .nap{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:18px;padding:28px 30px;margin-top:30px}
+.pa-home .access .nap .line{color:#fff !important}
+.pa-home .access .nap .line a{color:var(--azure) !important}
+.pa-home .access .nap .zone{color:#DCE9F4 !important}
+.pa-home .access .nap .zone a{color:var(--azure) !important;border-bottom:1px solid rgba(41,169,224,.5)}
 
 /* ===== Botón flotante de WhatsApp ===== */
 .pa-home .pa-wafab{position:fixed;right:22px;bottom:104px;z-index:1200;width:58px;height:58px;border-radius:50%;background:#25D366;color:#fff !important;display:flex;align-items:center;justify-content:center;font-size:30px;box-shadow:0 12px 30px rgba(37,211,102,.45);transition:.25s;animation:pa-wapulse 2.4s infinite}
