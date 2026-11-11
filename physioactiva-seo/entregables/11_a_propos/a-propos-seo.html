@@ -304,7 +304,7 @@ html{scroll-behavior:smooth}
 /* ===== Protección frente a los colores del tema ===== */
 .pa-home section{background:#fff !important}
 .pa-home section.gallery{background:var(--soft) !important}
-.pa-home section.hero,.pa-home section.cta-band,.pa-home section.access{background:var(--navy) !important}
+.pa-home section.hero,.pa-home section.access{background:var(--navy) !important}
 .pa-home section.map{background:transparent !important}
 .pa-home .eyebrow{color:var(--azure) !important}
 .pa-home .eyebrow::before{background:var(--azure) !important}
@@ -327,6 +327,20 @@ html{scroll-behavior:smooth}
 .pa-home .access .nap .line a{color:var(--azure) !important}
 .pa-home .access .nap .zone{color:#DCE9F4 !important}
 .pa-home .access .nap .zone a{color:var(--azure) !important;border-bottom:1px solid rgba(41,169,224,.5)}
+
+/* ===== CTA final: imagen de fondo oscurecida (mismo diseño que las páginas de ciudad) ===== */
+.pa-home section.cta-band{background:linear-gradient(rgba(14,44,79,.86),rgba(14,44,79,.86)),url('https://physioactiva.ch/wp-content/uploads/2026/11/Centerbild_IMG_9184-scaled-1.jpg') center center/cover no-repeat !important;padding:88px 0}
+.pa-home .cta-band::before,.pa-home .cta-band::after{display:none}
+.pa-home .cta-band h2{color:#fff !important;font-family:'Poppins',system-ui,sans-serif !important;font-size:36px;line-height:1.2}
+.pa-home .cta-band .s1{color:#DCE9F4 !important;font-size:18.5px;max-width:720px}
+.pa-home .cta-band .btn{background:#29A9E0 !important;color:#fff !important;border:none !important}
+.pa-home .cta-band .btn:hover{background:#1E8AC0 !important}
+.pa-home .cta-band .btn.wa{background:#25D366 !important}
+.pa-home .cta-band .btn.wa:hover{background:#1FB457 !important}
+.pa-home .cta-band .btn.ghost{background:transparent !important;border:2px solid rgba(255,255,255,.4) !important}
+.pa-home .cta-band .btn.ghost:hover{background:rgba(255,255,255,.12) !important}
+.pa-home .cta-band .btn i,.pa-home .cta-band .btn i::before{color:#fff !important}
+@media(max-width:620px){.pa-home section.cta-band{padding:64px 0}.pa-home .cta-band h2{font-size:26px}}
 
 /* ===== Botón flotante de WhatsApp ===== */
 .pa-home .pa-wafab{position:fixed;right:22px;bottom:104px;z-index:1200;width:58px;height:58px;border-radius:50%;background:#25D366;color:#fff !important;display:flex;align-items:center;justify-content:center;font-size:30px;box-shadow:0 12px 30px rgba(37,211,102,.45);transition:.25s;animation:pa-wapulse 2.4s infinite}
