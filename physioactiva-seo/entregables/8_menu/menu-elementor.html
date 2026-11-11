@@ -13,6 +13,7 @@
       </div>
     </div>
   </div>
+  <div class="pn-spacer" aria-hidden="true"></div>
   <header class="pn-bar">
     <div class="pn-wrap pn-row">
       <a class="pn-logo" href="/" aria-label="Physio Activa — accueil"><img src="https://physioactiva.ch/wp-content/uploads/2026/06/Physio-Activa-Logo00001.png" alt="Physio Activa, physiothérapie à Ins" width="160" height="60"></a>
@@ -58,7 +59,16 @@
 .pa-nav .pn-top-r{display:flex;align-items:center;gap:16px}
 .pa-nav .pn-top-r i{color:#fff;font-size:15px}
 /* barra principal */
-.pa-nav .pn-bar{background:#fff;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:1002;transition:box-shadow .3s}
+.pa-nav .pn-bar{background:#fff;border-bottom:1px solid var(--line);position:relative;z-index:1002;transition:box-shadow .3s}
+/* menú siempre visible: al pasar la barra superior, la barra principal queda fija arriba */
+.pa-nav .pn-spacer{display:none}
+.pa-nav.pn-fixed .pn-spacer{display:block}
+.pa-nav.pn-fixed .pn-bar{position:fixed !important;top:0;left:0;right:0;width:100%;box-shadow:0 8px 30px rgba(14,44,79,.12);animation:pnSlide .25s ease}
+@keyframes pnSlide{from{transform:translateY(-100%)}to{transform:none}}
+body.admin-bar .pa-nav.pn-fixed .pn-bar{top:32px}
+@media(max-width:782px){body.admin-bar .pa-nav.pn-fixed .pn-bar{top:46px}}
+@media(max-width:600px){body.admin-bar .pa-nav.pn-fixed .pn-bar{top:0}}
+@media(prefers-reduced-motion:reduce){.pa-nav.pn-fixed .pn-bar{animation:none}}
 .pa-nav.pn-shrink .pn-bar{box-shadow:0 8px 30px rgba(14,44,79,.10)}
 .pa-nav .pn-row{display:flex;align-items:center;gap:20px;height:88px;transition:height .3s}
 .pa-nav.pn-shrink .pn-row{height:72px}
@@ -107,8 +117,8 @@
   .pa-nav .pn-burger{display:block}
   .pa-nav .pn-cta{margin-left:auto;padding:11px 16px;font-size:14px}
   .pa-nav .pn-burger{margin-left:6px}
-  .pa-nav .pn-menu{position:fixed;inset:0 0 0 auto;top:0;width:min(420px,100%);background:#fff;transform:translateX(100%);transition:transform .3s;overflow-y:auto;padding:88px 18px 30px;box-shadow:-20px 0 60px rgba(14,44,79,.18);display:block;z-index:1002}
-  .pa-nav.pn-mobile-open .pn-menu{transform:none}
+  .pa-nav .pn-menu{position:fixed;inset:0 0 0 auto;top:0;width:min(420px,100%);background:#fff;transform:translateX(100%);transition:transform .3s;overflow-y:auto;padding:88px 18px 30px;box-shadow:none;display:block;z-index:1002}
+  .pa-nav.pn-mobile-open .pn-menu{transform:none;box-shadow:-20px 0 60px rgba(14,44,79,.18)}
   .pa-nav .pn-list{flex-direction:column;align-items:stretch;gap:0}
   .pa-nav .pn-list>li{flex-wrap:wrap;border-bottom:1px solid var(--line)}
   .pa-nav .pn-link{flex:1;padding:16px 6px;font-size:17px;justify-content:space-between}
@@ -169,8 +179,22 @@
   nav.querySelectorAll('.pn-menu a[href^="/"]').forEach(function(a){
     if(a.getAttribute('href')!==path)return;var li=a.closest('.pn-has');if(li){if(path==='/')return;a.classList.add('pn-active');var p=li.querySelector('.pn-link');if(p)p.classList.add('pn-active');}else{a.classList.add('pn-active');}
   });
-  // sombra al hacer scroll
-  window.addEventListener('scroll',function(){nav.classList.toggle('pn-shrink',window.scrollY>30)},{passive:true});
+  // menú siempre visible: la barra principal se fija al llegar arriba; el hueco evita saltos
+  var bar=nav.querySelector('.pn-bar'),spacer=nav.querySelector('.pn-spacer'),barH=0;
+  function medir(){if(!nav.classList.contains('pn-fixed')){barH=bar.offsetHeight;}spacer.style.height=barH+'px';}
+  function onScroll(){
+    var y=window.scrollY||window.pageYOffset;
+    var ab=document.getElementById('wpadminbar');
+    var off=(ab&&getComputedStyle(ab).position==='fixed')?ab.offsetHeight:0; // barra de admin de WordPress (sesión iniciada)
+    if(!nav.classList.contains('pn-fixed')){
+      if(bar.getBoundingClientRect().top<off){medir();nav.classList.add('pn-fixed');}
+    }else if(spacer.getBoundingClientRect().top>=off){nav.classList.remove('pn-fixed');}
+    nav.classList.toggle('pn-shrink',y>30); // sombra y logo más pequeño
+  }
+  medir();
+  window.addEventListener('scroll',onScroll,{passive:true});
+  window.addEventListener('resize',function(){var f=nav.classList.contains('pn-fixed');if(f)nav.classList.remove('pn-fixed');medir();onScroll();});
+  onScroll();
 })();
 </script>
 <!-- ===== FIN MENÚ ===== -->

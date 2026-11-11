@@ -19,3 +19,9 @@ Notas:
 - Se ha quitado el selector de idioma por petición del cliente. Si más adelante se publica la versión alemana, se añade un enlace a `/de/`.
 - TikTok no aparece porque no se encontró el perfil: pásanos el enlace y se añade.
 - Si el tema muestra su propio menú además de este, desactiva el header del tema (Elementor → Theme Builder → Header aplicado a «Todo el sitio»).
+
+
+## Menú siempre visible (2026-11-11)
+- Al hacer scroll, cuando la barra superior (email/teléfono) sale de pantalla, la barra principal (logo, menú y «RDV WhatsApp») queda fija arriba (`position:fixed` por JS, con un hueco invisible que evita el salto del contenido).
+- Respeta la barra de administración de WordPress cuando hay sesión iniciada.
+- En Elementor no actives además «Sticky» ni efectos de movimiento en la sección del header: harían doble fijación (los efectos crean un `transform` que rompe `position:fixed`).
