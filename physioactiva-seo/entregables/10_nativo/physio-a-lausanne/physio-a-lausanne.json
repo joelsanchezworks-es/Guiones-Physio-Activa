@@ -1,0 +1,1148 @@
+{
+ "content": [
+  {
+   "id": "d7d760a",
+   "elType": "section",
+   "settings": {
+    "gap": "no",
+    "css_classes": "pa-lp pa-styles-sec"
+   },
+   "elements": [
+    {
+     "id": "a73ad76",
+     "elType": "column",
+     "settings": {
+      "_column_size": 100,
+      "_inline_size": null
+     },
+     "elements": [
+      {
+       "id": "5c6206f",
+       "elType": "widget",
+       "widgetType": "html",
+       "settings": {
+        "html": "<style>\n@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&family=Inter:wght@400;500;600&display=swap');\n@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css');\n/* Diseño pa-lp para widgets NATIVOS de Elementor. Cada sección lleva la clase \"pa-lp\" (Avanzado › Clases CSS). */\n.pa-lp{--navy:#0E2C4F;--azure:#29A9E0;--azure-d:#1E8AC0;--tint:#EAF6FC;--soft:#F4F9FD;--ink:#12273F;--muted:#5C7186;--body:#41576c;--line:#E4EEF5;--wa:#25D366;--wa-d:#1FB457;\n  font-family:'Inter',system-ui,sans-serif;color:var(--ink);background-color:#fff}\n.pa-lp *{box-sizing:border-box}\n.pa-lp a{text-decoration:none !important}\n.pa-lp .elementor-heading-title,.pa-lp .elementor-button,.pa-lp .elementor-icon-box-title,.pa-lp .elementor-tab-title{font-family:'Poppins',system-ui,sans-serif !important}\n.pa-lp .elementor-widget-text-editor{font-family:'Inter',system-ui,sans-serif !important}\n.pa-styles-sec,.pa-tail-sec{height:0;overflow:visible}\n.pa-styles-sec .elementor-widget,.pa-tail-sec .elementor-widget{margin:0 !important}\n.pa-lp .pa-center>.elementor-widget-wrap,.pa-lp.pa-center .elementor-widget-wrap{justify-content:center}\n\n/* Eyebrow */\n.pa-lp .pa-eyebrow .elementor-heading-title{display:inline-flex;align-items:center;gap:10px;color:var(--azure) !important;font-weight:600 !important;font-size:13px !important;letter-spacing:.16em !important;text-transform:uppercase !important;line-height:1.4 !important}\n.pa-lp .pa-eyebrow .elementor-heading-title::before{content:\"\";width:26px;height:2px;background:currentColor;display:inline-block}\n.pa-lp .pa-eyebrow{margin-bottom:6px !important}\n\n/* Botones */\n.pa-lp .pa-btn{margin:0 7px 14px !important}\n.pa-lp .pa-btn .elementor-button{display:inline-flex;align-items:center;justify-content:center;background:var(--azure) !important;color:#fff !important;fill:#fff !important;font-weight:600 !important;font-size:15px !important;line-height:1.2 !important;padding:15px 28px !important;border-radius:10px !important;border:none !important;transition:background .25s,transform .25s,box-shadow .25s}\n.pa-lp .pa-btn .elementor-button:hover{background:var(--azure-d) !important;transform:translateY(-2px);box-shadow:0 12px 26px rgba(41,169,224,.32)}\n.pa-lp .pa-btn .elementor-button i,.pa-lp .pa-btn .elementor-button svg{color:#fff !important;fill:#fff !important}\n.pa-lp .pa-btn.wa .elementor-button{background:var(--wa) !important}\n.pa-lp .pa-btn.wa .elementor-button:hover{background:var(--wa-d) !important;box-shadow:0 12px 26px rgba(37,211,102,.34)}\n.pa-lp .pa-btn.ghost .elementor-button{background:transparent !important;border:1.5px solid rgba(255,255,255,.4) !important}\n.pa-lp .pa-btn.ghost .elementor-button:hover{background:rgba(255,255,255,.12) !important;box-shadow:none}\n.pa-lp .pa-btn.outline{margin:0 0 6px !important}\n.pa-lp .pa-btn.outline .elementor-button{background:transparent !important;color:var(--azure-d) !important;border:1.5px solid var(--azure) !important;padding:12px 22px !important;font-size:14px !important}\n.pa-lp .pa-btn.outline .elementor-button i,.pa-lp .pa-btn.outline .elementor-button svg{color:var(--azure-d) !important;fill:var(--azure-d) !important}\n.pa-lp .pa-btn.outline .elementor-button:hover{background:var(--azure) !important;color:#fff !important;box-shadow:none}\n\n/* Hero */\n.pa-hero{background-color:var(--navy) !important}\n.pa-hero .pa-eyebrow .elementor-heading-title{color:#fff !important;letter-spacing:.18em !important;text-shadow:0 1px 12px rgba(0,0,0,.55)}\n.pa-hero .pa-h1{max-width:900px;margin-left:auto;margin-right:auto}\n.pa-hero .pa-h1 .elementor-heading-title{font-size:46px !important;font-weight:700 !important;line-height:1.12 !important;letter-spacing:-.6px;color:#fff !important;text-shadow:0 2px 28px rgba(0,0,0,.6)}\n.pa-hero .pa-ameta{width:auto !important;margin:0 auto 26px !important}\n.pa-hero .pa-ameta+.elementor-widget,.pa-hero .pa-ameta{flex-basis:auto}\n.pa-hero .pa-ameta .elementor-heading-title{display:inline-block;color:#fff !important;font-size:14px !important;font-weight:500 !important;line-height:1.5 !important;background:rgba(0,0,0,.32);border:1px solid rgba(255,255,255,.22);padding:10px 20px;border-radius:40px;-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px)}\n.pa-hero .pa-ameta{flex:0 0 100%;text-align:center}\n\n/* Migas */\n.pa-crumbs-sec{background:var(--soft) !important;border-bottom:1px solid var(--line)}\n.pa-lp .pa-crumbs p{margin:0 !important;padding:14px 24px;font-size:13.5px;color:var(--muted)}\n.pa-lp .pa-crumbs a{color:var(--azure-d) !important;font-weight:500}\n\n/* Artículo */\n.pa-article .elementor-widget-wrap{padding:0 24px !important}\n.pa-lp .pa-lead p{font-size:18.5px;color:var(--ink);line-height:1.75;margin:0 0 8px}\n.pa-lp .pa-h2{margin-top:32px !important;margin-bottom:14px !important}\n.pa-lp .pa-h2 .elementor-heading-title{font-size:28px !important;color:var(--navy) !important;font-weight:700 !important;line-height:1.25 !important}\n.pa-lp .pa-text{color:var(--body);font-size:16.5px;line-height:1.8}\n.pa-lp .pa-text p{color:var(--body);font-size:16.5px;line-height:1.8;margin:0 0 16px}\n.pa-lp .pa-text h3{font-family:'Poppins',sans-serif !important;font-size:20px !important;color:var(--navy) !important;font-weight:600 !important;line-height:1.3 !important;margin:28px 0 8px !important}\n.pa-lp .pa-text ul.plain{margin:0 0 16px 20px;padding:0;color:var(--body)}\n.pa-lp .pa-text a,.pa-lp .pa-lead a,.pa-lp .elementor-tab-content a{color:var(--azure-d) !important;font-weight:600;border-bottom:1px solid rgba(41,169,224,.45)}\n.pa-lp .pa-img img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:16px}\n\n/* Ficha */\n.pa-lp .fiche{border:1px solid var(--line);border-radius:16px;overflow:hidden;margin:8px 0}\n.pa-lp .fiche table{width:100%;border-collapse:collapse !important;border:none !important;font-size:15.5px;margin:0 !important}\n.pa-lp .fiche caption{caption-side:top;text-align:left;background:var(--navy);color:#fff;font-family:'Poppins',sans-serif;font-weight:600;font-size:16px;padding:14px 20px}\n.pa-lp .fiche th,.pa-lp .fiche td{padding:13px 20px !important;border:none !important;border-top:1px solid var(--line) !important;text-align:left !important;vertical-align:top;line-height:1.6}\n.pa-lp .fiche th{width:32%;color:var(--navy) !important;font-family:'Poppins',sans-serif;font-weight:600 !important;font-size:14.5px;background:var(--soft) !important}\n.pa-lp .fiche td{color:var(--body) !important;background:#fff !important}\n\n/* Lista de soins */\n.pa-lp .soins-list{list-style:none !important;display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:20px 0 8px !important;padding:0 !important}\n.pa-lp .soins-list li{margin:0 !important;list-style:none !important}\n.pa-lp .soins-list a{display:block;height:100%;background:#fff;border:1px solid var(--line) !important;border-radius:12px;padding:14px 18px;transition:border-color .2s,background .2s}\n.pa-lp .soins-list a:hover{border-color:var(--azure) !important;background:var(--tint)}\n.pa-lp .soins-list strong{display:block;font-family:'Poppins',sans-serif;font-weight:600;color:var(--navy);font-size:15.5px;line-height:1.35}\n.pa-lp .soins-list span{display:block;color:var(--muted);font-size:14px;font-weight:400;line-height:1.5;margin-top:3px}\n\n/* CTA intermedio */\n.pa-lp .cta-inline{background:var(--soft);border:1px solid var(--line);border-left:4px solid var(--azure);border-radius:12px;padding:22px 24px;margin:16px 0 8px}\n.pa-lp .cta-inline p{color:var(--ink) !important;margin:0 0 14px !important}\n.pa-lp .cta-inline p:last-child{margin:0 !important}\n.pa-lp .cta-inline a.btn{display:inline-flex;background:var(--azure) !important;color:#fff !important;font-family:'Poppins',sans-serif;font-weight:600;font-size:14px;padding:12px 22px;border-radius:10px;border:none !important}\n.pa-lp .cta-inline a.btn:hover{background:var(--azure-d) !important}\n\n/* Encabezados de sección (Pourquoi / FAQ) */\n.pa-lp .pa-title .elementor-heading-title{font-size:36px !important;font-weight:700 !important;line-height:1.2 !important;color:var(--navy) !important;letter-spacing:-.5px}\n.pa-lp .pa-sub{max-width:760px;margin:0 auto 22px !important}\n.pa-lp .pa-sub p{color:var(--muted);font-size:17px;margin:0;text-align:center}\n.pa-soft{background-color:var(--soft) !important}\n\n/* Tarjetas «Pourquoi» (Cuadro de icono) */\n.pa-why-grid .elementor-widget-wrap{padding:0 11px !important}\n.pa-lp .pa-wcard{background:#fff;border:1px solid var(--line);border-radius:18px;padding:30px 28px;margin-bottom:22px !important}\n.pa-lp .pa-wcard .elementor-icon-box-wrapper{text-align:left !important}\n.pa-lp .pa-wcard .elementor-icon-box-icon{margin:0 0 16px !important;display:block}\n.pa-lp .pa-wcard .elementor-icon{width:52px;height:52px;border-radius:14px;background:var(--tint);color:var(--azure) !important;fill:var(--azure) !important;display:flex !important;align-items:center;justify-content:center;font-size:21px !important;padding:0 !important;border:none !important}\n.pa-lp .pa-wcard .elementor-icon svg{width:21px;height:21px}\n.pa-lp .pa-wcard .elementor-icon-box-title{font-size:20px !important;color:var(--navy) !important;font-weight:600 !important;line-height:1.3 !important;margin:0 0 8px !important}\n.pa-lp .pa-wcard .elementor-icon-box-title a,.pa-lp .pa-wcard .elementor-icon-box-title span{color:var(--navy) !important}\n.pa-lp .pa-wcard .elementor-icon-box-description{color:var(--muted) !important;font-size:15px !important;line-height:1.7 !important;margin:0 !important}\n\n/* FAQ (Acordeón) */\n.pa-lp .pa-faq .elementor-accordion-item{border:1px solid var(--line) !important;border-radius:14px;margin-bottom:14px;overflow:hidden;background:#fff}\n.pa-lp .pa-faq .elementor-accordion-item+.elementor-accordion-item{border-top:1px solid var(--line) !important}\n.pa-lp .pa-faq .elementor-tab-title{margin:0 !important;padding:20px 24px !important;font-weight:600 !important;font-size:17px !important;line-height:1.4 !important;color:var(--navy) !important;border:none !important;cursor:pointer;text-transform:none !important;letter-spacing:0 !important}\n.pa-lp .pa-faq .elementor-tab-title a{color:var(--navy) !important;font-family:'Poppins',sans-serif !important}\n.pa-lp .pa-faq .elementor-tab-title.elementor-active{border-bottom:none !important}\n.pa-lp .pa-faq .elementor-accordion-item:has(.elementor-active){border-color:var(--azure) !important;box-shadow:0 14px 30px rgba(41,169,224,.10)}\n.pa-lp .pa-faq .elementor-accordion-icon{width:30px;height:30px;border-radius:8px;background:var(--tint);color:var(--azure) !important;display:flex !important;align-items:center;justify-content:center;font-size:14px;margin-left:16px}\n.pa-lp .pa-faq .elementor-accordion-icon i,.pa-lp .pa-faq .elementor-accordion-icon svg{color:var(--azure) !important;fill:var(--azure) !important;width:14px}\n.pa-lp .pa-faq .elementor-tab-title.elementor-active .elementor-accordion-icon{background:var(--azure)}\n.pa-lp .pa-faq .elementor-tab-title.elementor-active .elementor-accordion-icon i,.pa-lp .pa-faq .elementor-tab-title.elementor-active .elementor-accordion-icon svg{color:#fff !important;fill:#fff !important}\n.pa-lp .pa-faq .elementor-tab-title{display:flex;flex-direction:row-reverse;justify-content:space-between;align-items:center}\n.pa-lp .pa-faq .elementor-tab-content{padding:0 24px 22px !important;border:none !important;color:var(--muted);font-size:15.5px;line-height:1.75}\n.pa-lp .pa-faq .elementor-tab-content p{margin:0 0 10px;color:var(--muted)}\n\n/* CTA final */\n.pa-lp .pa-cta-title .elementor-heading-title{font-size:36px !important;font-weight:700 !important;line-height:1.2 !important;color:#fff !important;letter-spacing:-.5px;max-width:820px;margin:0 auto !important}\n.pa-lp .pa-cta-sub{max-width:720px;margin:0 auto 18px !important}\n.pa-lp .pa-cta-sub p{font-size:18.5px;color:#DCE9F4 !important;margin:0;text-align:center}\n\n/* Centrado y anchos (no depende de los ajustes del tema) */\n.pa-hero .elementor-widget-heading,.pa-cta .elementor-widget-heading,.pa-soft .pa-eyebrow,.pa-soft .pa-title,.pa-faq-sec .pa-eyebrow,.pa-faq-sec .pa-title{text-align:center !important}\n.pa-hero .elementor-heading-title,.pa-cta .elementor-heading-title,.pa-soft .pa-title .elementor-heading-title,.pa-faq-sec .pa-title .elementor-heading-title{text-align:center !important}\n.pa-lp .pa-title{margin-bottom:12px !important}\n.pa-lp .pa-sub,.pa-lp .pa-cta-sub{width:100% !important;max-width:none !important;flex:0 0 100%}\n.pa-lp .pa-sub p{max-width:760px;margin:0 auto !important}\n.pa-lp .pa-cta-sub p{max-width:720px;margin:0 auto !important}\n.pa-faq-sec .pa-title{margin-bottom:30px !important}\n.pa-lp .pa-faq .elementor-accordion-icon-opened{display:none !important}\n.pa-lp .pa-faq .elementor-tab-title.elementor-active .elementor-accordion-icon-closed{display:none !important}\n.pa-lp .pa-faq .elementor-tab-title.elementor-active .elementor-accordion-icon-opened{display:block !important}\n\n/* Mapa */\n.pa-lp .pa-map iframe{display:block;border:0}\n\n/* Botón flotante WhatsApp */\n.pa-wafab{position:fixed;right:22px;bottom:104px;z-index:1200;width:58px;height:58px;border-radius:50%;background:#25D366;color:#fff !important;display:flex;align-items:center;justify-content:center;font-size:30px;text-decoration:none !important;animation:paWaPulse 2.2s infinite}\n.pa-wafab:hover{background:#1FB457}\n.pa-wafab i,.pa-wafab i::before{color:#fff !important}\n@keyframes paWaPulse{0%{box-shadow:0 0 0 0 rgba(37,211,102,.55)}70%{box-shadow:0 0 0 16px rgba(37,211,102,0)}100%{box-shadow:0 0 0 0 rgba(37,211,102,0)}}\n\n@media(max-width:980px){\n  .pa-hero .pa-h1 .elementor-heading-title{font-size:38px !important}\n  .pa-lp .pa-title .elementor-heading-title,.pa-lp .pa-cta-title .elementor-heading-title{font-size:30px !important}\n}\n@media(max-width:767px){\n  .pa-hero .pa-h1 .elementor-heading-title{font-size:30px !important}\n  .pa-lp .pa-h2 .elementor-heading-title{font-size:23px !important}\n  .pa-lp .pa-title .elementor-heading-title,.pa-lp .pa-cta-title .elementor-heading-title{font-size:26px !important}\n  .pa-article .elementor-widget-wrap{padding:0 16px !important}\n  .pa-lp .soins-list{grid-template-columns:1fr}\n  .pa-lp .pa-btn{width:100% !important;margin:0 0 12px !important}\n  .pa-lp .pa-btn .elementor-button{width:100%}\n  .pa-lp .pa-btn.outline{width:auto !important}\n  .pa-lp .fiche th,.pa-lp .fiche td{display:block;width:100%}\n  .pa-lp .fiche th{padding-bottom:2px !important}\n  .pa-lp .fiche td{border-top:none !important;padding-top:2px !important;background:var(--soft) !important}\n  .pa-wafab{right:14px;bottom:92px;width:54px;height:54px;font-size:28px}\n}\n@media(prefers-reduced-motion:reduce){.pa-wafab{animation:none}}\n\n</style>",
+        "_css_classes": "pa-styles"
+       },
+       "elements": [],
+       "isInner": false
+      }
+     ],
+     "isInner": false
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "edf4f20",
+   "elType": "section",
+   "settings": {
+    "gap": "no",
+    "layout": "full_width",
+    "stretch_section": "section-stretched",
+    "background_background": "classic",
+    "background_color": "#0E2C4F",
+    "background_position": "center center",
+    "background_size": "cover",
+    "background_overlay_background": "classic",
+    "background_overlay_color": "#000000",
+    "background_overlay_opacity": {
+     "unit": "px",
+     "size": 0.45
+    },
+    "padding": {
+     "unit": "px",
+     "top": "120",
+     "right": "24",
+     "bottom": "120",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "84",
+     "right": "18",
+     "bottom": "76",
+     "left": "18",
+     "isLinked": false
+    },
+    "css_classes": "pa-lp pa-hero"
+   },
+   "elements": [
+    {
+     "id": "7cf4cc5",
+     "elType": "column",
+     "settings": {
+      "_column_size": 100,
+      "_inline_size": null,
+      "css_classes": "pa-center"
+     },
+     "elements": [
+      {
+       "id": "18fd968",
+       "elType": "widget",
+       "widgetType": "heading",
+       "settings": {
+        "title": "Physiothérapie · Lausanne",
+        "header_size": "p",
+        "align": "center",
+        "_css_classes": "pa-eyebrow"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "55945aa",
+       "elType": "widget",
+       "widgetType": "heading",
+       "settings": {
+        "title": "Physio à Lausanne : à domicile selon votre adresse ou au cabinet d'Ins",
+        "header_size": "h1",
+        "align": "center",
+        "_css_classes": "pa-h1"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "be27a2b",
+       "elType": "widget",
+       "widgetType": "heading",
+       "settings": {
+        "title": "Physio Activa · physio à domicile selon l'adresse et cabinet d'Ins, pour Lausanne",
+        "header_size": "div",
+        "align": "center",
+        "_css_classes": "pa-ameta"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "62de506",
+       "elType": "widget",
+       "widgetType": "button",
+       "settings": {
+        "text": "Rendez-vous online",
+        "link": {
+         "url": "https://www.onedoc.ch/fr/cabinet-de-physiotherapie/anet/ebdut/physioactiva",
+         "is_external": "on",
+         "nofollow": "",
+         "custom_attributes": ""
+        },
+        "selected_icon": {
+         "value": "fas fa-calendar-check",
+         "library": "fa-solid"
+        },
+        "icon_indent": {
+         "unit": "px",
+         "size": 8
+        },
+        "_element_width": "auto",
+        "_element_width_mobile": "inherit",
+        "_css_classes": "pa-btn"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "b0bb71c",
+       "elType": "widget",
+       "widgetType": "button",
+       "settings": {
+        "text": "WhatsApp",
+        "link": {
+         "url": "https://wa.me/41766273838?text=Bonjour%2C%20je%20souhaite%20prendre%20rendez-vous%20chez%20Physio%20Activa%20%28physio%20%C3%A0%20Lausanne%29.",
+         "is_external": "on",
+         "nofollow": "",
+         "custom_attributes": ""
+        },
+        "selected_icon": {
+         "value": "fab fa-whatsapp",
+         "library": "fa-brands"
+        },
+        "icon_indent": {
+         "unit": "px",
+         "size": 8
+        },
+        "_element_width": "auto",
+        "_element_width_mobile": "inherit",
+        "_css_classes": "pa-btn wa"
+       },
+       "elements": [],
+       "isInner": false
+      }
+     ],
+     "isInner": false
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "182fbca",
+   "elType": "section",
+   "settings": {
+    "gap": "no",
+    "content_width": {
+     "unit": "px",
+     "size": 828
+    },
+    "css_classes": "pa-lp pa-crumbs-sec"
+   },
+   "elements": [
+    {
+     "id": "a66cc43",
+     "elType": "column",
+     "settings": {
+      "_column_size": 100,
+      "_inline_size": null
+     },
+     "elements": [
+      {
+       "id": "a26b8ae",
+       "elType": "widget",
+       "widgetType": "text-editor",
+       "settings": {
+        "editor": "<p><a href=\"/\">Accueil</a> <span aria-hidden=\"true\">›</span> Physiothérapie à Lausanne</p>",
+        "_css_classes": "pa-crumbs"
+       },
+       "elements": [],
+       "isInner": false
+      }
+     ],
+     "isInner": false
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "cf6dd0f",
+   "elType": "section",
+   "settings": {
+    "gap": "no",
+    "content_width": {
+     "unit": "px",
+     "size": 828
+    },
+    "padding": {
+     "unit": "px",
+     "top": "56",
+     "right": "0",
+     "bottom": "72",
+     "left": "0",
+     "isLinked": false
+    },
+    "css_classes": "pa-lp pa-article"
+   },
+   "elements": [
+    {
+     "id": "a2493fb",
+     "elType": "column",
+     "settings": {
+      "_column_size": 100,
+      "_inline_size": null,
+      "css_classes": "article"
+     },
+     "elements": [
+      {
+       "id": "a3560df",
+       "elType": "widget",
+       "widgetType": "text-editor",
+       "settings": {
+        "editor": "<p>Vous cherchez un physio à domicile à Lausanne après une hospitalisation, ou un physio à Lausanne que vous pouvez voir en fin de journée en rentrant du travail ? Selon votre adresse, Physio Activa peut venir chez vous ; sinon, nous vous recevons au cabinet d'Ins, du lundi au vendredi jusqu'à 20h, avec un premier rendez-vous dans la semaine dans la plupart des cas.</p>",
+        "_css_classes": "pa-lead"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "459ecdb",
+       "elType": "widget",
+       "widgetType": "html",
+       "settings": {
+        "html": "<div class=\"fiche\"><table><caption>Physio Activa pour les patients de Lausanne, en bref</caption><tbody><tr><th scope=\"row\">Cabinet</th><td>Rämismatte 21, 3232 Ins (1er étage du bâtiment Lidl, InsGym), parking sur place</td></tr><tr><th scope=\"row\">Depuis Lausanne</th><td>Environ 65,0 km à vol d&#x27;oiseau jusqu&#x27;au cabinet d&#x27;Ins</td></tr><tr><th scope=\"row\">À domicile</th><td>Selon votre adresse (Pully, Prilly, Renens, Épalinges) : contactez-nous pour le vérifier</td></tr><tr><th scope=\"row\">Délai</th><td>Rendez-vous dans la semaine dans la plupart des cas</td></tr><tr><th scope=\"row\">Horaires</th><td>Du lundi au vendredi, jusqu&#x27;à 20h</td></tr><tr><th scope=\"row\">Langues</th><td>Français, allemand, anglais, espagnol et portugais</td></tr><tr><th scope=\"row\">Assurances</th><td>Cabinet reconnu par toutes les compagnies d&#x27;assurance maladie en Suisse</td></tr><tr><th scope=\"row\">Réservation</th><td>En ligne (OneDoc), par WhatsApp ou au 076 627 38 38</td></tr></tbody></table></div>",
+        "_css_classes": "pa-fiche"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "fc3ec20",
+       "elType": "widget",
+       "widgetType": "heading",
+       "settings": {
+        "title": "Pour quels Lausannois le cabinet d'Ins a-t-il du sens ?",
+        "header_size": "h2",
+        "_css_classes": "pa-h2"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "d6d5bdb",
+       "elType": "widget",
+       "widgetType": "text-editor",
+       "settings": {
+        "editor": "<p>Lausanne compte de nombreux cabinets, et un physiothérapeute à Lausanne même reste souvent le plus pratique. Notre cabinet d'Ins, à environ 65 km en ligne droite, s'adresse surtout :</p>\n<ul class=\"plain\"><li>aux personnes qui vivent à Lausanne et travaillent dans le Seeland, à Bienne, à Neuchâtel ou vers Berne ;</li><li>aux patients sortis du CHUV qui passent leur convalescence chez de la famille dans la région des Trois-Lacs ;</li><li>à ceux qui veulent un drainage lymphatique médical, du dry needling et un entraînement sur appareils dans un même lieu.</li></ul>\n<p>Le cabinet se trouve à la Rämismatte 21, à Ins, au premier étage du bâtiment Lidl, avec parking. L'équipe parle français, allemand, anglais, espagnol et portugais.</p>",
+        "_css_classes": "pa-text"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "d112176",
+       "elType": "widget",
+       "widgetType": "button",
+       "settings": {
+        "text": "Itinéraire depuis Lausanne",
+        "link": {
+         "url": "https://www.google.com/maps/dir/?api=1&origin=Lausanne%2C%20Suisse&destination=Physio%20Activa%2C%20R%C3%A4mismatte%2021%2C%203232%20Ins",
+         "is_external": "on",
+         "nofollow": "",
+         "custom_attributes": ""
+        },
+        "selected_icon": {
+         "value": "fas fa-route",
+         "library": "fa-solid"
+        },
+        "icon_indent": {
+         "unit": "px",
+         "size": 8
+        },
+        "_element_width": "auto",
+        "_element_width_mobile": "inherit",
+        "_css_classes": "pa-btn outline"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "364e337",
+       "elType": "widget",
+       "widgetType": "image",
+       "settings": {
+        "image": {
+         "url": "",
+         "id": "",
+         "alt": "Physiothérapeute de Physio Activa en séance, physio pour les patients de Lausanne"
+        },
+        "image_size": "full",
+        "_css_classes": "pa-img"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "3afd9f2",
+       "elType": "widget",
+       "widgetType": "heading",
+       "settings": {
+        "title": "Drainage lymphatique : ce qu'il faut savoir avant de réserver",
+        "header_size": "h2",
+        "_css_classes": "pa-h2"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "f4994b8",
+       "elType": "widget",
+       "widgetType": "text-editor",
+       "settings": {
+        "editor": "<p>C'est la recherche la plus fréquente après « physio » chez les Lausannois. Pour vous y retrouver :</p>\n<ul class=\"plain\"><li><strong>Pour qui ?</strong> Les personnes dont une jambe ou un bras reste gonflé après une opération, une entorse ou l'ablation de ganglions.</li><li><strong>Comment ?</strong> Le physiothérapeute mesure le gonflement, puis pratique des manœuvres manuelles douces qui accompagnent la lymphe vers les ganglions.</li><li><strong>Avec quoi ?</strong> Des exercices, et une contention si votre médecin la recommande.</li><li><strong>Et pas pour quoi ?</strong> Le <a class=\"inlink\" href=\"/drainage-lymphatique/\">drainage lymphatique</a> médical n'est ni un soin minceur ni un traitement de la cellulite.</li></ul>\n<p>Un gonflement soudain, chaud et douloureux d'un mollet doit être vu par un médecin avant toute séance.</p>",
+        "_css_classes": "pa-text"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "70dda67",
+       "elType": "widget",
+       "widgetType": "heading",
+       "settings": {
+        "title": "Physiothérapeute, kiné ou ostéopathe à Lausanne : qui fait quoi ?",
+        "header_size": "h2",
+        "_css_classes": "pa-h2"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "039e403",
+       "elType": "widget",
+       "widgetType": "text-editor",
+       "settings": {
+        "editor": "<p>À Lausanne, on lit souvent « kiné » : c'est le terme français pour le même métier, celui qu'exerce tout physiothérapeute à Lausanne comme à Ins. La physiothérapie à Lausanne comme ailleurs en Suisse associe techniques manuelles, exercices et entraînement, avec un bilan et des objectifs mesurables.</p>\n<p>L'ostéopathie est une autre profession, centrée sur les techniques manuelles. Si votre problème demande une rééducation progressive, après une opération, une blessure de sport ou un mal de dos récidivant, la physiothérapie est la porte d'entrée naturelle.</p>",
+        "_css_classes": "pa-text"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "815a9ef",
+       "elType": "widget",
+       "widgetType": "heading",
+       "settings": {
+        "title": "Physio à domicile à Lausanne et environs",
+        "header_size": "h2",
+        "_css_classes": "pa-h2"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "eda27ed",
+       "elType": "widget",
+       "widgetType": "text-editor",
+       "settings": {
+        "editor": "<p>Vous cherchez un physio à domicile à Lausanne, à Pully, à Prilly, à Renens ou à Épalinges ? Selon votre adresse, nous pouvons aussi venir à domicile : contactez-nous pour le vérifier. Indiquez votre commune et la raison du suivi : nous vous disons rapidement si un physiothérapeute à domicile peut se rendre chez vous.</p>\n<p>La physiothérapie à domicile s'adresse aux personnes qui ne peuvent pas se déplacer : retour du CHUV après une prothèse ou une fracture, grande fatigue, mobilité réduite, grand âge. Le physiothérapeute travaille dans votre environnement réel, le lever du lit, l'escalier, la salle de bain, les premiers pas dehors, et apporte le petit matériel. Le drainage lymphatique se fait aussi très bien à la maison.</p>\n<p>Vous passez votre convalescence chez des proches dans la région des Trois-Lacs ? La physio à domicile chez eux est souvent la solution la plus simple. Tout sur la <a class=\"inlink\" href=\"/physiotherapeute-a-domicile/\">physio à domicile</a>.</p>",
+        "_css_classes": "pa-text"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "64fb108",
+       "elType": "widget",
+       "widgetType": "heading",
+       "settings": {
+        "title": "Physiothérapie pour Lausanne : nos soins",
+        "header_size": "h2",
+        "_css_classes": "pa-h2"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "a94ff2c",
+       "elType": "widget",
+       "widgetType": "text-editor",
+       "settings": {
+        "editor": "<p>Au cabinet d'Ins, les patients venus de Lausanne retrouvent tous nos soins, en particulier :</p>\n<ul class=\"soins-list\"><li><a href=\"/physiotherapeute-a-domicile/\"><strong>Physiothérapie à domicile</strong><span>Les séances chez vous quand se déplacer est difficile.</span></a></li><li><a href=\"/drainage-lymphatique/\"><strong>Drainage lymphatique</strong><span>Œdèmes, jambes lourdes, suites opératoires.</span></a></li><li><a href=\"/massage-therapeutique/\"><strong>Massage thérapeutique</strong><span>Contractures et tensions musculaires.</span></a></li><li><a href=\"/physio-du-sport/\"><strong>Physiothérapie du sport</strong><span>Blessures, surcharge et retour à l&#x27;entraînement.</span></a></li><li><a href=\"/physio-generale/\"><strong>Physiothérapie générale</strong><span>Douleurs, raideurs et gênes du quotidien.</span></a></li><li><a href=\"/mal-de-dos-lombaire/\"><strong>Mal de dos et lombalgie</strong><span>Lumbago, douleurs en position assise, rechutes.</span></a></li><li><a href=\"/sciatique-hernie-discale/\"><strong>Sciatique et hernie discale</strong><span>Douleur qui descend dans la jambe.</span></a></li><li><a href=\"/douleur-cervicale-au-cou/\"><strong>Douleur cervicale</strong><span>Nuque raide, torticolis, travail de bureau.</span></a></li><li><a href=\"/lesions-de-lepaule/\"><strong>Douleur de l&#x27;épaule</strong><span>Coiffe des rotateurs, tendinite, capsulite.</span></a></li><li><a href=\"/douleur-du-genou-lesions-de-la-cheville/\"><strong>Genou</strong><span>Ménisque, ligament croisé, arthrose, prothèse.</span></a></li></ul>",
+        "_css_classes": "pa-text"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "da751b8",
+       "elType": "widget",
+       "widgetType": "text-editor",
+       "settings": {
+        "editor": "<div class=\"cta-inline\"><p>Besoin d'un physio à domicile à Lausanne ? Écrivez-nous votre adresse : nous vérifions si un physiothérapeute peut venir, sinon nous vous proposons un créneau au cabinet d'Ins jusqu'à 20h.</p><p><a class=\"btn\" href=\"https://www.onedoc.ch/fr/cabinet-de-physiotherapie/anet/ebdut/physioactiva\" target=\"_blank\" rel=\"noopener\">Rendez-vous online</a></p></div>",
+        "_css_classes": "pa-text"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "39d6d3e",
+       "elType": "widget",
+       "widgetType": "heading",
+       "settings": {
+        "title": "Médecin ou physio en premier ?",
+        "header_size": "h2",
+        "_css_classes": "pa-h2"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "fb72a0f",
+       "elType": "widget",
+       "widgetType": "text-editor",
+       "settings": {
+        "editor": "<p>Une douleur articulaire ou musculaire qui s'installe depuis plus d'une semaine, une rééducation prévue après une opération, une blessure de sport : vous pouvez réserver directement chez le physio.</p>\n<p>Le médecin d'abord en cas de fièvre, de choc violent, de perte de force dans un membre, de troubles urinaires avec un mal de dos ou de mollet enflé et chaud. Douleur thoracique : appelez le 144.</p>",
+        "_css_classes": "pa-text"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "d2ee0c6",
+       "elType": "widget",
+       "widgetType": "heading",
+       "settings": {
+        "title": "Les soins que les Lausannois viennent chercher",
+        "header_size": "h2",
+        "_css_classes": "pa-h2"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "80e9069",
+       "elType": "widget",
+       "widgetType": "text-editor",
+       "settings": {
+        "editor": "<h3>Massage thérapeutique</h3>\n<p>Contractures de la nuque et du dos liées aux trajets et aux écrans : le <a class=\"inlink\" href=\"/massage-therapeutique/\">massage thérapeutique</a> relâche, les exercices évitent la rechute.</p>\n<h3>Physio du sport</h3>\n<p>Course sur les quais, ski, football : traitement de la blessure puis reprise progressive, voir <a class=\"inlink\" href=\"/physio-du-sport/\">physiothérapie du sport</a>.</p>\n<h3>Dry needling</h3>\n<p>Une aiguille fine, sans injection, pour relâcher un point de tension : tout sur le <a class=\"inlink\" href=\"/physioactiva-puncture-seche/\">dry needling</a>.</p>\n<h3>Rééducation après le CHUV</h3>\n<p>Prothèse, ligament, épaule opérée : voir <a class=\"inlink\" href=\"/douleur-de-hanche-protheses/\">hanche et prothèses</a>, <a class=\"inlink\" href=\"/douleur-du-genou-lesions-de-la-cheville/\">genou</a> et <a class=\"inlink\" href=\"/lesions-de-lepaule/\">épaule</a>.</p>",
+        "_css_classes": "pa-text"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "2c86987",
+       "elType": "widget",
+       "widgetType": "heading",
+       "settings": {
+        "title": "Votre suivi, de la réservation au programme maison",
+        "header_size": "h2",
+        "_css_classes": "pa-h2"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "3e8aec9",
+       "elType": "widget",
+       "widgetType": "text-editor",
+       "settings": {
+        "editor": "<h3>Réservation</h3>\n<p>En ligne ou par téléphone ; indiquez si vous venez de Lausanne pour que nous trouvions un créneau compatible avec votre trajet.</p>\n<h3>Bilan</h3>\n<p>Entretien, tests et, si besoin, mesure de l'œdème.</p>\n<h3>Séances</h3>\n<p>Drainage, thérapie manuelle, dry needling ou exercices, puis entraînement <a class=\"inlink\" href=\"/medical-training-therapy-mtt/\">MTT</a>.</p>\n<h3>Programme maison</h3>\n<p>Quelques exercices pour continuer entre les séances et après.</p>",
+        "_css_classes": "pa-text"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "1b4c9a6",
+       "elType": "widget",
+       "widgetType": "image",
+       "settings": {
+        "image": {
+         "url": "",
+         "id": "",
+         "alt": "Salle de traitement du cabinet Physio Activa à Ins, proche de Lausanne"
+        },
+        "image_size": "full",
+        "_css_classes": "pa-img"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "ef53947",
+       "elType": "widget",
+       "widgetType": "heading",
+       "settings": {
+        "title": "Venir au cabinet d'Ins depuis Lausanne",
+        "header_size": "h2",
+        "_css_classes": "pa-h2"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "d2947cc",
+       "elType": "widget",
+       "widgetType": "text-editor",
+       "settings": {
+        "editor": "<p>Ins se trouve à environ 65 km en ligne droite de Lausanne, dans le Seeland bernois, entre les lacs de Neuchâtel, de Bienne et de Morat. Parking devant le bâtiment ; plan d'accès sur <a class=\"inlink\" href=\"/nous-trouver/\">Nous trouver</a>.</p>\n<p>Lausanne est le chef-lieu du canton de Vaud. Après une hospitalisation au CHUV, les recommandations de l'équipe hospitalière servent de base à la rééducation que nous poursuivons.</p>",
+        "_css_classes": "pa-text"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "5a193d8",
+       "elType": "widget",
+       "widgetType": "heading",
+       "settings": {
+        "title": "Assurances et horaires : physio à Lausanne",
+        "header_size": "h2",
+        "_css_classes": "pa-h2"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "0c6efac",
+       "elType": "widget",
+       "widgetType": "text-editor",
+       "settings": {
+        "editor": "<p>Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Séances du lundi au vendredi, jusqu'à 20h.</p>",
+        "_css_classes": "pa-text"
+       },
+       "elements": [],
+       "isInner": false
+      }
+     ],
+     "isInner": false
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "d832920",
+   "elType": "section",
+   "settings": {
+    "gap": "no",
+    "padding": {
+     "unit": "px",
+     "top": "72",
+     "right": "24",
+     "bottom": "72",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "54",
+     "right": "16",
+     "bottom": "54",
+     "left": "16",
+     "isLinked": false
+    },
+    "css_classes": "pa-lp pa-soft"
+   },
+   "elements": [
+    {
+     "id": "cb00a61",
+     "elType": "column",
+     "settings": {
+      "_column_size": 100,
+      "_inline_size": null
+     },
+     "elements": [
+      {
+       "id": "e000f18",
+       "elType": "widget",
+       "widgetType": "heading",
+       "settings": {
+        "title": "En résumé",
+        "header_size": "p",
+        "align": "center",
+        "_css_classes": "pa-eyebrow"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "42f3913",
+       "elType": "widget",
+       "widgetType": "heading",
+       "settings": {
+        "title": "Ce que Physio Activa offre aux patients de Lausanne",
+        "header_size": "h2",
+        "align": "center",
+        "_css_classes": "pa-title"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "d374391",
+       "elType": "widget",
+       "widgetType": "text-editor",
+       "settings": {
+        "editor": "<p>Créneaux jusqu'à 20h, drainage lymphatique médical, dry needling et entraînement sur appareils, en cinq langues.</p>",
+        "align": "center",
+        "_css_classes": "pa-sub"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "6d19b35",
+       "elType": "section",
+       "settings": {
+        "gap": "extended",
+        "content_width": {
+         "unit": "px",
+         "size": 1000
+        },
+        "css_classes": "pa-why-grid"
+       },
+       "elements": [
+        {
+         "id": "ece6d37",
+         "elType": "column",
+         "settings": {
+          "_column_size": 50,
+          "_inline_size": null
+         },
+         "elements": [
+          {
+           "id": "d86e076",
+           "elType": "widget",
+           "widgetType": "icon-box",
+           "settings": {
+            "selected_icon": {
+             "value": "fas fa-shield-heart",
+             "library": "fa-solid"
+            },
+            "title_text": "Toutes les compagnies d'assurance",
+            "description_text": "Assuré dans le canton de Vaud ? Aucun problème : toutes les compagnies d'assurance maladie en Suisse reconnaissent notre cabinet.",
+            "title_size": "h3",
+            "position": "top",
+            "text_align": "left",
+            "_css_classes": "pa-wcard"
+           },
+           "elements": [],
+           "isInner": false
+          },
+          {
+           "id": "81077ab",
+           "elType": "widget",
+           "widgetType": "icon-box",
+           "settings": {
+            "selected_icon": {
+             "value": "fas fa-clipboard-list",
+             "library": "fa-solid"
+            },
+            "title_text": "Soins spécialisés réunis",
+            "description_text": "Drainage lymphatique manuel, dry needling, massage thérapeutique et entraînement MTT au même endroit.",
+            "title_size": "h3",
+            "position": "top",
+            "text_align": "left",
+            "_css_classes": "pa-wcard"
+           },
+           "elements": [],
+           "isInner": false
+          }
+         ],
+         "isInner": true
+        },
+        {
+         "id": "4ea0e33",
+         "elType": "column",
+         "settings": {
+          "_column_size": 50,
+          "_inline_size": null
+         },
+         "elements": [
+          {
+           "id": "1aadca6",
+           "elType": "widget",
+           "widgetType": "icon-box",
+           "settings": {
+            "selected_icon": {
+             "value": "fas fa-house-medical",
+             "library": "fa-solid"
+            },
+            "title_text": "Physio à domicile selon l'adresse",
+            "description_text": "Quand vous ne pouvez pas vous déplacer, nous vérifions avec vous si un physiothérapeute peut venir chez vous.",
+            "title_size": "h3",
+            "position": "top",
+            "text_align": "left",
+            "_css_classes": "pa-wcard"
+           },
+           "elements": [],
+           "isInner": false
+          },
+          {
+           "id": "85b173f",
+           "elType": "widget",
+           "widgetType": "icon-box",
+           "settings": {
+            "selected_icon": {
+             "value": "fas fa-calendar-check",
+             "library": "fa-solid"
+            },
+            "title_text": "Simple à réserver",
+            "description_text": "En ligne, au 076 627 38 38 ou par WhatsApp.",
+            "title_size": "h3",
+            "position": "top",
+            "text_align": "left",
+            "_css_classes": "pa-wcard"
+           },
+           "elements": [],
+           "isInner": false
+          }
+         ],
+         "isInner": true
+        }
+       ],
+       "isInner": true
+      }
+     ],
+     "isInner": false
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "8a5ccea",
+   "elType": "section",
+   "settings": {
+    "gap": "no",
+    "content_width": {
+     "unit": "px",
+     "size": 868
+    },
+    "padding": {
+     "unit": "px",
+     "top": "72",
+     "right": "24",
+     "bottom": "72",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "54",
+     "right": "16",
+     "bottom": "54",
+     "left": "16",
+     "isLinked": false
+    },
+    "css_classes": "pa-lp pa-faq-sec"
+   },
+   "elements": [
+    {
+     "id": "92be294",
+     "elType": "column",
+     "settings": {
+      "_column_size": 100,
+      "_inline_size": null
+     },
+     "elements": [
+      {
+       "id": "ebd39df",
+       "elType": "widget",
+       "widgetType": "heading",
+       "settings": {
+        "title": "Questions de Lausannois",
+        "header_size": "p",
+        "align": "center",
+        "_css_classes": "pa-eyebrow"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "2b47e3b",
+       "elType": "widget",
+       "widgetType": "heading",
+       "settings": {
+        "title": "Questions fréquentes sur la physio à Lausanne",
+        "header_size": "h2",
+        "align": "center",
+        "_css_classes": "pa-title"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "64c3214",
+       "elType": "widget",
+       "widgetType": "accordion",
+       "settings": {
+        "tabs": [
+         {
+          "tab_title": "Où trouver un physiothérapeute près de Lausanne ?",
+          "tab_content": "<p>Lausanne compte de nombreux cabinets. Si vous travaillez ou séjournez dans la région des Trois-Lacs, Physio Activa vous reçoit à Ins, Rämismatte 21 (bâtiment Lidl, 1er étage, parking), à environ 65 km de Lausanne. Une visite à domicile dépend de l'adresse : contactez-nous pour le vérifier.</p>",
+          "_id": "a44e5ae"
+         },
+         {
+          "tab_title": "Quand dois-je consulter un physiothérapeute pour une douleur ?",
+          "tab_content": "<p>Quand une douleur persiste au-delà d'une semaine, limite vos mouvements ou trouble votre sommeil. Mieux vaut ne pas la laisser s'installer.</p>",
+          "_id": "dad95d8"
+         },
+         {
+          "tab_title": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+          "tab_content": "<p>Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.</p>",
+          "_id": "3e0a0ac"
+         },
+         {
+          "tab_title": "Combien de séances me faut-il ?",
+          "tab_content": "<p>Chaque cas est différent. Lors de la première visite, nous établissons une estimation adaptée à votre cas.</p>",
+          "_id": "960457a"
+         },
+         {
+          "tab_title": "Je sors du CHUV et je vais chez des proches près d'Ins : est-ce possible ?",
+          "tab_content": "<p>Oui. Apportez les recommandations de l'hôpital ; la rééducation peut se faire au cabinet d'Ins ou, selon l'adresse de vos proches, à domicile.</p>",
+          "_id": "98e8764"
+         },
+         {
+          "tab_title": "Un physio à domicile à Lausanne, est-ce possible ?",
+          "tab_content": "<p>Selon votre adresse, oui : contactez-nous pour le vérifier en indiquant votre quartier ou votre commune. Sinon, nous vous proposons un créneau au cabinet d'Ins, ou à domicile chez vos proches s'ils habitent notre région.</p>",
+          "_id": "8bd52d4"
+         },
+         {
+          "tab_title": "Kiné ou physio à Lausanne : y a-t-il une différence ?",
+          "tab_content": "<p>Non, c'est le même métier. « Kiné » est le terme utilisé en France, « physiothérapeute » le titre officiel en Suisse.</p>",
+          "_id": "24a0964"
+         },
+         {
+          "tab_title": "Physiothérapeute ou ostéopathe : qui consulter ?",
+          "tab_content": "<p>Pour une rééducation avec exercices et suivi des progrès, le physiothérapeute. L'ostéopathe exerce une profession différente, centrée sur les techniques manuelles.</p>",
+          "_id": "2d39cec"
+         },
+         {
+          "tab_title": "Le drainage lymphatique médical aide-t-il à perdre du poids ?",
+          "tab_content": "<p>Non. Il traite un gonflement lié à la lymphe ; ce n'est pas un soin amincissant.</p>",
+          "_id": "afd39e2"
+         },
+         {
+          "tab_title": "Proposez-vous le dry needling ?",
+          "tab_content": "<p>Oui, au cabinet d'Ins, après avoir vérifié avec vous qu'il n'y a pas de contre-indication.</p>",
+          "_id": "27e3219"
+         }
+        ],
+        "faq_schema": "yes",
+        "title_html_tag": "h3",
+        "icon_align": "right",
+        "selected_icon": {
+         "value": "fas fa-plus",
+         "library": "fa-solid"
+        },
+        "selected_active_icon": {
+         "value": "fas fa-minus",
+         "library": "fa-solid"
+        },
+        "_css_classes": "pa-faq"
+       },
+       "elements": [],
+       "isInner": false
+      }
+     ],
+     "isInner": false
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "374e058",
+   "elType": "section",
+   "settings": {
+    "gap": "no",
+    "layout": "full_width",
+    "stretch_section": "section-stretched",
+    "background_background": "classic",
+    "background_color": "#0E2C4F",
+    "background_position": "center center",
+    "background_size": "cover",
+    "background_overlay_background": "classic",
+    "background_overlay_color": "#0E2C4F",
+    "background_overlay_opacity": {
+     "unit": "px",
+     "size": 0.86
+    },
+    "padding": {
+     "unit": "px",
+     "top": "88",
+     "right": "24",
+     "bottom": "88",
+     "left": "24",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "64",
+     "right": "16",
+     "bottom": "64",
+     "left": "16",
+     "isLinked": false
+    },
+    "css_classes": "pa-lp pa-cta"
+   },
+   "elements": [
+    {
+     "id": "3047e31",
+     "elType": "column",
+     "settings": {
+      "_column_size": 100,
+      "_inline_size": null,
+      "css_classes": "pa-center"
+     },
+     "elements": [
+      {
+       "id": "85adabb",
+       "elType": "widget",
+       "widgetType": "heading",
+       "settings": {
+        "title": "Physio à domicile ou au cabinet, pour Lausanne",
+        "header_size": "h2",
+        "align": "center",
+        "_css_classes": "pa-cta-title"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "eace638",
+       "elType": "widget",
+       "widgetType": "text-editor",
+       "settings": {
+        "editor": "<p>Physio à domicile selon votre adresse, ou séance au cabinet d&#x27;Ins en fin de journée : votre physiothérapeute pour Lausanne s&#x27;organise avec vous. Réservez en ligne, au 076 627 38 38 ou sur WhatsApp, en précisant que vous venez de Lausanne.</p>",
+        "align": "center",
+        "_css_classes": "pa-cta-sub"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "7c2f27a",
+       "elType": "widget",
+       "widgetType": "button",
+       "settings": {
+        "text": "Rendez-vous online",
+        "link": {
+         "url": "https://www.onedoc.ch/fr/cabinet-de-physiotherapie/anet/ebdut/physioactiva",
+         "is_external": "on",
+         "nofollow": "",
+         "custom_attributes": ""
+        },
+        "selected_icon": {
+         "value": "fas fa-calendar-check",
+         "library": "fa-solid"
+        },
+        "icon_indent": {
+         "unit": "px",
+         "size": 8
+        },
+        "_element_width": "auto",
+        "_element_width_mobile": "inherit",
+        "_css_classes": "pa-btn"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "8c0761b",
+       "elType": "widget",
+       "widgetType": "button",
+       "settings": {
+        "text": "WhatsApp",
+        "link": {
+         "url": "https://wa.me/41766273838?text=Bonjour%2C%20je%20souhaite%20prendre%20rendez-vous%20chez%20Physio%20Activa%20%28physio%20%C3%A0%20Lausanne%29.",
+         "is_external": "on",
+         "nofollow": "",
+         "custom_attributes": ""
+        },
+        "selected_icon": {
+         "value": "fab fa-whatsapp",
+         "library": "fa-brands"
+        },
+        "icon_indent": {
+         "unit": "px",
+         "size": 8
+        },
+        "_element_width": "auto",
+        "_element_width_mobile": "inherit",
+        "_css_classes": "pa-btn wa"
+       },
+       "elements": [],
+       "isInner": false
+      },
+      {
+       "id": "67513a3",
+       "elType": "widget",
+       "widgetType": "button",
+       "settings": {
+        "text": "Appelez-nous · 076 627 38 38",
+        "link": {
+         "url": "tel:+41766273838",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        },
+        "selected_icon": {
+         "value": "fas fa-phone",
+         "library": "fa-solid"
+        },
+        "icon_indent": {
+         "unit": "px",
+         "size": 8
+        },
+        "_element_width": "auto",
+        "_element_width_mobile": "inherit",
+        "_css_classes": "pa-btn ghost"
+       },
+       "elements": [],
+       "isInner": false
+      }
+     ],
+     "isInner": false
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "ee1d443",
+   "elType": "section",
+   "settings": {
+    "gap": "no",
+    "layout": "full_width",
+    "stretch_section": "section-stretched",
+    "css_classes": "pa-lp pa-map-sec"
+   },
+   "elements": [
+    {
+     "id": "baff477",
+     "elType": "column",
+     "settings": {
+      "_column_size": 100,
+      "_inline_size": null
+     },
+     "elements": [
+      {
+       "id": "c1e0c3c",
+       "elType": "widget",
+       "widgetType": "google_maps",
+       "settings": {
+        "address": "Physio Activa, Rämismatte 21, 3232 Ins",
+        "zoom": {
+         "unit": "px",
+         "size": 16
+        },
+        "height": {
+         "unit": "px",
+         "size": 480
+        },
+        "height_mobile": {
+         "unit": "px",
+         "size": 380
+        },
+        "_css_classes": "pa-map"
+       },
+       "elements": [],
+       "isInner": false
+      }
+     ],
+     "isInner": false
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "0489085",
+   "elType": "section",
+   "settings": {
+    "gap": "no",
+    "css_classes": "pa-lp pa-tail-sec"
+   },
+   "elements": [
+    {
+     "id": "d457f39",
+     "elType": "column",
+     "settings": {
+      "_column_size": 100,
+      "_inline_size": null
+     },
+     "elements": [
+      {
+       "id": "a60967c",
+       "elType": "widget",
+       "widgetType": "html",
+       "settings": {
+        "html": "<a class=\"pa-wafab\" href=\"https://wa.me/41766273838?text=Bonjour%2C%20je%20souhaite%20prendre%20rendez-vous%20chez%20Physio%20Activa%20%28physio%20%C3%A0%20Lausanne%29.\" target=\"_blank\" rel=\"noopener\" aria-label=\"Contacter Physio Activa sur WhatsApp\"><i class=\"fa-brands fa-whatsapp\" aria-hidden=\"true\"></i></a>\n<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@graph\": [{\"@type\": \"Physiotherapy\", \"@id\": \"https://physioactiva.ch/#physiotherapy\", \"name\": \"Physio Activa\", \"url\": \"https://physioactiva.ch/\", \"logo\": \"https://physioactiva.ch/wp-content/uploads/2026/06/Physio-Activa-Logo00001.png\", \"image\": \"https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00031.jpg\", \"telephone\": \"+41 76 627 38 38\", \"email\": \"physio@physioactiva.ch\", \"address\": {\"@type\": \"PostalAddress\", \"streetAddress\": \"Rämismatte 21\", \"postalCode\": \"3232\", \"addressLocality\": \"Ins\", \"addressRegion\": \"BE\", \"addressCountry\": \"CH\"}, \"geo\": {\"@type\": \"GeoCoordinates\", \"latitude\": 46.99819373769458, \"longitude\": 7.107723111532297}, \"hasMap\": \"https://www.google.com/maps?cid=17004812906479027083\", \"openingHoursSpecification\": [{\"@type\": \"OpeningHoursSpecification\", \"dayOfWeek\": [\"Monday\", \"Tuesday\", \"Wednesday\", \"Thursday\", \"Friday\"], \"opens\": \"08:30\", \"closes\": \"20:00\"}], \"areaServed\": [{\"@type\": \"City\", \"name\": \"Lausanne\", \"sameAs\": \"https://fr.wikipedia.org/wiki/Lausanne\"}, {\"@type\": \"Place\", \"name\": \"Pully\"}, {\"@type\": \"Place\", \"name\": \"Prilly\"}, {\"@type\": \"Place\", \"name\": \"Renens\"}, {\"@type\": \"Place\", \"name\": \"Épalinges\"}, {\"@type\": \"Place\", \"name\": \"Ins\"}], \"availableLanguage\": [\"fr\", \"de\", \"en\", \"es\", \"pt\"], \"sameAs\": [\"https://www.instagram.com/physio_activa_/\", \"https://www.facebook.com/profile.php?id=100094154144954\", \"https://www.google.com/maps?cid=17004812906479027083\"]}, {\"@type\": \"WebPage\", \"@id\": \"https://physioactiva.ch/physio-a-lausanne/#webpage\", \"url\": \"https://physioactiva.ch/physio-a-lausanne/\", \"name\": \"Physio à domicile Lausanne, drainage, kiné | Physio Activa\", \"description\": \"Physio à domicile à Lausanne selon l'adresse, ou cabinet d'Ins jusqu'à 20h : physiothérapeute, drainage lymphatique, dry needling et MTT.\", \"inLanguage\": \"fr-CH\", \"about\": {\"@id\": \"https://physioactiva.ch/physio-a-lausanne/#service\"}, \"primaryImageOfPage\": {\"@type\": \"ImageObject\", \"url\": \"https://physioactiva.ch/wp-content/uploads/2025/06/Centerbild_IMG_9184-scaled-1.jpg\"}}, {\"@type\": \"Service\", \"@id\": \"https://physioactiva.ch/physio-a-lausanne/#service\", \"name\": \"Physiothérapie à Lausanne\", \"serviceType\": \"Physiothérapie au cabinet et à domicile\", \"provider\": {\"@id\": \"https://physioactiva.ch/#physiotherapy\"}, \"areaServed\": {\"@type\": \"City\", \"name\": \"Lausanne\", \"containedInPlace\": {\"@type\": \"AdministrativeArea\", \"name\": \"Canton de Vaud\"}}}]}</script>",
+        "_css_classes": "pa-tail"
+       },
+       "elements": [],
+       "isInner": false
+      }
+     ],
+     "isInner": false
+    }
+   ],
+   "isInner": false
+  }
+ ],
+ "page_settings": {
+  "hide_title": "yes"
+ },
+ "version": "0.4",
+ "title": "Physio à Lausanne",
+ "type": "page"
+}
