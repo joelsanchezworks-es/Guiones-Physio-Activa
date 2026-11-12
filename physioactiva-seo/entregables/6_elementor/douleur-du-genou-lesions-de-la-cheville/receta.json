@@ -1,0 +1,322 @@
+[
+ {
+  "tipo": "hero",
+  "eyebrow": "Physiothérapie à Ins · cabinet et domicile",
+  "h1": "Douleur du genou et ménisque : physio à Ins",
+  "sub": "Une lésion du ménisque, une rupture du ligament croisé, une arthrose du genou ou une prothèse du genou se rééduquent en physiothérapie. Chez Physio Activa, à Ins et à domicile, le physiothérapeute évalue votre genou et construit avec vous un programme progressif, avec l'objectif de réduire la douleur et de reprendre vos activités.",
+  "pills": [
+   "Reconnu par toutes les assurances",
+   "Au cabinet d'Ins ou à domicile",
+   "Ouvert jusqu'à 20h"
+  ],
+  "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00031.jpg",
+  "alt": "Physiothérapeute mobilisant le genou d'un patient allongé",
+  "video": false,
+  "cta": "Prendre rendez-vous"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "En bref",
+  "h2": "L'essentiel avant de prendre rendez-vous",
+  "lead": [],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Reconnu par toutes les assurances",
+    "html": "<p>Notre cabinet est reconnu par toutes les compagnies d&#x27;assurance maladie en Suisse, quel que soit votre canton de résidence.</p>",
+    "icon": "fa-shield-heart"
+   },
+   {
+    "h3": "Au cabinet ou à domicile",
+    "html": "<p>Cabinet à l&#x27;InsGym, Rämismatte 21 à Ins, et séances à domicile dans le Seeland et les Trois-Lacs.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Bilan et plan de traitement",
+    "html": "<p>La première séance commence par un entretien et un bilan ; les objectifs et le plan sont définis avec vous.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
+    "html": "<p>Réservation sur OneDoc, au 076 627 38 38 ou par WhatsApp, du lundi au vendredi jusqu&#x27;à 20h.</p>",
+    "icon": "fa-calendar-check"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Causes",
+  "h2": "Le ménisque et les autres causes de douleur du genou",
+  "lead": [
+   "Plusieurs structures peuvent être à l'origine de la douleur ; le diagnostic médical est posé par votre médecin."
+  ],
+  "bg": null,
+  "cards": [
+   {
+    "h3": "Ménisque : fissure, déchirure et douleur",
+    "html": "<p>Les ménisques sont deux coussinets de fibrocartilage (interne et externe) qui amortissent et stabilisent le genou. Une <strong>fissure du ménisque</strong> ou une <strong>déchirure du ménisque</strong> peut survenir lors d'une torsion, souvent en sport, ou apparaître progressivement avec l'âge par usure. Les signes fréquents : douleur sur le côté du genou (le ménisque interne est plus souvent touché), gonflement, gêne en position accroupie et parfois sensation de blocage. Dans une lésion en « anse de seau », un fragment peut bloquer le genou : un avis médical rapide est alors nécessaire.</p>",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": "Ligament croisé antérieur (LCA)",
+    "html": "<p>Le <strong>ligament croisé antérieur</strong> stabilise le genou lors des pivots et des changements de direction. Sa rupture survient typiquement lors d'un mouvement de torsion, avec parfois un craquement et un gonflement rapide.</p>",
+    "icon": "fa-stethoscope"
+   },
+   {
+    "h3": "Arthrose du genou (gonarthrose)",
+    "html": "<p>L'arthrose du genou correspond à une usure progressive du cartilage. Les symptômes de l'arthrose du genou les plus fréquents sont une douleur à la marche ou dans les escaliers, une raideur matinale et parfois un gonflement.</p>",
+    "icon": "fa-heart-pulse"
+   },
+   {
+    "h3": "Tendinite du genou et syndrome rotulien",
+    "html": "<p>La tendinite du genou (tendinopathie rotulienne ou quadricipitale), le syndrome fémoro-patellaire (douleur autour de la rotule) et le syndrome de l'essuie-glace chez les coureurs sont souvent liés à une surcharge ou à un changement d'entraînement.</p>",
+    "icon": "fa-person-walking"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Signaux d'alarme",
+  "h2": "Quand consulter un médecin en urgence ?",
+  "lead": [
+   "Consultez rapidement un médecin ou les urgences si :"
+  ],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": null,
+    "html": "<p>vous ne pouvez plus poser le pied ou faire quelques pas après un traumatisme ;</p>",
+    "icon": "fa-triangle-exclamation"
+   },
+   {
+    "h3": null,
+    "html": "<p>le genou est bloqué et ne peut plus s'étendre ;</p>",
+    "icon": "fa-triangle-exclamation"
+   },
+   {
+    "h3": null,
+    "html": "<p>le genou gonfle fortement juste après une chute ou une torsion ;</p>",
+    "icon": "fa-triangle-exclamation"
+   },
+   {
+    "h3": null,
+    "html": "<p>le genou est rouge, chaud et gonflé, avec de la fièvre (surtout après une opération) ;</p>",
+    "icon": "fa-triangle-exclamation"
+   },
+   {
+    "h3": null,
+    "html": "<p>le mollet est gonflé, chaud et douloureux (risque de thrombose, notamment après une prothèse) ;</p>",
+    "icon": "fa-triangle-exclamation"
+   },
+   {
+    "h3": null,
+    "html": "<p>une douleur nocturne intense ne cède pas.</p>",
+    "icon": "fa-triangle-exclamation"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Notre approche",
+  "h2": "Comment la physiothérapie peut aider le genou",
+  "lead": [
+   "Le traitement dépend de votre lésion, de la décision de votre médecin (traitement conservateur ou chirurgie) et de vos objectifs. Il peut associer :"
+  ],
+  "bg": null,
+  "cards": [
+   {
+    "h3": null,
+    "html": "<p>des <strong>exercices actifs</strong> de force, de contrôle et d'équilibre, au cœur de la rééducation du ménisque, du ligament croisé et de l'arthrose du genou, notamment en <a href=\"/medical-training-therapy-mtt/\" style=\"color:var(--azure);font-weight:600\">medical training therapy (MTT)</a> ;</p>",
+    "icon": "fa-dumbbell"
+   },
+   {
+    "h3": null,
+    "html": "<p>de la <a href=\"/therapie-manuelle/\" style=\"color:var(--azure);font-weight:600\">thérapie manuelle</a> pour aider à retrouver l'amplitude du genou ;</p>",
+    "icon": "fa-hand-holding-heart"
+   },
+   {
+    "h3": null,
+    "html": "<p>un <a href=\"/physioactiva-bandage-neuromusculaire/\" style=\"color:var(--azure);font-weight:600\">bandage neuromusculaire (taping)</a> selon l'indication ;</p>",
+    "icon": "fa-heart-pulse"
+   },
+   {
+    "h3": null,
+    "html": "<p>une <a href=\"/physio-du-sport/\" style=\"color:var(--azure);font-weight:600\">physio du sport</a> avec des critères progressifs avant le retour à la course, au saut et aux pivots ;</p>",
+    "icon": "fa-person-running"
+   },
+   {
+    "h3": "Rééducation après une opération du genou",
+    "html": "<p>Après une méniscectomie (retrait de la partie abîmée du ménisque), une suture méniscale, une opération du ligament croisé ou une prothèse du genou, la <a href=\"/physiotherapie-post-operatoire/\" style=\"color:var(--azure);font-weight:600\">physiothérapie post-opératoire</a> suit le protocole de votre chirurgien. Les premières étapes visent à contrôler le gonflement, retrouver l'extension et la flexion et réapprendre à marcher, puis à renforcer progressivement.</p>",
+    "icon": "fa-hospital"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Vos séances",
+  "h2": "Déroulement des séances",
+  "lead": [
+   "La première séance comprend un entretien (origine de la douleur, activités, attentes) et un examen du genou : mobilité, force, stabilité, marche. Nous fixons ensuite des objectifs avec vous et vous recevez des exercices pour la maison. Le nombre de séances dépend de votre situation ; il est réévalué régulièrement."
+  ],
+  "bg": "trust",
+  "cta_mid": true,
+  "cards": [
+   {
+    "h3": "Prise de rendez-vous",
+    "html": "<p>Vous réservez en ligne, par téléphone ou par WhatsApp, au cabinet d&#x27;Ins ou à domicile.</p>",
+    "icon": "fa-calendar-check"
+   },
+   {
+    "h3": "Bilan",
+    "html": "<p>Un entretien et un examen permettent de comprendre l&#x27;origine de vos symptômes et de fixer des objectifs avec vous.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Séances au cabinet ou à domicile",
+    "html": "<p>Le traitement se déroule au cabinet d&#x27;Ins ou chez vous, selon votre situation.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Autonomie et prévention",
+    "html": "<p>Des exercices à poursuivre seul et des conseils pour le quotidien, afin de limiter les récidives.</p>",
+    "icon": "fa-person-walking"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "À domicile",
+  "h2": "Au cabinet à Ins ou à domicile",
+  "lead": [],
+  "bg": null,
+  "html": "<p>Nous vous recevons au cabinet, à l'InsGym, Rämismatte 21, 3232 Ins. Si vous avez du mal à vous déplacer, notamment après une prothèse du genou, la <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a> est possible à Ins, dans le Seeland et dans la région des Trois-Lacs (Anet, Morat, Chiètres, Avenches, Sugiez, La Neuveville, Neuchâtel, Bienne, Lyss). Séances en français ou en espagnol.</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Physio Activa",
+  "h2": "Cheville et pied : une page dédiée",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Vous souffrez plutôt d'une entorse de la cheville, d'une tendinite d'Achille, d'une douleur au talon ou d'une fasciite plantaire ? Ces thèmes sont traités sur notre page <a href=\"/douleur-pied-cheville-fasciite-plantaire/\" style=\"color:var(--azure);font-weight:600\">physiothérapie du pied et de la cheville</a>.</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Assurances",
+  "h2": "Assurances et horaires",
+  "lead": [],
+  "bg": null,
+  "html": "<p>Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Nous vous recevons du lundi au vendredi, jusqu'à 20h : prenez rendez-vous <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">en ligne</a>, par téléphone au <strong>076 627 38 38</strong> ou sur <strong>WhatsApp au +41 76 627 38 38</strong>.</p>"
+ },
+ {
+  "tipo": "villes",
+  "eyebrow": "Près de chez vous",
+  "h2": "Physio au cabinet ou à domicile dans votre région",
+  "lead": [
+   "Informations locales pour les patients des Trois-Lacs et du Seeland : distance, accès et soins à domicile."
+  ],
+  "liens": [
+   [
+    "Physio à Ins (Anet)",
+    "/"
+   ],
+   [
+    "Physio à Sugiez (Mont-Vully)",
+    "/physio-a-sugiez/"
+   ],
+   [
+    "Physio à La Neuveville",
+    "/physio-a-la-neuveville/"
+   ],
+   [
+    "Physio à Neuchâtel",
+    "/physio-a-neuchatel/"
+   ],
+   [
+    "Physio à Avenches",
+    "/physio-a-avenches/"
+   ],
+   [
+    "Physio à Lyss",
+    "/physio-a-lyss/"
+   ],
+   [
+    "Physio à Bienne (Biel)",
+    "/physio-a-bienne/"
+   ],
+   [
+    "Physio à Fribourg",
+    "/physio-a-fribourg/"
+   ],
+   [
+    "Physio à Payerne",
+    "/physio-a-payerne/"
+   ]
+  ],
+  "note": "Cabinet unique : Rämismatte 21, 3232 Ins."
+ },
+ {
+  "tipo": "faq",
+  "h2": "Questions fréquentes sur le genou et la physio à Ins",
+  "faq": [
+   {
+    "q": "Quand dois-je consulter un physiothérapeute pour une douleur du genou ?",
+    "a_html": "Si la douleur du genou dure plus d'une semaine, gêne la marche, les escaliers ou la position accroupie, perturbe votre sommeil ou revient régulièrement, un bilan en physiothérapie est utile. Plus on la traite tôt, plus la prise en charge est simple. Si le genou est bloqué ou gonfle fortement après une torsion, consultez d'abord un médecin.",
+    "a_text": "Si la douleur du genou dure plus d'une semaine, gêne la marche, les escaliers ou la position accroupie, perturbe votre sommeil ou revient régulièrement, un bilan en physiothérapie est utile. Plus on la traite tôt, plus la prise en charge est simple. Si le genou est bloqué ou gonfle fortement après une torsion, consultez d'abord un médecin."
+   },
+   {
+    "q": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+    "a_html": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.",
+    "a_text": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
+   },
+   {
+    "q": "Combien de séances me faut-il pour mon genou ?",
+    "a_html": "La durée du traitement varie selon votre situation : type de lésion (ménisque, ligament, arthrose, opération), activités, objectifs et évolution au fil des séances. Lors de la première visite, nous établissons une estimation adaptée à votre cas.",
+    "a_text": "La durée du traitement varie selon votre situation : type de lésion (ménisque, ligament, arthrose, opération), activités, objectifs et évolution au fil des séances. Lors de la première visite, nous établissons une estimation adaptée à votre cas."
+   },
+   {
+    "q": "Quelle est la cause de la douleur au ménisque ?",
+    "a_html": "Chez les personnes jeunes, c'est souvent une torsion du genou sous charge, par exemple en sport. Avec l'âge, le ménisque s'use et peut se fissurer lors d'un geste banal, comme se relever d'une position accroupie.",
+    "a_text": "Chez les personnes jeunes, c'est souvent une torsion du genou sous charge, par exemple en sport. Avec l'âge, le ménisque s'use et peut se fissurer lors d'un geste banal, comme se relever d'une position accroupie."
+   },
+   {
+    "q": "Un ménisque fissuré peut-il se réparer tout seul ?",
+    "a_html": "La partie externe du ménisque est mieux vascularisée et peut cicatriser dans certains cas ; la partie interne cicatrise peu. Votre médecin décide de l'indication chirurgicale selon le type de lésion.",
+    "a_text": "La partie externe du ménisque est mieux vascularisée et peut cicatriser dans certains cas ; la partie interne cicatrise peu. Votre médecin décide de l'indication chirurgicale selon le type de lésion."
+   },
+   {
+    "q": "Peut-on marcher avec une fissure du ménisque ?",
+    "a_html": "Souvent oui, si la douleur le permet et que le genou ne se bloque pas. Le physiothérapeute vous aide à adapter la charge et à garder le genou mobile et fort.",
+    "a_text": "Souvent oui, si la douleur le permet et que le genou ne se bloque pas. Le physiothérapeute vous aide à adapter la charge et à garder le genou mobile et fort."
+   },
+   {
+    "q": "Quand peut-on marcher après une prothèse du genou ?",
+    "a_html": "La reprise de la marche commence en général très tôt, avec des cannes, selon les consignes de l'équipe chirurgicale. La convalescence après une prothèse du genou est progressive et varie selon chaque personne.",
+    "a_text": "La reprise de la marche commence en général très tôt, avec des cannes, selon les consignes de l'équipe chirurgicale. La convalescence après une prothèse du genou est progressive et varie selon chaque personne."
+   },
+   {
+    "q": "Quelle est la relation entre les ligaments croisés et le ménisque ?",
+    "a_html": "Les deux stabilisent le genou. Après une rupture du ligament croisé antérieur, le genou peut devenir instable, ce qui augmente le risque de lésion du ménisque. C'est pourquoi la rééducation travaille la force et le contrôle du genou.",
+    "a_text": "Les deux stabilisent le genou. Après une rupture du ligament croisé antérieur, le genou peut devenir instable, ce qui augmente le risque de lésion du ménisque. C'est pourquoi la rééducation travaille la force et le contrôle du genou."
+   },
+   {
+    "q": "Que faire en cas d'arthrose du genou ?",
+    "a_html": "Rester actif est recommandé. Des exercices adaptés de renforcement et de mobilité peuvent aider à diminuer la douleur et à faciliter la marche ; le traitement médical est discuté avec votre médecin.",
+    "a_text": "Rester actif est recommandé. Des exercices adaptés de renforcement et de mobilité peuvent aider à diminuer la douleur et à faciliter la marche ; le traitement médical est discuté avec votre médecin."
+   },
+   {
+    "q": "Qu'est-ce qu'une méniscectomie ?",
+    "a_html": "C'est une intervention chirurgicale, généralement par arthroscopie, qui consiste à retirer la partie abîmée du ménisque. L'indication est posée par le chirurgien. Après l'opération, la physiothérapie vise à retrouver la mobilité, la force et la confiance dans le genou, selon ses consignes.",
+    "a_text": "C'est une intervention chirurgicale, généralement par arthroscopie, qui consiste à retirer la partie abîmée du ménisque. L'indication est posée par le chirurgien. Après l'opération, la physiothérapie vise à retrouver la mobilité, la force et la confiance dans le genou, selon ses consignes."
+   }
+  ]
+ },
+ {
+  "tipo": "cta",
+  "h2": "Douleur au genou : besoin d'un physio à Ins ou dans les environs ?",
+  "s1": "Appelez-nous au <strong>076 627 38 38</strong>, écrivez-nous sur <strong>WhatsApp au +41 76 627 38 38</strong> ou <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservez votre séance de physiothérapie en ligne</a>.",
+  "s2": null
+ },
+ {
+  "tipo": "map"
+ }
+]

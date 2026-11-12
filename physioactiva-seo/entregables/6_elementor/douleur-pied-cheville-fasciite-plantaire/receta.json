@@ -1,0 +1,348 @@
+[
+ {
+  "tipo": "hero",
+  "eyebrow": "Physiothérapie à Ins · cabinet et domicile",
+  "h1": "Fasciite plantaire et douleur du pied : physio à Ins",
+  "sub": "La fasciite plantaire est l'une des causes les plus fréquentes de douleur au talon, surtout aux premiers pas du matin. La physiothérapie peut aider à diminuer la douleur et à mieux tolérer la marche grâce à des exercices adaptés, des conseils de charge et, selon l'indication, des techniques comme les ondes de choc. Chez Physio Activa, nous traitons aussi la périostite tibiale, l'entorse de la cheville et la tendinite d'Achille, au cabinet à Ins ou à domicile.",
+  "pills": [
+   "Reconnu par toutes les assurances",
+   "Au cabinet d'Ins ou à domicile",
+   "Ouvert jusqu'à 20h"
+  ],
+  "img": "https://physioactiva.ch/wp-content/uploads/2025/06/Centerbild_IMG_9184-scaled-1.jpg",
+  "alt": "Espace d'entraînement pour la rééducation du pied et de la cheville",
+  "video": false,
+  "cta": "Prendre rendez-vous"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "En bref",
+  "h2": "L'essentiel avant de prendre rendez-vous",
+  "lead": [],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Reconnu par toutes les assurances",
+    "html": "<p>Notre cabinet est reconnu par toutes les compagnies d&#x27;assurance maladie en Suisse, quel que soit votre canton de résidence.</p>",
+    "icon": "fa-shield-heart"
+   },
+   {
+    "h3": "Au cabinet ou à domicile",
+    "html": "<p>Cabinet à l&#x27;InsGym, Rämismatte 21 à Ins, et séances à domicile dans le Seeland et les Trois-Lacs.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Bilan et plan de traitement",
+    "html": "<p>La première séance commence par un entretien et un bilan ; les objectifs et le plan sont définis avec vous.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
+    "html": "<p>Réservation sur OneDoc, au 076 627 38 38 ou par WhatsApp, du lundi au vendredi jusqu&#x27;à 20h.</p>",
+    "icon": "fa-calendar-check"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Comprendre",
+  "h2": "Qu'est-ce que la fasciite plantaire ?",
+  "lead": [
+   "Le fascia plantaire est une bande de tissu solide qui relie le talon à la base des orteils et soutient la voûte du pied. Quand il est surchargé, il devient douloureux à son attache sous le talon : on parle de fasciite (ou fasciopathie) plantaire."
+  ],
+  "bg": null,
+  "cards": [
+   {
+    "h3": "Symptômes de la fasciite plantaire",
+    "html": "<p>– douleur sous le talon ou à l'intérieur du talon ;</p><p style=\"margin-top:12px\">– douleur vive aux premiers pas le matin ou après être resté assis, qui diminue souvent après quelques minutes de marche ;</p><p style=\"margin-top:12px\">– douleur qui revient après une longue station debout ou une marche prolongée.</p>",
+    "icon": "fa-circle-check"
+   },
+   {
+    "h3": "Causes fréquentes",
+    "html": "<p>La fasciite plantaire est souvent liée à une augmentation rapide de l'activité (course, randonnée, nouveau travail debout), à une raideur du mollet, à des chaussures peu adaptées ou à une prise de poids. Plusieurs facteurs se combinent généralement ; le physiothérapeute les recherche avec vous.</p>",
+    "icon": "fa-stethoscope"
+   },
+   {
+    "h3": "Épine calcanéenne",
+    "html": "<p>L'épine calcanéenne est une petite excroissance osseuse visible à la radiographie sous le talon (ou, plus rarement, à l'arrière : épine calcanéenne dorsale, près du tendon d'Achille). Elle accompagne souvent une fasciite plantaire, mais beaucoup de personnes en ont une sans aucune douleur. Le traitement de l'épine calcanéenne douloureuse suit généralement les mêmes principes que celui de la fasciite.</p>",
+    "icon": "fa-heart-pulse"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Signaux d'alarme",
+  "h2": "Quand consulter un médecin en urgence ?",
+  "lead": [
+   "Consultez rapidement un médecin ou les urgences si :"
+  ],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": null,
+    "html": "<p>vous ne pouvez pas poser le pied ni faire quelques pas après une chute ou une torsion ;</p>",
+    "icon": "fa-triangle-exclamation"
+   },
+   {
+    "h3": null,
+    "html": "<p>vous avez ressenti un « coup de fouet » soudain dans le mollet ou au-dessus du talon (possible rupture du tendon d'Achille) ;</p>",
+    "icon": "fa-triangle-exclamation"
+   },
+   {
+    "h3": null,
+    "html": "<p>le mollet est gonflé, chaud, rouge et douloureux (possible thrombose) ;</p>",
+    "icon": "fa-triangle-exclamation"
+   },
+   {
+    "h3": null,
+    "html": "<p>vous avez de la fièvre, ou le pied est rouge, chaud et gonflé sans raison claire ;</p>",
+    "icon": "fa-triangle-exclamation"
+   },
+   {
+    "h3": null,
+    "html": "<p>la cheville ou le pied présente une déformation visible ;</p>",
+    "icon": "fa-triangle-exclamation"
+   },
+   {
+    "h3": null,
+    "html": "<p>une douleur osseuse très localisée augmente malgré le repos ou réveille la nuit.</p>",
+    "icon": "fa-triangle-exclamation"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Causes",
+  "h2": "Autres causes de douleur au pied et à la cheville",
+  "lead": [],
+  "bg": null,
+  "cards": [
+   {
+    "h3": "Douleur au talon : d'autres origines",
+    "html": "<p>Une douleur au talon peut aussi venir du tendon d'Achille, d'une irritation d'un nerf, d'une fracture de fatigue ou d'une maladie inflammatoire. D'où l'importance d'un examen par le médecin et le physiothérapeute.</p>",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": "Périostite tibiale (syndrome de stress tibial médial)",
+    "html": "<p>La périostite tibiale se manifeste par une douleur le long du bord interne du tibia, typiquement chez les coureurs ou lors d'une reprise sportive trop rapide. Les médecins parlent aujourd'hui de <strong>syndrome de stress tibial médial</strong>. Le principal danger est de continuer à courir malgré la douleur, ce qui peut favoriser une fracture de fatigue.</p>",
+    "icon": "fa-stethoscope"
+   },
+   {
+    "h3": "Entorse de la cheville",
+    "html": "<p>L'entorse de la cheville est une blessure ligamentaire fréquente, souvent lors d'une torsion du pied vers l'intérieur. Une rééducation bien conduite (proprioception, force, retour progressif au sport) vise à limiter le risque d'instabilité et de récidive.</p>",
+    "icon": "fa-heart-pulse"
+   },
+   {
+    "h3": "Tendinite d'Achille",
+    "html": "<p>La tendinite d'Achille (tendinopathie achilléenne) provoque une douleur et une raideur à l'arrière du talon ou au-dessus, souvent le matin ou au début de l'effort. Elle est fréquente chez les coureurs et les personnes qui augmentent brusquement leur activité.</p>",
+    "icon": "fa-person-walking"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Notre approche",
+  "h2": "Comment la physiothérapie peut aider",
+  "lead": [
+   "Le traitement est adapté à votre diagnostic et à vos objectifs. Il peut comprendre :"
+  ],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": null,
+    "html": "<p>des <strong>exercices</strong> progressifs : renforcement du pied et du mollet, étirements, exercices de charge pour le tendon d'Achille ou le fascia plantaire ;</p>",
+    "icon": "fa-dumbbell"
+   },
+   {
+    "h3": null,
+    "html": "<p>l'adaptation de la charge (marche, course, temps debout) pour continuer à bouger sans aggraver la douleur ;</p>",
+    "icon": "fa-person-running"
+   },
+   {
+    "h3": null,
+    "html": "<p>les <a href=\"/physioactiva-ondes-de-choc/\" style=\"color:var(--azure);font-weight:600\">ondes de choc</a>, une option possible pour certaines tendinopathies et pour la fasciite plantaire qui persiste, selon l'indication ;</p>",
+    "icon": "fa-heart-pulse"
+   },
+   {
+    "h3": null,
+    "html": "<p>un <a href=\"/physioactiva-bandage-neuromusculaire/\" style=\"color:var(--azure);font-weight:600\">bandage neuromusculaire (taping)</a> pour soulager temporairement ou soutenir la cheville ;</p>",
+    "icon": "fa-person-walking"
+   },
+   {
+    "h3": null,
+    "html": "<p>la <a href=\"/physioactiva-puncture-seche/\" style=\"color:var(--azure);font-weight:600\">puncture sèche (dry needling)</a> sur certains points du mollet, si elle est indiquée ;</p>",
+    "icon": "fa-location-dot"
+   },
+   {
+    "h3": null,
+    "html": "<p>une <a href=\"/physio-du-sport/\" style=\"color:var(--azure);font-weight:600\">physio du sport</a> pour planifier le retour à la course ou au sport après une entorse ou une périostite.</p>",
+    "icon": "fa-person-running"
+   },
+   {
+    "h3": "Fasciite plantaire : exercices",
+    "html": "<p>Les exercices les plus utilisés sont l'étirement du mollet et du fascia plantaire, le renforcement des muscles du pied et des montées sur la pointe des pieds progressives. Ils doivent être dosés selon votre douleur : le physiothérapeute vous montre lesquels faire, combien et comment progresser.</p>",
+    "icon": "fa-dumbbell"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Vos séances",
+  "h2": "Déroulement des séances",
+  "lead": [
+   "La première séance commence par un entretien : quand la douleur est apparue, vos activités, vos chaussures, vos attentes. Suit un examen du pied, de la cheville et de la marche, puis nous fixons des objectifs avec vous et vous recevez un programme d'exercices pour la maison. Le nombre de séances dépend de votre situation ; il est réévalué en cours de traitement."
+  ],
+  "bg": null,
+  "cta_mid": true,
+  "cards": [
+   {
+    "h3": "Prise de rendez-vous",
+    "html": "<p>Vous réservez en ligne, par téléphone ou par WhatsApp, au cabinet d&#x27;Ins ou à domicile.</p>",
+    "icon": "fa-calendar-check"
+   },
+   {
+    "h3": "Bilan",
+    "html": "<p>Un entretien et un examen permettent de comprendre l&#x27;origine de vos symptômes et de fixer des objectifs avec vous.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Séances au cabinet ou à domicile",
+    "html": "<p>Le traitement se déroule au cabinet d&#x27;Ins ou chez vous, selon votre situation.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Autonomie et prévention",
+    "html": "<p>Des exercices à poursuivre seul et des conseils pour le quotidien, afin de limiter les récidives.</p>",
+    "icon": "fa-person-walking"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "À domicile",
+  "h2": "Au cabinet à Ins ou à domicile",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Le cabinet se trouve à l'InsGym, Rämismatte 21, 3232 Ins. Si vous ne pouvez pas vous déplacer, la <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a> est possible à Ins, dans le Seeland et la région des Trois-Lacs (Anet, Morat, Chiètres, Avenches, Sugiez, La Neuveville, Neuchâtel, Bienne, Lyss). Séances en français ou en espagnol.</p><p style=\"margin-top:12px\">Pour une douleur du genou, d'un ménisque ou d'un ligament croisé, consultez notre page <a href=\"/douleur-du-genou-lesions-de-la-cheville/\" style=\"color:var(--azure);font-weight:600\">physiothérapie du genou à Ins</a>.</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Assurances",
+  "h2": "Assurances et horaires",
+  "lead": [],
+  "bg": null,
+  "html": "<p>Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Nous vous recevons du lundi au vendredi, jusqu'à 20h : prenez rendez-vous <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">en ligne</a>, par téléphone au <strong>076 627 38 38</strong> ou sur <strong>WhatsApp au +41 76 627 38 38</strong>.</p>"
+ },
+ {
+  "tipo": "villes",
+  "eyebrow": "Près de chez vous",
+  "h2": "Physio au cabinet ou à domicile dans votre région",
+  "lead": [
+   "Informations locales pour les patients des Trois-Lacs et du Seeland : distance, accès et soins à domicile."
+  ],
+  "liens": [
+   [
+    "Physio à Ins (Anet)",
+    "/"
+   ],
+   [
+    "Physio à Sugiez (Mont-Vully)",
+    "/physio-a-sugiez/"
+   ],
+   [
+    "Physio à La Neuveville",
+    "/physio-a-la-neuveville/"
+   ],
+   [
+    "Physio à Neuchâtel",
+    "/physio-a-neuchatel/"
+   ],
+   [
+    "Physio à Avenches",
+    "/physio-a-avenches/"
+   ],
+   [
+    "Physio à Lyss",
+    "/physio-a-lyss/"
+   ],
+   [
+    "Physio à Bienne (Biel)",
+    "/physio-a-bienne/"
+   ],
+   [
+    "Physio à Fribourg",
+    "/physio-a-fribourg/"
+   ],
+   [
+    "Physio à Payerne",
+    "/physio-a-payerne/"
+   ]
+  ],
+  "note": "Cabinet unique : Rämismatte 21, 3232 Ins."
+ },
+ {
+  "tipo": "faq",
+  "h2": "Questions fréquentes sur le pied et la cheville et la physio à Ins",
+  "faq": [
+   {
+    "q": "Quand dois-je consulter un physiothérapeute pour une douleur au pied ou au talon ?",
+    "a_html": "Si la douleur au pied, au talon ou à la cheville dure plus d'une semaine, gêne la marche ou le sport, est forte aux premiers pas du matin ou revient régulièrement, un bilan en physiothérapie est utile. Plus on la traite tôt, plus la prise en charge est simple. Si vous ne pouvez plus poser le pied après une torsion, consultez d'abord un médecin.",
+    "a_text": "Si la douleur au pied, au talon ou à la cheville dure plus d'une semaine, gêne la marche ou le sport, est forte aux premiers pas du matin ou revient régulièrement, un bilan en physiothérapie est utile. Plus on la traite tôt, plus la prise en charge est simple. Si vous ne pouvez plus poser le pied après une torsion, consultez d'abord un médecin."
+   },
+   {
+    "q": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+    "a_html": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.",
+    "a_text": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
+   },
+   {
+    "q": "Combien de séances me faut-il pour une fasciite plantaire ?",
+    "a_html": "La durée du traitement varie selon votre situation : ancienneté des symptômes, charge quotidienne, activités et évolution au fil des séances. Lors de la première visite, nous établissons une estimation adaptée à votre cas.",
+    "a_text": "La durée du traitement varie selon votre situation : ancienneté des symptômes, charge quotidienne, activités et évolution au fil des séances. Lors de la première visite, nous établissons une estimation adaptée à votre cas."
+   },
+   {
+    "q": "Quelle est la cause de la douleur au talon ?",
+    "a_html": "La cause la plus fréquente est la fasciite plantaire, mais une douleur au talon peut aussi venir du tendon d'Achille, d'un nerf ou d'une fracture de fatigue. Un examen permet d'orienter le traitement.",
+    "a_text": "La cause la plus fréquente est la fasciite plantaire, mais une douleur au talon peut aussi venir du tendon d'Achille, d'un nerf ou d'une fracture de fatigue. Un examen permet d'orienter le traitement."
+   },
+   {
+    "q": "Quel est le temps de guérison d'une fasciite plantaire ?",
+    "a_html": "Il varie beaucoup d'une personne à l'autre et dépend notamment de la durée des symptômes et de la charge quotidienne. Une fasciite plantaire qui ne guérit pas avec des mesures simples mérite un bilan médical et physiothérapeutique.",
+    "a_text": "Il varie beaucoup d'une personne à l'autre et dépend notamment de la durée des symptômes et de la charge quotidienne. Une fasciite plantaire qui ne guérit pas avec des mesures simples mérite un bilan médical et physiothérapeutique."
+   },
+   {
+    "q": "Quelles chaussures choisir en cas de fasciite plantaire ?",
+    "a_html": "Des chaussures stables, avec un bon amorti au talon, sont généralement mieux tolérées. Marcher pieds nus sur un sol dur est souvent douloureux au début. Une talonnette ou une orthèse peut être discutée avec votre médecin ou un podologue.",
+    "a_text": "Des chaussures stables, avec un bon amorti au talon, sont généralement mieux tolérées. Marcher pieds nus sur un sol dur est souvent douloureux au début. Une talonnette ou une orthèse peut être discutée avec votre médecin ou un podologue."
+   },
+   {
+    "q": "Comment faire partir la périostite ?",
+    "a_html": "Il faut d'abord réduire la charge qui provoque la douleur, sans forcément arrêter toute activité. Le physiothérapeute vous aide ensuite à reprendre progressivement la course, avec des exercices de renforcement adaptés.",
+    "a_text": "Il faut d'abord réduire la charge qui provoque la douleur, sans forcément arrêter toute activité. Le physiothérapeute vous aide ensuite à reprendre progressivement la course, avec des exercices de renforcement adaptés."
+   },
+   {
+    "q": "Est-ce bon de masser une périostite ?",
+    "a_html": "Un massage des muscles du mollet peut soulager temporairement certaines personnes. Il ne remplace pas l'adaptation de l'entraînement et le renforcement, qui restent la base de la rééducation.",
+    "a_text": "Un massage des muscles du mollet peut soulager temporairement certaines personnes. Il ne remplace pas l'adaptation de l'entraînement et le renforcement, qui restent la base de la rééducation."
+   },
+   {
+    "q": "Les ondes de choc sont-elles indiquées pour la fasciite plantaire ?",
+    "a_html": "Elles peuvent être une option pour certaines fasciites plantaires et tendinopathies qui persistent. Leur indication est discutée selon votre situation, en complément des exercices.",
+    "a_text": "Elles peuvent être une option pour certaines fasciites plantaires et tendinopathies qui persistent. Leur indication est discutée selon votre situation, en complément des exercices."
+   },
+   {
+    "q": "Quels sont les symptômes de la fasciite plantaire ?",
+    "a_html": "Une douleur sous le talon, souvent plus forte aux premiers pas le matin ou après être resté assis, qui peut diminuer en marchant puis revenir en fin de journée. Une douleur après un traumatisme, un talon gonflé et rouge ou de la fièvre nécessitent un avis médical.",
+    "a_text": "Une douleur sous le talon, souvent plus forte aux premiers pas le matin ou après être resté assis, qui peut diminuer en marchant puis revenir en fin de journée. Une douleur après un traumatisme, un talon gonflé et rouge ou de la fièvre nécessitent un avis médical."
+   }
+  ]
+ },
+ {
+  "tipo": "cta",
+  "h2": "Douleur au pied ou à la cheville : besoin d'un physio à Ins ou dans les environs ?",
+  "s1": "Appelez-nous au <strong>076 627 38 38</strong>, écrivez-nous sur <strong>WhatsApp au +41 76 627 38 38</strong> ou <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservez votre séance de physiothérapie en ligne</a>.",
+  "s2": null
+ },
+ {
+  "tipo": "map"
+ }
+]

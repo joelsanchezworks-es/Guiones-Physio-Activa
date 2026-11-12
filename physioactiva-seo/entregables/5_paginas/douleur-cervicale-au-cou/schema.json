@@ -1,0 +1,167 @@
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "Physiotherapy",
+   "@id": "https://physioactiva.ch/#physiotherapy",
+   "name": "Physio Activa",
+   "url": "https://physioactiva.ch/",
+   "telephone": "+41766273838",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rämismatte 21",
+    "postalCode": "3232",
+    "addressLocality": "Ins",
+    "addressRegion": "BE",
+    "addressCountry": "CH"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.0058,
+    "longitude": 7.1063
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+     ],
+     "opens": "08:30",
+     "closes": "19:30"
+    }
+   ],
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Ins"
+    },
+    {
+     "@type": "City",
+     "name": "Anet"
+    },
+    {
+     "@type": "City",
+     "name": "Sugiez"
+    },
+    {
+     "@type": "City",
+     "name": "Mont-Vully"
+    },
+    {
+     "@type": "City",
+     "name": "Murten / Morat"
+    },
+    {
+     "@type": "City",
+     "name": "Kerzers / Chiètres"
+    },
+    {
+     "@type": "City",
+     "name": "Avenches"
+    },
+    {
+     "@type": "City",
+     "name": "La Neuveville"
+    },
+    {
+     "@type": "City",
+     "name": "Neuchâtel"
+    },
+    {
+     "@type": "City",
+     "name": "Biel/Bienne"
+    },
+    {
+     "@type": "City",
+     "name": "Lyss"
+    }
+   ],
+   "availableLanguage": [
+    "fr",
+    "es"
+   ],
+   "priceRange": "[POR CONFIRMAR]"
+  },
+  {
+   "@type": "MedicalWebPage",
+   "@id": "https://physioactiva.ch/douleur-cervicale-au-cou/#webpage",
+   "url": "https://physioactiva.ch/douleur-cervicale-au-cou/",
+   "name": "Cervicalgie : physio à Ins et à domicile | Physio Activa",
+   "description": "Cervicalgie, douleur de nuque, torticolis ou coup du lapin ? Physiothérapie à Ins et à domicile dans le Seeland, sur ordonnance. Prenez rendez-vous.",
+   "inLanguage": "fr-CH",
+   "isPartOf": {
+    "@id": "https://physioactiva.ch/#website"
+   },
+   "about": {
+    "@type": "MedicalCondition",
+    "name": "Cervicalgie"
+   },
+   "lastReviewed": "2026-11-06",
+   "reviewedBy": {
+    "@type": "Person",
+    "name": "[POR CONFIRMAR: physiothérapeute qui valide la page]"
+   },
+   "provider": {
+    "@id": "https://physioactiva.ch/#physiotherapy"
+   }
+  },
+  {
+   "@type": "FAQPage",
+   "@id": "https://physioactiva.ch/douleur-cervicale-au-cou/#faq",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Comment soulager un mal de cervicales ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Bouger doucement, dans la limite de la douleur, est généralement préférable au repos complet. La chaleur et des pauses devant l'écran peuvent aider. Si la douleur persiste, une évaluation en physiothérapie permet d'adapter les exercices."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Comment soigner un torticolis ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Chaleur et mouvements doux aident souvent ; évitez de garder la tête immobile. Aucune méthode sérieuse ne garantit de le faire disparaître en un jour. S'il persiste, se répète ou s'accompagne de fièvre, consultez votre médecin."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Quels sont les symptômes du coup du lapin ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Après un accident de voiture, on peut ressentir douleurs et raideur du cou, maux de tête et courbatures, parfois avec quelques heures ou jours de décalage. Un médecin doit les évaluer avant la physiothérapie."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Une douleur cervicale peut-elle donner mal à la tête ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Oui. Les tensions de la nuque peuvent provoquer une céphalée de tension ou cervicogène, à distinguer de la migraine (diagnostic médical). En physiothérapie, le traitement vise la mobilité du cou, les tensions musculaires et la posture."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Pourquoi ai-je mal au cou quand je tousse ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "La toux sollicite les muscles du cou et augmente la pression dans la colonne, ce qui peut réveiller une douleur. Si elle descend dans le bras avec des fourmillements, parlez-en à votre médecin."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Qu'est-ce que la névralgie d'Arnold ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "C'est une irritation du nerf grand occipital, avec des douleurs vives à l'arrière du crâne, souvent d'un seul côté. Après le diagnostic médical, la physiothérapie peut agir sur les tensions de la nuque."
+     }
+    }
+   ]
+  }
+ ]
+}

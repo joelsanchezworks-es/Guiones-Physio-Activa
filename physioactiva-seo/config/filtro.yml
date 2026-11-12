@@ -1,0 +1,715 @@
+nucleo:
+- physio
+- kine
+- reeducation
+- rehabilitation
+- ergotherap
+msk:
+- lombalgie
+- lumbago
+- sciatique
+- sciatalgie
+- hernie discale
+- cervicalgie
+- torticolis
+- dorsalgie
+- coup du lapin
+- scoliose
+- cephalee de tension
+- mal de dos
+- douleur dos
+- douleur au dos
+- douleur du dos
+- douleur bas du dos
+- douleur en bas du dos
+- douleur lombaire
+- mal au dos
+- douleur cervical
+- douleur au cou
+- douleur cou
+- douleur nuque
+- mal au cou
+- tendinite
+- tendinopathie
+- coiffe des rotateurs
+- capsulite
+- epaule gelee
+- epaule bloquee
+- douleur epaule
+- douleur a l'epaule
+- douleur de l'epaule
+- epicondylite
+- tennis elbow
+- elbow tennis
+- canal carpien
+- arthrose
+- ligament croise
+- lca
+- menisque
+- prothese genou
+- prothese de genou
+- prothese du genou
+- prothese pour genou
+- prothese de hanche
+- prothese hanche
+- entorse
+- fasciite
+- aponevrosite
+- epine calcaneenne
+- douleur talon
+- douleur au talon
+- douleur du talon
+- periostite
+- achille
+- douleur genou
+- douleur au genou
+- douleur du genou
+- douleur hanche
+- douleur a la hanche
+- douleur cheville
+- incontinence
+- perinee
+- perineal
+- plancher pelvien
+- vppb
+- vertige positionnel
+- atm
+- machoire
+- bruxisme
+- fibromyalgie
+- lymphoedeme
+- lymphedeme
+- drainage lymphatique
+- fracture
+- post-operatoire
+- post operatoire
+- ondes de choc
+- onde de choc
+- dry needling
+- needling
+- puncture seche
+- tecar
+- therapie manuelle
+- taping
+- k-tape
+- k tape
+- bandage neuromusculaire
+- mtt
+- fitness medical
+- massage therapeutique
+- massage medical
+- massage sportif
+- claquage
+- dechirure musculaire
+- contracture
+- pubalgie
+- syndrome rotulien
+- bursite
+- genou
+- epaule
+- hanche
+- cheville
+condicionales:
+- avc
+- parkinson
+- sclerose en plaques
+- vertige
+- post-partum
+- post partum
+- cardio
+- respiratoire
+- geriatri
+- seniors
+modificador_condicional:
+- physio
+- kine
+- reeducation
+- exercice
+- therapie
+- traitement
+excluir:
+- osteo
+- chiro
+- pharmacie
+- psycholog
+- psychiatr
+- dentaire
+- dentiste
+- depression
+- harry potter
+- pansy
+- katherine
+- wolff
+- selbst
+- conventionne
+- securite sociale
+- ameli
+- cpam
+- mutuelle
+- veterinaire
+- chien
+- cheval
+- chat
+- podolog
+- orthopediste
+- acupunct
+- hotel
+- spa
+- emploi
+- job
+- salaire
+- formation
+- ecole
+- etudes
+- devenir
+- stage
+- diplome
+- offre
+- logiciel
+- table de
+- appareil
+- acheter
+- amazon
+- decathlon
+- genouillere
+- attelle
+- chaussure
+- semelle
+- creme
+- pommade
+- huile
+- remede
+- homeopathie
+- grand-mere
+- naturel
+- chien
+- bebe
+- enfant
+- nourrisson
+- mouth
+- cheveux
+- visage
+- lifting
+- esthetique
+- minceur
+- cellulite
+- pressotherapie
+- jambes lourdes
+- praxis
+- therapie mtt
+- mtt therapie
+- verordnung
+- schmerzen
+- zentrum
+- gmbh
+- schweiz
+- geneve
+- genf
+- zurich
+- bern
+- berne
+- basel
+- bale
+- sion
+- sierre
+- martigny
+- monthey
+- montreux
+- vevey
+- nyon
+- morges
+- renens
+- pully
+- prilly
+- lutry
+- gland
+- rolle
+- aigle
+- bulle
+- romont
+- chaux de fonds
+- chaux-de-fonds
+- le locle
+- delemont
+- porrentruy
+- jura
+- valais
+- kloten
+- uster
+- cham
+- oerlikon
+- derendingen
+- weinfelden
+- winterthur
+- luzern
+- lucerne
+- solothurn
+- soleure
+- thun
+- thoune
+- aarau
+- olten
+- oberaargau
+- annemasse
+- thonon
+- annecy
+- lyon
+- paris
+- marseille
+- lille
+- toulouse
+- bordeaux
+- nantes
+- strasbourg
+- bruxelles
+- belgique
+- france
+- quebec
+- montreal
+- maroc
+- tunisie
+- villars
+- crans
+- verbier
+- meyrin
+- carouge
+- onex
+- vernier
+- lancy
+- plan-les-ouates
+- champel
+- chene
+- epalinges
+- ecublens
+- crissier
+- bussigny
+- cheseaux
+- echallens
+- moudon
+- oron
+- orbe
+- grandson
+- sainte-croix
+- vallorbe
+- chateau-d'oex
+- colombier
+- boudry
+- peseux
+- marin
+- saint-blaise
+- cortaillod
+- fleurier
+- val-de-travers
+- val-de-ruz
+- cernier
+- saint-imier
+- tramelan
+- moutier
+- tavannes
+- reconvilier
+- marly
+- villars-sur-glane
+- givisiez
+- granges-paccot
+- dudingen
+- guin
+- tafers
+- schmitten
+- wunnewil
+- flamatt
+- laupen
+- schwarzenburg
+- konolfingen
+- langnau
+- burgdorf
+- langenthal
+- grenchen
+- granges
+- herzogenbuchsee
+- koniz
+- ostermundigen
+- muri
+- worb
+- zollikofen
+- munchenbuchsee
+- jegenstorf
+- spiez
+- interlaken
+- frutigen
+- zug
+- st. gallen
+- st gallen
+- chur
+- lugano
+- locarno
+- bellinzona
+- ticino
+- neuhausen
+- schaffhausen
+- baden
+- wettingen
+- dietikon
+- schlieren
+- wil
+- frauenfeld
+- kreuzlingen
+- rapperswil
+- knie
+- schulter
+- rucken
+- oberschenkel
+- kniescheibe
+- ubungen
+- nebenwirkungen
+- erfahrungsberichte
+- erfahrung
+- kurs
+- kurse
+- kaufen
+- nadeln
+- deutsch
+- ernahrung
+- medikamente
+- hilft
+- wirklich
+- frau
+- diagnose
+- in der nahe
+- was ist
+- akute
+- selbsttest
+- bander
+- band
+- knee
+- ankle
+- wrist
+- hands
+- finger
+- hamstring
+- shin
+- runner's
+- runner
+- patella
+- patellar
+- patellofemoral
+- it band
+- meaning
+- anglais
+- allemand
+- en allemand
+- icd
+- icd 10
+- buddy
+- face
+- nose
+- mund
+- cross taping
+- running
+- for
+- of
+- the
+- an
+- esa tecar
+- pneu
+- pneus
+- reifen
+- winterreifen
+- supergrip
+- super grip
+- spirit
+- lego
+- star wars
+- assay
+- cell viability
+- mtt 420
+- renata franca
+- brosse
+- bottes
+- machine
+- tisane
+- coussin
+- corset
+- semelles
+- ohmyswiss
+- herbachaud
+- jobs
+- emplois
+- apps
+- tape pour
+- pontarlier
+- leysin
+- fully
+- conthey
+- breuleux
+- les fins
+- chatel st denis
+- chatel-saint-denis
+- chatel
+- preverenges
+- chailly
+- eaux-vives
+- rive
+- malagnou
+- grottes
+- acacias
+- nations
+- cottens
+- tour de peilz
+- la tour
+- vich
+- steinhausen
+- andelfingen
+- thalwil
+- wallisellen
+- buchs
+- emmenbrucke
+- brugg
+- batterkinden
+- dielsdorf
+- flums
+- baregg
+- richterswil
+- embrachertal
+- obstgarten
+- tafernhof
+- sternen
+- hug
+- schweiz
+- suisse alemanique
+- osteopathie
+- osteopathe
+- osteopathes
+- chiropracteur
+- chiropraticien
+- matelas
+- anti inflammatoire
+- anti douleur
+- signification spirituelle
+- spirituelle
+- photo
+- deces
+- esa-tecar
+- bethesda
+- rheinfelden
+- reha
+- bedeutung
+- optimera
+- strap
+- brace
+- nacken
+- arm
+- shoulder
+- low dye
+- freres
+- plante
+- oh my swiss
+- dgsa
+- carefit
+- agp
+- kineo
+- physiofit
+- physio plus lausanne
+- esprit sport
+- espace therapies
+- cabinet de drainage lymphatique manuel lausanne rme asca
+- ergotherapie
+- signification
+- icd-10
+- scoliose idiopathique
+- physio soins
+- physio 5
+- rose physio
+- artico
+- physio actif
+- physio fit
+- physio in fit
+- physio sport k rouge
+- physio nations
+vocabulario_local_permitido:
+- physio
+- physiotherapie
+- physiotherapeute
+- physiotherapeutes
+- physiotherapeutique
+- kine
+- kinesitherapeute
+- kinesitherapie
+- reeducation
+- rehabilitation
+- a
+- de
+- du
+- des
+- la
+- le
+- les
+- l
+- d
+- en
+- et
+- pour
+- au
+- aux
+- domicile
+- autour
+- moi
+- proche
+- pres
+- proximite
+- cabinet
+- centre
+- sport
+- sportive
+- sports
+- prix
+- tarif
+- tarifs
+- remboursement
+- remboursee
+- rembourse
+- lamal
+- laa
+- ordonnance
+- seance
+- seances
+- combien
+- coute
+- cout
+- prise
+- charge
+- rendez-vous
+- rendez
+- vous
+- urgence
+- near
+- me
+- seeland
+- trois-lacs
+- trois
+- lacs
+- region
+- lac
+- quoi
+- c'est
+- qu'est-ce
+- que
+- definition
+- bienfaits
+- traitement
+- exercices
+- exercice
+- femme
+- homme
+- enceinte
+- grossesse
+- senior
+- seniors
+- agees
+- personnes
+- neurologique
+- vestibulaire
+- respiratoire
+- cardiorespiratoire
+- pelvienne
+- pelvien
+- plancher
+- perinee
+- uro
+- gynecologique
+- uro-gynecologique
+- geriatrique
+- post-operatoire
+- manuelle
+- therapie
+- generale
+- du sport
+- medical
+- medicale
+- fitness
+- mtt
+- massage
+- therapeutique
+- online
+- en ligne
+- reservation
+- reserver
+- avis
+- meilleur
+- bon
+- bonne
+- suisse
+- romande
+- canton
+- ville
+- cabinets
+- soins
+- soin
+- physiotherapeute-a-domicile
+- mobile
+- qui
+- se
+- deplace
+- horaires
+- ouvert
+- samedi
+- bains
+- piscine
+- neuveville
+- mont
+- lac
+- le
+ciudades_zona:
+- ins
+- anet
+- morat
+- murten
+- avenches
+- sugiez
+- vully
+- mont-vully
+- neuchatel
+- payerne
+- estavayer
+- estavayer-le-lac
+- la neuveville
+- neuveville
+- fribourg
+- freiburg
+- bienne
+- biel
+- biel/bienne
+- yverdon
+- yverdon-les-bains
+- yvonand
+- lausanne
+- kerzers
+- chietres
+- lyss
+- cerlier
+- erlach
+- aarberg
+- tauffelen
+- seeland
+- gampelen
+- champion
+- chiètres
+- cudrefin
+- salavaux
+- faoug
+- praz
+- nant
+- lugnorre
+- galmiz
+competidores:
+- therapie ins seeland
+- therapie-ins-seeland
+- physio du lac
+- physioptima
+- physio optima
+- physiotherapie kerzers
+- physio kerzers
+- physio murten
+- physio 7
+- physio-clinics
+- physio clinics
+- physio plus avenches

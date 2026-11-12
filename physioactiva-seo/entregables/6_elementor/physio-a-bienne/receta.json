@@ -1,0 +1,230 @@
+[
+ {
+  "tipo": "hero",
+  "eyebrow": "Physio · Bienne (Biel)",
+  "h1": "Physio à Bienne (Biel) : au cabinet d'Ins ou à domicile",
+  "sub": "Vous cherchez un physiothérapeute à Bienne (Biel) qui vous soigne en français ? Physio Activa vous accueille à Ins, à environ 18 km en ligne droite de la ville, et une prise en charge à domicile peut être étudiée [À CONFIRMER : domicile à Bienne]. Le cabinet est reconnu par toutes les assurances maladie en Suisse, ouvert du lundi au vendredi jusqu'à 20h, et un rendez-vous se prend en quelques clics.",
+  "pills": [
+   "Cabinet à Ins, à 18,0 km",
+   "Reconnu par toutes les assurances",
+   "Ouvert jusqu'à 20h"
+  ],
+  "img": "https://physioactiva.ch/wp-content/uploads/2025/06/fxbtrjhiol.jpg",
+  "alt": "Espace d'entraînement de l'InsGym, où se trouve le cabinet Physio Activa à Ins",
+  "video": false,
+  "cta": "Prendre rendez-vous"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "En bref",
+  "h2": "L'essentiel en bref",
+  "lead": [],
+  "bg": null,
+  "cards": [
+   {
+    "h3": "Reconnu par toutes les assurances",
+    "html": "<p>Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse et dispose de toutes les autorisations sanitaires nécessaires.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Au cabinet d'Ins ou à domicile",
+    "html": "<p>Vous choisissez : le cabinet, situé dans le même canton de Berne, ou votre appartement si sortir reste compliqué [À CONFIRMER : déplacements à Bienne].</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Bilan et plan de traitement",
+    "html": "<p>Avant tout traitement, nous évaluons la zone douloureuse, votre façon de bouger et vos contraintes de travail ou de sport.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
+    "html": "<p>L'agenda en ligne est ouvert jour et nuit ; une question avant de réserver ? Un message WhatsApp suffit.</p>",
+    "icon": "fa-calendar-check"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Signaux d'alarme",
+  "h2": "Quand consulter un physio, et quand voir d'abord un médecin ?",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>On pousse la porte d'un physiothérapeute pour une nuque tendue par les heures d'écran, une épaule qui accroche, une cheville qui reste fragile après une entorse, un talon douloureux au réveil ou un mal de dos qui revient à chaque déménagement.</p><p style=\"margin-top:12px\">Il faut en revanche voir un médecin en premier si la douleur suit un traumatisme important, si un bras ou une jambe s'affaiblit, si des fourmillements gagnent les deux côtés du corps, si une fièvre ou une perte de poids inexpliquée accompagne les symptômes, ou si un mollet devient rouge, chaud et gonflé. Douleur thoracique, malaise ou trouble soudain de la parole : appelez immédiatement le 144.</p>"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Notre approche",
+  "h2": "Quelle prise en charge selon votre situation ?",
+  "lead": [],
+  "bg": null,
+  "cards": [
+   {
+    "h3": "Au cabinet d'Ins",
+    "html": "<p>Le cabinet se trouve à l'intérieur d'InsGym. Ce cadre permet de passer en quelques pas du traitement manuel aux exercices guidés.</p>",
+    "icon": "fa-location-dot"
+   },
+   {
+    "h3": "À domicile et localités voisines",
+    "html": "<p>La <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a> intéresse surtout les patients qui sortent de l'hôpital, ceux qui peinent à monter dans un bus avec des béquilles, ou les parents qui ne peuvent pas s'absenter longtemps. Nidau, Brügg, Port, Ipsach et Evilard sont des communes voisines que nous pourrions inclure dans nos tournées [À CONFIRMER : localités desservies, jours de passage et délai du premier rendez-vous].</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Après une opération ou une hospitalisation",
+    "html": "<p>Beaucoup de patients de la région sont suivis au Centre hospitalier Bienne. Une fois rentré chez vous, la rééducation continue chez nous ; nous adaptons le programme aux consignes de votre médecin.</p>",
+    "icon": "fa-hospital"
+   },
+   {
+    "h3": "Nuque, épaule, pied et dos",
+    "html": "<p>– <a href=\"/douleur-cervicale-au-cou/\" style=\"color:var(--azure);font-weight:600\">Douleur cervicale</a> : tensions liées à l'écran, aux trajets ou au stress.</p><p style=\"margin-top:12px\">– <a href=\"/lesions-de-lepaule/\" style=\"color:var(--azure);font-weight:600\">Épaule</a> : tendinite, épaule qui accroche ou suites d'une chirurgie.</p><p style=\"margin-top:12px\">– <a href=\"/douleur-pied-cheville-fasciite-plantaire/\" style=\"color:var(--azure);font-weight:600\">Pied et cheville, fasciite plantaire</a> : talon sensible, entorse qui traîne, reprise de la course au bord du lac.</p><p style=\"margin-top:12px\">– <a href=\"/mal-de-dos-lombaire/\" style=\"color:var(--azure);font-weight:600\">Mal de dos et lombalgie</a> : épisodes aigus ou douleurs installées depuis des mois.</p><p style=\"margin-top:12px\">Autres motifs : <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">toutes les pathologies</a>.</p>",
+    "icon": "fa-bone"
+   },
+   {
+    "h3": "Drainage lymphatique",
+    "html": "<p>Après une opération du genou ou de la hanche, en cas de lymphœdème ou de jambes lourdes qui gonflent en fin de journée, le drainage manuel relance la circulation de la lymphe par des gestes lents et légers. Il fait partie du traitement de physiothérapie, à Ins ou chez vous [À CONFIRMER : drainage à domicile à Bienne]. Plus d'informations sur la page <a href=\"/drainage-lymphatique/\" style=\"color:var(--azure);font-weight:600\">drainage lymphatique</a>.</p>",
+    "icon": "fa-shield-heart"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Notre approche",
+  "h2": "Comment se déroule votre prise en charge ?",
+  "lead": [],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Prise de rendez-vous",
+    "html": "<p>Choisissez un créneau en ligne, du lundi au vendredi jusqu'à 20h, et précisez si vous souhaitez une séance à domicile. Vos documents médicaux peuvent être en allemand comme en français.</p>",
+    "icon": "fa-calendar-check"
+   },
+   {
+    "h3": "Bilan",
+    "html": "<p>Entretien, tests de mobilité et de force : nous cherchons ce qui entretient la douleur, pas seulement l'endroit où elle se manifeste.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Séances au cabinet ou à domicile",
+    "html": "<p>Techniques manuelles, exercices actifs et, selon l'indication, drainage.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Autonomie et prévention",
+    "html": "<p>Nous vous confions quelques exercices courts, faciles à caser entre le travail et les trajets, pour que le bénéfice dure.</p>",
+    "icon": "fa-person-walking"
+   }
+  ],
+  "cta_mid": true
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Accès",
+  "h2": "Venir au cabinet d'Ins depuis Bienne",
+  "lead": [],
+  "bg": null,
+  "html": "<p>Le cabinet se situe à environ 18 km en ligne droite du centre de Bienne. Adresse, plan et indications pratiques : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Bienne est une ville bilingue, où l'allemand et le français se côtoient au quotidien. Chez Physio Activa, l'échange se fait en français, et nous parlons aussi espagnol : inutile de chercher vos mots pour décrire ce que vous ressentez.</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Assurances",
+  "h2": "Assurances et horaires : physio à Bienne",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Physio Activa est reconnu par toutes les compagnies d'assurance maladie en Suisse et accueille les patients quel que soit leur canton de résidence. Le cabinet est ouvert du lundi au vendredi, jusqu'à 20h : de quoi caser une séance après le travail. Réservez en ligne, au 076 627 38 38 ou par WhatsApp.</p>"
+ },
+ {
+  "tipo": "villes",
+  "eyebrow": "Localités voisines",
+  "h2": "Autres localités proches",
+  "lead": [
+   "Vous habitez entre Bienne et le Seeland ? Consultez aussi nos pages locales voisines."
+  ],
+  "liens": [
+   [
+    "Physio à Ins (Anet)",
+    "/"
+   ],
+   [
+    "Physio à Lyss",
+    "/physio-a-lyss/"
+   ],
+   [
+    "Physio à La Neuveville",
+    "/physio-a-la-neuveville/"
+   ],
+   [
+    "Physio à Sugiez (Mont-Vully)",
+    "/physio-a-sugiez/"
+   ],
+   [
+    "Physio à Neuchâtel",
+    "/physio-a-neuchatel/"
+   ]
+  ],
+  "note": "Cabinet unique : Rämismatte 21, 3232 Ins."
+ },
+ {
+  "tipo": "faq",
+  "h2": "Questions fréquentes sur la physio à Bienne",
+  "faq": [
+   {
+    "q": "Quand dois-je consulter un physiothérapeute pour une douleur ?",
+    "a_html": "Quand une nuque, une épaule ou une cheville reste douloureuse plus d'une semaine, limite votre mobilité ou perturbe votre sommeil. Plus on la traite tôt, plus c'est simple, surtout pour une douleur liée à l'écran ou à une entorse mal guérie.",
+    "a_text": "Quand une nuque, une épaule ou une cheville reste douloureuse plus d'une semaine, limite votre mobilité ou perturbe votre sommeil. Plus on la traite tôt, plus c'est simple, surtout pour une douleur liée à l'écran ou à une entorse mal guérie."
+   },
+   {
+    "q": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+    "a_html": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.",
+    "a_text": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
+   },
+   {
+    "q": "Combien de séances me faut-il ?",
+    "a_html": "La durée du traitement varie selon votre situation, l'ancienneté des symptômes et votre rythme de travail. Lors de la première visite, nous établissons une estimation adaptée à votre cas.",
+    "a_text": "La durée du traitement varie selon votre situation, l'ancienneté des symptômes et votre rythme de travail. Lors de la première visite, nous établissons une estimation adaptée à votre cas."
+   },
+   {
+    "q": "Dans quelle langue se déroule le traitement ?",
+    "a_html": "En français, et en espagnol si vous le souhaitez. Pour les patients d'une ville bilingue, c'est l'assurance de comprendre chaque exercice ; vos documents médicaux en allemand restent parfaitement utilisables.",
+    "a_text": "En français, et en espagnol si vous le souhaitez. Pour les patients d'une ville bilingue, c'est l'assurance de comprendre chaque exercice ; vos documents médicaux en allemand restent parfaitement utilisables."
+   },
+   {
+    "q": "Quelle est la différence entre un kinésithérapeute et un physiothérapeute ?",
+    "a_html": "Il s'agit du même métier : « kinésithérapeute » est le terme utilisé en France, « physiothérapeute » celui employé en Suisse. À Bienne, vous verrez aussi « Physiotherapeut » côté germanophone.",
+    "a_text": "Il s'agit du même métier : « kinésithérapeute » est le terme utilisé en France, « physiothérapeute » celui employé en Suisse. À Bienne, vous verrez aussi « Physiotherapeut » côté germanophone."
+   },
+   {
+    "q": "Combien de kilomètres jusqu'au cabinet ?",
+    "a_html": "Environ 18 km en ligne droite séparent le centre de Bienne d'Ins, deux communes du canton de Berne.",
+    "a_text": "Environ 18 km en ligne droite séparent le centre de Bienne d'Ins, deux communes du canton de Berne."
+   },
+   {
+    "q": "Pouvez-vous venir à Nidau, Port ou Evilard ?",
+    "a_html": "Ces communes voisines peuvent entrer dans nos déplacements à domicile [À CONFIRMER : localités desservies]. Indiquez votre adresse au moment de réserver.",
+    "a_text": "Ces communes voisines peuvent entrer dans nos déplacements à domicile [À CONFIRMER : localités desservies]. Indiquez votre adresse au moment de réserver."
+   },
+   {
+    "q": "Je sors de l'hôpital : puis-je commencer tout de suite ?",
+    "a_html": "Oui : après un séjour au Centre hospitalier Bienne ou ailleurs, apportez les consignes de sortie. Le délai pour la première séance dépend de nos disponibilités [À CONFIRMER : délai du premier rendez-vous].",
+    "a_text": "Oui : après un séjour au Centre hospitalier Bienne ou ailleurs, apportez les consignes de sortie. Le délai pour la première séance dépend de nos disponibilités [À CONFIRMER : délai du premier rendez-vous]."
+   },
+   {
+    "q": "Comment savoir si j'ai besoin d'un drainage lymphatique ?",
+    "a_html": "Un gonflement qui persiste après une opération, une jambe ou un bras qui reste lourd et tendu, ou un lymphœdème diagnostiqué sont les situations typiques. C'est votre médecin qui pose l'indication.",
+    "a_text": "Un gonflement qui persiste après une opération, une jambe ou un bras qui reste lourd et tendu, ou un lymphœdème diagnostiqué sont les situations typiques. C'est votre médecin qui pose l'indication."
+   },
+   {
+    "q": "Le drainage lymphatique est-il douloureux ?",
+    "a_html": "Non. Les mouvements sont doux, lents et rythmés. Une zone opérée récemment peut être sensible : nous adaptons la pression.",
+    "a_text": "Non. Les mouvements sont doux, lents et rythmés. Une zone opérée récemment peut être sensible : nous adaptons la pression."
+   }
+  ]
+ },
+ {
+  "tipo": "cta",
+  "h2": "Besoin d'un physio à Bienne ou dans les environs ?",
+  "s1": "Prenez rendez-vous via la <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservation en ligne</a>, au 076 627 38 38 ou par WhatsApp au +41 76 627 38 38 : nous vous répondons en français.",
+  "s2": null
+ },
+ {
+  "tipo": "map"
+ }
+]

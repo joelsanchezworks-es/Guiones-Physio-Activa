@@ -1,0 +1,330 @@
+[
+ {
+  "tipo": "hero",
+  "eyebrow": "Physiothérapie à Ins · cabinet et domicile",
+  "h1": "Cervicalgie et douleur cervicale : physio à Ins",
+  "sub": "La cervicalgie désigne une douleur au niveau du cou et de la nuque, souvent accompagnée de raideur et parfois de maux de tête. Dans la plupart des cas, elle est liée aux muscles et aux articulations du rachis cervical et peut être prise en charge en physiothérapie. Chez Physio Activa, nous vous accueillons au cabinet à Ins ou à domicile dans le Seeland.",
+  "pills": [
+   "Reconnu par toutes les assurances",
+   "Au cabinet d'Ins ou à domicile",
+   "Ouvert jusqu'à 20h"
+  ],
+  "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00036.jpg",
+  "alt": "Salle de traitement pour la physiothérapie des douleurs cervicales à Ins",
+  "video": false,
+  "cta": "Prendre rendez-vous"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "En bref",
+  "h2": "L'essentiel avant de prendre rendez-vous",
+  "lead": [],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Reconnu par toutes les assurances",
+    "html": "<p>Notre cabinet est reconnu par toutes les compagnies d&#x27;assurance maladie en Suisse, quel que soit votre canton de résidence.</p>",
+    "icon": "fa-shield-heart"
+   },
+   {
+    "h3": "Au cabinet ou à domicile",
+    "html": "<p>Cabinet à l&#x27;InsGym, Rämismatte 21 à Ins, et séances à domicile dans le Seeland et les Trois-Lacs.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Bilan et plan de traitement",
+    "html": "<p>La première séance commence par un entretien et un bilan ; les objectifs et le plan sont définis avec vous.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
+    "html": "<p>Réservation sur OneDoc, au 076 627 38 38 ou par WhatsApp, du lundi au vendredi jusqu&#x27;à 20h.</p>",
+    "icon": "fa-calendar-check"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Comprendre",
+  "h2": "Qu'est-ce que la cervicalgie ?",
+  "lead": [
+   "La cervicalgie est un symptôme, une douleur cervicale aux origines variées. Les plus fréquentes :"
+  ],
+  "bg": null,
+  "cards": [
+   {
+    "h3": "les tensions musculaires",
+    "html": "<p>, favorisées par les écrans, la conduite, le stress ou une position prolongée ;</p>",
+    "icon": "fa-circle-check"
+   },
+   {
+    "h3": "l&#x27;usure articulaire (arthrose cervicale)",
+    "html": "<p>, qui peut entraîner raideur et craquements ;</p>",
+    "icon": "fa-dumbbell"
+   },
+   {
+    "h3": "le torticolis",
+    "html": "<p>, un blocage douloureux souvent apparu au réveil ou après un faux mouvement ;</p>",
+    "icon": "fa-heart-pulse"
+   },
+   {
+    "h3": "le coup du lapin",
+    "html": "<p>, un mouvement brusque de la tête vers l'avant puis l'arrière, typique d'un accident de voiture ;</p>",
+    "icon": "fa-person-walking"
+   },
+   {
+    "h3": "la hernie discale cervicale",
+    "html": "<p>, qui peut irriter une racine nerveuse et donner une douleur dans l'épaule ou le bras.</p>",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": null,
+    "html": "<p>Le diagnostic relève du médecin ; le physiothérapeute évalue comment votre cou bouge et ce qui entretient la douleur.</p>",
+    "icon": "fa-circle-info"
+   },
+   {
+    "h3": "Quels symptômes ressent-on ?",
+    "html": "<p>La douleur de nuque se ressent souvent comme une raideur ou un tiraillement, parfois vers les épaules. Elle peut gêner pour tourner la tête, conduire ou dormir. Une <strong>céphalée de tension</strong> (mal de tête en casque, partant de la nuque) l'accompagne fréquemment. Des fourmillements ou une faiblesse dans le bras peuvent indiquer une irritation nerveuse et doivent être signalés à votre médecin.</p>",
+    "icon": "fa-circle-check"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Signaux d'alarme",
+  "h2": "Quand consulter un médecin en urgence ?",
+  "lead": [
+   "Consultez rapidement un médecin, ou appelez le 144 en cas d'urgence, si la douleur au cou s'accompagne de :"
+  ],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": null,
+    "html": "<p>un <strong>traumatisme</strong> important (accident, chute, choc sur la tête) ;</p>",
+    "icon": "fa-triangle-exclamation"
+   },
+   {
+    "h3": null,
+    "html": "<p>des <strong>fourmillements, une perte de sensibilité ou une faiblesse</strong> dans un ou deux bras, ou des troubles de la marche ;</p>",
+    "icon": "fa-triangle-exclamation"
+   },
+   {
+    "h3": null,
+    "html": "<p>des <strong>vertiges</strong>, des troubles de la vue, de la parole ou de la déglutition ;</p>",
+    "icon": "fa-triangle-exclamation"
+   },
+   {
+    "h3": null,
+    "html": "<p>de la <strong>fièvre avec une nuque raide</strong>, des maux de tête violents ou une sensibilité à la lumière ;</p>",
+    "icon": "fa-triangle-exclamation"
+   },
+   {
+    "h3": null,
+    "html": "<p>une douleur nocturne intense qui ne cède pas, une perte de poids inexpliquée ou des antécédents de cancer.</p>",
+    "icon": "fa-triangle-exclamation"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Notre approche",
+  "h2": "Comment la physiothérapie peut aider en cas de cervicalgie",
+  "lead": [
+   "L'objectif est de diminuer la douleur, de retrouver la mobilité du cou et de vous donner des moyens d'agir au quotidien. Selon votre situation, le traitement peut associer :"
+  ],
+  "bg": null,
+  "cards": [
+   {
+    "h3": null,
+    "html": "<p>la <a href=\"/therapie-manuelle/\" style=\"color:var(--azure);font-weight:600\">thérapie manuelle pour le cou et la nuque</a>, pour mobiliser les articulations et relâcher les tissus ;</p>",
+    "icon": "fa-hand-holding-heart"
+   },
+   {
+    "h3": null,
+    "html": "<p>le <a href=\"/massage-therapeutique/\" style=\"color:var(--azure);font-weight:600\">massage thérapeutique</a> des muscles du cou et des épaules ;</p>",
+    "icon": "fa-hand-holding-heart"
+   },
+   {
+    "h3": null,
+    "html": "<p>la <a href=\"/physioactiva-puncture-seche/\" style=\"color:var(--azure);font-weight:600\">puncture sèche (dry needling)</a> sur certains points de tension, si elle est indiquée ;</p>",
+    "icon": "fa-location-dot"
+   },
+   {
+    "h3": null,
+    "html": "<p>des <strong>exercices</strong> de mobilité, de renforcement des muscles profonds du cou et de posture, à refaire chez vous ;</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": null,
+    "html": "<p>des conseils pour le poste de travail, le sommeil et le sport.</p>",
+    "icon": "fa-person-running"
+   },
+   {
+    "h3": null,
+    "html": "<p>Si la douleur s'associe à des douleurs de la mâchoire, une prise en charge de l'<a href=\"/physiotemporo-mandibulaire-atm/\" style=\"color:var(--azure);font-weight:600\">articulation temporo-mandibulaire (ATM)</a> peut compléter le traitement.</p>",
+    "icon": "fa-circle-info"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Vos séances",
+  "h2": "Déroulement des séances",
+  "lead": [
+   "La première séance commence par un entretien (début des douleurs, travail, sommeil, examens éventuels), puis une évaluation de la mobilité, de la force et de la posture. Ensemble, nous fixons des objectifs concrets, comme tourner la tête en conduisant ou travailler à l'écran sans douleur.",
+   "Le nombre de séances dépend de votre évolution et il est réévalué régulièrement. Durée d'une séance : [À CONFIRMER]."
+  ],
+  "bg": "trust",
+  "cta_mid": true,
+  "cards": [
+   {
+    "h3": "Prise de rendez-vous",
+    "html": "<p>Vous réservez en ligne, par téléphone ou par WhatsApp, au cabinet d&#x27;Ins ou à domicile.</p>",
+    "icon": "fa-calendar-check"
+   },
+   {
+    "h3": "Bilan",
+    "html": "<p>Un entretien et un examen permettent de comprendre l&#x27;origine de vos symptômes et de fixer des objectifs avec vous.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Séances au cabinet ou à domicile",
+    "html": "<p>Le traitement se déroule au cabinet d&#x27;Ins ou chez vous, selon votre situation.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Autonomie et prévention",
+    "html": "<p>Des exercices à poursuivre seul et des conseils pour le quotidien, afin de limiter les récidives.</p>",
+    "icon": "fa-person-walking"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "À domicile",
+  "h2": "Au cabinet à Ins ou à domicile",
+  "lead": [],
+  "bg": null,
+  "html": "<p>Nous vous recevons au cabinet, à l'InsGym, Rämismatte 21, 3232 Ins. Si vous ne pouvez pas vous déplacer, nous proposons la <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a> à Ins, dans le Seeland et la région des Trois-Lacs : Anet, Sugiez/Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss. Séances en français ou en espagnol.</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Assurances",
+  "h2": "Assurances et horaires",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Nous vous recevons du lundi au vendredi, jusqu'à 20h : prenez rendez-vous <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">en ligne</a>, par téléphone au <strong>076 627 38 38</strong> ou sur <strong>WhatsApp au +41 76 627 38 38</strong>.</p>"
+ },
+ {
+  "tipo": "villes",
+  "eyebrow": "Près de chez vous",
+  "h2": "Physio au cabinet ou à domicile dans votre région",
+  "lead": [
+   "Informations locales pour les patients des Trois-Lacs et du Seeland : distance, accès et soins à domicile."
+  ],
+  "liens": [
+   [
+    "Physio à Ins (Anet)",
+    "/"
+   ],
+   [
+    "Physio à Sugiez (Mont-Vully)",
+    "/physio-a-sugiez/"
+   ],
+   [
+    "Physio à La Neuveville",
+    "/physio-a-la-neuveville/"
+   ],
+   [
+    "Physio à Neuchâtel",
+    "/physio-a-neuchatel/"
+   ],
+   [
+    "Physio à Avenches",
+    "/physio-a-avenches/"
+   ],
+   [
+    "Physio à Lyss",
+    "/physio-a-lyss/"
+   ],
+   [
+    "Physio à Bienne (Biel)",
+    "/physio-a-bienne/"
+   ],
+   [
+    "Physio à Fribourg",
+    "/physio-a-fribourg/"
+   ],
+   [
+    "Physio à Payerne",
+    "/physio-a-payerne/"
+   ]
+  ],
+  "note": "Cabinet unique : Rämismatte 21, 3232 Ins."
+ },
+ {
+  "tipo": "faq",
+  "h2": "Questions fréquentes sur la douleur cervicale et la physio à Ins",
+  "faq": [
+   {
+    "q": "Quand dois-je consulter un physiothérapeute pour une douleur au cou ?",
+    "a_html": "Si la douleur au cou dure plus d'une semaine, limite vos mouvements (tourner la tête, conduire), perturbe votre sommeil ou revient régulièrement, un bilan en physiothérapie est utile. Plus on la traite tôt, plus la prise en charge est simple. En présence d'un signe d'alarme décrit plus haut, consultez d'abord un médecin.",
+    "a_text": "Si la douleur au cou dure plus d'une semaine, limite vos mouvements (tourner la tête, conduire), perturbe votre sommeil ou revient régulièrement, un bilan en physiothérapie est utile. Plus on la traite tôt, plus la prise en charge est simple. En présence d'un signe d'alarme décrit plus haut, consultez d'abord un médecin."
+   },
+   {
+    "q": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+    "a_html": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.",
+    "a_text": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
+   },
+   {
+    "q": "Combien de séances me faut-il pour la douleur cervicale ?",
+    "a_html": "La durée du traitement varie selon votre situation : origine de la douleur, ancienneté des symptômes, activités et évolution au fil des séances. Lors de la première visite, nous établissons une estimation adaptée à votre cas.",
+    "a_text": "La durée du traitement varie selon votre situation : origine de la douleur, ancienneté des symptômes, activités et évolution au fil des séances. Lors de la première visite, nous établissons une estimation adaptée à votre cas."
+   },
+   {
+    "q": "Comment soulager un mal de cervicales ?",
+    "a_html": "Bouger doucement, dans la limite de la douleur, est généralement préférable au repos complet. La chaleur et des pauses devant l'écran peuvent aider. Si la douleur persiste, une évaluation en physiothérapie permet d'adapter les exercices.",
+    "a_text": "Bouger doucement, dans la limite de la douleur, est généralement préférable au repos complet. La chaleur et des pauses devant l'écran peuvent aider. Si la douleur persiste, une évaluation en physiothérapie permet d'adapter les exercices."
+   },
+   {
+    "q": "Comment soigner un torticolis ?",
+    "a_html": "Chaleur et mouvements doux aident souvent ; évitez de garder la tête immobile. Aucune méthode sérieuse ne garantit de le faire disparaître en un jour. S'il persiste, se répète ou s'accompagne de fièvre, consultez votre médecin.",
+    "a_text": "Chaleur et mouvements doux aident souvent ; évitez de garder la tête immobile. Aucune méthode sérieuse ne garantit de le faire disparaître en un jour. S'il persiste, se répète ou s'accompagne de fièvre, consultez votre médecin."
+   },
+   {
+    "q": "Quels sont les symptômes du coup du lapin ?",
+    "a_html": "Après un accident de voiture, on peut ressentir douleurs et raideur du cou, maux de tête et courbatures, parfois avec quelques heures ou jours de décalage. Un médecin doit les évaluer avant la physiothérapie.",
+    "a_text": "Après un accident de voiture, on peut ressentir douleurs et raideur du cou, maux de tête et courbatures, parfois avec quelques heures ou jours de décalage. Un médecin doit les évaluer avant la physiothérapie."
+   },
+   {
+    "q": "Une douleur cervicale peut-elle donner mal à la tête ?",
+    "a_html": "Oui. Les tensions de la nuque peuvent provoquer une céphalée de tension ou cervicogène, à distinguer de la migraine (diagnostic médical). En physiothérapie, le traitement vise la mobilité du cou, les tensions musculaires et la posture.",
+    "a_text": "Oui. Les tensions de la nuque peuvent provoquer une céphalée de tension ou cervicogène, à distinguer de la migraine (diagnostic médical). En physiothérapie, le traitement vise la mobilité du cou, les tensions musculaires et la posture."
+   },
+   {
+    "q": "Pourquoi ai-je mal au cou quand je tousse ?",
+    "a_html": "La toux sollicite les muscles du cou et augmente la pression dans la colonne, ce qui peut réveiller une douleur. Si elle descend dans le bras avec des fourmillements, parlez-en à votre médecin.",
+    "a_text": "La toux sollicite les muscles du cou et augmente la pression dans la colonne, ce qui peut réveiller une douleur. Si elle descend dans le bras avec des fourmillements, parlez-en à votre médecin."
+   },
+   {
+    "q": "Qu'est-ce que la névralgie d'Arnold ?",
+    "a_html": "C'est une irritation du nerf grand occipital, avec des douleurs vives à l'arrière du crâne, souvent d'un seul côté. Après le diagnostic médical, la physiothérapie peut agir sur les tensions de la nuque.",
+    "a_text": "C'est une irritation du nerf grand occipital, avec des douleurs vives à l'arrière du crâne, souvent d'un seul côté. Après le diagnostic médical, la physiothérapie peut agir sur les tensions de la nuque."
+   },
+   {
+    "q": "Quelle douleur ressent-on lors d'une cervicalgie ?",
+    "a_html": "Le plus souvent, une douleur et une raideur de la nuque, parfois vers les épaules ou entre les omoplates, qui augmentent avec certains mouvements de la tête. Des maux de tête peuvent s'y associer. L'intensité et l'évolution varient selon chaque personne.",
+    "a_text": "Le plus souvent, une douleur et une raideur de la nuque, parfois vers les épaules ou entre les omoplates, qui augmentent avec certains mouvements de la tête. Des maux de tête peuvent s'y associer. L'intensité et l'évolution varient selon chaque personne."
+   }
+  ]
+ },
+ {
+  "tipo": "cta",
+  "h2": "Douleur à la nuque : besoin d'un physio à Ins ou dans les environs ?",
+  "s1": "Vous avez des questions sur votre douleur cervicale ? Appelez-nous au <strong>076 627 38 38</strong>, écrivez-nous sur <strong>WhatsApp au +41 76 627 38 38</strong> ou <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservez votre séance en ligne</a>.",
+  "s2": null
+ },
+ {
+  "tipo": "map"
+ }
+]

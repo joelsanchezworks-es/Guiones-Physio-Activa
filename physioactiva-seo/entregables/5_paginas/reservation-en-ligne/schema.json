@@ -1,0 +1,147 @@
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "Physiotherapy",
+   "@id": "https://physioactiva.ch/#physiotherapy",
+   "name": "Physio Activa",
+   "url": "https://physioactiva.ch/",
+   "telephone": "+41766273838",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rämismatte 21",
+    "postalCode": "3232",
+    "addressLocality": "Ins",
+    "addressRegion": "BE",
+    "addressCountry": "CH"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.0058,
+    "longitude": 7.1063
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+     ],
+     "opens": "08:30",
+     "closes": "19:30"
+    }
+   ],
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Ins"
+    },
+    {
+     "@type": "City",
+     "name": "Anet"
+    },
+    {
+     "@type": "City",
+     "name": "Sugiez"
+    },
+    {
+     "@type": "City",
+     "name": "Mont-Vully"
+    },
+    {
+     "@type": "City",
+     "name": "Murten / Morat"
+    },
+    {
+     "@type": "City",
+     "name": "Kerzers / Chiètres"
+    },
+    {
+     "@type": "City",
+     "name": "Avenches"
+    },
+    {
+     "@type": "City",
+     "name": "La Neuveville"
+    },
+    {
+     "@type": "City",
+     "name": "Neuchâtel"
+    },
+    {
+     "@type": "City",
+     "name": "Biel/Bienne"
+    },
+    {
+     "@type": "City",
+     "name": "Lyss"
+    }
+   ],
+   "availableLanguage": [
+    "fr",
+    "es"
+   ],
+   "priceRange": "[POR CONFIRMAR]"
+  },
+  {
+   "@type": "WebPage",
+   "@id": "https://physioactiva.ch/reservation-en-ligne/#webpage",
+   "url": "https://physioactiva.ch/reservation-en-ligne/",
+   "name": "Rendez-vous physio à Ins : réservation | Physio Activa",
+   "description": "Prenez rendez-vous chez votre physio à Ins : réservation en ligne OneDoc, par téléphone ou WhatsApp. Au cabinet ou à domicile dans le Seeland.",
+   "inLanguage": "fr-CH",
+   "isPartOf": {
+    "@id": "https://physioactiva.ch/#website"
+   },
+   "about": {
+    "@id": "https://physioactiva.ch/#physiotherapy"
+   },
+   "lastReviewed": "2026-11-06",
+   "reviewedBy": {
+    "@type": "Person",
+    "name": "[POR CONFIRMAR: physiothérapeute qui valide la page]"
+   }
+  },
+  {
+   "@type": "FAQPage",
+   "@id": "https://physioactiva.ch/reservation-en-ligne/#faq",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Quel type de consultation choisir ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Si c'est votre première visite, choisissez « Première consultation » : nous faisons le bilan et fixons avec vous les objectifs du traitement. Les séances de suivi se réservent ensuite de la même façon."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Ai-je besoin d'une ordonnance ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Pour un remboursement par l'assurance, oui : il faut une prescription médicale. Si vous n'en avez pas encore, appelez-nous ou écrivez-nous et nous vous orientons."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Puis-je modifier ou annuler mon rendez-vous ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Oui. Contactez-nous dès que possible par téléphone ou WhatsApp. Délai d'annulation : [POR CONFIRMAR]."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Venez-vous à domicile dans ma commune ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Nous nous déplaçons à Ins, Anet, Sugiez/Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss. Pour une autre commune, demandez-nous."
+     }
+    }
+   ]
+  }
+ ]
+}

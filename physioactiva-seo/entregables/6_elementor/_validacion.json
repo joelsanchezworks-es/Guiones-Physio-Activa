@@ -1,0 +1,266 @@
+[
+ {
+  "slug": "accueil",
+  "ok": true,
+  "a_confirmer": 4,
+  "fallos": [],
+  "notas": [
+   "hero sub 288 car. (plantilla 300; ±20 % = 240–360)",
+   "receta: ciudad en 4 H2 · FAQ 10 · CTA reserva 5 / tel 3 / WhatsApp 3 · palabras visibles 1715"
+  ]
+ },
+ {
+  "slug": "a-propos-de-nous",
+  "ok": true,
+  "a_confirmer": 9,
+  "fallos": [],
+  "notas": [
+   "hero sub 325 car. (plantilla 433; ±20 % = 346–519)",
+   "receta: ciudad en 3 H2 · FAQ 9 · CTA reserva 6 / tel 3 / WhatsApp 3 · palabras visibles 1213"
+  ]
+ },
+ {
+  "slug": "physio-a-sugiez",
+  "ok": true,
+  "a_confirmer": 6,
+  "fallos": [],
+  "notas": [
+   "hero sub 433 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 18.4 % (con physio-a-avenches); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (6)",
+   "receta: ciudad en 4 H2 · FAQ 8 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1265"
+  ]
+ },
+ {
+  "slug": "physio-a-neuchatel",
+  "ok": true,
+  "a_confirmer": 5,
+  "fallos": [],
+  "notas": [
+   "hero sub 441 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 17.4 % (con physio-a-lyss); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (5), FAQ de la SERP local",
+   "receta: ciudad en 4 H2 · FAQ 9 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1270"
+  ]
+ },
+ {
+  "slug": "physio-a-la-neuveville",
+  "ok": true,
+  "a_confirmer": 3,
+  "fallos": [],
+  "notas": [
+   "hero sub 460 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 16.3 % (con physio-a-sugiez); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (3)",
+   "receta: ciudad en 4 H2 · FAQ 10 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1270"
+  ]
+ },
+ {
+  "slug": "physio-a-avenches",
+  "ok": true,
+  "a_confirmer": 4,
+  "fallos": [],
+  "notas": [
+   "hero sub 459 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 18.4 % (con physio-a-sugiez); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (5)",
+   "receta: ciudad en 4 H2 · FAQ 10 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1264"
+  ]
+ },
+ {
+  "slug": "physio-a-lyss",
+  "ok": true,
+  "a_confirmer": 6,
+  "fallos": [],
+  "notas": [
+   "hero sub 432 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 17.4 % (con physio-a-neuchatel); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (5)",
+   "receta: ciudad en 4 H2 · FAQ 10 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1357"
+  ]
+ },
+ {
+  "slug": "physio-a-bienne",
+  "ok": true,
+  "a_confirmer": 6,
+  "fallos": [],
+  "notas": [
+   "hero sub 402 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 16.4 % (con physio-a-neuchatel); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (5)",
+   "receta: ciudad en 4 H2 · FAQ 10 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1343"
+  ]
+ },
+ {
+  "slug": "physio-a-fribourg",
+  "ok": true,
+  "a_confirmer": 7,
+  "fallos": [],
+  "notas": [
+   "hero sub 407 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 17.4 % (con physio-a-avenches); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (4)",
+   "receta: ciudad en 4 H2 · FAQ 10 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1360"
+  ]
+ },
+ {
+  "slug": "physio-a-payerne",
+  "ok": true,
+  "a_confirmer": 6,
+  "fallos": [],
+  "notas": [
+   "hero sub 413 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 16.5 % (con physio-a-yverdon); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (3), FAQ de la SERP local",
+   "receta: ciudad en 4 H2 · FAQ 9 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1354"
+  ]
+ },
+ {
+  "slug": "physio-a-morat",
+  "ok": true,
+  "a_confirmer": 6,
+  "fallos": [],
+  "notas": [
+   "hero sub 455 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 15.9 % (con physio-a-avenches); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (5)",
+   "receta: ciudad en 4 H2 · FAQ 9 · CTA reserva 5 / tel 3 / WhatsApp 3 · palabras visibles 1322"
+  ]
+ },
+ {
+  "slug": "physio-a-chietres",
+  "ok": true,
+  "a_confirmer": 7,
+  "fallos": [],
+  "notas": [
+   "hero sub 332 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 15.4 % (con physio-a-sugiez); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (4)",
+   "receta: ciudad en 4 H2 · FAQ 10 · CTA reserva 5 / tel 3 / WhatsApp 3 · palabras visibles 1353"
+  ]
+ },
+ {
+  "slug": "physio-a-estavayer",
+  "ok": true,
+  "a_confirmer": 7,
+  "fallos": [],
+  "notas": [
+   "hero sub 357 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 16.5 % (con physio-a-payerne); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (4)",
+   "receta: ciudad en 4 H2 · FAQ 9 · CTA reserva 5 / tel 3 / WhatsApp 3 · palabras visibles 1300"
+  ]
+ },
+ {
+  "slug": "physio-a-yvonand",
+  "ok": true,
+  "a_confirmer": 5,
+  "fallos": [],
+  "notas": [
+   "hero sub 359 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 15.5 % (con physio-a-morat); datos propios: distancia, distrito/cantón, hospital, localidades vecinas (4)",
+   "receta: ciudad en 4 H2 · FAQ 9 · CTA reserva 5 / tel 3 / WhatsApp 3 · palabras visibles 1274"
+  ]
+ },
+ {
+  "slug": "physio-a-yverdon",
+  "ok": true,
+  "a_confirmer": 7,
+  "fallos": [],
+  "notas": [
+   "hero sub 408 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 16.8 % (con physio-a-lausanne); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (4)",
+   "receta: ciudad en 4 H2 · FAQ 9 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1267"
+  ]
+ },
+ {
+  "slug": "physio-a-lausanne",
+  "ok": true,
+  "a_confirmer": 7,
+  "fallos": [],
+  "notas": [
+   "hero sub 426 car. (plantilla 433; ±20 % = 346–519)",
+   "similitud máx. 16.8 % (con physio-a-yverdon); datos propios: distancia, idioma, distrito/cantón, hospital, localidades vecinas (4)",
+   "receta: ciudad en 4 H2 · FAQ 9 · CTA reserva 4 / tel 3 / WhatsApp 3 · palabras visibles 1270"
+  ]
+ },
+ {
+  "slug": "pour-les-patients",
+  "ok": true,
+  "a_confirmer": 0,
+  "fallos": [],
+  "notas": [
+   "hero sub 308 car. (plantilla 433; ±20 % = 346–519)",
+   "receta: ciudad en 2 H2 · FAQ 9 · CTA reserva 3 / tel 3 / WhatsApp 3 · palabras visibles 1016"
+  ]
+ },
+ {
+  "slug": "mal-de-dos-lombaire",
+  "ok": true,
+  "a_confirmer": 1,
+  "fallos": [],
+  "notas": [
+   "hero sub 369 car. (plantilla 433; ±20 % = 346–519)",
+   "receta: ciudad en 3 H2 · FAQ 9 · CTA reserva 5 / tel 3 / WhatsApp 3 · palabras visibles 1614"
+  ]
+ },
+ {
+  "slug": "douleur-cervicale-au-cou",
+  "ok": true,
+  "a_confirmer": 1,
+  "fallos": [],
+  "notas": [
+   "hero sub 355 car. (plantilla 433; ±20 % = 346–519)",
+   "receta: ciudad en 3 H2 · FAQ 10 · CTA reserva 5 / tel 3 / WhatsApp 3 · palabras visibles 1526"
+  ]
+ },
+ {
+  "slug": "lesions-de-lepaule",
+  "ok": true,
+  "a_confirmer": 1,
+  "fallos": [],
+  "notas": [
+   "hero sub 365 car. (plantilla 433; ±20 % = 346–519)",
+   "receta: ciudad en 3 H2 · FAQ 10 · CTA reserva 5 / tel 3 / WhatsApp 3 · palabras visibles 1573"
+  ]
+ },
+ {
+  "slug": "douleur-du-genou-lesions-de-la-cheville",
+  "ok": true,
+  "a_confirmer": 0,
+  "fallos": [],
+  "notas": [
+   "hero sub 332 car. (plantilla 433; ±20 % = 346–519)",
+   "receta: ciudad en 3 H2 · FAQ 10 · CTA reserva 5 / tel 3 / WhatsApp 3 · palabras visibles 1603"
+  ]
+ },
+ {
+  "slug": "sciatique-hernie-discale",
+  "ok": true,
+  "a_confirmer": 1,
+  "fallos": [],
+  "notas": [
+   "hero sub 417 car. (plantilla 433; ±20 % = 346–519)",
+   "receta: ciudad en 3 H2 · FAQ 10 · CTA reserva 5 / tel 3 / WhatsApp 3 · palabras visibles 1842"
+  ]
+ },
+ {
+  "slug": "douleur-pied-cheville-fasciite-plantaire",
+  "ok": true,
+  "a_confirmer": 0,
+  "fallos": [],
+  "notas": [
+   "hero sub 463 car. (plantilla 433; ±20 % = 346–519)",
+   "receta: ciudad en 3 H2 · FAQ 10 · CTA reserva 5 / tel 3 / WhatsApp 3 · palabras visibles 1819"
+  ]
+ },
+ {
+  "slug": "douleur-de-hanche-protheses",
+  "ok": true,
+  "a_confirmer": 1,
+  "fallos": [],
+  "notas": [
+   "hero sub 390 car. (plantilla 433; ±20 % = 346–519)",
+   "receta: ciudad en 3 H2 · FAQ 10 · CTA reserva 5 / tel 3 / WhatsApp 3 · palabras visibles 1880"
+  ]
+ },
+ {
+  "slug": "reservation-en-ligne",
+  "ok": true,
+  "a_confirmer": 1,
+  "fallos": [],
+  "notas": [
+   "hero sub 232 car. (plantilla 433; ±20 % = 346–519)",
+   "receta: ciudad en 2 H2 · FAQ 9 · CTA reserva 3 / tel 2 / WhatsApp 2 · palabras visibles 849"
+  ]
+ }
+]

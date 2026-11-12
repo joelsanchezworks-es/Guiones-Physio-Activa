@@ -1,0 +1,473 @@
+{
+ "sugiez": {
+  "physio sugiez": {
+   "paa": [],
+   "top5": [
+    "1. physiodulac-physioduparc.ch",
+    "2. onedoc.ch",
+    "3. physioswiss.ch",
+    "4. tbooking.ch",
+    "5. search.ch"
+   ],
+   "local_pack": [],
+   "ai_overview": true
+  },
+  "physiothérapeute sugiez": {
+   "paa": [],
+   "top5": [
+    "1. physiosoins.ch",
+    "2. physioswiss.ch",
+    "3. physio-soins.agenda.ch",
+    "4. physioswiss.ch",
+    "5. sante-physio.ch"
+   ],
+   "local_pack": [],
+   "ai_overview": true
+  }
+ },
+ "neuchatel": {
+  "physio neuchâtel": {
+   "paa": [
+    "Quel est le tarif d'une séance de physiothérapie ?",
+    "Est-ce que la physiothérapie est remboursée en Suisse ?",
+    "Est-ce que la physiothérapie est remboursée ?",
+    "Quel est le prix d'une séance de physiothérapie en Suisse ?"
+   ],
+   "top5": [
+    "1. physioswiss.ch",
+    "2. esprit-physio.ch",
+    "3. onedoc.ch",
+    "4. physiosoins.ch",
+    "5. zenith-physio.ch"
+   ],
+   "local_pack": [
+    "Zénith Physio Sàrl",
+    "Physio & Training Neuchâtel",
+    "Physiothérapie Neuchâtel – PhysioRenova"
+   ],
+   "ai_overview": false
+  },
+  "physiothérapeute neuchâtel": {
+   "paa": [
+    "Quel est le tarif d'une séance de physiothérapie ?",
+    "Est-ce que la physiothérapie est remboursée en Suisse ?",
+    "Quel est le rôle d'un physiothérapeute ?",
+    "Quel est le prix d'une séance de physiothérapie en Suisse ?"
+   ],
+   "top5": [
+    "1. physioswiss.ch",
+    "2. onedoc.ch",
+    "3. esprit-physio.ch",
+    "4. physiosoins.ch",
+    "5. zenith-physio.ch"
+   ],
+   "local_pack": [
+    "Physiothérapie Neuchâtel – PhysioRenova",
+    "Physio & Training Neuchâtel",
+    "PhysioSanté"
+   ],
+   "ai_overview": false
+  }
+ },
+ "la-neuveville": {
+  "physio la neuveville": {
+   "paa": [],
+   "top5": [
+    "1. lecabdespaves.ch",
+    "2. onedoc.ch",
+    "3. mon-repos.ch",
+    "4. physioswiss.ch",
+    "5. physiopaed.ch"
+   ],
+   "local_pack": [
+    "Physiothérapie Le Cab' des Pavés",
+    "Physiothérapie - Mon Repos",
+    "Matti Bernhard Denise"
+   ],
+   "ai_overview": false
+  },
+  "physiothérapeute la neuveville": {
+   "paa": [],
+   "top5": [
+    "1. care-maisonneuve.ch",
+    "2. search.ch",
+    "3. onedoc.ch",
+    "4. capreaphysio.ch",
+    "5. physio-chatel.ch"
+   ],
+   "local_pack": [
+    "Physiothérapie Le Cab' des Pavés",
+    "Physiothérapie - Mon Repos",
+    "Physiothérapie Viviane Bujard"
+   ],
+   "ai_overview": false
+  }
+ },
+ "avenches": {
+  "physio avenches": {
+   "paa": [],
+   "top5": [
+    "1. physioswiss.ch",
+    "2. physioswiss.ch",
+    "3. physioplus-avenches.com",
+    "4. onedoc.ch",
+    "5. search.ch"
+   ],
+   "local_pack": [],
+   "ai_overview": true
+  },
+  "physiothérapeute avenches": {
+   "paa": [],
+   "top5": [
+    "1. physioswiss.ch",
+    "2. physioswiss.ch",
+    "3. physioplus-avenches.com",
+    "4. moneyhouse.ch",
+    "5. 1 réaction  ·  il y a 7 ans"
+   ],
+   "local_pack": [
+    "Physio Vully",
+    "Physio plus Avenches",
+    "Physio Vully Sàrl"
+   ],
+   "ai_overview": false
+  }
+ },
+ "lyss": {
+  "physio lyss": {
+   "paa": [],
+   "top5": [
+    "1. local.ch",
+    "2. search.ch",
+    "3. physiomundo.ch",
+    "4. onedoc.ch",
+    "5. lyss.ch"
+   ],
+   "local_pack": [
+    "Mr. Alexander Hammacher",
+    "Physiotherapy and training Lyssbach Park",
+    "Physio Hubacher"
+   ],
+   "ai_overview": false
+  },
+  "physiothérapeute lyss": {
+   "paa": [],
+   "top5": [
+    "1. massage-lyss.ch",
+    "2. onedoc.ch",
+    "3. osteopathielyss.ch",
+    "4. physio-clinics.ch",
+    "5. lyss.ch"
+   ],
+   "local_pack": [
+    "Physio Orange",
+    "Mr. Alexander Hammacher",
+    "Physiotherapy and training Lyssbach Park"
+   ],
+   "ai_overview": false
+  }
+ },
+ "bienne": {
+  "physio bienne": {
+   "paa": [],
+   "top5": [
+    "1. fr.praxis-lerchenweg.ch",
+    "2. spitalzentrum-biel.ch",
+    "3. physiozentrum.ch",
+    "4. physiozentrum.ch",
+    "5. physio8.ch"
+   ],
+   "local_pack": [
+    "PHYSIOZENTRUM Biel",
+    "Physio Atelier GmbH",
+    "Physiotherapie & Fitness Mühlebrücke"
+   ],
+   "ai_overview": false
+  },
+  "physiothérapeute bienne": {
+   "paa": [],
+   "top5": [
+    "1. physiozentrum.ch",
+    "2. physiozentrum.ch",
+    "3. fr.praxis-lerchenweg.ch",
+    "4. physio-mb.ch",
+    "5. physioswiss.ch"
+   ],
+   "local_pack": [
+    "PHYSIOZENTRUM Biel",
+    "Physio Atelier GmbH",
+    "Physio Quai37"
+   ],
+   "ai_overview": false
+  }
+ },
+ "fribourg": {
+  "physio fribourg": {
+   "paa": [],
+   "top5": [
+    "1. physioswiss.ch",
+    "2. physioswiss.ch",
+    "3. centre-its.ch",
+    "4. onedoc.ch",
+    "5. agyphysio.ch"
+   ],
+   "local_pack": [
+    "Physio Club Fribourg",
+    "Physio Soins Fribourg",
+    "Physio 7 | Centre Physiothérapie Pérolles Fribourg",
+    "Physio 7 | Centre Physiothérapie Pérolles Fribourg        Mes préférences publicitaires"
+   ],
+   "ai_overview": false
+  },
+  "physiothérapeute fribourg": {
+   "paa": [],
+   "top5": [
+    "1. physioswiss.ch",
+    "2. onedoc.ch",
+    "3. onedoc.ch",
+    "4. onedoc.ch",
+    "5. onedoc.ch"
+   ],
+   "local_pack": [
+    "Physio Club Fribourg",
+    "Physio Soins Fribourg",
+    "Physio 7 | Centre Physiothérapie Pérolles Fribourg"
+   ],
+   "ai_overview": false
+  }
+ },
+ "payerne": {
+  "physio payerne": {
+   "paa": [],
+   "top5": [
+    "1. hopital-broye.ch",
+    "2. onedoc.ch",
+    "3. onedoc.ch",
+    "4. onedoc.ch",
+    "5. agenda.ch"
+   ],
+   "local_pack": [
+    "Physio de la Broye Sàrl",
+    "Physio Clinics - Payerne CUB",
+    "Physio de la Broye | Payerne - Rue du Temple 15"
+   ],
+   "ai_overview": false
+  },
+  "physiothérapeute payerne": {
+   "paa": [
+    "Comment choisir son physiothérapeute ?",
+    "Quel est le nouveau tarif pour la physiothérapie ?",
+    "Comment se passe une séance de physiothérapie ?",
+    "Quel est le tarif d'un physiothérapeute ?"
+   ],
+   "top5": [
+    "1. onedoc.ch",
+    "2. onedoc.ch",
+    "3. physiodelabroye.ch",
+    "4. onedoc.ch",
+    "5. onedoc.ch"
+   ],
+   "local_pack": [
+    "A Plus Physio Sàrl        Mes préférences publicitaires",
+    "Physio de la Broye Sàrl",
+    "Physio Clinics - Payerne CUB",
+    "Centre LA PALAZ - Cabinet de physiothérapie"
+   ],
+   "ai_overview": false
+  }
+ },
+ "morat": {
+  "physio morat": {
+   "paa": [],
+   "top5": [
+    "1. physioswiss.ch",
+    "2. physiomurten.ch",
+    "3. physiomurten.ch",
+    "4. agenda.ch",
+    "5. physiodulac-physioduparc.ch"
+   ],
+   "local_pack": [
+    "Physio du Parc",
+    "PhysiOptima",
+    "Physiotherapie Sigrid Schwab GmbH"
+   ],
+   "ai_overview": false
+  },
+  "physiothérapeute morat": {
+   "paa": [],
+   "top5": [
+    "1. physioswiss.ch",
+    "2. Plus de 70 abonnés",
+    "3. physiomurten.ch",
+    "4. physiomurten.ch",
+    "5. physioswiss.ch"
+   ],
+   "local_pack": [
+    "Physio du Parc",
+    "Physio Murten GmbH",
+    "Physiotherapie Sigrid Schwab GmbH"
+   ],
+   "ai_overview": false
+  }
+ },
+ "chietres": {
+  "physio chiètres": {
+   "paa": [],
+   "top5": [
+    "1. physioswiss.ch",
+    "2. logicrdv.ch",
+    "3. search.ch",
+    "4. local.ch",
+    "5. Plus de 230 abonnés"
+   ],
+   "local_pack": [
+    "PhysiOptima",
+    "Physiotherapie Kerzers",
+    "Mr. Albert Klinkenbergh Physiotherapie"
+   ],
+   "ai_overview": false
+  },
+  "physiothérapeute chiètres": {
+   "paa": [],
+   "top5": [],
+   "local_pack": [],
+   "ai_overview": false
+  }
+ },
+ "estavayer": {
+  "physio estavayer": {
+   "paa": [],
+   "top5": [
+    "1. physiodelabroye.ch",
+    "2. onedoc.ch",
+    "3. osteo-physio-thorimbert.ch",
+    "4. onedoc.ch",
+    "5. onedoc.ch"
+   ],
+   "local_pack": [
+    "Proactive Physio",
+    "Santé Performance - Physiothérapie - Estavayer-le-Lac",
+    "Physio Soins Estavayer-le-Lac"
+   ],
+   "ai_overview": false
+  },
+  "physiothérapeute estavayer": {
+   "paa": [],
+   "top5": [
+    "1. onedoc.ch",
+    "2. physiodelabroye.ch",
+    "3. onedoc.ch",
+    "4. hopital-broye.ch",
+    "5. physiorivesud.ch"
+   ],
+   "local_pack": [
+    "Proactive Physio",
+    "Santé Performance - Physiothérapie - Estavayer-le-Lac",
+    "Ōcab Physiothérapie"
+   ],
+   "ai_overview": false
+  }
+ },
+ "yvonand": {
+  "physio yvonand": {
+   "paa": [],
+   "top5": [
+    "1. onedoc.ch",
+    "2. onedoc.ch",
+    "3. search.ch",
+    "4. local.ch",
+    "5. search.ch"
+   ],
+   "local_pack": [
+    "Centre Physio-Sport & Prévention",
+    "Krystian Sobkowiak - Physiothérapeute",
+    "Cabinet De Physiothérapie Des Vergers"
+   ],
+   "ai_overview": false
+  },
+  "physiothérapeute yvonand": {
+   "paa": [],
+   "top5": [
+    "1. onedoc.ch",
+    "2. onedoc.ch",
+    "3. search.ch",
+    "4. onedoc.ch",
+    "5. local.ch"
+   ],
+   "local_pack": [
+    "Krystian Sobkowiak - Physiothérapeute",
+    "Centre Physio-Sport & Prévention",
+    "Cabinet De Physiothérapie Des Vergers"
+   ],
+   "ai_overview": false
+  }
+ },
+ "yverdon": {
+  "physio yverdon": {
+   "paa": [],
+   "top5": [
+    "1. onedoc.ch",
+    "2. physioswiss.ch",
+    "3. physioswiss.ch",
+    "4. onedoc.ch",
+    "5. onedoc.ch"
+   ],
+   "local_pack": [
+    "Cabinet des Remparts Sàrl - Physiothérapie, massage",
+    "Cabinet de physiothérapie Y-physio",
+    "Esprit Sport Physiothérapie Yverdon"
+   ],
+   "ai_overview": false
+  },
+  "physiothérapeute yverdon": {
+   "paa": [],
+   "top5": [
+    "1. onedoc.ch",
+    "2. esprit-sport-physiotherapie.ch",
+    "3. cabinet-des-remparts.ch",
+    "4. onedoc.ch",
+    "5. unyversphysio.ch"
+   ],
+   "local_pack": [
+    "Cabinet des Remparts Sàrl - Physiothérapie, massage",
+    "SB PHYSIO Yverdon-les-bains _ Physiothérapie Ambulatoire & Domicile",
+    "Esprit Sport Physiothérapie Yverdon"
+   ],
+   "ai_overview": false
+  }
+ },
+ "lausanne": {
+  "physio lausanne": {
+   "paa": [],
+   "top5": [
+    "1. physio-7.ch",
+    "2. start.physio",
+    "3. activsante.ch",
+    "4. hirslanden.ch",
+    "5. onedoc.ch"
+   ],
+   "local_pack": [
+    "Physio Soins",
+    "Physio Vie",
+    "Physio 7 | Centre Physiothérapie Lausanne"
+   ],
+   "ai_overview": false
+  },
+  "physiothérapeute lausanne": {
+   "paa": [],
+   "top5": [
+    "1. onedoc.ch",
+    "2. onedoc.ch",
+    "3. onedoc.ch",
+    "4. lasource.ch",
+    "5. activsante.ch"
+   ],
+   "local_pack": [
+    "Physio Soins",
+    "Centre Marterey Ostéopathie et Physiothérapie (MOP)",
+    "Esprit Sport Physiothérapie"
+   ],
+   "ai_overview": false
+  }
+ }
+}

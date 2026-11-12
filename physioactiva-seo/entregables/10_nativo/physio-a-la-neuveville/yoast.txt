@@ -1,0 +1,13 @@
+SEO title (59/60): Physio La Neuveville, Le Landeron : massage | Physio Activa
+Meta description (148/155): Physio à La Neuveville et au Landeron : physiothérapie à domicile, massage thérapeutique et fitness médical au cabinet d'Ins, à 6,6 km. Jusqu'à 20h.
+Slug: /physio-a-la-neuveville/
+Focus keyphrase: physio la neuveville
+H1: Physio à La Neuveville et au Landeron : à domicile ou au cabinet d'Ins, à 6,6 km
+Indexación: index, follow
+
+IMÁGENES (la plantilla se importa SIN imágenes para no duplicarlas en la biblioteca; elígelas en Elementor):
+- Fondo del hero (sección › Estilo › Fondo): foto de la ciudad o del cabinet, 1920 px
+- Imagen 1 del artículo: alt: Physiothérapeute de Physio Activa en séance, physio pour les patients de La Neuveville
+- Imagen 2 del artículo: alt: Salle de traitement du cabinet Physio Activa à Ins, proche de La Neuveville
+- Fondo del CTA final (sección › Estilo › Fondo): foto del cabinet; la capa azul oscura ya está puesta
+- Imagen destacada / Open Graph de Yoast: la misma del hero.

@@ -1,0 +1,246 @@
+[
+ {
+  "tipo": "hero",
+  "eyebrow": "Notre équipe",
+  "h1": "Vos physiothérapeutes à Ins : l'équipe Physio Activa",
+  "sub": "Physio Activa est un cabinet de physiothérapeutes à Ins, dans le Seeland, installé dans le bâtiment de l'InsGym (Rämismatte 21). Francisco Díaz et Lucile Combes vous reçoivent au cabinet ou se déplacent à domicile dans la région des Trois-Lacs. Chaque traitement commence par un bilan et se construit autour de vos objectifs.",
+  "pills": [
+   "Physiothérapeutes à Ins",
+   "Français et espagnol",
+   "Au cabinet ou à domicile"
+  ],
+  "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00032.jpg",
+  "alt": "Physiothérapeute accompagnant un patient lors d'exercices avec bande élastique",
+  "video": false,
+  "cta": "Prendre rendez-vous"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "En bref",
+  "h2": "L'essentiel en bref",
+  "lead": [],
+  "bg": null,
+  "cards": [
+   {
+    "h3": "Reconnu par toutes les assurances",
+    "html": "<p>Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse et accueille les patients quel que soit leur canton de résidence.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Au cabinet ou à domicile",
+    "html": "<p>Le cabinet se trouve dans l'InsGym, avec un espace d'entraînement. Si vous ne pouvez pas vous déplacer, nous venons chez vous dans le Seeland et les Trois-Lacs.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Bilan et plan de traitement",
+    "html": "<p>Nous commençons par vous écouter et vous examiner, puis nous définissons avec vous un plan adapté à vos objectifs.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
+    "html": "<p>Réservez en ligne, appelez le 076 627 38 38 ou écrivez-nous sur WhatsApp au +41 76 627 38 38.</p>",
+    "icon": "fa-calendar-check"
+   }
+  ]
+ },
+ {
+  "tipo": "team",
+  "eyebrow": "Notre équipe",
+  "h2": "Notre équipe",
+  "lead": [
+   "Physio Activa est née d'une idée simple : placer la personne au cœur des soins et rendre une physiothérapie attentive accessible dans toute la région des Trois-Lacs, entre le lac de Morat, le lac de Neuchâtel et le lac de Bienne."
+  ],
+  "bg": "trust",
+  "membres": [
+   {
+    "nom": "Francisco Díaz",
+    "titre": "[À CONFIRMER : titre et formation]",
+    "photo": "https://physioactiva.ch/wp-content/uploads/2025/04/20250401_165707-scaled-1-1024x1024.jpg",
+    "html": "<p>Francisco est physiothérapeute [À CONFIRMER : titre, formation et numéro d'enregistrement NAREG / RCC]. Il propose un traitement adapté aux besoins de chaque patient et accorde une grande importance à l'écoute, à la communication et à la relation de confiance. Il parle français et espagnol, ainsi que portugais [À CONFIRMER].</p>"
+   },
+   {
+    "nom": "Lucile Combes",
+    "titre": "[À CONFIRMER : titre et formation]",
+    "photo": "https://physioactiva.ch/wp-content/uploads/2025/04/20250401_164916-scaled-1-1024x1024.jpg",
+    "html": "<p>Lucile est physiothérapeute [À CONFIRMER : titre, formation et numéro d'enregistrement NAREG / RCC]. Elle offre une prise en charge complète et personnalisée, dans un cadre calme et professionnel, avec une attention particulière portée à l'écoute. Elle parle français et espagnol, ainsi que portugais [À CONFIRMER].</p>"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Notre approche",
+  "h2": "Notre approche",
+  "lead": [],
+  "bg": null,
+  "cards": [
+   {
+    "h3": "Le bilan d'abord",
+    "html": "<p>Avant de traiter, nous cherchons à comprendre : d'où vient la douleur, ce qui l'aggrave, ce que vous ne pouvez plus faire. C'est ce bilan qui oriente la suite, pas un protocole générique.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Un traitement actif",
+    "html": "<p>Nous combinons les techniques manuelles et l'exercice thérapeutique. Vous participez à chaque séance plutôt que de la subir, et l'espace d'entraînement de l'InsGym permet de travailler la force et l'équilibre sur place.</p>",
+    "icon": "fa-stethoscope"
+   },
+   {
+    "h3": "Un plan individualisé",
+    "html": "<p>Le plan est défini avec vous, selon ce que vous voulez retrouver (travail, sport, gestes du quotidien), puis ajusté au fil des séances. Nous accompagnons les troubles de l'appareil locomoteur, par exemple le <a href=\"/mal-de-dos-lombaire/\" style=\"color:var(--azure);font-weight:600\">mal de dos et la lombalgie</a>, la <a href=\"/sciatique-hernie-discale/\" style=\"color:var(--azure);font-weight:600\">sciatique et la hernie discale</a>, les <a href=\"/lesions-de-lepaule/\" style=\"color:var(--azure);font-weight:600\">lésions de l'épaule</a> ou la <a href=\"/douleur-du-genou-lesions-de-la-cheville/\" style=\"color:var(--azure);font-weight:600\">douleur du genou et de la cheville</a>. Liste complète dans notre <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">guide des pathologies</a>.</p>",
+    "icon": "fa-heart-pulse"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Notre approche",
+  "h2": "Comment se déroule votre prise en charge ?",
+  "lead": [],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Prise de rendez-vous",
+    "html": "<p>Réservez en ligne, appelez le 076 627 38 38 ou écrivez-nous sur WhatsApp au +41 76 627 38 38. Si vous ne pouvez pas vous déplacer, précisez-le : nous venons chez vous.</p>",
+    "icon": "fa-calendar-check"
+   },
+   {
+    "h3": "Bilan",
+    "html": "<p>La première séance commence par un entretien (symptômes, histoire médicale, activités), suivi d'un examen de la mobilité, de la force et de tests fonctionnels.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Séances au cabinet ou à domicile",
+    "html": "<p>Le traitement peut commencer dès la première séance, à l'InsGym ou chez vous. La durée d'une séance est [À CONFIRMER : durée].</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Autonomie et prévention",
+    "html": "<p>Nous vous montrons des exercices à poursuivre chez vous, pour consolider les progrès et ne pas dépendre indéfiniment du physiothérapeute.</p>",
+    "icon": "fa-person-walking"
+   }
+  ],
+  "cta_mid": true
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Physio Activa",
+  "h2": "Le cabinet à Ins et la zone desservie",
+  "lead": [],
+  "bg": null,
+  "html": "<p>Le cabinet se trouve à Rämismatte 21, 3232 Ins, dans le bâtiment de l'InsGym : salles de traitement et espace d'entraînement pour la rééducation active. Plan et accès : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>. Horaires : du lundi au vendredi, jusqu'à 20h.</p><p style=\"margin-top:12px\">Si vous ne pouvez pas vous déplacer, la <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a> est possible à Ins et dans les environs : Anet, Sugiez et Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss.</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Assurances",
+  "h2": "Assurances et horaires",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Le cabinet est ouvert du lundi au vendredi, jusqu'à 20h. Pour prendre rendez-vous, réservez en ligne, appelez le 076 627 38 38 ou écrivez-nous sur WhatsApp au +41 76 627 38 38.</p>"
+ },
+ {
+  "tipo": "villes",
+  "eyebrow": "Près de chez vous",
+  "h2": "Physio au cabinet ou à domicile dans votre région",
+  "lead": [
+   "Informations locales pour les patients des Trois-Lacs et du Seeland : distance, accès et soins à domicile."
+  ],
+  "liens": [
+   [
+    "Physio à Ins (Anet)",
+    "/"
+   ],
+   [
+    "Physio à Sugiez (Mont-Vully)",
+    "/physio-a-sugiez/"
+   ],
+   [
+    "Physio à La Neuveville",
+    "/physio-a-la-neuveville/"
+   ],
+   [
+    "Physio à Neuchâtel",
+    "/physio-a-neuchatel/"
+   ],
+   [
+    "Physio à Avenches",
+    "/physio-a-avenches/"
+   ],
+   [
+    "Physio à Lyss",
+    "/physio-a-lyss/"
+   ],
+   [
+    "Physio à Bienne (Biel)",
+    "/physio-a-bienne/"
+   ],
+   [
+    "Physio à Fribourg",
+    "/physio-a-fribourg/"
+   ],
+   [
+    "Physio à Payerne",
+    "/physio-a-payerne/"
+   ]
+  ],
+  "note": "Cabinet unique : Rämismatte 21, 3232 Ins."
+ },
+ {
+  "tipo": "faq",
+  "h2": "Questions fréquentes sur Physio Activa à Ins",
+  "faq": [
+   {
+    "q": "Quand dois-je consulter un physiothérapeute ?",
+    "a_html": "Lorsqu'une douleur ou une raideur dure plus d'une semaine, limite vos mouvements, perturbe votre sommeil ou revient régulièrement, ou après un accident ou une opération. Plus on la traite tôt, plus c'est simple. En cas de signe d'alarme, consultez d'abord un médecin.",
+    "a_text": "Lorsqu'une douleur ou une raideur dure plus d'une semaine, limite vos mouvements, perturbe votre sommeil ou revient régulièrement, ou après un accident ou une opération. Plus on la traite tôt, plus c'est simple. En cas de signe d'alarme, consultez d'abord un médecin."
+   },
+   {
+    "q": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+    "a_html": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.",
+    "a_text": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
+   },
+   {
+    "q": "Combien de séances me faut-il ?",
+    "a_html": "La durée du traitement varie selon votre situation et vos objectifs. Lors de la première visite, nous établissons une estimation adaptée à votre cas.",
+    "a_text": "La durée du traitement varie selon votre situation et vos objectifs. Lors de la première visite, nous établissons une estimation adaptée à votre cas."
+   },
+   {
+    "q": "Qui sont les physiothérapeutes de Physio Activa ?",
+    "a_html": "Francisco Díaz et Lucile Combes. Leurs titres et formations seront précisés ici : [À CONFIRMER : titres, formations, enregistrement professionnel].",
+    "a_text": "Francisco Díaz et Lucile Combes. Leurs titres et formations seront précisés ici : [À CONFIRMER : titres, formations, enregistrement professionnel]."
+   },
+   {
+    "q": "Comment se passe une séance de physiothérapie ?",
+    "a_html": "Un entretien, un bilan de vos mouvements, puis le traitement : techniques manuelles et exercices. Vous repartez avec des exercices à faire chez vous.",
+    "a_text": "Un entretien, un bilan de vos mouvements, puis le traitement : techniques manuelles et exercices. Vous repartez avec des exercices à faire chez vous."
+   },
+   {
+    "q": "Quelle est la différence entre un kiné et un physiothérapeute ?",
+    "a_html": "C'est le même métier : « kiné » (kinésithérapeute) est le terme utilisé en France, physiothérapeute celui employé en Suisse.",
+    "a_text": "C'est le même métier : « kiné » (kinésithérapeute) est le terme utilisé en France, physiothérapeute celui employé en Suisse."
+   },
+   {
+    "q": "Comment choisir son physiothérapeute ?",
+    "a_html": "Vérifiez qu'il est reconnu par les assurances maladie, qu'il commence par un bilan, qu'il parle votre langue et qu'il peut vous suivre au cabinet ou à domicile.",
+    "a_text": "Vérifiez qu'il est reconnu par les assurances maladie, qu'il commence par un bilan, qu'il parle votre langue et qu'il peut vous suivre au cabinet ou à domicile."
+   },
+   {
+    "q": "Vous déplacez-vous à domicile ?",
+    "a_html": "Oui, dans le Seeland et les Trois-Lacs, notamment à Morat, Neuchâtel, Bienne et dans le Vully. Contactez-nous pour vérifier votre adresse.",
+    "a_text": "Oui, dans le Seeland et les Trois-Lacs, notamment à Morat, Neuchâtel, Bienne et dans le Vully. Contactez-nous pour vérifier votre adresse."
+   },
+   {
+    "q": "Dans quelles langues pouvez-vous me recevoir ?",
+    "a_html": "En français et en espagnol. Le portugais est [À CONFIRMER].",
+    "a_text": "En français et en espagnol. Le portugais est [À CONFIRMER]."
+   }
+  ]
+ },
+ {
+  "tipo": "cta",
+  "h2": "Envie de commencer un traitement à Ins ou dans les environs ?",
+  "s1": "Vous souhaitez réserver ou poser une question avant de vous lancer ? <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">Réservez en ligne</a>, appelez le 076 627 38 38 ou écrivez-nous sur WhatsApp au +41 76 627 38 38.",
+  "s2": null
+ },
+ {
+  "tipo": "map"
+ }
+]

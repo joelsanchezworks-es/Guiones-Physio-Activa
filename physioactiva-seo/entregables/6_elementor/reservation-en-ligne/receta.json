@@ -1,0 +1,193 @@
+[
+ {
+  "tipo": "hero",
+  "eyebrow": "Rendez-vous",
+  "h1": "Prendre rendez-vous chez votre physio à Ins",
+  "sub": "Pour prendre rendez-vous chez votre physio à Ins, réservez en ligne via OneDoc, appelez le 076 627 38 38 ou écrivez-nous sur WhatsApp. Les séances ont lieu au cabinet à Ins ou à domicile, dans le Seeland et la région des Trois-Lacs.",
+  "pills": [
+   "En ligne, par téléphone ou WhatsApp",
+   "Au cabinet d'Ins ou à domicile",
+   "Ouvert jusqu'à 20h"
+  ],
+  "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00036.jpg",
+  "alt": "Cabinet Physio Activa à Ins prêt à accueillir les patients",
+  "video": false,
+  "cta": "Réserver sur OneDoc",
+  "cta_href": "https://www.onedoc.ch/fr/cabinet-de-physiotherapie/anet/ebdut/physioactiva"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "En bref",
+  "h2": "L'essentiel avant de prendre rendez-vous",
+  "lead": [],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Reconnu par toutes les assurances",
+    "html": "<p>Notre cabinet est reconnu par toutes les compagnies d&#x27;assurance maladie en Suisse, quel que soit votre canton de résidence.</p>",
+    "icon": "fa-shield-heart"
+   },
+   {
+    "h3": "Au cabinet ou à domicile",
+    "html": "<p>Cabinet à l&#x27;InsGym, Rämismatte 21 à Ins, et séances à domicile dans le Seeland et les Trois-Lacs.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Bilan et plan de traitement",
+    "html": "<p>La première séance commence par un entretien et un bilan ; les objectifs et le plan sont définis avec vous.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
+    "html": "<p>Réservation sur OneDoc, au 076 627 38 38 ou par WhatsApp, du lundi au vendredi jusqu&#x27;à 20h.</p>",
+    "icon": "fa-calendar-check"
+   }
+  ]
+ },
+ {
+  "tipo": "steps",
+  "eyebrow": "Rendez-vous",
+  "h2": "Trois façons de réserver votre rendez-vous physio",
+  "lead": [],
+  "bg": "assur-sec",
+  "steps": [
+   "<strong>En ligne (OneDoc)</strong> : choisissez le type de consultation, le jour et l'heure. <a href=\"https://www.onedoc.ch/fr/cabinet-de-physiotherapie/anet/ebdut/physioactiva\" style=\"color:var(--azure);font-weight:600\">Réserver sur OneDoc</a>",
+   "<strong>Par téléphone</strong> : 076 627 38 38.",
+   "<strong>Par WhatsApp</strong> : +41 76 627 38 38, si vous préférez écrire."
+  ],
+  "after": [
+   "Horaires : du lundi au vendredi, jusqu'à 20h."
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "À domicile",
+  "h2": "Au cabinet ou à domicile",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Le cabinet se trouve chez InsGym, Rämismatte 21, 3232 Ins (BE). Si vous ne pouvez pas vous déplacer, après une opération par exemple, nous venons chez vous : découvrez notre <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>. Nous parlons français et espagnol.</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Physio Activa",
+  "h2": "Ce qu'il faut apporter",
+  "lead": [],
+  "bg": null,
+  "html": "<p>Si vous en avez, apportez vos comptes rendus médicaux ou d'imagerie.</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Assurances",
+  "h2": "Assurances et horaires",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Le cabinet est ouvert du lundi au vendredi, jusqu'à 20h. Pour prendre rendez-vous, réservez en ligne, appelez le 076 627 38 38 ou écrivez-nous sur WhatsApp au +41 76 627 38 38.</p>"
+ },
+ {
+  "tipo": "villes",
+  "eyebrow": "Près de chez vous",
+  "h2": "Physio au cabinet ou à domicile dans votre région",
+  "lead": [
+   "Informations locales pour les patients des Trois-Lacs et du Seeland : distance, accès et soins à domicile."
+  ],
+  "liens": [
+   [
+    "Physio à Ins (Anet)",
+    "/"
+   ],
+   [
+    "Physio à Sugiez (Mont-Vully)",
+    "/physio-a-sugiez/"
+   ],
+   [
+    "Physio à La Neuveville",
+    "/physio-a-la-neuveville/"
+   ],
+   [
+    "Physio à Neuchâtel",
+    "/physio-a-neuchatel/"
+   ],
+   [
+    "Physio à Avenches",
+    "/physio-a-avenches/"
+   ],
+   [
+    "Physio à Lyss",
+    "/physio-a-lyss/"
+   ],
+   [
+    "Physio à Bienne (Biel)",
+    "/physio-a-bienne/"
+   ],
+   [
+    "Physio à Fribourg",
+    "/physio-a-fribourg/"
+   ],
+   [
+    "Physio à Payerne",
+    "/physio-a-payerne/"
+   ]
+  ],
+  "note": "Cabinet unique : Rämismatte 21, 3232 Ins."
+ },
+ {
+  "tipo": "faq",
+  "h2": "Questions fréquentes sur la réservation à Ins",
+  "faq": [
+   {
+    "q": "Quand dois-je consulter un physiothérapeute ?",
+    "a_html": "Lorsqu'une douleur ou une raideur dure plus d'une semaine, limite vos mouvements, perturbe votre sommeil ou revient régulièrement, ou après un accident ou une opération. Plus on la traite tôt, plus c'est simple. Une douleur forte qui s'aggrave, un gonflement important ou de la fièvre nécessitent d'abord un avis médical.",
+    "a_text": "Lorsqu'une douleur ou une raideur dure plus d'une semaine, limite vos mouvements, perturbe votre sommeil ou revient régulièrement, ou après un accident ou une opération. Plus on la traite tôt, plus c'est simple. Une douleur forte qui s'aggrave, un gonflement important ou de la fièvre nécessitent d'abord un avis médical."
+   },
+   {
+    "q": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+    "a_html": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.",
+    "a_text": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
+   },
+   {
+    "q": "Combien de séances me faut-il ?",
+    "a_html": "La durée du traitement varie selon votre situation et vos objectifs. Lors de la première visite, nous établissons une estimation adaptée à votre cas.",
+    "a_text": "La durée du traitement varie selon votre situation et vos objectifs. Lors de la première visite, nous établissons une estimation adaptée à votre cas."
+   },
+   {
+    "q": "Quel type de consultation choisir ?",
+    "a_html": "Si c'est votre première visite, choisissez « Première consultation » : nous faisons le bilan et fixons avec vous les objectifs du traitement. Les séances de suivi se réservent ensuite de la même façon.",
+    "a_text": "Si c'est votre première visite, choisissez « Première consultation » : nous faisons le bilan et fixons avec vous les objectifs du traitement. Les séances de suivi se réservent ensuite de la même façon."
+   },
+   {
+    "q": "Puis-je modifier ou annuler mon rendez-vous ?",
+    "a_html": "Oui. Contactez-nous dès que possible par téléphone ou WhatsApp, du lundi au vendredi jusqu'à 20h.",
+    "a_text": "Oui. Contactez-nous dès que possible par téléphone ou WhatsApp, du lundi au vendredi jusqu'à 20h."
+   },
+   {
+    "q": "Venez-vous à domicile dans ma commune ?",
+    "a_html": "Nous nous déplaçons à Ins, Anet, Sugiez/Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss. Pour une autre commune, demandez-nous.",
+    "a_text": "Nous nous déplaçons à Ins, Anet, Sugiez/Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss. Pour une autre commune, demandez-nous."
+   },
+   {
+    "q": "Comment se passe une séance de physiothérapie ?",
+    "a_html": "La première séance commence par un entretien sur vos douleurs et vos antécédents, puis un examen de vos mouvements. Nous fixons ensuite ensemble des objectifs et commençons le traitement : exercices, techniques manuelles et conseils. Durée d'une séance : [À CONFIRMER].",
+    "a_text": "La première séance commence par un entretien sur vos douleurs et vos antécédents, puis un examen de vos mouvements. Nous fixons ensuite ensemble des objectifs et commençons le traitement : exercices, techniques manuelles et conseils. Durée d'une séance : [À CONFIRMER]."
+   },
+   {
+    "q": "Comment choisir son physiothérapeute ?",
+    "a_html": "Regardez s'il traite votre problème, s'il peut venir à domicile si vous ne pouvez pas vous déplacer, et dans quelle langue vous souhaitez être suivi. N'hésitez pas à nous appeler pour poser vos questions avant de réserver.",
+    "a_text": "Regardez s'il traite votre problème, s'il peut venir à domicile si vous ne pouvez pas vous déplacer, et dans quelle langue vous souhaitez être suivi. N'hésitez pas à nous appeler pour poser vos questions avant de réserver."
+   },
+   {
+    "q": "Est-ce normal d'avoir plus mal après une séance de physio ?",
+    "a_html": "Une légère gêne ou des courbatures dans les heures qui suivent peuvent arriver, surtout après des exercices nouveaux. Parlez-en lors de la séance suivante pour adapter le traitement. Une douleur forte qui s'aggrave, un gonflement important ou de la fièvre nécessitent un avis médical.",
+    "a_text": "Une légère gêne ou des courbatures dans les heures qui suivent peuvent arriver, surtout après des exercices nouveaux. Parlez-en lors de la séance suivante pour adapter le traitement. Une douleur forte qui s'aggrave, un gonflement important ou de la fièvre nécessitent un avis médical."
+   }
+  ]
+ },
+ {
+  "tipo": "cta",
+  "h2": "Besoin d'un physio à Ins ou dans les environs ?",
+  "s1": "Réservez en ligne, appelez-nous ou écrivez-nous sur WhatsApp : nous vous proposons une séance au cabinet d'Ins ou à domicile.",
+  "s2": null
+ },
+ {
+  "tipo": "map"
+ }
+]

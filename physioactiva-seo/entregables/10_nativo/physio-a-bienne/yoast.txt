@@ -1,0 +1,13 @@
+SEO title (60/60): Physio à Bienne (Biel) – à domicile ou à Ins | Physio Activa
+Meta description (152/155): Physiothérapeute pour Bienne (Biel) et environs : cabinet à Ins ou séances à domicile, reconnu par toutes les assurances. Réservez en ligne ou WhatsApp.
+Slug: /physio-a-bienne/
+Focus keyphrase: physio biel
+H1: Physio à Bienne : au cabinet d'Ins ou à domicile
+Indexación: index, follow
+
+IMÁGENES (la plantilla se importa SIN imágenes para no duplicarlas en la biblioteca; elígelas en Elementor):
+- Fondo del hero (sección › Estilo › Fondo): foto de la ciudad o del cabinet, 1920 px
+- Imagen 1 del artículo: alt: Physiothérapeute de Physio Activa en séance, physio pour les patients de Bienne
+- Imagen 2 del artículo: alt: Salle de traitement du cabinet Physio Activa à Ins, proche de Bienne
+- Fondo del CTA final (sección › Estilo › Fondo): foto del cabinet; la capa azul oscura ya está puesta
+- Imagen destacada / Open Graph de Yoast: la misma del hero.

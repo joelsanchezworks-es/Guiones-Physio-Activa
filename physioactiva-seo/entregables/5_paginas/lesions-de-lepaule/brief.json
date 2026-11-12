@@ -1,0 +1,332 @@
+{
+ "slug": "lesions-de-lepaule",
+ "url": "/lesions-de-lepaule/",
+ "tema": "epaule",
+ "nombre": "Épaule (coiffe, capsulite, tendinite)",
+ "kw_principal": "coiffe des rotateurs",
+ "intencion": "informacional",
+ "serp_tipo": "portal médico",
+ "ai_overview": true,
+ "top3": [
+  "1. medicol.ch",
+  "2. chirurgie-orthopedique-paris.com",
+  "3. chuv.ch"
+ ],
+ "paa": [
+  "Quels sont les symptômes de la coiffe des rotateurs ?",
+  "Comment guérir de la coiffe des rotateurs ?",
+  "Combien de temps faut-il pour récupérer d'une coiffe des rotateurs ?",
+  "Quels sont les 4 muscles de la coiffe des rotateurs ?",
+  "Comment soulager une épaule qui fait mal ?",
+  "Quelle est la différence entre la tendinite et l'arthrose de l'épaule ?",
+  "Quels sont les symptômes d'un nerf coincé dans l'épaule ?",
+  "Quelle est la cause d'une douleur à l'épaule qui descend dans le bras et la main ?",
+  "Comment renforcer la coiffe des rotateurs ?",
+  "Quel est le tendon le plus important de l'épaule ?"
+ ],
+ "secciones_sugeridas": [
+  "douleur au epaule",
+  "coiffe des rotateurs muscles",
+  "douleur epaule gauche",
+  "douleur coiffe des rotateurs",
+  "coiffe des rotateurs exercices",
+  "tendinite coiffe des rotateurs",
+  "test coiffe des rotateurs"
+ ],
+ "keywords": [
+  {
+   "kw": "coiffe des rotateurs",
+   "vol": 590,
+   "intencion": "transaccional",
+   "kd": 0,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -18,
+   "cluster": "coiffe des rotateurs"
+  },
+  {
+   "kw": "douleur au epaule",
+   "vol": 260,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.39,
+   "tendencia_12m_pct": -35,
+   "cluster": "douleur au epaule"
+  },
+  {
+   "kw": "coiffe des rotateurs muscles",
+   "vol": 140,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -37,
+   "cluster": "coiffe des rotateurs muscles"
+  },
+  {
+   "kw": "douleur epaule gauche",
+   "vol": 140,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 1.63,
+   "tendencia_12m_pct": -44,
+   "cluster": "douleur epaule gauche"
+  },
+  {
+   "kw": "douleur coiffe des rotateurs",
+   "vol": 70,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 0.44,
+   "tendencia_12m_pct": -18,
+   "cluster": "douleur coiffe des rotateurs"
+  },
+  {
+   "kw": "tendinite coiffe des rotateurs",
+   "vol": 50,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -20,
+   "cluster": "tendinite coiffe des rotateurs"
+  },
+  {
+   "kw": "coiffe des rotateurs exercices",
+   "vol": 40,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -15,
+   "cluster": "coiffe des rotateurs exercices"
+  },
+  {
+   "kw": "test coiffe des rotateurs",
+   "vol": 40,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 17,
+   "cluster": "test coiffe des rotateurs"
+  },
+  {
+   "kw": "rupture coiffe des rotateurs",
+   "vol": 30,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -30,
+   "cluster": "coiffe des rotateurs"
+  },
+  {
+   "kw": "anatomie coiffe des rotateurs",
+   "vol": 20,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 17,
+   "cluster": "coiffe des rotateurs"
+  },
+  {
+   "kw": "coiffe des rotateurs muscles exercices",
+   "vol": 20,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": null,
+   "cluster": "coiffe des rotateurs exercices"
+  },
+  {
+   "kw": "coiffe des rotateurs opération",
+   "vol": 20,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -33,
+   "cluster": "coiffe des rotateurs"
+  },
+  {
+   "kw": "coiffe des rotateurs schéma",
+   "vol": 20,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -20,
+   "cluster": "coiffe des rotateurs"
+  },
+  {
+   "kw": "tendons coiffe des rotateurs",
+   "vol": 20,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -20,
+   "cluster": "coiffe des rotateurs"
+  },
+  {
+   "kw": "atteinte coiffe des rotateurs",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 50,
+   "cluster": "coiffe des rotateurs"
+  },
+  {
+   "kw": "avis après opération de la coiffe des rotateurs",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -50,
+   "cluster": "coiffe des rotateurs"
+  },
+  {
+   "kw": "coiffe des rotateurs def",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 0,
+   "cluster": "coiffe des rotateurs"
+  },
+  {
+   "kw": "coiffe des rotateurs douleurs nocturnes",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 0,
+   "cluster": "coiffe des rotateurs"
+  },
+  {
+   "kw": "coiffe des rotateurs fonction",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 0,
+   "cluster": "coiffe des rotateurs"
+  },
+  {
+   "kw": "coiffe des rotateurs image",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 100,
+   "cluster": "coiffe des rotateurs"
+  },
+  {
+   "kw": "coiffe des rotateurs insertion",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -100,
+   "cluster": "coiffe des rotateurs"
+  },
+  {
+   "kw": "coiffe des rotateurs mouvement",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 100,
+   "cluster": "coiffe des rotateurs"
+  },
+  {
+   "kw": "coiffe des rotateurs musculation",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 0,
+   "cluster": "coiffe des rotateurs"
+  },
+  {
+   "kw": "coiffe des rotateurs pdf",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": null,
+   "cluster": "coiffe des rotateurs"
+  },
+  {
+   "kw": "coiffe des rotateurs radio",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -100,
+   "cluster": "coiffe des rotateurs"
+  },
+  {
+   "kw": "coiffe des rotateurs symptomes",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -33,
+   "cluster": "coiffe des rotateurs"
+  },
+  {
+   "kw": "coiffe des rotateurs traitement",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 0,
+   "cluster": "coiffe des rotateurs"
+  },
+  {
+   "kw": "comment dormir apres une operation de la coiffe des rotateurs",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -100,
+   "cluster": "coiffe des rotateurs"
+  },
+  {
+   "kw": "comment soigner une rupture de la coiffe des rotateurs",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -100,
+   "cluster": "coiffe des rotateurs"
+  },
+  {
+   "kw": "comment soulager la douleur de la coiffe des rotateurs",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 0,
+   "cluster": "douleur coiffe des rotateurs"
+  }
+ ],
+ "enlaces_internos": [
+  "/physioactiva-ondes-de-choc/",
+  "/therapie-manuelle/",
+  "/physiotherapie-post-operatoire/",
+  "/medical-training-therapy-mtt/",
+  "/physiotherapeute-a-domicile/",
+  "/reservation-en-ligne/"
+ ],
+ "actual": {
+  "title": "Lésions de l'épaule - Physio Activa",
+  "meta": "Traitement de physiothérapie pour la tendinite, la coiffe des rotateurs et l'épaule gelée à Ins, Suisse, et dans les villages proches du lac dans toute la région du lac de Morat.",
+  "h1": [
+   "Lésions de l'épaule : physiothérapie et rééducation"
+  ],
+  "h2": [
+   "Une épaule sans douleur : diagnostic précis et traitement personnalisé",
+   "Reconnus par toutes les assurances maladie",
+   "Questions fréquentes",
+   "Votre épaule peut à nouveau bouger sans douleur."
+  ],
+  "palabras": 621,
+  "texto": "Lésions de l'épaule - Physio Activa\nAller au contenu\nPhysiothérapie spécialisée de l'épaule en Suisse\n# Lésions de l'épaule : physiothérapie et rééducation\nL'épaule est l'articulation la plus mobile du corps et, de ce fait, l'une des plus vulnérables. Tendinite, rupture de la coiffe des rotateurs, épaule gelée ou luxation : chez Physio Activa, nous diagnostiquons l'origine exacte de votre douleur et appliquons le traitement le plus efficace. Sur prescription médicale.\nRendez-vous online\nWhatsApp\nCoiffe des rotateurs, bursite, SLAP\nConservateur d'abord\nPremier rendez-vous cette semaine\nNos prises en charge\n## Une épaule sans douleur : diagnostic précis et traitement personnalisé\n## Tendinite et syndrome de conflit de l'épaule\nLe conflit sous-acromial est l'une des lésions de l'épaule les plus fréquentes : les tendons de la coiffe des rotateurs se compriment lors de l'élévation du bras, provoquant douleur et limitation du mouvement. Avec la physiothérapie manuelle et l'exercice thérapeutique, il se résout dans la plupart des cas sans recourir à la chirurgie.\n## Rupture de la coiffe des rotateurs\nLa rupture partielle ou totale de l'un des tendons de la coiffe des rotateurs provoque une douleur intense, une faiblesse et une difficulté à lever le bras. La physiothérapie est le traitement de choix pour les ruptures partielles et dans la rééducation post-chirurgicale des ruptures complètes.\n## Épaule gelée ou capsulite rétractile\nL'épaule gelée est l'une des pathologies les plus douloureuses et invalidantes : elle provoque une perte progressive de mobilité qui peut durer des mois, voire des années, sans traitement. La physiothérapie spécialisée accélère significativement la récupération à toutes les phases de la maladie.\n## Instabilité, luxation et rééducation post-chirurgicale\nAprès une luxation de l'épaule ou une intervention chirurgicale, la rééducation est essentielle pour retrouver la force, la stabilité et la confiance dans le mouvement. Nous concevons des programmes progressifs adaptés au type de lésion et aux objectifs du patient.\nRendez-vous online\nAssurance\n## Reconnus par toutes les assurances maladie\nNous sommes reconnus par toutes les assurances maladie en Suisse. La physiothérapie pour les lésions de l'épaule se fait sur prescription médicale.\n1\nVotre médecin ou orthopédiste établit la prescription de physiothérapie de l'épaule.\n2\nNous réalisons un bilan fonctionnel complet de l'articulation.\n3\nNous appliquons le traitement adapté à votre situation.\nVous avez mal à l'épaule ? Consultez-nous sans engagement\nFAQ\n## Questions fréquentes\nQuand dois-je consulter un physiothérapeute pour une douleur à l'épaule ?\nLorsque la douleur dure plus d'une semaine, limite les mouvements du bras, vous réveille la nuit ou apparaît après un traumatisme ou un effort intense. N'attendez pas qu'elle devienne chronique : les lésions de l'épaule traitées à temps répondent bien mieux.\nLa physiothérapie peut-elle éviter la chirurgie dans les lésions de l'épaule ?\nDans bien des cas, oui. La tendinite, le conflit sous-acromial, les ruptures partielles de la coiffe et l'épaule gelée répondent très bien au traitement conservateur. La physiothérapie est toujours la première étape avant d'envisager des options chirurgicales.\nCombien de séances me faut-il pour une lésion de l'épaule ?\nCela dépend du type et de la gravité de la lésion. Une tendinite aiguë répond généralement plus vite, tandis que l'épaule gelée ou les rééducations post-chirurgicales nécessitent un suivi plus prolongé. Lors de la première visite, nous évaluons votre situation et établissons un plan adapté à votre cas.\nTravaillez-vous avec toutes les assurances ?\nOui. Notre cabinet est reconnu par toutes les assurances maladie en Suisse. Nous travaillons avec toutes les assurances et dans tous les cantons, avec toutes les autorisations de santé nécessaires, quel que soit le lieu de résidence du patient.\n## Votre épaule peut à nouveau bouger sans douleur.\nChez Physio Activa, nous traitons les lésions de l'épaule avec une précision diagnostique et un traitement personnalisé. Premier rendez-vous disponible cette semaine.\nÉcrivez-nous sur WhatsApp\nAppelez-nous 076 627 38 38\nFrançais\nDeutsch"
+ },
+ "fuente": "DataForSEO (google_ads/search_volume, Labs, SERP Ins) 2026-11-06"
+}

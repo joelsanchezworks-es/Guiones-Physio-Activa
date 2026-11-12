@@ -1,0 +1,220 @@
+[
+ {
+  "tipo": "hero",
+  "eyebrow": "Physio · Yvonand",
+  "h1": "Physio à Yvonand : au cabinet d'Ins ou à domicile",
+  "sub": "Besoin de physiothérapie et domicilié à Yvonand ? Physio Activa travaille depuis Ins, à environ 35,9 km en ligne droite, et vous reçoit au cabinet ; le déplacement chez vous reste à confirmer pour votre secteur [À CONFIRMER : domicile à Yvonand]. Le cabinet est reconnu par toutes les assurances maladie en Suisse et un rendez-vous se prend en quelques clics.",
+  "pills": [
+   "Cabinet à Ins, à 35,9 km",
+   "Reconnu par toutes les assurances",
+   "Ouvert jusqu'à 20h"
+  ],
+  "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00032.jpg",
+  "alt": "Physiothérapeute accompagnant un patient lors d'exercices à domicile ou au cabinet",
+  "video": false,
+  "cta": "Prendre rendez-vous"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "En bref",
+  "h2": "L'essentiel en bref",
+  "lead": [],
+  "bg": null,
+  "cards": [
+   {
+    "h3": "Reconnu par toutes les assurances",
+    "html": "<p>Habiter le canton de Vaud et se soigner dans le canton de Berne ne pose aucun problème : notre cabinet est reconnu par toutes les assurances maladie en Suisse.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Au cabinet d'Ins ou à domicile",
+    "html": "<p>La rééducation se fait surtout au cabinet. Un passage dans le Nord vaudois n'aurait de sens qu'en regroupant plusieurs patients le même jour [À CONFIRMER : domicile et jours de passage].</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Bilan et plan de traitement",
+    "html": "<p>Parce que la distance est importante, nous définissons dès le départ un plan qui mise sur votre travail personnel entre les séances.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
+    "html": "<p>Un créneau en ligne sur la <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservation</a>, un appel au 076 627 38 38 ou un message WhatsApp au +41 76 627 38 38.</p>",
+    "icon": "fa-calendar-check"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Signaux d'alarme",
+  "h2": "Quand consulter un physio, et quand voir d'abord un médecin ?",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Torticolis qui revient, raideur de la nuque après la conduite ou le télétravail, hanche arthrosique qui raccourcit les promenades, lombalgie qui traîne depuis des mois, genou qui lâche à la descente des escaliers : voilà le type de gênes pour lesquelles un physiothérapeute apporte une aide concrète. La préparation et les suites d'une prothèse de hanche en font aussi partie.</p><p style=\"margin-top:12px\">Consultez d'abord un médecin, ou appelez le 144 en urgence, si :\n- la douleur de nuque s'accompagne de vertiges, de troubles de la parole ou de la vision ;\n- une hanche ou un genou devient brusquement impossible à charger ;\n- le mal de dos s'accompagne d'une perte de force ou de sensibilité ;\n- vous avez de la fièvre, des sueurs nocturnes ou une douleur qui augmente sans raison.</p>"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Notre approche",
+  "h2": "Quelle prise en charge selon votre situation ?",
+  "lead": [],
+  "bg": null,
+  "cards": [
+   {
+    "h3": "Au cabinet d'Ins",
+    "html": "<p>Nous exerçons dans les locaux d'InsGym, où un programme d'exercices se construit sur place puis se poursuit en autonomie. Cela permet d'espacer les séances quand l'évolution le permet, un vrai avantage depuis Yvonand.</p>",
+    "icon": "fa-location-dot"
+   },
+   {
+    "h3": "À domicile et localités voisines",
+    "html": "<p>À environ 35,9 km du cabinet, un passage chez vous dépendra du nombre de patients suivis dans le secteur. Chêne-Pâquier, Démoret, Rovray et Cheyres-Châbles seraient alors concernés [À CONFIRMER : localités desservies]. Cette option vise les patients alités ou très limités dans leurs déplacements : <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Après une opération ou une hospitalisation",
+    "html": "<p>Si votre intervention ou votre séjour a eu lieu à l'eHnv d'Yverdon-les-Bains, l'hôpital de la région, nous reprenons la rééducation sur la base des consignes de sortie.</p>",
+    "icon": "fa-hospital"
+   },
+   {
+    "h3": "Nuque, hanche, dos et genou",
+    "html": "<p>– <a href=\"/douleur-cervicale-au-cou/\" style=\"color:var(--azure);font-weight:600\">Douleur cervicale</a> : torticolis, nuque raide, tensions liées à l'écran ou au volant.</p><p style=\"margin-top:12px\">– <a href=\"/douleur-de-hanche-protheses/\" style=\"color:var(--azure);font-weight:600\">Hanche et prothèses</a> : arthrose, préparation et suites d'une prothèse totale.</p><p style=\"margin-top:12px\">– <a href=\"/mal-de-dos-lombaire/\" style=\"color:var(--azure);font-weight:600\">Mal de dos et lombalgie</a> : douleur aiguë ou chronique, éducation à la douleur, renforcement du tronc.</p><p style=\"margin-top:12px\">– <a href=\"/douleur-du-genou-lesions-de-la-cheville/\" style=\"color:var(--azure);font-weight:600\">Genou</a> : douleurs rotuliennes, lésions ligamentaires, reprise du sport.</p><p style=\"margin-top:12px\">Pour un autre problème : <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">toutes les pathologies</a>.</p>",
+    "icon": "fa-bone"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Notre approche",
+  "h2": "Comment se déroule votre prise en charge ?",
+  "lead": [],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Prise de rendez-vous",
+    "html": "<p>Réservez en ligne ou envoyez un message WhatsApp avec quelques mots sur votre problème : nous préparons votre dossier et proposons un créneau compatible avec le trajet.</p>",
+    "icon": "fa-calendar-check"
+   },
+   {
+    "h3": "Bilan",
+    "html": "<p>Le premier rendez-vous est plus long : nous écoutons votre histoire, testons vos mouvements et choisissons avec vous un objectif réaliste, comme marcher une heure sans douleur.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Séances au cabinet ou à domicile",
+    "html": "<p>Traitement manuel, exercices progressifs et conseils posturaux se complètent. Nous regroupons volontiers les rendez-vous selon vos contraintes de déplacement.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Autonomie et prévention",
+    "html": "<p>Chaque exercice appris au cabinet est noté pour être refait chez vous. Plus vous devenez autonome, moins les trajets sont nécessaires.</p>",
+    "icon": "fa-person-walking"
+   }
+  ],
+  "cta_mid": true
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Accès",
+  "h2": "Venir au cabinet d'Ins depuis Yvonand",
+  "lead": [],
+  "bg": null,
+  "html": "<p>Le cabinet d'Ins est à environ 35,9 km en ligne droite d'Yvonand, commune du district du Jura-Nord vaudois. Pour préparer votre venue, consultez <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Les consultations se tiennent en français, la langue d'Yvonand, ou en espagnol. Pour les patients suivis à l'eHnv, la transition vers notre cabinet se fait simplement avec le rapport de sortie.</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Assurances",
+  "h2": "Assurances et horaires : physio à Yvonand",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Votre domicile vaudois n'est pas un obstacle : notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse et accueille les patients quel que soit leur canton de résidence. Nous recevons du lundi au vendredi, jusqu'à 20h. Réservez en ligne, au 076 627 38 38 ou par WhatsApp au +41 76 627 38 38.</p>"
+ },
+ {
+  "tipo": "villes",
+  "eyebrow": "Localités voisines",
+  "h2": "Autres localités proches",
+  "lead": [
+   "Vous habitez entre Yvonand et le Seeland ? Consultez aussi nos pages locales voisines."
+  ],
+  "liens": [
+   [
+    "Physio à Ins (Anet)",
+    "/"
+   ],
+   [
+    "Physio à Payerne",
+    "/physio-a-payerne/"
+   ],
+   [
+    "Physio à Avenches",
+    "/physio-a-avenches/"
+   ],
+   [
+    "Physio à Neuchâtel",
+    "/physio-a-neuchatel/"
+   ],
+   [
+    "Physio à Fribourg",
+    "/physio-a-fribourg/"
+   ]
+  ],
+  "note": "Cabinet unique : Rämismatte 21, 3232 Ins."
+ },
+ {
+  "tipo": "faq",
+  "h2": "Questions fréquentes sur la physio à Yvonand",
+  "faq": [
+   {
+    "q": "Quand dois-je consulter un physiothérapeute pour une douleur ?",
+    "a_html": "Si une douleur de nuque, de hanche ou de dos dure plus d'une semaine, limite vos mouvements ou perturbe le sommeil. Attendre qu'elle devienne chronique rend le travail plus long. Vertiges ou troubles de la parole associés : appelez d'abord un médecin ou le 144.",
+    "a_text": "Si une douleur de nuque, de hanche ou de dos dure plus d'une semaine, limite vos mouvements ou perturbe le sommeil. Attendre qu'elle devienne chronique rend le travail plus long. Vertiges ou troubles de la parole associés : appelez d'abord un médecin ou le 144."
+   },
+   {
+    "q": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+    "a_html": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.",
+    "a_text": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
+   },
+   {
+    "q": "Combien de séances me faut-il ?",
+    "a_html": "La durée du traitement varie selon votre situation et votre travail personnel entre les rendez-vous. Lors de la première visite, nous établissons une estimation adaptée à votre cas.",
+    "a_text": "La durée du traitement varie selon votre situation et votre travail personnel entre les rendez-vous. Lors de la première visite, nous établissons une estimation adaptée à votre cas."
+   },
+   {
+    "q": "J'habite dans le canton de Vaud : puis-je être suivi à Ins, dans le canton de Berne ?",
+    "a_html": "Oui. Nous accueillons les patients quel que soit leur canton de résidence : votre adresse vaudoise ne change rien au suivi.",
+    "a_text": "Oui. Nous accueillons les patients quel que soit leur canton de résidence : votre adresse vaudoise ne change rien au suivi."
+   },
+   {
+    "q": "Quelle distance entre la commune et le cabinet ?",
+    "a_html": "Environ 35,9 km en ligne droite. C'est l'une de nos zones les plus éloignées, d'où l'accent mis sur les exercices à domicile.",
+    "a_text": "Environ 35,9 km en ligne droite. C'est l'une de nos zones les plus éloignées, d'où l'accent mis sur les exercices à domicile."
+   },
+   {
+    "q": "Quelle est la différence entre un kinésithérapeute et un physiothérapeute ?",
+    "a_html": "Il s'agit du même métier : en Suisse, le titre reconnu est celui de physiothérapeute, alors qu'en France on parle plutôt de masseur-kinésithérapeute.",
+    "a_text": "Il s'agit du même métier : en Suisse, le titre reconnu est celui de physiothérapeute, alors qu'en France on parle plutôt de masseur-kinésithérapeute."
+   },
+   {
+    "q": "Comment se passe une séance de physiothérapie ?",
+    "a_html": "Après un court point sur l'évolution, le physiothérapeute traite la zone douloureuse puis vous fait travailler activement. La fin de séance sert à revoir votre programme personnel.",
+    "a_text": "Après un court point sur l'évolution, le physiothérapeute traite la zone douloureuse puis vous fait travailler activement. La fin de séance sert à revoir votre programme personnel."
+   },
+   {
+    "q": "Assurez-vous le suivi après une opération à l'eHnv ?",
+    "a_html": "Oui, la rééducation peut commencer dès votre sortie, selon les consignes reçues [À CONFIRMER : délai pour une première séance et domicile possible].",
+    "a_text": "Oui, la rééducation peut commencer dès votre sortie, selon les consignes reçues [À CONFIRMER : délai pour une première séance et domicile possible]."
+   },
+   {
+    "q": "Passez-vous à Démoret, Rovray ou Chêne-Pâquier ?",
+    "a_html": "Ces communes voisines seraient regroupées avec les visites du secteur si le domicile y est proposé [À CONFIRMER : localités et jours de passage].",
+    "a_text": "Ces communes voisines seraient regroupées avec les visites du secteur si le domicile y est proposé [À CONFIRMER : localités et jours de passage]."
+   }
+  ]
+ },
+ {
+  "tipo": "cta",
+  "h2": "Besoin d'un physio à Yvonand ou dans les environs ?",
+  "s1": "Écrivez-nous sur WhatsApp au +41 76 627 38 38 ou appelez le 076 627 38 38. Si tout est clair, choisissez directement votre créneau sur la page de <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservation en ligne</a>.",
+  "s2": null
+ },
+ {
+  "tipo": "map"
+ }
+]

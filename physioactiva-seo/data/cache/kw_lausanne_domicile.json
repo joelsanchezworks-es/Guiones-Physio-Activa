@@ -1,0 +1,338 @@
+{
+    "version": "0.1.20261103",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "4.2915 sec.",
+    "cost": 0.09,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "11110002-3018-0367-0000-0287b3ad642d",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "3.1284 sec.",
+            "cost": 0.09,
+            "result_count": 12,
+            "path": [
+                "v3",
+                "keywords_data",
+                "google_ads",
+                "search_volume",
+                "live"
+            ],
+            "data": {
+                "api": "keywords_data",
+                "function": "search_volume",
+                "se": "google_ads",
+                "location_code": 2756,
+                "keywords": [
+                    "physio à domicile lausanne",
+                    "physio a domicile lausanne",
+                    "physiothérapeute à domicile lausanne",
+                    "physiothérapie à domicile lausanne",
+                    "physiotherapie a domicile lausanne",
+                    "kiné à domicile lausanne",
+                    "physio domicile lausanne",
+                    "physio à domicile",
+                    "physiothérapeute à domicile",
+                    "physio à domicile pully",
+                    "physio à domicile renens",
+                    "physiothérapie à domicile vaud"
+                ]
+            },
+            "result": [
+                {
+                    "keyword": "physio à domicile lausanne",
+                    "spell": null,
+                    "location_code": 2756,
+                    "language_code": null,
+                    "search_partners": false,
+                    "competition": null,
+                    "competition_index": null,
+                    "search_volume": null,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "physio a domicile lausanne",
+                    "spell": null,
+                    "location_code": 2756,
+                    "language_code": null,
+                    "search_partners": false,
+                    "competition": null,
+                    "competition_index": null,
+                    "search_volume": null,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "physiothérapeute à domicile lausanne",
+                    "spell": null,
+                    "location_code": 2756,
+                    "language_code": null,
+                    "search_partners": false,
+                    "competition": null,
+                    "competition_index": null,
+                    "search_volume": null,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "physiothérapie à domicile lausanne",
+                    "spell": null,
+                    "location_code": 2756,
+                    "language_code": null,
+                    "search_partners": false,
+                    "competition": null,
+                    "competition_index": null,
+                    "search_volume": null,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "physiotherapie a domicile lausanne",
+                    "spell": null,
+                    "location_code": 2756,
+                    "language_code": null,
+                    "search_partners": false,
+                    "competition": null,
+                    "competition_index": null,
+                    "search_volume": null,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "kiné à domicile lausanne",
+                    "spell": null,
+                    "location_code": 2756,
+                    "language_code": null,
+                    "search_partners": false,
+                    "competition": null,
+                    "competition_index": null,
+                    "search_volume": null,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "physio domicile lausanne",
+                    "spell": null,
+                    "location_code": 2756,
+                    "language_code": null,
+                    "search_partners": false,
+                    "competition": null,
+                    "competition_index": null,
+                    "search_volume": null,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "physio à domicile",
+                    "spell": null,
+                    "location_code": 2756,
+                    "language_code": null,
+                    "search_partners": false,
+                    "competition": "MEDIUM",
+                    "competition_index": 54,
+                    "search_volume": 110,
+                    "low_top_of_page_bid": 0.93,
+                    "high_top_of_page_bid": 3.21,
+                    "cpc": 3.79,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 110
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 110
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 110
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 110
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 110
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 110
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 90
+                        }
+                    ]
+                },
+                {
+                    "keyword": "physiothérapeute à domicile",
+                    "spell": null,
+                    "location_code": 2756,
+                    "language_code": null,
+                    "search_partners": false,
+                    "competition": "MEDIUM",
+                    "competition_index": 44,
+                    "search_volume": 90,
+                    "low_top_of_page_bid": 0.99,
+                    "high_top_of_page_bid": 3.26,
+                    "cpc": 3.79,
+                    "monthly_searches": [
+                        {
+                            "year": 2026,
+                            "month": 9,
+                            "search_volume": 110
+                        },
+                        {
+                            "year": 2026,
+                            "month": 8,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2026,
+                            "month": 7,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2026,
+                            "month": 6,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2026,
+                            "month": 5,
+                            "search_volume": 110
+                        },
+                        {
+                            "year": 2026,
+                            "month": 4,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2026,
+                            "month": 3,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2026,
+                            "month": 2,
+                            "search_volume": 70
+                        },
+                        {
+                            "year": 2026,
+                            "month": 1,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2025,
+                            "month": 12,
+                            "search_volume": 90
+                        },
+                        {
+                            "year": 2025,
+                            "month": 11,
+                            "search_volume": 140
+                        },
+                        {
+                            "year": 2025,
+                            "month": 10,
+                            "search_volume": 90
+                        }
+                    ]
+                },
+                {
+                    "keyword": "physio à domicile pully",
+                    "spell": null,
+                    "location_code": 2756,
+                    "language_code": null,
+                    "search_partners": false,
+                    "competition": null,
+                    "competition_index": null,
+                    "search_volume": null,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "physio à domicile renens",
+                    "spell": null,
+                    "location_code": 2756,
+                    "language_code": null,
+                    "search_partners": false,
+                    "competition": null,
+                    "competition_index": null,
+                    "search_volume": null,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": null
+                },
+                {
+                    "keyword": "physiothérapie à domicile vaud",
+                    "spell": null,
+                    "location_code": 2756,
+                    "language_code": null,
+                    "search_partners": false,
+                    "competition": null,
+                    "competition_index": null,
+                    "search_volume": null,
+                    "low_top_of_page_bid": null,
+                    "high_top_of_page_bid": null,
+                    "cpc": null,
+                    "monthly_searches": null
+                }
+            ]
+        }
+    ]
+}

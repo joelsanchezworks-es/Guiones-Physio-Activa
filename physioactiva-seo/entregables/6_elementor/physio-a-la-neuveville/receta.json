@@ -1,0 +1,225 @@
+[
+ {
+  "tipo": "hero",
+  "eyebrow": "Physio · La Neuveville",
+  "h1": "Physio à La Neuveville : au cabinet d'Ins ou à domicile",
+  "sub": "À environ 6,6 km en ligne droite d'Ins, La Neuveville partage avec notre cabinet le même canton, celui de Berne, et la même langue de travail, le français. Physio Activa vous accueille à Ins et peut envisager des visites à domicile [À CONFIRMER : domicile à La Neuveville]. Le cabinet est reconnu par toutes les assurances maladie en Suisse et ouvert du lundi au vendredi jusqu'à 20h ; pour réserver, passez par notre agenda en ligne, le téléphone ou WhatsApp.",
+  "pills": [
+   "Cabinet à Ins, à 6,6 km",
+   "Reconnu par toutes les assurances",
+   "Ouvert jusqu'à 20h"
+  ],
+  "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00036.jpg",
+  "alt": "Salle de traitement du cabinet Physio Activa à Ins",
+  "video": false,
+  "cta": "Prendre rendez-vous"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "En bref",
+  "h2": "L'essentiel en bref",
+  "lead": [],
+  "bg": null,
+  "cards": [
+   {
+    "h3": "Reconnu par toutes les assurances",
+    "html": "<p>Toutes les compagnies d'assurance maladie en Suisse reconnaissent notre cabinet, qui dispose des autorisations sanitaires nécessaires.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Au cabinet d'Ins ou à domicile",
+    "html": "<p>Le cabinet se trouve juste de l'autre côté de la frontière linguistique, à quelques kilomètres du vieux bourg. Une séance chez vous reste possible si le trajet est trop difficile [À CONFIRMER : localités et jours de passage].</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Bilan et plan de traitement",
+    "html": "<p>Avant tout exercice, nous prenons le temps de comprendre l'origine de la gêne et de mesurer ce que vous pouvez faire aujourd'hui ; le plan en découle.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
+    "html": "<p>Le plus simple est l'agenda en ligne ; le 076 627 38 38 et WhatsApp restent ouverts pour les questions pratiques.</p>",
+    "icon": "fa-calendar-check"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Signaux d'alarme",
+  "h2": "Quand consulter un physio, et quand voir d'abord un médecin ?",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Promenades sur les rives du lac de Bienne, montée vers le Plateau, travail à l'atelier ou au bureau : on nous consulte pour un talon douloureux, une entorse qui ne guérit pas, une hanche raide liée à l'arthrose, une nuque bloquée ou un genou qui craint les escaliers. Plus la gêne est prise en charge tôt, plus la rééducation est simple.</p><p style=\"margin-top:12px\">Ne commencez pas la physio sans avis médical si vous ne pouvez plus poser le pied après une torsion, si la douleur s'accompagne de fièvre ou d'une perte de poids inexpliquée, ou si des fourmillements gagnent les deux jambes. Pour un malaise, une douleur dans la poitrine ou une paralysie soudaine, appelez le 144 sans attendre.</p>"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Notre approche",
+  "h2": "Quelle prise en charge selon votre situation ?",
+  "lead": [],
+  "bg": null,
+  "cards": [
+   {
+    "h3": "Marcheurs et randonneurs",
+    "html": "<p>Les pentes du vignoble et les sentiers du Plateau sollicitent pieds et chevilles. Nous travaillons l'appui, l'équilibre et la reprise progressive de la marche : voir <a href=\"/douleur-pied-cheville-fasciite-plantaire/\" style=\"color:var(--azure);font-weight:600\">pied et cheville, fasciite plantaire</a> et <a href=\"/douleur-du-genou-lesions-de-la-cheville/\" style=\"color:var(--azure);font-weight:600\">genou</a>, y compris après une ligamentoplastie.</p>",
+    "icon": "fa-circle-check"
+   },
+   {
+    "h3": "Arthrose et prothèse de hanche",
+    "html": "<p>Préparer l'opération, puis réapprendre à marcher sans canne : la page <a href=\"/douleur-de-hanche-protheses/\" style=\"color:var(--azure);font-weight:600\">hanche et prothèses</a> détaille ce suivi.</p>",
+    "icon": "fa-hospital"
+   },
+   {
+    "h3": "Nuque et posture",
+    "html": "<p>Tensions à force de travailler penché, rotation limitée pour tourner la tête en voiture : la <a href=\"/douleur-cervicale-au-cou/\" style=\"color:var(--azure);font-weight:600\">douleur cervicale</a> se traite par des techniques manuelles et des exercices simples.</p>",
+    "icon": "fa-heart-pulse"
+   },
+   {
+    "h3": "Quand le trajet devient un obstacle",
+    "html": "<p>Fracture, prothèse récente, alitement prolongé ou maintien de l'autonomie d'une personne âgée : une séance à la maison a alors du sens. Voir la <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>.</p><p style=\"margin-top:12px\">D'autres troubles sont présentés sur <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">toutes les pathologies</a>.</p>",
+    "icon": "fa-location-dot"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Notre approche",
+  "h2": "Comment se déroule votre prise en charge ?",
+  "lead": [],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Prise de rendez-vous",
+    "html": "<p>Indiquez en réservant si vous souhaitez une séance à domicile ; les créneaux vont du lundi au vendredi, jusqu'à 20h.</p>",
+    "icon": "fa-calendar-check"
+   },
+   {
+    "h3": "Bilan",
+    "html": "<p>Entretien, observation de la marche ou du geste douloureux, tests de force : nous fixons ensemble deux ou trois objectifs.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Séances au cabinet ou à domicile",
+    "html": "<p>Chaque séance mélange traitement et exercices actifs, avec une progression que vous pouvez suivre.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Autonomie et prévention",
+    "html": "<p>En fin de traitement, vous savez quels exercices garder et comment reprendre vos activités sans rechute.</p>",
+    "icon": "fa-person-walking"
+   }
+  ],
+  "cta_mid": true
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Accès",
+  "h2": "Venir au cabinet d'Ins depuis La Neuveville",
+  "lead": [],
+  "bg": null,
+  "html": "<p>Notre cabinet se trouve à l'InsGym, Rämismatte 21, 3232 Ins, à environ 6,6 km en ligne droite de La Neuveville. Itinéraire et stationnement : <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">La Neuveville est une commune francophone de l'arrondissement administratif du Jura bernois ; Ins, dans le Seeland, est germanophone, mais les séances se déroulent en français. Si vous sortez du Centre hospitalier Bienne après une opération, votre rééducation peut se poursuivre chez nous dès votre retour, selon les consignes de votre médecin.</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Assurances",
+  "h2": "Assurances et horaires : physio à La Neuveville",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse et dispose de toutes les autorisations sanitaires nécessaires ; nous accueillons les patients quel que soit leur canton de résidence. Nous vous recevons du lundi au vendredi, jusqu'à 20h. Réservez en ligne, au 076 627 38 38 ou sur WhatsApp.</p>"
+ },
+ {
+  "tipo": "villes",
+  "eyebrow": "Localités voisines",
+  "h2": "Autres localités proches",
+  "lead": [
+   "Vous habitez entre La Neuveville et le Seeland ? Consultez aussi nos pages locales voisines."
+  ],
+  "liens": [
+   [
+    "Physio à Ins (Anet)",
+    "/"
+   ],
+   [
+    "Physio à Sugiez (Mont-Vully)",
+    "/physio-a-sugiez/"
+   ],
+   [
+    "Physio à Bienne (Biel)",
+    "/physio-a-bienne/"
+   ],
+   [
+    "Physio à Neuchâtel",
+    "/physio-a-neuchatel/"
+   ],
+   [
+    "Physio à Lyss",
+    "/physio-a-lyss/"
+   ]
+  ],
+  "note": "Cabinet unique : Rämismatte 21, 3232 Ins."
+ },
+ {
+  "tipo": "faq",
+  "h2": "Questions fréquentes sur la physio à La Neuveville",
+  "faq": [
+   {
+    "q": "Quand dois-je consulter un physiothérapeute pour une douleur ?",
+    "a_html": "Si un talon, une cheville ou une hanche vous gêne depuis plus d'une semaine, si la douleur limite la marche ou perturbe le sommeil. Plus on la traite tôt, plus c'est simple.",
+    "a_text": "Si un talon, une cheville ou une hanche vous gêne depuis plus d'une semaine, si la douleur limite la marche ou perturbe le sommeil. Plus on la traite tôt, plus c'est simple."
+   },
+   {
+    "q": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+    "a_html": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.",
+    "a_text": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
+   },
+   {
+    "q": "Combien de séances me faut-il ?",
+    "a_html": "La durée du traitement varie selon votre situation : une entorse récente, une arthrose ancienne ou une prothèse n'ont pas le même rythme. Lors de la première visite, nous établissons une estimation adaptée à votre cas.",
+    "a_text": "La durée du traitement varie selon votre situation : une entorse récente, une arthrose ancienne ou une prothèse n'ont pas le même rythme. Lors de la première visite, nous établissons une estimation adaptée à votre cas."
+   },
+   {
+    "q": "Peut-on être suivi en français à Ins ?",
+    "a_html": "Oui. Même si Ins est un village germanophone, nous travaillons en français au quotidien ; l'équipe parle aussi espagnol.",
+    "a_text": "Oui. Même si Ins est un village germanophone, nous travaillons en français au quotidien ; l'équipe parle aussi espagnol."
+   },
+   {
+    "q": "Comment se passe une séance de physiothérapie ?",
+    "a_html": "Après un court point sur l'évolution depuis la dernière fois, nous alternons traitement manuel et exercices, puis nous vérifions ce que vous ferez à la maison. La première séance est surtout consacrée au bilan.",
+    "a_text": "Après un court point sur l'évolution depuis la dernière fois, nous alternons traitement manuel et exercices, puis nous vérifions ce que vous ferez à la maison. La première séance est surtout consacrée au bilan."
+   },
+   {
+    "q": "Venez-vous au Landeron, à Prêles ou à Diesse ?",
+    "a_html": "Ces localités sont voisines, tout comme Gléresse (Ligerz), mais le passage à domicile n'y est pas encore confirmé. Contactez-nous avec votre adresse [À CONFIRMER : couverture du Plateau de Diesse et du Landeron].",
+    "a_text": "Ces localités sont voisines, tout comme Gléresse (Ligerz), mais le passage à domicile n'y est pas encore confirmé. Contactez-nous avec votre adresse [À CONFIRMER : couverture du Plateau de Diesse et du Landeron]."
+   },
+   {
+    "q": "J'ai été opéré à Bienne : que dois-je apporter ?",
+    "a_html": "Le compte rendu opératoire ou les consignes du Centre hospitalier Bienne, si vous les avez, et la liste de vos médicaments. Une tenue confortable suffit pour le reste.",
+    "a_text": "Le compte rendu opératoire ou les consignes du Centre hospitalier Bienne, si vous les avez, et la liste de vos médicaments. Une tenue confortable suffit pour le reste."
+   },
+   {
+    "q": "Quand consulter un docteur en médecine physique et de réadaptation ?",
+    "a_html": "Lorsque la douleur ou le handicap touche plusieurs fonctions, après un AVC, une lésion de la moelle ou une opération lourde, ou si la rééducation n'avance pas. Ce spécialiste coordonne le traitement ; le physio applique ensuite le programme.",
+    "a_text": "Lorsque la douleur ou le handicap touche plusieurs fonctions, après un AVC, une lésion de la moelle ou une opération lourde, ou si la rééducation n'avance pas. Ce spécialiste coordonne le traitement ; le physio applique ensuite le programme."
+   },
+   {
+    "q": "Combien de kilomètres jusqu'au cabinet ?",
+    "a_html": "Environ 6,6 km en ligne droite jusqu'à l'InsGym, Rämismatte 21. C'est l'une des localités bernoises les plus proches de notre cabinet.",
+    "a_text": "Environ 6,6 km en ligne droite jusqu'à l'InsGym, Rämismatte 21. C'est l'une des localités bernoises les plus proches de notre cabinet."
+   },
+   {
+    "q": "Comment choisir son physiothérapeute ?",
+    "a_html": "Privilégiez quelqu'un qui parle votre langue, explique clairement le plan et vous rend autonome. La distance compte aussi : une rééducation demande des rendez-vous réguliers.",
+    "a_text": "Privilégiez quelqu'un qui parle votre langue, explique clairement le plan et vous rend autonome. La distance compte aussi : une rééducation demande des rendez-vous réguliers."
+   }
+  ]
+ },
+ {
+  "tipo": "cta",
+  "h2": "Besoin d'un physio à La Neuveville ou dans les environs ?",
+  "s1": "Le plus simple est la <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réservation en ligne</a>. Vous pouvez aussi nous appeler au 076 627 38 38 ou nous écrire sur WhatsApp au +41 76 627 38 38.",
+  "s2": null
+ },
+ {
+  "tipo": "map"
+ }
+]

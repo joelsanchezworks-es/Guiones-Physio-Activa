@@ -1,0 +1,8 @@
+SEO title (54/60): Physio à Yvonand – à domicile ou à Ins | Physio Activa
+Meta description (147/155): Physio à Yvonand (VD) : rééducation au cabinet d'Ins ou à domicile selon disponibilité. Ouvert du lundi au vendredi jusqu'à 20h. Réservez en ligne.
+Slug: /physio-a-yvonand/
+Focus keyphrase: physio yvonand
+H1: Physio à Yvonand : au cabinet d'Ins ou à domicile
+Indexación: NOINDEX hasta la confirmación del cliente (Yoast → Avanzado → ¿Permitir que los motores muestren esta página? = No)
+Canonical: https://physioactiva.ch/physio-a-yvonand/
+Estado: borrador — noindex hasta confirmación

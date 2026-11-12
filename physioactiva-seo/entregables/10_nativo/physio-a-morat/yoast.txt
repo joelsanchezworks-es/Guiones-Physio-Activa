@@ -1,0 +1,13 @@
+SEO title (59/60): Physio Morat (Murten) : à domicile ou à Ins | Physio Activa
+Meta description (146/155): Physio à Morat (Murten) : séances à domicile à Morat, Meyriez ou Muntelier, ou au cabinet d'Ins à 8,7 km. En français ou en allemand, jusqu'à 20h.
+Slug: /physio-a-morat/
+Focus keyphrase: physio morat
+H1: Physio à Morat (Murten) : rééducation au cabinet d'Ins ou chez vous
+Indexación: index, follow
+
+IMÁGENES (la plantilla se importa SIN imágenes para no duplicarlas en la biblioteca; elígelas en Elementor):
+- Fondo del hero (sección › Estilo › Fondo): foto de la ciudad o del cabinet, 1920 px
+- Imagen 1 del artículo: alt: Physiothérapeute de Physio Activa en séance, physio pour les patients de Morat
+- Imagen 2 del artículo: alt: Salle de traitement du cabinet Physio Activa à Ins, proche de Morat
+- Fondo del CTA final (sección › Estilo › Fondo): foto del cabinet; la capa azul oscura ya está puesta
+- Imagen destacada / Open Graph de Yoast: la misma del hero.

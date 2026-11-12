@@ -1,0 +1,225 @@
+[
+ {
+  "tipo": "hero",
+  "eyebrow": "Physio · Chiètres (Kerzers)",
+  "h1": "Physio à Chiètres (Kerzers) : au cabinet d'Ins ou à domicile",
+  "sub": "Depuis Chiètres, le cabinet Physio Activa d'Ins n'est qu'à environ 7,6 km en ligne droite. Nous vous recevons au cabinet et pouvons aussi venir chez vous [À CONFIRMER : visites à domicile à Chiètres]. Le cabinet est reconnu par toutes les assurances maladie en Suisse ; prenez rendez-vous en ligne, au 076 627 38 38 ou par WhatsApp.",
+  "pills": [
+   "Cabinet à Ins, à 7,6 km",
+   "Reconnu par toutes les assurances",
+   "Ouvert jusqu'à 20h"
+  ],
+  "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00031.jpg",
+  "alt": "Physiothérapeute mobilisant la jambe d'un patient au cabinet d'Ins",
+  "video": false,
+  "cta": "Prendre rendez-vous"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "En bref",
+  "h2": "L'essentiel en bref",
+  "lead": [],
+  "bg": null,
+  "cards": [
+   {
+    "h3": "Reconnu par toutes les assurances",
+    "html": "<p>Quelle que soit votre caisse maladie, notre cabinet est reconnu par toutes les assurances maladie en Suisse.</p>",
+    "icon": "fa-file-medical"
+   },
+   {
+    "h3": "Au cabinet d'Ins ou à domicile",
+    "html": "<p>Ins compte parmi les localités les plus proches de Kerzers, ce qui rend le cabinet facile d'accès. Si vous ne pouvez pas conduire, le domicile reste une option [À CONFIRMER : déplacements à Chiètres].</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Bilan et plan de traitement",
+    "html": "<p>Nous identifions d'où vient la douleur et ce qui l'aggrave, puis nous fixons avec vous les étapes de la rééducation.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
+    "html": "<p>Réservez à toute heure sur la <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">page de réservation</a>, appelez le 076 627 38 38 ou écrivez au +41 76 627 38 38.</p>",
+    "icon": "fa-calendar-check"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Signaux d'alarme",
+  "h2": "Quand consulter un physio, et quand voir d'abord un médecin ?",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Les motifs les plus courants sont très concrets : un blocage lombaire après avoir soulevé une charge, une douleur qui descend dans la fesse et la jambe, une nuque raide après des heures d'écran, un talon douloureux aux premiers pas du matin, une cheville qui reste instable après une entorse.</p><p style=\"margin-top:12px\">Ne tardez pas à consulter un médecin, ou à appeler le 144 en cas d'urgence, si vous constatez :\n- une perte de sensibilité entre les cuisses ou des difficultés à contrôler la vessie ;\n- une jambe qui s'affaiblit de jour en jour ;\n- une douleur après un accident, avec suspicion de fracture ;\n- de la fièvre, un amaigrissement inexpliqué ou une douleur qui ne se calme ni au repos ni la nuit.</p>"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Notre approche",
+  "h2": "Quelle prise en charge selon votre situation ?",
+  "lead": [],
+  "bg": null,
+  "cards": [
+   {
+    "h3": "Au cabinet d'Ins",
+    "html": "<p>Le cabinet se trouve dans le centre d'entraînement InsGym : une partie de la séance peut se faire directement sur les machines, pour apprendre à bien les utiliser et continuer ensuite par vous-même.</p>",
+    "icon": "fa-location-dot"
+   },
+   {
+    "h3": "À domicile et localités voisines",
+    "html": "<p>Le domicile vise les personnes à mobilité réduite : douleur aiguë qui empêche de rester assis en voiture, âge avancé, absence de transport. Autour de Chiètres, Fräschels, Ried bei Kerzers, Galmiz et Agriswil seraient concernés [À CONFIRMER : localités couvertes et jours de passage]. Conditions et matériel : <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Après une opération ou une hospitalisation",
+    "html": "<p>Opéré du dos ou d'une articulation, ou de retour d'un séjour à l'HFR Meyriez-Murten, l'hôpital de la région ? Nous reprenons les consignes reçues à la sortie et adaptons la charge pas à pas.</p>",
+    "icon": "fa-hospital"
+   },
+   {
+    "h3": "Dos, sciatique, nuque et pied",
+    "html": "<p>– <a href=\"/mal-de-dos-lombaire/\" style=\"color:var(--azure);font-weight:600\">Mal de dos et lombalgie</a> : blocage, douleur qui revient après l'effort, posture au travail.</p><p style=\"margin-top:12px\">– <a href=\"/sciatique-hernie-discale/\" style=\"color:var(--azure);font-weight:600\">Sciatique et hernie discale</a> : apaiser la douleur qui irradie et retrouver une activité sans crainte.</p><p style=\"margin-top:12px\">– <a href=\"/douleur-cervicale-au-cou/\" style=\"color:var(--azure);font-weight:600\">Douleur cervicale</a> : nuque raide, maux de tête liés aux tensions.</p><p style=\"margin-top:12px\">– <a href=\"/douleur-pied-cheville-fasciite-plantaire/\" style=\"color:var(--azure);font-weight:600\">Pied et cheville, fasciite plantaire</a> : talon douloureux, entorse qui laisse une gêne durable.</p><p style=\"margin-top:12px\">D'autres motifs sont décrits sur <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">toutes les pathologies</a>.</p>",
+    "icon": "fa-bone"
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Notre approche",
+  "h2": "Comment se déroule votre prise en charge ?",
+  "lead": [],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Prise de rendez-vous",
+    "html": "<p>Réservez à toute heure en ligne ou envoyez-nous un message WhatsApp en décrivant brièvement votre problème : nous vous proposons le créneau le plus adapté, en fin de journée si besoin.</p>",
+    "icon": "fa-calendar-check"
+   },
+   {
+    "h3": "Bilan",
+    "html": "<p>Entretien, tests de mouvement et palpation permettent de cerner l'origine de vos symptômes.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Séances au cabinet ou à domicile",
+    "html": "<p>Mobilisations, renforcement et exercices de contrôle du mouvement se combinent selon vos besoins. Au cabinet, la salle d'InsGym offre l'espace pour progresser vers des efforts plus exigeants.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Autonomie et prévention",
+    "html": "<p>Vers la fin, les séances s'espacent et l'entraînement prend le relais. Vous savez quoi faire si la douleur revient.</p>",
+    "icon": "fa-person-walking"
+   }
+  ],
+  "cta_mid": true
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Accès",
+  "h2": "Venir au cabinet d'Ins depuis Chiètres",
+  "lead": [],
+  "bg": null,
+  "html": "<p>Avec environ 7,6 km en ligne droite, Ins est tout proche de Chiètres. Accès et stationnement : voir <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.</p><p style=\"margin-top:12px\">Chiètres est une commune germanophone du district du Lac. Chez Physio Activa, les séances se déroulent en français ou en espagnol : une solution pratique pour les familles francophones ou hispanophones installées à Kerzers et dans les villages voisins [À CONFIRMER : séances possibles en allemand ?].</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Assurances",
+  "h2": "Assurances et horaires : physio à Chiètres",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence, Fribourg compris. Ouvert du lundi au vendredi, jusqu'à 20h : à quelques kilomètres de Kerzers, une séance en fin de journée se cale facilement. Rendez-vous en ligne, par téléphone ou par WhatsApp.</p>"
+ },
+ {
+  "tipo": "villes",
+  "eyebrow": "Localités voisines",
+  "h2": "Autres localités proches",
+  "lead": [
+   "Vous habitez entre Chiètres et le Seeland ? Consultez aussi nos pages locales voisines."
+  ],
+  "liens": [
+   [
+    "Physio à Ins (Anet)",
+    "/"
+   ],
+   [
+    "Physio à Sugiez (Mont-Vully)",
+    "/physio-a-sugiez/"
+   ],
+   [
+    "Physio à La Neuveville",
+    "/physio-a-la-neuveville/"
+   ],
+   [
+    "Physio à Lyss",
+    "/physio-a-lyss/"
+   ],
+   [
+    "Physio à Avenches",
+    "/physio-a-avenches/"
+   ]
+  ],
+  "note": "Cabinet unique : Rämismatte 21, 3232 Ins."
+ },
+ {
+  "tipo": "faq",
+  "h2": "Questions fréquentes sur la physio à Chiètres",
+  "faq": [
+   {
+    "q": "Quand dois-je consulter un physiothérapeute pour une douleur ?",
+    "a_html": "Dès qu'un blocage, une raideur ou une douleur qui irradie persiste plus d'une semaine, limite vos gestes ou vous réveille la nuit. Une prise en charge précoce évite souvent que la gêne s'installe. En cas de perte de force ou de troubles urinaires, voyez d'abord un médecin.",
+    "a_text": "Dès qu'un blocage, une raideur ou une douleur qui irradie persiste plus d'une semaine, limite vos gestes ou vous réveille la nuit. Une prise en charge précoce évite souvent que la gêne s'installe. En cas de perte de force ou de troubles urinaires, voyez d'abord un médecin."
+   },
+   {
+    "q": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+    "a_html": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.",
+    "a_text": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
+   },
+   {
+    "q": "Combien de séances me faut-il ?",
+    "a_html": "La durée du traitement varie selon votre situation : un blocage lombaire récent ne se traite pas comme une sciatique ancienne. Lors de la première visite, nous établissons une estimation adaptée à votre cas.",
+    "a_text": "La durée du traitement varie selon votre situation : un blocage lombaire récent ne se traite pas comme une sciatique ancienne. Lors de la première visite, nous établissons une estimation adaptée à votre cas."
+   },
+   {
+    "q": "Le cabinet reçoit-il les patients qui parlent surtout allemand ?",
+    "a_html": "Les séances ont lieu en français ou en espagnol [À CONFIRMER : prise en charge en allemand]. Pour les francophones d'une commune germanophone, c'est souvent la raison de venir à Ins : chaque consigne est comprise du premier coup.",
+    "a_text": "Les séances ont lieu en français ou en espagnol [À CONFIRMER : prise en charge en allemand]. Pour les francophones d'une commune germanophone, c'est souvent la raison de venir à Ins : chaque consigne est comprise du premier coup."
+   },
+   {
+    "q": "Combien de kilomètres jusqu'au cabinet d'Ins ?",
+    "a_html": "Environ 7,6 km en ligne droite, ce qui en fait l'une des zones les plus proches du cabinet. Le plan est sur <a href=\"/nous-trouver/\" style=\"color:var(--azure);font-weight:600\">Nous trouver</a>.",
+    "a_text": "Environ 7,6 km en ligne droite, ce qui en fait l'une des zones les plus proches du cabinet. Le plan est sur Nous trouver ."
+   },
+   {
+    "q": "Qu'est-ce que le MTT ?",
+    "a_html": "Le MTT, ou entraînement thérapeutique médical, désigne un entraînement sur appareils encadré par un physiothérapeute, pour reconstruire force et endurance après une blessure. Physio Activa le propose à Ins, dans les locaux de l'InsGym ; voir notre page <a href=\"/medical-training-therapy-mtt/\" style=\"color:var(--azure);font-weight:600\">MTT et fitness médical</a>.",
+    "a_text": "Le MTT, ou entraînement thérapeutique médical, désigne un entraînement sur appareils encadré par un physiothérapeute, pour reconstruire force et endurance après une blessure. Physio Activa le propose à Ins, dans les locaux de l'InsGym ; voir notre page MTT et fitness médical ."
+   },
+   {
+    "q": "C'est quoi une séance de physiothérapie ?",
+    "a_html": "Un rendez-vous individuel où l'on alterne traitement et exercices actifs. Vous repartez à chaque fois avec un ou deux exercices à refaire chez vous.",
+    "a_text": "Un rendez-vous individuel où l'on alterne traitement et exercices actifs. Vous repartez à chaque fois avec un ou deux exercices à refaire chez vous."
+   },
+   {
+    "q": "Est-ce normal d'avoir plus mal après une séance de physiothérapie ?",
+    "a_html": "Une légère gêne musculaire le lendemain d'un renforcement est fréquente et passe vite. Une douleur nettement plus forte ou durable doit nous être signalée : nous ajusterons la charge.",
+    "a_text": "Une légère gêne musculaire le lendemain d'un renforcement est fréquente et passe vite. Une douleur nettement plus forte ou durable doit nous être signalée : nous ajusterons la charge."
+   },
+   {
+    "q": "Ma sciatique m'empêche de conduire : pouvez-vous venir chez moi ?",
+    "a_html": "C'est précisément le cas où le domicile est utile [À CONFIRMER : déplacements à Chiètres et délai pour un premier rendez-vous].",
+    "a_text": "C'est précisément le cas où le domicile est utile [À CONFIRMER : déplacements à Chiètres et délai pour un premier rendez-vous]."
+   },
+   {
+    "q": "Couvrez-vous Fräschels, Agriswil et Galmiz ?",
+    "a_html": "Ce sont, avec Ried, des villages voisins que nous souhaitons inclure dans nos tournées à domicile [À CONFIRMER : liste des localités et jours de passage].",
+    "a_text": "Ce sont, avec Ried, des villages voisins que nous souhaitons inclure dans nos tournées à domicile [À CONFIRMER : liste des localités et jours de passage]."
+   }
+  ]
+ },
+ {
+  "tipo": "cta",
+  "h2": "Besoin d'un physio à Chiètres ou dans les environs ?",
+  "s1": "Le plus simple est de <a href=\"/reservation-en-ligne/\" style=\"color:var(--azure);font-weight:600\">réserver en ligne</a>. Vous pouvez aussi appeler le 076 627 38 38 ou écrire sur WhatsApp au +41 76 627 38 38.",
+  "s2": null
+ },
+ {
+  "tipo": "map"
+ }
+]

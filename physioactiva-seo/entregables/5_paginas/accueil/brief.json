@@ -1,0 +1,333 @@
+{
+ "slug": "accueil",
+ "url": "/",
+ "tema": "home",
+ "nombre": "Accueil — physio Ins (Anet) + à domicile",
+ "kw_principal": "physio",
+ "intencion": "comercial",
+ "serp_tipo": "clínica local",
+ "ai_overview": false,
+ "top3": [
+  "1. physio-7.ch",
+  "2. physioswiss.ch",
+  "3. physiosoins.ch"
+ ],
+ "paa": [
+  "C'est quoi une séance de physiothérapie ?",
+  "Quel est le salaire d'un physiothérapeute ?",
+  "Quel est le nouveau tarif pour la physiothérapie ?",
+  "Quel est le salaire moyen d'un physiothérapeute en Suisse ?",
+  "Quel est le parcours pour devenir physiothérapeute ?",
+  "Quelle est la différence entre un kinésithérapeute et un physiothérapeute ?",
+  "Est-ce qu'un kiné peut faire de la physiothérapie ?",
+  "Comment se passe une séance de physiothérapie ?",
+  "Quelle est la différence entre la kinésithérapie et la physiothérapie ?",
+  "Est-ce que la physiothérapie est remboursée par la sécurité sociale ?"
+ ],
+ "secciones_sugeridas": [
+  "physio",
+  "physiothérapeute",
+  "physio autour de moi",
+  "kiné",
+  "physiothérapeute autour de moi",
+  "rééducation",
+  "centre de rééducation",
+  "physiothérapie suisse"
+ ],
+ "keywords": [
+  {
+   "kw": "physio",
+   "vol": 12100,
+   "intencion": "informacional",
+   "kd": 12,
+   "cpc_usd": 4.07,
+   "tendencia_12m_pct": 22,
+   "cluster": "physio"
+  },
+  {
+   "kw": "physiothérapeute",
+   "vol": 6600,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 3.9,
+   "tendencia_12m_pct": -14,
+   "cluster": "physiothérapeute"
+  },
+  {
+   "kw": "physiothérapie",
+   "vol": 6600,
+   "intencion": "informacional",
+   "kd": 3,
+   "cpc_usd": 3.9,
+   "tendencia_12m_pct": -14,
+   "cluster": "physiothérapeute"
+  },
+  {
+   "kw": "kiné",
+   "vol": 1300,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 1.74,
+   "tendencia_12m_pct": -20,
+   "cluster": "kiné"
+  },
+  {
+   "kw": "kinésithérapeute",
+   "vol": 1300,
+   "intencion": "informacional",
+   "kd": 24,
+   "cpc_usd": 1.74,
+   "tendencia_12m_pct": -20,
+   "cluster": "kiné"
+  },
+  {
+   "kw": "physio autour de moi",
+   "vol": 1300,
+   "intencion": "comercial",
+   "kd": 26,
+   "cpc_usd": 3.6,
+   "tendencia_12m_pct": 8,
+   "cluster": "physio autour de moi"
+  },
+  {
+   "kw": "physiothérapeute near me",
+   "vol": 1300,
+   "intencion": "comercial",
+   "kd": 32,
+   "cpc_usd": 2.96,
+   "tendencia_12m_pct": -23,
+   "cluster": "physio autour de moi"
+  },
+  {
+   "kw": "physiothérapie à proximité",
+   "vol": 1300,
+   "intencion": "comercial",
+   "kd": null,
+   "cpc_usd": 1.52,
+   "tendencia_12m_pct": 0,
+   "cluster": "physio"
+  },
+  {
+   "kw": "physiothérapeute autour de moi",
+   "vol": 480,
+   "intencion": "comercial",
+   "kd": 15,
+   "cpc_usd": 2.74,
+   "tendencia_12m_pct": -28,
+   "cluster": "physiothérapeute autour de moi"
+  },
+  {
+   "kw": "physiothérapie autour de moi",
+   "vol": 480,
+   "intencion": "informacional",
+   "kd": 23,
+   "cpc_usd": 2.74,
+   "tendencia_12m_pct": -28,
+   "cluster": "physiothérapeute autour de moi"
+  },
+  {
+   "kw": "physio ins",
+   "vol": 140,
+   "intencion": null,
+   "kd": null,
+   "cpc_usd": 2.3,
+   "tendencia_12m_pct": null,
+   "cluster": "physio ins"
+  },
+  {
+   "kw": "rééducation",
+   "vol": 140,
+   "intencion": "informacional",
+   "kd": 0,
+   "cpc_usd": 0.79,
+   "tendencia_12m_pct": -31,
+   "cluster": "rééducation"
+  },
+  {
+   "kw": "centre de rééducation",
+   "vol": 110,
+   "intencion": "informacional",
+   "kd": 66,
+   "cpc_usd": 1.45,
+   "tendencia_12m_pct": -19,
+   "cluster": "centre de rééducation"
+  },
+  {
+   "kw": "physio vully",
+   "vol": 110,
+   "intencion": null,
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": null,
+   "cluster": "physio vully"
+  },
+  {
+   "kw": "bon physiothérapie",
+   "vol": 50,
+   "intencion": "informacional",
+   "kd": 40,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -13,
+   "cluster": "bon physiothérapie"
+  },
+  {
+   "kw": "physiothérapie suisse",
+   "vol": 40,
+   "intencion": "informacional",
+   "kd": 19,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -27,
+   "cluster": "physiothérapie suisse"
+  },
+  {
+   "kw": "kiné suisse",
+   "vol": 30,
+   "intencion": "informacional",
+   "kd": 46,
+   "cpc_usd": 0.82,
+   "tendencia_12m_pct": 0,
+   "cluster": "kiné"
+  },
+  {
+   "kw": "centre de rééducation neurologique suisse",
+   "vol": 20,
+   "intencion": "navegacional",
+   "kd": null,
+   "cpc_usd": 2.97,
+   "tendencia_12m_pct": 0,
+   "cluster": "centre de rééducation"
+  },
+  {
+   "kw": "kiné respiratoire",
+   "vol": 20,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": 2.13,
+   "tendencia_12m_pct": -44,
+   "cluster": "kiné"
+  },
+  {
+   "kw": "kinésithérapeute et physiothérapeute",
+   "vol": 20,
+   "intencion": "comercial",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -25,
+   "cluster": "physiothérapeute"
+  },
+  {
+   "kw": "tarif physiothérapie suisse",
+   "vol": 20,
+   "intencion": "comercial",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -50,
+   "cluster": "physiothérapie suisse"
+  },
+  {
+   "kw": "centre de rééducation sportive",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 0,
+   "cluster": "centre de rééducation"
+  },
+  {
+   "kw": "physiothérapeute en suisse",
+   "vol": 10,
+   "intencion": "comercial",
+   "kd": 12,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 0,
+   "cluster": "physiothérapeute"
+  },
+  {
+   "kw": "rééducation définition médicale",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": null,
+   "cluster": "rééducation"
+  },
+  {
+   "kw": "rééducation en piscine",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -33,
+   "cluster": "rééducation"
+  },
+  {
+   "kw": "rééducation médicale",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": -100,
+   "cluster": "rééducation"
+  },
+  {
+   "kw": "rééducation neurologique definition",
+   "vol": 10,
+   "intencion": "informacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": 0,
+   "cluster": "rééducation"
+  },
+  {
+   "kw": "cabinet de physiothérapie ins",
+   "vol": 0,
+   "intencion": "navegacional",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": null,
+   "cluster": "cabinet de physiothérapie ins"
+  },
+  {
+   "kw": "physiothérapeute proche de moi",
+   "vol": 0,
+   "intencion": "comercial",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": null,
+   "cluster": "physio autour de moi"
+  },
+  {
+   "kw": "physiothérapeute à anet",
+   "vol": 0,
+   "intencion": "comercial",
+   "kd": null,
+   "cpc_usd": null,
+   "tendencia_12m_pct": null,
+   "cluster": "physiothérapeute à anet"
+  }
+ ],
+ "enlaces_internos": [
+  "/physiotherapeute-a-domicile/",
+  "/reservation-en-ligne/"
+ ],
+ "actual": {
+  "title": "Accueil - Physio Activa",
+  "meta": "Physiothérapie à Anet, au sein de l'InsGym. Rendez-vous disponibles la semaine même, jusqu'à 20h, et pris en charge par votre assurance sur présentation d'une ordonnance. Réservez en ligne.",
+  "h1": [
+   "Physiothérapie à Ins : rendez-vous dès cette semaine"
+  ],
+  "h2": [
+   "Nos soins de physiothérapie",
+   "Plus qu'un massage : un vrai plan de récupération",
+   "Un espace de soins et de mouvement",
+   "Des thérapeutes diplômés, à votre écoute",
+   "Les avis de nos patients",
+   "Reconnus par toutes les assurances",
+   "Tout ce qu'il faut savoir avant de venir",
+   "Vous avez mal et besoin de physiothérapie ?"
+  ],
+  "palabras": 678,
+  "texto": "Accueil - Physio Activa\nAller au contenu\nPhysiothérapie à Ins\n# Physiothérapie à Ins : rendez-vous dès cette semaine\nNous proposons des soins en cabinet et à domicile dans toute la région des Trois-Lacs (lac de Morat, lac de Neuchâtel et lac de Bienne). Notre cabinet Physio Activa se situe au 1er étage du bâtiment Lidl à Ins. Il dispose de salles de traitement modernes et d'un espace de fitness complet pour une rééducation optimale.\nPrendre rendez-vous\nWhatsApp\nRDV dans la semaine\nRemboursé par la LAMal\nÉquipe multilingue\n4,9\n★★★★★\nsur Google\nRendez-vous dans la semaine\nSans longue liste d'attente.\nOuvert jusqu'à 20h\nVenez après le travail.\nRemboursé par la LAMal\nPris en charge sur ordonnance.\nÉquipe multilingue\nNous vous recevons en français, en allemand, en anglais, en espagnol et en portugais.\nFitness médical (MTT)\nUne récupération active pour tous.\nThérapie manuelle\nDes techniques manuelles pour soulager la douleur.\nCe que nous proposons\n## Nos soins de physiothérapie\nUne prise en charge complète, du cabinet à la salle de fitness, adaptée à chaque besoin.\nPourquoi Physio Activa\n## Plus qu'un massage : un vrai plan de récupération\n## Un rendez-vous dès cette semaine à Ins\nQuand on a mal, on ne peut pas attendre trois semaines. Nous vous trouvons un créneau dans la semaine et, grâce à nos horaires jusqu'à 20h, vous pouvez venir après le travail sans avoir à prendre congé. C'est la rapidité que nos patients apprécient le plus.\n## Physiothérapie générale\nNous disposons d'une salle spacieuse et entièrement équipée. Votre récupération ne s'arrête pas sur la table de traitement : nous vous guidons dans des exercices de renforcement et de réadaptation, avec l'espace nécessaire pour bouger, afin de traiter le problème à la source et pas seulement d'en soulager les symptômes.\n## Pris en charge par votre assurance (LAMal, LAA, AI, AM)\nSur ordonnance médicale, les séances sont prises en charge par l'assurance de base (LAMal), l'assurance accidents (LAA), l'assurance invalidité (AI) ou l'assurance militaire (AM).\n## Une équipe proche et multilingue\nNotre équipe de physiothérapeutes diplômés vous offre une prise en charge complète et personnalisée, dans un cadre calme et adapté aux besoins de chaque patient. Nous vous recevons là où vous en avez besoin : au cabinet ou à domicile.\nPrendre rendez-vous\nLe cabinet\n## Un espace de soins et de mouvement\nDes salles de traitement modernes, une salle de fitness complète et un parking à disposition.\nNotre équipe\n## Des thérapeutes diplômés, à votre écoute\nLucile Combes\nPhysiothérapeute diplômée\nUne prise en charge complète et personnalisée, dans un cadre apaisant et bienveillant.\nPrendre rendez-vous\nFrancisco Díaz\nPhysiothérapeute diplômé\nRigueur, écoute et empathie pour favoriser des progrès durables et un bien-être optimal.\nPrendre rendez-vous\n4,9 Note moyenne sur 5\n74% de patients via le bouche-à-oreille\n<1 semaine d'attente\n20h ouvert en soirée\nTémoignages\n## Les avis de nos patients\nPrès de 3 patients sur 4 viennent chez nous grâce au bouche-à-oreille. C'est notre meilleure preuve de confiance. Voici ce qu'ils en disent.\n\" ★★★★★\nAprès des semaines de mal de dos, j'ai obtenu un rendez-vous dans la semaine. On ne s'est pas contenté de me masser : on m'a donné des exercices et un vrai plan. Aujourd'hui, la douleur ne dicte plus mon quotidien. M Marc Ins\n\" ★★★★★\nAprès la pose de ma prothèse du genou, j'avais peur de m'entraîner seule. L'équipe m'a tout expliqué étape par étape et l'espace de fitness m'a permis de récupérer en toute confiance. Je remarche normalement. B Béatrice Morat\n\" ★★★★★\nMon père ne pouvait plus se déplacer. Ils sont venus à domicile, à Avenches, dès sa sortie de l'hôpital. Sérieux, ponctuels et à l'écoute. Un vrai soulagement pour la famille. L Lena Avenches\nAssurances\n## Reconnus par toutes les assurances\nQuestions fréquentes\n## Tout ce qu'il faut savoir avant de venir\n## Vous avez mal et besoin de physiothérapie ?\nN'attendez pas des semaines. Nous vous proposons un rendez-vous dès cette semaine, avec des horaires jusqu'à 20h.\nSans liste d'attente, notre équipe de thérapeutes vous reçoit là où vous en avez besoin : au cabinet ou à domicile.\nÉcrivez-nous maintenant\nAppelez-nous directement 076 627 38 38\nFrançais\nDeutsch"
+ },
+ "fuente": "DataForSEO (google_ads/search_volume, Labs, SERP Ins) 2026-11-06"
+}

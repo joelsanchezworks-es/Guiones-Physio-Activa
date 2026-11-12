@@ -1,0 +1,220 @@
+[
+ {
+  "tipo": "hero",
+  "eyebrow": "Pathologies traitées",
+  "h1": "Pathologies traitées en physiothérapie : où avez-vous mal ?",
+  "sub": "Voici les pathologies que nous traitons le plus souvent en physiothérapie chez Physio Activa, à Ins (Anet) et à domicile dans le Seeland et les Trois-Lacs. Choisissez la zone qui vous fait mal : chaque page explique les causes fréquentes, ce que la physiothérapie peut apporter et quand consulter un médecin.",
+  "pills": [
+   "Reconnu par toutes les assurances",
+   "Au cabinet d'Ins ou à domicile",
+   "Ouvert jusqu'à 20h"
+  ],
+  "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00036.jpg",
+  "alt": "Cabinet de physiothérapie à Ins : table de traitement et matériel de rééducation",
+  "video": false,
+  "cta": "Prendre rendez-vous"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "En bref",
+  "h2": "L'essentiel avant de prendre rendez-vous",
+  "lead": [],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Reconnu par toutes les assurances",
+    "html": "<p>Notre cabinet est reconnu par toutes les compagnies d&#x27;assurance maladie en Suisse, quel que soit votre canton de résidence.</p>",
+    "icon": "fa-shield-heart"
+   },
+   {
+    "h3": "Au cabinet ou à domicile",
+    "html": "<p>Cabinet à l&#x27;InsGym, Rämismatte 21 à Ins, et séances à domicile dans le Seeland et les Trois-Lacs.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Bilan et plan de traitement",
+    "html": "<p>La première séance commence par un entretien et un bilan ; les objectifs et le plan sont définis avec vous.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
+    "html": "<p>Réservation sur OneDoc, au 076 627 38 38 ou par WhatsApp, du lundi au vendredi jusqu&#x27;à 20h.</p>",
+    "icon": "fa-calendar-check"
+   }
+  ]
+ },
+ {
+  "tipo": "serv",
+  "eyebrow": "Ce que nous traitons",
+  "h2": "Pathologies traitées par zone du corps",
+  "lead": [],
+  "bg": null,
+  "cards": [
+   {
+    "h3": "Dos et colonne vertébrale",
+    "p": "– <strong>Lombalgie</strong> : douleur dans le bas du dos, aiguë ou installée depuis longtemps. Le physiothérapeute évalue vos mouvements et vous propose un plan actif. → <a href=\"/mal-de-dos-lombaire/\" style=\"color:var(--azure);font-weight:600\">Mal de dos et lombalgie en physiothérapie</a>  – <strong>Sciatique et hernie discale</strong> : douleur qui descend dans la fesse ou la jambe, parfois avec fourmillements. → <a href=\"/sciatique-hernie-discale/\" style=\"color:var(--azure);font-weight:600\">Sciatique et hernie discale : notre prise en charge</a>  – <strong>Cervicalgie</strong> : douleur ou raideur du cou, parfois avec maux de tête ou douleur vers l'épaule. → <a href=\"/douleur-cervicale-au-cou/\" style=\"color:var(--azure);font-weight:600\">Douleur cervicale et au cou</a>",
+    "href": "/mal-de-dos-lombaire/",
+    "icon": "fa-bone",
+    "more": "Lire la page"
+   },
+   {
+    "h3": "Épaule",
+    "p": "Tendinopathie, lésion de la coiffe des rotateurs, épaule raide ou rééducation après une luxation ou une opération. → <a href=\"/lesions-de-lepaule/\" style=\"color:var(--azure);font-weight:600\">Lésions et douleurs de l'épaule</a>",
+    "href": "/lesions-de-lepaule/",
+    "icon": "fa-stethoscope",
+    "more": "Lire la page"
+   },
+   {
+    "h3": "Genou",
+    "p": "Douleur à l'avant du genou, entorse, lésion du ménisque ou des ligaments, rééducation après une prothèse. → <a href=\"/douleur-du-genou-lesions-de-la-cheville/\" style=\"color:var(--azure);font-weight:600\">Douleur du genou et lésions de la cheville</a>",
+    "href": "/douleur-du-genou-lesions-de-la-cheville/",
+    "icon": "fa-heart-pulse",
+    "more": "Lire la page"
+   },
+   {
+    "h3": "Pied et cheville",
+    "p": "Fasciite plantaire, douleur au talon, entorse de la cheville ou tendinopathie d'Achille. → <a href=\"/douleur-pied-cheville-fasciite-plantaire/\" style=\"color:var(--azure);font-weight:600\">Douleur du pied et fasciite plantaire</a>",
+    "href": "/douleur-pied-cheville-fasciite-plantaire/",
+    "icon": "fa-person-walking",
+    "more": "Lire la page"
+   },
+   {
+    "h3": "Hanche",
+    "p": "Douleur de hanche liée à l'arthrose, tendinopathie, ou rééducation après la pose d'une prothèse. → <a href=\"/douleur-de-hanche-protheses/\" style=\"color:var(--azure);font-weight:600\">Douleur de hanche et prothèses</a>",
+    "href": "/douleur-de-hanche-protheses/",
+    "icon": "fa-shield-heart",
+    "more": "Lire la page"
+   },
+   {
+    "h3": "Plancher pelvien",
+    "p": "Fuites urinaires, rééducation après l'accouchement ou après une opération de la prostate, douleurs pelviennes. → <a href=\"/physiotherapie-du-plancher-pelvien/\" style=\"color:var(--azure);font-weight:600\">Physiothérapie du plancher pelvien</a>",
+    "href": "/physiotherapie-du-plancher-pelvien/",
+    "icon": "fa-notes-medical",
+    "more": "Lire la page"
+   },
+   {
+    "h3": "Mâchoire (ATM)",
+    "p": "Douleur ou blocage de la mâchoire, craquements, serrement des dents. → <a href=\"/physiotemporo-mandibulaire-atm/\" style=\"color:var(--azure);font-weight:600\">Physiothérapie de l'articulation temporo-mandibulaire (ATM)</a>",
+    "href": "/physiotemporo-mandibulaire-atm/",
+    "icon": "fa-circle-check",
+    "more": "Lire la page"
+   }
+  ],
+  "cta_mid": true
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Physio Activa",
+  "h2": "Vous ne trouvez pas votre pathologie ?",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Cette liste n'est pas exhaustive. Contactez-nous : nous évaluons votre situation et, si la physiothérapie n'est pas la bonne réponse, nous vous conseillons de vous adresser à votre médecin. Si vous ne pouvez pas vous déplacer, nous proposons aussi la <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a>.</p>"
+ },
+ {
+  "tipo": "villes",
+  "eyebrow": "Près de chez vous",
+  "h2": "Physio au cabinet ou à domicile dans votre région",
+  "lead": [
+   "Informations locales pour les patients des Trois-Lacs et du Seeland : distance, accès et soins à domicile."
+  ],
+  "liens": [
+   [
+    "Physio à Ins (Anet)",
+    "/"
+   ],
+   [
+    "Physio à Sugiez (Mont-Vully)",
+    "/physio-a-sugiez/"
+   ],
+   [
+    "Physio à La Neuveville",
+    "/physio-a-la-neuveville/"
+   ],
+   [
+    "Physio à Neuchâtel",
+    "/physio-a-neuchatel/"
+   ],
+   [
+    "Physio à Avenches",
+    "/physio-a-avenches/"
+   ],
+   [
+    "Physio à Lyss",
+    "/physio-a-lyss/"
+   ],
+   [
+    "Physio à Bienne (Biel)",
+    "/physio-a-bienne/"
+   ],
+   [
+    "Physio à Fribourg",
+    "/physio-a-fribourg/"
+   ],
+   [
+    "Physio à Payerne",
+    "/physio-a-payerne/"
+   ]
+  ],
+  "note": "Cabinet unique : Rämismatte 21, 3232 Ins."
+ },
+ {
+  "tipo": "faq",
+  "h2": "Questions fréquentes sur la physio à Ins",
+  "faq": [
+   {
+    "q": "Quand dois-je consulter un physiothérapeute pour une douleur ?",
+    "a_html": "Lorsqu'une douleur dure plus d'une semaine, limite vos mouvements, perturbe votre sommeil ou revient régulièrement, après une blessure ou une opération, ou pour retrouver de l'autonomie au quotidien. Plus on la traite tôt, plus c'est simple. En cas de signe d'alarme, consultez d'abord un médecin.",
+    "a_text": "Lorsqu'une douleur dure plus d'une semaine, limite vos mouvements, perturbe votre sommeil ou revient régulièrement, après une blessure ou une opération, ou pour retrouver de l'autonomie au quotidien. Plus on la traite tôt, plus c'est simple. En cas de signe d'alarme, consultez d'abord un médecin."
+   },
+   {
+    "q": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+    "a_html": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.",
+    "a_text": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
+   },
+   {
+    "q": "Combien de séances me faut-il ?",
+    "a_html": "La durée du traitement varie selon votre situation, la zone concernée et vos objectifs. Lors de la première visite, nous établissons une estimation adaptée à votre cas.",
+    "a_text": "La durée du traitement varie selon votre situation, la zone concernée et vos objectifs. Lors de la première visite, nous établissons une estimation adaptée à votre cas."
+   },
+   {
+    "q": "Je ne sais pas d'où vient ma douleur. Quelle page choisir ?",
+    "a_html": "Choisissez la zone où vous ressentez le plus la douleur. Une douleur peut venir d'une autre région : par exemple, une douleur dans la jambe peut venir du dos. Le bilan lors de la première séance permet de mieux comprendre.",
+    "a_text": "Choisissez la zone où vous ressentez le plus la douleur. Une douleur peut venir d'une autre région : par exemple, une douleur dans la jambe peut venir du dos. Le bilan lors de la première séance permet de mieux comprendre."
+   },
+   {
+    "q": "Traitez-vous aussi les suites d'une opération ?",
+    "a_html": "Oui, nous assurons la rééducation post-opératoire, par exemple après une prothèse de hanche ou de genou, une opération de l'épaule ou des ligaments, selon les consignes de votre chirurgien.",
+    "a_text": "Oui, nous assurons la rééducation post-opératoire, par exemple après une prothèse de hanche ou de genou, une opération de l'épaule ou des ligaments, selon les consignes de votre chirurgien."
+   },
+   {
+    "q": "Quand faut-il consulter un médecin plutôt qu'un physio ?",
+    "a_html": "Consultez rapidement un médecin ou les urgences en cas de perte de force qui s'aggrave, de troubles pour uriner ou aller à selle, de fièvre associée à la douleur, après un traumatisme important ou si une douleur nocturne intense ne cède pas.",
+    "a_text": "Consultez rapidement un médecin ou les urgences en cas de perte de force qui s'aggrave, de troubles pour uriner ou aller à selle, de fièvre associée à la douleur, après un traumatisme important ou si une douleur nocturne intense ne cède pas."
+   },
+   {
+    "q": "Les séances peuvent-elles avoir lieu à domicile ?",
+    "a_html": "Oui, à Ins et dans le Seeland et la région des Trois-Lacs (Anet, Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne, Lyss), si votre situation le justifie.",
+    "a_text": "Oui, à Ins et dans le Seeland et la région des Trois-Lacs (Anet, Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne, Lyss), si votre situation le justifie."
+   },
+   {
+    "q": "Quel est le rôle d'un physiothérapeute ?",
+    "a_html": "Le physiothérapeute évalue vos mouvements et votre fonction, puis vous accompagne avec des exercices, des techniques manuelles et des conseils pour le quotidien. L'objectif est de vous aider à bouger avec moins de douleur et à gagner en autonomie, selon votre situation. Le diagnostic médical reste du ressort du médecin.",
+    "a_text": "Le physiothérapeute évalue vos mouvements et votre fonction, puis vous accompagne avec des exercices, des techniques manuelles et des conseils pour le quotidien. L'objectif est de vous aider à bouger avec moins de douleur et à gagner en autonomie, selon votre situation. Le diagnostic médical reste du ressort du médecin."
+   },
+   {
+    "q": "Quelle est la différence entre un kinésithérapeute et un physiothérapeute ?",
+    "a_html": "Il s'agit du même métier : en Suisse, on parle de physiothérapeute, alors qu'en France on dit plutôt kinésithérapeute ou kiné. Le nom change selon le pays et la formation.",
+    "a_text": "Il s'agit du même métier : en Suisse, on parle de physiothérapeute, alors qu'en France on dit plutôt kinésithérapeute ou kiné. Le nom change selon le pays et la formation."
+   }
+  ]
+ },
+ {
+  "tipo": "cta",
+  "h2": "Besoin d'un physio à Ins ou dans les environs ?",
+  "s1": "Au cabinet à Ins (InsGym, Rämismatte 21) ou à domicile :",
+  "s2": null
+ },
+ {
+  "tipo": "map"
+ }
+]

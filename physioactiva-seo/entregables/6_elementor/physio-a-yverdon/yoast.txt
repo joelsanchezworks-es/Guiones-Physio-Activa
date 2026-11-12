@@ -1,0 +1,8 @@
+SEO title (54/60): Physio à Yverdon – à domicile ou à Ins | Physio Activa
+Meta description (145/155): Physio à Yverdon : pas de cabinet sur place, nous recevons à Ins (43,5 km) ; domicile à confirmer. Ouvert jusqu'à 20h en semaine. Contactez-nous.
+Slug: /physio-a-yverdon/
+Focus keyphrase: physio yverdon
+H1: Physio à Yverdon-les-Bains : au cabinet d'Ins ou à domicile
+Indexación: NOINDEX hasta la confirmación del cliente (Yoast → Avanzado → ¿Permitir que los motores muestren esta página? = No)
+Canonical: https://physioactiva.ch/physio-a-yverdon/
+Estado: borrador — noindex hasta confirmación

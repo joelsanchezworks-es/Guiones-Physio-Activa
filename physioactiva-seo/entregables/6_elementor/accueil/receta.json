@@ -1,0 +1,400 @@
+[
+ {
+  "tipo": "hero",
+  "eyebrow": "Physiothérapie à Ins (Anet)",
+  "h1": "Physio à Ins (Anet)",
+  "sub": "Physio Activa est un cabinet de physio à Ins (Anet), dans le bâtiment de l'InsGym, Rämismatte 21. Nos physiothérapeutes vous reçoivent au cabinet ou se déplacent à domicile dans le Seeland et la région des Trois-Lacs. Notre cabinet est reconnu par toutes les assurances maladie en Suisse.",
+  "pills": [
+   "Au cabinet d'Ins ou à domicile",
+   "Reconnu par toutes les assurances",
+   "Ouvert jusqu'à 20h"
+  ],
+  "img": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00036.jpg",
+  "alt": "Salle de traitement du cabinet de physiothérapie Physio Activa à Ins",
+  "video": true,
+  "cta": "Prendre rendez-vous"
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "En bref",
+  "h2": "L'essentiel avant de prendre rendez-vous",
+  "lead": [],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Reconnu par toutes les assurances",
+    "html": "<p>Notre cabinet est reconnu par toutes les compagnies d&#x27;assurance maladie en Suisse, quel que soit votre canton de résidence.</p>",
+    "icon": "fa-shield-heart"
+   },
+   {
+    "h3": "Au cabinet ou à domicile",
+    "html": "<p>Cabinet à l&#x27;InsGym, Rämismatte 21 à Ins, et séances à domicile dans le Seeland et les Trois-Lacs.</p>",
+    "icon": "fa-house-medical"
+   },
+   {
+    "h3": "Bilan et plan de traitement",
+    "html": "<p>La première séance commence par un entretien et un bilan ; les objectifs et le plan sont définis avec vous.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Rendez-vous en ligne, par téléphone ou WhatsApp",
+    "html": "<p>Réservation sur OneDoc, au 076 627 38 38 ou par WhatsApp, du lundi au vendredi jusqu&#x27;à 20h.</p>",
+    "icon": "fa-calendar-check"
+   }
+  ]
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Physio Activa",
+  "h2": "Votre physio à Ins, près de chez vous",
+  "lead": [],
+  "bg": null,
+  "html": "<p>Vous cherchez une physio autour de vous, entre le lac de Morat, le lac de Neuchâtel et le lac de Bienne ? Notre cabinet de physiothérapie à Ins est facile d'accès depuis Anet, Chiètres, Morat ou le Vully. Il dispose de salles de traitement et d'un espace d'entraînement, pour que la rééducation ne s'arrête pas à la table de traitement.</p><p style=\"margin-top:12px\">Nous vous recevons en français et en espagnol. Le cabinet est ouvert du lundi au vendredi, jusqu'à 20h ; les disponibilités s'affichent lors de la réservation.</p>"
+ },
+ {
+  "tipo": "team",
+  "eyebrow": "Notre équipe",
+  "h2": "Notre équipe de physiothérapeutes",
+  "lead": [
+   "Francisco Díaz et Lucile Combes sont physiothérapeutes chez Physio Activa (formation et titres : [À CONFIRMER]). Ils vous accueillent en français et en espagnol, au cabinet comme à domicile, avec une prise en charge personnalisée."
+  ],
+  "bg": "trust",
+  "membres": [
+   {
+    "nom": "Francisco Díaz",
+    "titre": "[À CONFIRMER : titre et formation]",
+    "photo": "https://physioactiva.ch/wp-content/uploads/2025/04/20250401_165707-scaled-1-1024x1024.jpg",
+    "html": "<p>Physiothérapeute chez Physio Activa, au cabinet d'Ins et à domicile.</p>"
+   },
+   {
+    "nom": "Lucile Combes",
+    "titre": "[À CONFIRMER : titre et formation]",
+    "photo": "https://physioactiva.ch/wp-content/uploads/2025/04/20250401_164916-scaled-1-1024x1024.jpg",
+    "html": "<p>Physiothérapeute chez Physio Activa, au cabinet d'Ins et à domicile.</p>"
+   }
+  ]
+ },
+ {
+  "tipo": "gallery",
+  "eyebrow": "Le cabinet",
+  "h2": "Un espace de soins et de mouvement à Ins",
+  "lead": [
+   "Des salles de traitement et un espace d'entraînement au sein de l'InsGym, Rämismatte 21."
+  ],
+  "imgs": [
+   [
+    "https://physioactiva.ch/wp-content/uploads/2025/06/fxbtrjhiol.jpg",
+    "Espace d'entraînement de l'InsGym à Ins"
+   ],
+   [
+    "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00036.jpg",
+    "Salle de traitement du cabinet Physio Activa"
+   ],
+   [
+    "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00031.jpg",
+    "Physiothérapeute mobilisant la jambe d'un patient"
+   ],
+   [
+    "https://physioactiva.ch/wp-content/uploads/2025/06/Centerbild_IMG_9184-scaled-1.jpg",
+    "Salle de fitness médical (MTT)"
+   ],
+   [
+    "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00032.jpg",
+    "Exercice de rééducation avec bande élastique"
+   ]
+  ]
+ },
+ {
+  "tipo": "serv",
+  "eyebrow": "Ce que nous traitons",
+  "h2": "Ce que nous traitons",
+  "lead": [
+   "Nous accompagnons les douleurs et les troubles de l'appareil locomoteur, après un accident, une opération ou lorsque la douleur s'installe. Retrouvez toutes les informations dans notre <a href=\"/pour-les-patients/\" style=\"color:var(--azure);font-weight:600\">guide des pathologies traitées en physiothérapie</a>, notamment :"
+  ],
+  "bg": null,
+  "cards": [
+   {
+    "h3": "Mal de dos et lombalgie",
+    "p": "Lumbago, douleur lombaire aiguë ou qui dure : bilan, thérapie manuelle et exercices.",
+    "href": "/mal-de-dos-lombaire/",
+    "icon": "fa-bone"
+   },
+   {
+    "h3": "Sciatique et hernie discale",
+    "p": "Douleur qui descend dans la jambe : évaluation, soulagement et reprise du mouvement.",
+    "href": "/sciatique-hernie-discale/",
+    "icon": "fa-bone"
+   },
+   {
+    "h3": "Douleur cervicale et au cou",
+    "p": "Nuque raide, torticolis, coup du lapin ou céphalée de tension.",
+    "href": "/douleur-cervicale-au-cou/",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": "Lésions et douleurs de l'épaule",
+    "p": "Coiffe des rotateurs, tendinite, capsulite rétractile ou rééducation après une opération.",
+    "href": "/lesions-de-lepaule/",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": "Douleur du genou et lésions de la cheville",
+    "p": "Ménisque, ligament croisé, arthrose ou rééducation après une prothèse du genou.",
+    "href": "/douleur-du-genou-lesions-de-la-cheville/",
+    "icon": "fa-bolt"
+   },
+   {
+    "h3": "Douleur du pied et fasciite plantaire",
+    "p": "Fasciite plantaire, entorse de la cheville, tendinite d&#x27;Achille ou périostite.",
+    "href": "/douleur-pied-cheville-fasciite-plantaire/",
+    "icon": "fa-bolt"
+   }
+  ]
+ },
+ {
+  "tipo": "serv",
+  "eyebrow": "Nos soins",
+  "h2": "Nos soins de physiothérapie",
+  "lead": [
+   "Selon votre situation, le traitement peut associer thérapie manuelle, fitness médical (MTT), puncture sèche, ondes de choc, Tecar, taping, drainage lymphatique ou massage thérapeutique. Nous proposons aussi la physio du sport, la rééducation post-opératoire, la physiothérapie du plancher pelvien, de l'ATM, gériatrique et neurologique."
+  ],
+  "bg": "trust",
+  "cards": [
+   {
+    "h3": "Physiothérapie générale",
+    "p": "Douleurs, raideurs et rééducation de l&#x27;appareil locomoteur.",
+    "href": "/physio-generale/",
+    "icon_img": "https://physioactiva.ch/wp-content/uploads/2025/05/1.png"
+   },
+   {
+    "h3": "Physiothérapie à domicile",
+    "p": "Les séances se déroulent chez vous lorsque vous ne pouvez pas vous déplacer.",
+    "href": "/physiotherapeute-a-domicile/",
+    "icon_img": "https://physioactiva.ch/wp-content/uploads/2025/05/2-1.png"
+   },
+   {
+    "h3": "Fitness médical (MTT)",
+    "p": "Entraînement thérapeutique encadré pour renforcer et reprendre confiance dans le mouvement.",
+    "href": "/medical-training-therapy-mtt/",
+    "icon_img": "https://physioactiva.ch/wp-content/uploads/2025/05/3.png"
+   },
+   {
+    "h3": "Drainage lymphatique",
+    "p": "Technique manuelle douce indiquée notamment en cas d&#x27;œdème.",
+    "href": "/drainage-lymphatique/",
+    "icon_img": "https://physioactiva.ch/wp-content/uploads/2025/05/4.png"
+   },
+   {
+    "h3": "Thérapie manuelle",
+    "p": "Techniques manuelles pour mobiliser les articulations et les tissus, associées à des exercices.",
+    "href": "/therapie-manuelle/",
+    "icon_img": "https://physioactiva.ch/wp-content/uploads/2025/05/7.png"
+   },
+   {
+    "h3": "Plancher pelvien et uro-gynécologie",
+    "p": "Rééducation du périnée, notamment en cas d&#x27;incontinence ou après une grossesse.",
+    "href": "/physiotherapie-du-plancher-pelvien/",
+    "icon_img": "https://physioactiva.ch/wp-content/uploads/2025/05/8.png"
+   },
+   {
+    "h3": "ATM et mâchoire",
+    "p": "Physiothérapie des troubles de l&#x27;articulation temporo-mandibulaire.",
+    "href": "/physiotemporo-mandibulaire-atm/",
+    "icon_img": "https://physioactiva.ch/wp-content/uploads/2025/05/9.png"
+   },
+   {
+    "h3": "Physiothérapie neurologique",
+    "p": "Rééducation après un AVC ou en cas de maladie neurologique.",
+    "href": "/physiotherapie-neurologique/",
+    "icon_img": "https://physioactiva.ch/wp-content/uploads/2025/05/5.png"
+   },
+   {
+    "h3": "Physiothérapie cardio-respiratoire",
+    "p": "Rééducation respiratoire et reprise de l&#x27;effort.",
+    "href": "/physiotherapie-cardiorespiratoire/",
+    "icon_img": "https://physioactiva.ch/wp-content/uploads/2025/05/6.png"
+   }
+  ]
+ },
+ {
+  "tipo": "serv",
+  "eyebrow": "Nos zones",
+  "h2": "Nos zones : Seeland et Trois-Lacs",
+  "lead": [
+   "Un seul cabinet, à Ins (Anet), et des pages locales pour les patients de la région : distance, accès, soins à domicile et questions fréquentes."
+  ],
+  "bg": null,
+  "cards": [
+   {
+    "h3": "Physio à Sugiez (Mont-Vully)",
+    "icon": "fa-map-location-dot",
+    "href": "/physio-a-sugiez/",
+    "more": "Voir la page",
+    "p": "À 4,9 km d&#x27;Ins · district du Lac, canton de Fribourg."
+   },
+   {
+    "h3": "Physio à La Neuveville",
+    "icon": "fa-map-location-dot",
+    "href": "/physio-a-la-neuveville/",
+    "more": "Voir la page",
+    "p": "À 6,6 km d&#x27;Ins · arrondissement administratif du Jura bernois, canton de Berne."
+   },
+   {
+    "h3": "Physio à Neuchâtel",
+    "icon": "fa-map-location-dot",
+    "href": "/physio-a-neuchatel/",
+    "more": "Voir la page",
+    "p": "À 13,4 km d&#x27;Ins · Littoral neuchâtelois, canton de Neuchâtel."
+   },
+   {
+    "h3": "Physio à Avenches",
+    "icon": "fa-map-location-dot",
+    "href": "/physio-a-avenches/",
+    "more": "Voir la page",
+    "p": "À 14,8 km d&#x27;Ins · district de la Broye-Vully, canton de Vaud."
+   },
+   {
+    "h3": "Physio à Lyss",
+    "icon": "fa-map-location-dot",
+    "href": "/physio-a-lyss/",
+    "more": "Voir la page",
+    "p": "À 17,0 km d&#x27;Ins · arrondissement administratif du Seeland, canton de Berne."
+   },
+   {
+    "h3": "Physio à Bienne (Biel)",
+    "icon": "fa-map-location-dot",
+    "href": "/physio-a-bienne/",
+    "more": "Voir la page",
+    "p": "À 18,0 km d&#x27;Ins · arrondissement administratif de Biel/Bienne, canton de Berne."
+   },
+   {
+    "h3": "Physio à Fribourg",
+    "icon": "fa-map-location-dot",
+    "href": "/physio-a-fribourg/",
+    "more": "Voir la page",
+    "p": "À 22,6 km d&#x27;Ins · district de la Sarine, canton de Fribourg."
+   },
+   {
+    "h3": "Physio à Payerne",
+    "icon": "fa-map-location-dot",
+    "href": "/physio-a-payerne/",
+    "more": "Voir la page",
+    "p": "À 24,1 km d&#x27;Ins · district de la Broye-Vully, canton de Vaud."
+   }
+  ]
+ },
+ {
+  "tipo": "grid",
+  "eyebrow": "Vos séances",
+  "h2": "Comment se passe une séance de physiothérapie ?",
+  "lead": [],
+  "bg": null,
+  "cards": [
+   {
+    "h3": "Entretien",
+    "html": "<p>La première séance commence par un entretien : vos symptômes, votre histoire médicale, vos activités et ce que vous souhaitez retrouver.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Bilan et objectifs",
+    "html": "<p>Le physiothérapeute réalise ensuite un bilan (mobilité, force, posture, tests fonctionnels) et définit avec vous des objectifs et un plan de traitement.</p>",
+    "icon": "fa-clipboard-list"
+   },
+   {
+    "h3": "Traitement et exercices",
+    "html": "<p>Le traitement peut commencer dès cette première séance. La durée d'une séance est de [À CONFIRMER]. Le nombre de séances dépend de votre situation.</p>",
+    "icon": "fa-dumbbell"
+   }
+  ],
+  "cta_mid": true
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "À domicile",
+  "h2": "Physiothérapie à domicile dans le Seeland et les Trois-Lacs",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Vous ne pouvez pas vous déplacer, par exemple après une opération, une hospitalisation ou en raison de votre âge ? La <a href=\"/physiotherapeute-a-domicile/\" style=\"color:var(--azure);font-weight:600\">physiothérapie à domicile</a> vous permet de suivre votre traitement chez vous. Nous nous déplaçons à Ins et dans les environs : Anet, Sugiez et Mont-Vully, Morat, Chiètres, Avenches, La Neuveville, Neuchâtel, Bienne et Lyss.</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Soins proposés",
+  "h2": "Plus qu'un massage : un plan de rééducation",
+  "lead": [],
+  "bg": null,
+  "html": "<p>Notre objectif est de comprendre l'origine de vos symptômes et de vous rendre plus autonome. À côté des techniques passives, nous vous montrons des exercices adaptés que vous pouvez poursuivre chez vous. Le plan évolue au fil des séances, selon vos progrès et vos objectifs : reprendre le travail, le sport ou simplement les gestes du quotidien.</p>"
+ },
+ {
+  "tipo": "texte",
+  "eyebrow": "Assurances",
+  "h2": "Assurances et horaires",
+  "lead": [],
+  "bg": "trust",
+  "html": "<p>Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence. Le cabinet est ouvert du lundi au vendredi, jusqu'à 20h. Pour prendre rendez-vous, réservez en ligne, appelez le 076 627 38 38 ou écrivez-nous sur WhatsApp au +41 76 627 38 38.</p>"
+ },
+ {
+  "tipo": "faq",
+  "h2": "Questions fréquentes sur la physio à Ins",
+  "faq": [
+   {
+    "q": "Quand dois-je consulter un physiothérapeute ?",
+    "a_html": "Lorsqu'une douleur ou une raideur dure plus d'une semaine, limite vos gestes du quotidien, perturbe votre sommeil ou revient régulièrement, ou après un accident, une opération ou une hospitalisation. Plus elle est prise en charge tôt, plus le traitement est simple. En cas de signes inhabituels (fièvre, perte de force, douleur très intense), consultez d'abord un médecin.",
+    "a_text": "Lorsqu'une douleur ou une raideur dure plus d'une semaine, limite vos gestes du quotidien, perturbe votre sommeil ou revient régulièrement, ou après un accident, une opération ou une hospitalisation. Plus elle est prise en charge tôt, plus le traitement est simple. En cas de signes inhabituels (fièvre, perte de force, douleur très intense), consultez d'abord un médecin."
+   },
+   {
+    "q": "Physio Activa travaille-t-il avec toutes les compagnies d'assurance ?",
+    "a_html": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence.",
+    "a_text": "Oui. Notre cabinet est reconnu par toutes les compagnies d'assurance maladie en Suisse. Nous disposons de toutes les autorisations sanitaires nécessaires et accueillons les patients quel que soit leur canton de résidence."
+   },
+   {
+    "q": "Combien de séances me faut-il ?",
+    "a_html": "La durée du traitement varie selon votre situation, l'origine de vos symptômes et vos objectifs. Lors de la première visite, nous établissons une estimation adaptée à votre cas.",
+    "a_text": "La durée du traitement varie selon votre situation, l'origine de vos symptômes et vos objectifs. Lors de la première visite, nous établissons une estimation adaptée à votre cas."
+   },
+   {
+    "q": "Quelle est la différence entre un kiné et un physiothérapeute ?",
+    "a_html": "En France et en Belgique, on parle souvent de « kiné » (kinésithérapeute). En Suisse, le terme officiel est physiothérapeute : c'est la même profession de santé, reconnue et réglementée. Le contenu exact de la formation varie d'un pays à l'autre.",
+    "a_text": "En France et en Belgique, on parle souvent de « kiné » (kinésithérapeute). En Suisse, le terme officiel est physiothérapeute : c'est la même profession de santé, reconnue et réglementée. Le contenu exact de la formation varie d'un pays à l'autre."
+   },
+   {
+    "q": "Venez-vous à domicile à Morat, Neuchâtel ou Bienne ?",
+    "a_html": "Oui, nous nous déplaçons dans le Seeland et la région des Trois-Lacs, notamment à Morat, Neuchâtel, Bienne, Lyss, La Neuveville, Avenches, Chiètres et dans le Vully. Contactez-nous pour vérifier votre adresse.",
+    "a_text": "Oui, nous nous déplaçons dans le Seeland et la région des Trois-Lacs, notamment à Morat, Neuchâtel, Bienne, Lyss, La Neuveville, Avenches, Chiètres et dans le Vully. Contactez-nous pour vérifier votre adresse."
+   },
+   {
+    "q": "Comment prendre rendez-vous ?",
+    "a_html": "Vous pouvez réserver directement en ligne, nous appeler au 076 627 38 38 ou nous écrire sur WhatsApp au +41 76 627 38 38. Le cabinet est ouvert du lundi au vendredi, jusqu'à 20h.",
+    "a_text": "Vous pouvez réserver directement en ligne, nous appeler au 076 627 38 38 ou nous écrire sur WhatsApp au +41 76 627 38 38. Le cabinet est ouvert du lundi au vendredi, jusqu'à 20h."
+   },
+   {
+    "q": "Comment se passe une séance de physiothérapie ?",
+    "a_html": "La première séance commence par un entretien et un bilan de vos mouvements. Nous définissons ensuite avec vous des objectifs, puis le traitement associe techniques manuelles, exercices et conseils pour le quotidien.",
+    "a_text": "La première séance commence par un entretien et un bilan de vos mouvements. Nous définissons ensuite avec vous des objectifs, puis le traitement associe techniques manuelles, exercices et conseils pour le quotidien."
+   },
+   {
+    "q": "Quel est le rôle d'un physiothérapeute ?",
+    "a_html": "Le physiothérapeute évalue vos mouvements et vos capacités, puis traite par le mouvement : exercices, techniques manuelles et conseils pour le quotidien. Le diagnostic médical reste du ressort du médecin, avec qui il travaille en complémentarité.",
+    "a_text": "Le physiothérapeute évalue vos mouvements et vos capacités, puis traite par le mouvement : exercices, techniques manuelles et conseils pour le quotidien. Le diagnostic médical reste du ressort du médecin, avec qui il travaille en complémentarité."
+   },
+   {
+    "q": "Comment choisir son physiothérapeute ?",
+    "a_html": "Vérifiez qu'il est reconnu par les assurances maladie, qu'il est accessible depuis chez vous (ou qu'il se déplace à domicile) et que vous pouvez échanger dans votre langue. Chez Physio Activa, nous vous recevons en français et en espagnol.",
+    "a_text": "Vérifiez qu'il est reconnu par les assurances maladie, qu'il est accessible depuis chez vous (ou qu'il se déplace à domicile) et que vous pouvez échanger dans votre langue. Chez Physio Activa, nous vous recevons en français et en espagnol."
+   },
+   {
+    "q": "Est-ce normal d'avoir plus mal après une séance ?",
+    "a_html": "Une sensation de courbature ou de fatigue musculaire passagère peut apparaître après des exercices nouveaux. Si la douleur est forte, inhabituelle ou dure, signalez-le à votre physiothérapeute lors de la séance suivante, ou à votre médecin.",
+    "a_text": "Une sensation de courbature ou de fatigue musculaire passagère peut apparaître après des exercices nouveaux. Si la douleur est forte, inhabituelle ou dure, signalez-le à votre physiothérapeute lors de la séance suivante, ou à votre médecin."
+   }
+  ]
+ },
+ {
+  "tipo": "cta",
+  "h2": "Besoin d'un physio à Ins ou dans les environs ?",
+  "s1": "Contactez-nous pour une séance au cabinet à Ins ou à domicile dans le Seeland et les Trois-Lacs.",
+  "s2": null
+ },
+ {
+  "tipo": "map"
+ }
+]

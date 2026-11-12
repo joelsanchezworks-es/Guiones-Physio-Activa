@@ -1,0 +1,13 @@
+SEO title (59/60): Physio Lyss : à domicile, drainage, massage | Physio Activa
+Meta description (146/155): Physio à Lyss : physiothérapie à domicile à Lyss, Aarberg ou Busswil, drainage lymphatique et massage, ou cabinet d'Ins. Auf Deutsch, jusqu'à 20h.
+Slug: /physio-a-lyss/
+Focus keyphrase: physio lyss
+H1: Physio à Lyss : physiothérapie chez vous ou au cabinet d'Ins
+Indexación: index, follow
+
+IMÁGENES (la plantilla se importa SIN imágenes para no duplicarlas en la biblioteca; elígelas en Elementor):
+- Fondo del hero (sección › Estilo › Fondo): foto de la ciudad o del cabinet, 1920 px
+- Imagen 1 del artículo: alt: Physiothérapeute de Physio Activa en séance, physio pour les patients de Lyss
+- Imagen 2 del artículo: alt: Salle de traitement du cabinet Physio Activa à Ins, proche de Lyss
+- Fondo del CTA final (sección › Estilo › Fondo): foto del cabinet; la capa azul oscura ya está puesta
+- Imagen destacada / Open Graph de Yoast: la misma del hero.

@@ -1,0 +1,500 @@
+[
+ {
+  "id": "H01",
+  "bloque": "Indexación",
+  "severidad": "alta",
+  "titulo": "6 URLs de reserva indexables que compiten entre sí",
+  "urls": [
+   "/online-termin-buchen/",
+   "/reservation-en-ligne/",
+   "/reserver-maintenant/",
+   "/rendez-vous-des-maintenant/",
+   "/reserve/",
+   "/rendez-vous-online/"
+  ],
+  "evidencia": "Las 6 URLs responden 200, son indexables y están en el sitemap; 4 comparten H1 «Physiothérapie en cabinet et à domicile dès cette semaine» y la misma meta.",
+  "fuente": "rastreo propio + DataForSEO on_page 2026-11-06",
+  "accion": "Dejar /reservation-en-ligne/ como canónica (aprobación del cliente); 301 de /reserver-maintenant/, /rendez-vous-des-maintenant/, /reserve/ y /rendez-vous-online/ hacia ella; /online-termin-buchen/ (H1 en alemán) a la versión /de/ o 301; actualizar todos los botones.",
+  "esfuerzo_h": 1.5,
+  "estado_vs_auditoria_previa": "pendiente (ya detectado)"
+ },
+ {
+  "id": "H04",
+  "bloque": "Indexación",
+  "severidad": "alta",
+  "titulo": "10 URLs internas devuelven 404 (enlaces rotos en el hub de patologías)",
+  "urls": [
+   "/de/douleurs-cervicales/",
+   "/de/douleurs-genou/",
+   "/de/lesions-cheville/",
+   "/de/lesions-epaule/",
+   "/de/mtt-fitness-medical/",
+   "/douleurs-cervicales",
+   "/douleurs-genou",
+   "/lesions-cheville",
+   "/lesions-epaule",
+   "/mtt-fitness-medical"
+  ],
+  "evidencia": "El hub /pour-les-patients/ enlaza a /douleurs-cervicales, /douleurs-genou, /lesions-cheville y /lesions-epaule (404); /physiotherapie-post-operatoire/ enlaza a /mtt-fitness-medical (404). Las mismas en /de/.",
+  "fuente": "rastreo propio + DataForSEO on_page 2026-11-06",
+  "accion": "Corregir los enlaces hacia /douleur-cervicale-au-cou/, /douleur-du-genou-lesions-de-la-cheville/, /douleur-pied-cheville-fasciite-plantaire/, /lesions-de-lepaule/ y /medical-training-therapy-mtt/; añadir 301 de las URL rotas por si tienen enlaces externos.",
+  "esfuerzo_h": 0.75,
+  "estado_vs_auditoria_previa": "nuevo"
+ },
+ {
+  "id": "H17",
+  "bloque": "Local",
+  "severidad": "alta",
+  "titulo": "Dirección: el encargo dice «Rämismatte 31», pero el sitio y la ficha de Google dicen «Rämismatte 21»",
+  "urls": [
+   "/",
+   "/contact/",
+   "/nous-trouver/",
+   "Google Business Profile"
+  ],
+  "evidencia": "Ficha de Google: «Rämismatte 21, 3232 Ins»; el sitio repite «Rämismatte 21» 90 veces. El contexto del cliente indica 31.",
+  "fuente": "DataForSEO business_data/my_business_info 2026-11-06 + rastreo",
+  "accion": "Confirmar la dirección correcta con el cliente y unificarla (NAP) en el sitio, la ficha, OneDoc, local.ch y search.ch.",
+  "esfuerzo_h": 0.5,
+  "estado_vs_auditoria_previa": "nuevo"
+ },
+ {
+  "id": "H21",
+  "bloque": "Local",
+  "severidad": "alta",
+  "titulo": "En Google Maps solo aparece cerca de Ins",
+  "urls": [
+   "Ins",
+   "Neuchâtel",
+   "Biel/Bienne",
+   "Murten/Morat",
+   "Kerzers/Chiètres",
+   "Sugiez",
+   "Lyss",
+   "Fribourg",
+   "Payerne",
+   "Estavayer",
+   "Yverdon-les-Bains",
+   "Yvonand",
+   "Lausanne",
+   "La Neuveville",
+   "Avenches"
+  ],
+  "evidencia": "«physio» en Maps desde el centro de Ins: posición 5. No aparece en el top 20 de Maps en: Neuchâtel, Biel/Bienne, Murten/Morat, Kerzers/Chiètres, Lyss, Fribourg, Payerne, Estavayer, Yverdon-les-Bains, Yvonand, Lausanne, La Neuveville, Avenches.",
+  "fuente": "DataForSEO serp/google/maps 2026-11-06",
+  "accion": "Es normal (Maps depende de la distancia): el área a domicilio se gana con páginas de zona útiles, la ficha (área de servicio) y reseñas que mencionen la localidad, no con una dirección por ciudad.",
+  "esfuerzo_h": 0,
+  "estado_vs_auditoria_previa": "nuevo"
+ },
+ {
+  "id": "H07",
+  "bloque": "On-page",
+  "severidad": "alta",
+  "titulo": "Titles genéricos sin keyword ni localidad",
+  "urls": [
+   "/",
+   "/a-propos-de-nous/",
+   "/blog/",
+   "/contact/",
+   "/fitness-medical/",
+   "/nous-trouver/",
+   "/physio-du-sport/",
+   "/physio-generale/",
+   "/physio/",
+   "/physioactiva-ondes-de-choc/",
+   "/physioactiva-puncture-seche/",
+   "/physiotherapeute-a-domicile/",
+   "/physiotherapie-geriatrique/",
+   "/pour-les-patients/",
+   "/rendez-vous-online/",
+   "/reserve/",
+   "/tecar-therapie/",
+   "/therapie-manuelle/"
+  ],
+  "evidencia": "Patrón «[Nombre de página] - Physio Activa» (p. ej. home: «Accueil - Physio Activa», 23 caracteres; /physio/: «Physio - Physio Activa»). on_page: 12 titles demasiado cortos.",
+  "fuente": "rastreo propio + DataForSEO on_page 2026-11-06",
+  "accion": "Reescribir con la plantilla «[keyword] à Ins | Physio Activa» (≤ 60 caracteres): ver yoast.txt de cada página del primer lote.",
+  "esfuerzo_h": 2,
+  "estado_vs_auditoria_previa": "pendiente (ya detectado)"
+ },
+ {
+  "id": "H09",
+  "bloque": "On-page",
+  "severidad": "alta",
+  "titulo": "H1 incorrecto en /physio/",
+  "urls": [
+   "/physio/"
+  ],
+  "evidencia": "H1 actual: «MTT et fitness médical à Ins» (copiado de la página MTT).",
+  "fuente": "rastreo propio + DataForSEO on_page 2026-11-06",
+  "accion": "Convertir /physio/ en el hub «Traitements & techniques» con H1 propio, o redirigirla a la home si no se usa.",
+  "esfuerzo_h": 0.5,
+  "estado_vs_auditoria_previa": "nuevo"
+ },
+ {
+  "id": "H10",
+  "bloque": "On-page",
+  "severidad": "alta",
+  "titulo": "Los 4 artículos del blog tienen el mismo H1 y el mismo contenido",
+  "urls": [
+   "/2026/06/27/perte-de-poids-et-sante-musculaire/",
+   "/2026/06/27/physiotherapie-a-domicile/",
+   "/2026/06/27/sante-musculo-squelettique/",
+   "/2026/09/11/physiotherapie-a-sugiez/"
+  ],
+  "evidencia": "Los 4 posts muestran el H1 «Drainage lymphatique manuel : ce que c'est et à quoi ça sert» y los mismos H2: la plantilla del artículo de drainage se aplicó a todos. on_page: 64 páginas con contenido duplicado.",
+  "fuente": "rastreo propio + DataForSEO on_page 2026-11-06",
+  "accion": "Restaurar el contenido propio de cada post o despublicarlos; después reescribirlos como artículos que enlacen a las páginas de patología.",
+  "esfuerzo_h": 2,
+  "estado_vs_auditoria_previa": "nuevo"
+ },
+ {
+  "id": "H15",
+  "bloque": "Técnica",
+  "severidad": "alta",
+  "titulo": "Falta schema de negocio sanitario en la home y en las páginas de servicio",
+  "urls": [
+   "/",
+   "(servicios y patologías)"
+  ],
+  "evidencia": "Solo /physio-a-neuchatel/ y /physio-a-sugiez/ declaran `Physiotherapy`; la home solo tiene Organization/WebSite (Yoast).",
+  "fuente": "rastreo propio + DataForSEO on_page 2026-11-06",
+  "accion": "Añadir `Physiotherapy` (MedicalBusiness) con dirección, teléfono, horario, `areaServed` y `sameAs` en todo el sitio; `MedicalWebPage` + `MedicalCondition` + `FAQPage` en patologías (ver schema.json del módulo 5).",
+  "esfuerzo_h": 1.5,
+  "estado_vs_auditoria_previa": "pendiente (ya detectado)"
+ },
+ {
+  "id": "H24",
+  "bloque": "Autoridad",
+  "severidad": "media",
+  "titulo": "Autoridad de enlaces por debajo de los competidores locales",
+  "urls": [
+   "physioactiva.ch"
+  ],
+  "evidencia": "Rank DataForSEO: physioactiva.ch 41 frente a una mediana de 111 de los competidores locales; 42 dominios de referencia; spam score 48.",
+  "fuente": "DataForSEO backlinks/summary 2026-11-06",
+  "accion": "Plan de enlaces locales (ver huecos de enlaces en el informe): directorios suizos, asociaciones, clubes deportivos y gimnasios de la zona (InsGym).",
+  "esfuerzo_h": 4,
+  "estado_vs_auditoria_previa": "nuevo"
+ },
+ {
+  "id": "H25",
+  "bloque": "Autoridad",
+  "severidad": "media",
+  "titulo": "Enlaces spam apuntando a physioactiva.ch",
+  "urls": [
+   "websquemolan.com",
+   "newsmarketing.cyou",
+   "thcradar.com",
+   "bureatag.com",
+   "screenshots.wiki",
+   "dbike-us.com",
+   "techbumppy.com",
+   "sahammurah.com",
+   "seonix.agency",
+   "clifflisting.com",
+   "bestnz-poker-casinoslot.com",
+   "thedocmag.com",
+   "archive-hu.com",
+   "dupurgeniefr.com",
+   "kernelpanicpodcast.com"
+  ],
+  "evidencia": "34 de 39 dominios de referencia con spam score ≥ 50; anchors como «Best Pinterest Tool SiteToSocial.com to Grow Your Website Traffic Full…» (1 enlaces).",
+  "fuente": "DataForSEO backlinks/anchors + referring_domains 2026-11-06",
+  "accion": "No comprar enlaces. Google suele ignorar este tipo de enlaces: vigilarlos en Search Console y usar el archivo disavow solo si aparece una acción manual o una caída clara. Pedir a la agencia que confirme que no proceden de ninguna campaña contratada.",
+  "esfuerzo_h": 0.5,
+  "estado_vs_auditoria_previa": "nuevo"
+ },
+ {
+  "id": "H26",
+  "bloque": "Autoridad",
+  "severidad": "media",
+  "titulo": "Huecos de enlaces: directorios que enlazan a ≥ 2 competidores y no a physioactiva.ch",
+  "urls": [
+   "physio-verzeichnis.ch",
+   "alexdot.pages.dev",
+   "better-search.ch",
+   "regionalinfo-schweiz.ch",
+   "oeffnungszeitenbuch.de"
+  ],
+  "evidencia": "physio-verzeichnis.ch (5 competidores); alexdot.pages.dev (3 competidores); better-search.ch (2 competidores); regionalinfo-schweiz.ch (2 competidores); oeffnungszeitenbuch.de (2 competidores)",
+  "fuente": "DataForSEO backlinks/domain_intersection 2026-11-06",
+  "accion": "Darse de alta en physio-verzeichnis.ch, regionalinfo-schweiz.ch, better-search.ch y oeffnungszeitenbuch.de; además, por criterio local: physioswiss (miembro), InsGym, clubes deportivos de Ins/Seeland, comuna de Ins (listado de salud) y prensa local (Bieler Tagblatt, Murtenbieter, La Liberté).",
+  "esfuerzo_h": 2,
+  "estado_vs_auditoria_previa": "nuevo"
+ },
+ {
+  "id": "H27",
+  "bloque": "GEO",
+  "severidad": "media",
+  "titulo": "AI Overview en 191 de 293 SERP analizadas (sobre todo patologías)",
+  "urls": [
+   "acupuncture vs dry needling",
+   "anse de seau ménisque",
+   "arthrose du genou",
+   "arthrose du genou quoi faire",
+   "arthrose du genou traitement",
+   "atm mâchoire",
+   "avc traitement",
+   "bon physiothérapie",
+   "bursite coude traitement",
+   "canal carpien : symptômes",
+   "canal carpien traitement",
+   "cervicalgie"
+  ],
+  "evidencia": "Las búsquedas de patología muestran AI Overview y citan portales; las búsquedas locales («physio + ciudad») no.",
+  "fuente": "DataForSEO SERP Ins 2026-11-06",
+  "accion": "En cada página de patología: respuesta directa en las 2-3 primeras líneas, preguntas como H2/H3, FAQ marcada y autor con nombre (fisioterapeuta) y titulación.",
+  "esfuerzo_h": 0,
+  "estado_vs_auditoria_previa": "nuevo"
+ },
+ {
+  "id": "H02",
+  "bloque": "Indexación",
+  "severidad": "media",
+  "titulo": "/merci/ indexable y en el sitemap",
+  "urls": [
+   "/merci/"
+  ],
+  "evidencia": "robots: «index, follow, max-image-preview:large, …»; incluida en page-sitemap.xml.",
+  "fuente": "rastreo propio + DataForSEO on_page 2026-11-06",
+  "accion": "Yoast → «¿Permitir que los motores muestren esta página?» = No (noindex) y fuera del sitemap.",
+  "esfuerzo_h": 0.25,
+  "estado_vs_auditoria_previa": "pendiente (ya detectado)"
+ },
+ {
+  "id": "H05",
+  "bloque": "Indexación",
+  "severidad": "media",
+  "titulo": "El menú enlaza a URLs que redirigen (301)",
+  "urls": [
+   "/de/fitness-medica/",
+   "/de/mal-de-dos/",
+   "/de/physiotherapie-a-domicile/",
+   "/drainage-lymphatique",
+   "/fitness-medica/",
+   "/mal-de-dos",
+   "/physiotherapie-a-domicile"
+  ],
+  "evidencia": "7 páginas enlazan a /mal-de-dos, /fitness-medica, /drainage-lymphatique (sin barra) y /physiotherapie-a-domicile, que redirigen.",
+  "fuente": "rastreo propio + DataForSEO on_page 2026-11-06",
+  "accion": "Cambiar en el menú y en el pie las URLs por la versión final (con barra y slug real).",
+  "esfuerzo_h": 0.5,
+  "estado_vs_auditoria_previa": "nuevo"
+ },
+ {
+  "id": "H06",
+  "bloque": "Indexación",
+  "severidad": "media",
+  "titulo": "Versión /de/ publicada con títulos y contenidos en francés",
+  "urls": [
+   "/de/"
+  ],
+  "evidencia": "La versión /de/ (42 URLs rastreadas) tiene hreflang fr/de, pero títulos como «Accueil - Physio Activa» siguen en francés: on_page detecta 34 títulos y 20 metas duplicados entre /fr y /de.",
+  "fuente": "rastreo propio + DataForSEO on_page 2026-11-06",
+  "accion": "Fase posterior DE: traducir títulos/metas o poner noindex en /de/ hasta traducirla de verdad. Mientras tanto, evitar que compita con la versión FR.",
+  "esfuerzo_h": 1,
+  "estado_vs_auditoria_previa": "nuevo"
+ },
+ {
+  "id": "H18",
+  "bloque": "Local",
+  "severidad": "media",
+  "titulo": "La ficha de Google enlaza a http://www.physioactiva.ch/",
+  "urls": [
+   "Google Business Profile"
+  ],
+  "evidencia": "URL de la ficha: http://www.physioactiva.ch/ (sin https y con www; el sitio canónico es https://physioactiva.ch/).",
+  "fuente": "DataForSEO business_data 2026-11-06",
+  "accion": "Cambiar la web de la ficha a https://physioactiva.ch/ con UTM (utm_source=google&utm_medium=organic&utm_campaign=gbp) para medirla en GA4.",
+  "esfuerzo_h": 0.25,
+  "estado_vs_auditoria_previa": "nuevo"
+ },
+ {
+  "id": "H19",
+  "bloque": "Local",
+  "severidad": "media",
+  "titulo": "Pocas reseñas frente a los competidores",
+  "urls": [
+   "Google Business Profile"
+  ],
+  "evidencia": "Physio Activa: 19 reseñas (nota 5; 19 de 19 respondidas). Physio du: 71 (nota 4.8); PhysiOptima Murten: 67 (nota 4.9); Physio Plus: 10 (nota 4.5)",
+  "fuente": "DataForSEO business_data/google/reviews 2026-11-06",
+  "accion": "Pedir reseña tras la última sesión (QR en el cabinet y enlace por WhatsApp), sin incentivos y sin filtrar; seguir respondiendo todas. Objetivo de ritmo: [POR CONFIRMAR] reseñas/mes.",
+  "esfuerzo_h": 1,
+  "estado_vs_auditoria_previa": "nuevo"
+ },
+ {
+  "id": "H20",
+  "bloque": "Local",
+  "severidad": "media",
+  "titulo": "Categorías de la ficha",
+  "urls": [
+   "Google Business Profile"
+  ],
+  "evidencia": "Principal: «Physiothérapeute»; adicionales: ['Centre de rééducation']. PhysiOptima usa 4 categorías.",
+  "fuente": "DataForSEO business_data 2026-11-06",
+  "accion": "Mantener «Physiothérapeute» como principal; valorar añadir servicios a domicilio en «Servicios» y el área de servicio (Seeland / Trois-Lacs). No añadir categorías que no correspondan.",
+  "esfuerzo_h": 0.25,
+  "estado_vs_auditoria_previa": "nuevo"
+ },
+ {
+  "id": "H23",
+  "bloque": "Local",
+  "severidad": "media",
+  "titulo": "Directorios (NAP)",
+  "urls": [
+   "local.ch",
+   "search.ch",
+   "OneDoc",
+   "Apple Maps",
+   "Bing Places"
+  ],
+  "evidencia": "local.ch y search.ch aparecen en el top 10 de 18 y 39 SERP analizadas; onedoc.ch, en 84. La consistencia NAP en cada directorio no se puede verificar desde aquí: no disponible.",
+  "fuente": "rastreo propio + DataForSEO on_page 2026-11-06",
+  "accion": "Revisar a mano la ficha en local.ch, search.ch, OneDoc, Apple Business Connect y Bing Places con la misma dirección, teléfono y web.",
+  "esfuerzo_h": 1,
+  "estado_vs_auditoria_previa": "nuevo"
+ },
+ {
+  "id": "H11",
+  "bloque": "On-page",
+  "severidad": "media",
+  "titulo": "Canibalizaciones de servicios",
+  "urls": [
+   "/physio/",
+   "/physio-generale/",
+   "/medical-training-therapy-mtt/",
+   "/fitness-medical/",
+   "/physiotherapie-du-plancher-pelvien/",
+   "/physio-en-uro-gynecologie/"
+  ],
+  "evidencia": "/physio/ y /medical-training-therapy-mtt/ tienen el mismo H1; /fitness-medical/ y /medical-training-therapy-mtt/ atacan «MTT / fitness médical» (Labs: physioactiva.ch rankea con /fitness-medical/ en «fitness medical», pos. 18, y con /medical-training-therapy-mtt/ en «mtt», pos. 36).",
+  "fuente": "rastreo + DataForSEO Labs ranked_keywords 2026-11-06",
+  "accion": "Fusionar /fitness-medical/ en /medical-training-therapy-mtt/ (301). Diferenciar uro-gynécologie (mujer, embarazo, posparto) de plancher pelvien o fusionarlas tras validarlo con el cliente.",
+  "esfuerzo_h": 1.5,
+  "estado_vs_auditoria_previa": "nuevo"
+ },
+ {
+  "id": "H12",
+  "bloque": "On-page",
+  "severidad": "media",
+  "titulo": "Imágenes sin texto alternativo",
+  "urls": [
+   "(todas las plantillas)"
+  ],
+  "evidencia": "on_page: 68 páginas con imágenes sin alt.",
+  "fuente": "rastreo propio + DataForSEO on_page 2026-11-06",
+  "accion": "Añadir alt descriptivo en francés (qué muestra + contexto: «Physiothérapeute traitant une épaule au cabinet à Ins»).",
+  "esfuerzo_h": 1.5,
+  "estado_vs_auditoria_previa": "nuevo"
+ },
+ {
+  "id": "H13",
+  "bloque": "On-page",
+  "severidad": "media",
+  "titulo": "Contenido escaso en páginas de servicio",
+  "urls": [
+   "/blog/",
+   "/pour-les-patients/"
+  ],
+  "evidencia": "Páginas con menos de 300 palabras (rastreo propio).",
+  "fuente": "rastreo propio + DataForSEO on_page 2026-11-06",
+  "accion": "Ampliar con el formato del módulo 5 (qué es, para quién, cómo, reembolso, FAQ).",
+  "esfuerzo_h": 3,
+  "estado_vs_auditoria_previa": "nuevo"
+ },
+ {
+  "id": "H14",
+  "bloque": "Técnica",
+  "severidad": "media",
+  "titulo": "lang=\"fr-FR\" en lugar de fr-CH",
+  "urls": [
+   "(todo el sitio)"
+  ],
+  "evidencia": "<html lang=\"fr-FR\"> en todas las URLs FR.",
+  "fuente": "rastreo propio + DataForSEO on_page 2026-11-06",
+  "accion": "Ajustes → General → Idioma del sitio: «Français (Suisse)», o filtro `language_attributes`. Comprobar el hreflang (fr-CH / de-CH).",
+  "esfuerzo_h": 0.25,
+  "estado_vs_auditoria_previa": "la auditoría previa lo daba por corregido: sigue en fr-FR"
+ },
+ {
+  "id": "H16",
+  "bloque": "Técnica",
+  "severidad": "media",
+  "titulo": "Recursos que bloquean el renderizado y errores de microdatos",
+  "urls": [
+   "(todas las plantillas)"
+  ],
+  "evidencia": "on_page: 68 páginas con recursos render-blocking y None con errores de micromarcado. Core Web Vitals reales: no disponible (sin PageSpeed/CrUX en esta ejecución).",
+  "fuente": "rastreo propio + DataForSEO on_page 2026-11-06",
+  "accion": "Plugin de caché con CSS crítico y diferido de JS (p. ej. WP Rocket / LiteSpeed); validar el schema en validator.schema.org; medir CWV con PageSpeed Insights por plantilla.",
+  "esfuerzo_h": 2,
+  "estado_vs_auditoria_previa": "nuevo"
+ },
+ {
+  "id": "H03",
+  "bloque": "Indexación",
+  "severidad": "baja",
+  "titulo": "Páginas de archivo de autor y categorías indexables",
+  "urls": [
+   "/author/joel/",
+   "/category/domicile-sugiez/",
+   "/category/nos-soins/"
+  ],
+  "evidencia": "Indexables y sin meta description; la de autor muestra «Joel Nova Agency» (la agencia, no un fisioterapeuta).",
+  "fuente": "rastreo propio + DataForSEO on_page 2026-11-06",
+  "accion": "Yoast → noindex para archivos de autor y categorías; quitar los archivos de autor del sitemap.",
+  "esfuerzo_h": 0.25,
+  "estado_vs_auditoria_previa": "nuevo"
+ },
+ {
+  "id": "H08",
+  "bloque": "On-page",
+  "severidad": "baja",
+  "titulo": "Metas de más de 155 caracteres (se cortan)",
+  "urls": [
+   "/",
+   "/lesions-de-lepaule/",
+   "/mal-de-dos-lombaire/",
+   "/physiotherapeute-a-domicile/",
+   "/physiotherapie-du-plancher-pelvien/",
+   "/physiotherapie-neurologique/",
+   "/pour-les-patients/",
+   "/tecar-therapie/"
+  ],
+  "evidencia": "/: 189; /lesions-de-lepaule/: 178; /mal-de-dos-lombaire/: 172; /physiotherapeute-a-domicile/: 184; /physiotherapie-du-plancher-pelvien/: 245; /physiotherapie-neurologique/: 176; /pour-les-patients/: 169; /tecar-therapie/: 201",
+  "fuente": "rastreo propio + DataForSEO on_page 2026-11-06",
+  "accion": "Recortar a 120-155 caracteres con keyword + localidad + CTA.",
+  "esfuerzo_h": 0.5,
+  "estado_vs_auditoria_previa": "nuevo"
+ },
+ {
+  "id": "H22",
+  "bloque": "Local",
+  "severidad": "info",
+  "titulo": "Fortaleza: Physio Activa sale en el local pack de 33 búsquedas desde Ins",
+  "urls": [
+   "cabinet de physiothérapie ins",
+   "centre de rééducation",
+   "dry needling near me",
+   "fitness médical",
+   "kiné",
+   "kinésithérapeute",
+   "needling physio",
+   "physio",
+   "physio autour de moi",
+   "physio domicile",
+   "physio drainage lymphatique",
+   "physio ins",
+   "physio près de moi",
+   "physio taping",
+   "physio à domicile"
+  ],
+  "evidencia": "Incluye physio, physiothérapeute, physiothérapie, physio ins, physio près de moi, physio à domicile, kiné…",
+  "fuente": "DataForSEO SERP Ins 2026-11-06",
+  "accion": "Proteger la ficha (reseñas, publicaciones, fotos) y alinear la home con esas búsquedas.",
+  "esfuerzo_h": 0,
+  "estado_vs_auditoria_previa": "nuevo"
+ }
+]

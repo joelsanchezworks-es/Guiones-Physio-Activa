@@ -1,0 +1,6748 @@
+{
+"gads": {
+"cabinet de physiothérapie anet": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"cabinet de physiothérapie avenches": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"cabinet de physiothérapie biel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"cabinet de physiothérapie bienne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"cabinet de physiothérapie chiètres": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"cabinet de physiothérapie estavayer": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"cabinet de physiothérapie estavayer-le-lac": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"cabinet de physiothérapie freiburg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"cabinet de physiothérapie fribourg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"cabinet de physiothérapie ins": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"cabinet de physiothérapie kerzers": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"cabinet de physiothérapie la neuveville": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"cabinet de physiothérapie lausanne": {
+"vol": 10,
+"cpc": 1.74,
+"comp": "HIGH"
+},
+"cabinet de physiothérapie lyss": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"cabinet de physiothérapie mont-vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"cabinet de physiothérapie morat": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"cabinet de physiothérapie murten": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"cabinet de physiothérapie neuchatel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"cabinet de physiothérapie neuchâtel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"cabinet de physiothérapie payerne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"cabinet de physiothérapie sugiez": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"cabinet de physiothérapie vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"cabinet de physiothérapie yverdon": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"cabinet de physiothérapie yverdon-les-bains": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"cabinet de physiothérapie yvonand": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"centre de physiothérapie anet": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"centre de physiothérapie avenches": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"centre de physiothérapie biel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"centre de physiothérapie bienne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"centre de physiothérapie chiètres": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"centre de physiothérapie estavayer": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"centre de physiothérapie estavayer-le-lac": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"centre de physiothérapie freiburg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"centre de physiothérapie fribourg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"centre de physiothérapie ins": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"centre de physiothérapie kerzers": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"centre de physiothérapie la neuveville": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"centre de physiothérapie lausanne": {
+"vol": 20,
+"cpc": 1.36,
+"comp": "HIGH"
+},
+"centre de physiothérapie lyss": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"centre de physiothérapie mont-vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"centre de physiothérapie morat": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"centre de physiothérapie murten": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"centre de physiothérapie neuchatel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"centre de physiothérapie neuchâtel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"centre de physiothérapie payerne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"centre de physiothérapie sugiez": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"centre de physiothérapie vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"centre de physiothérapie yverdon": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"centre de physiothérapie yverdon-les-bains": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"centre de physiothérapie yvonand": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"drainage lymphatique anet": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"drainage lymphatique avenches": {
+"vol": 10,
+"cpc": 0.98,
+"comp": "MEDIUM"
+},
+"drainage lymphatique biel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"drainage lymphatique bienne": {
+"vol": 90,
+"cpc": 1.37,
+"comp": "HIGH"
+},
+"drainage lymphatique chiètres": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"drainage lymphatique estavayer": {
+"vol": 40,
+"cpc": 1.05,
+"comp": "MEDIUM"
+},
+"drainage lymphatique estavayer-le-lac": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"drainage lymphatique freiburg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"drainage lymphatique fribourg": {
+"vol": 260,
+"cpc": 1.4,
+"comp": "HIGH"
+},
+"drainage lymphatique ins": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"drainage lymphatique kerzers": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"drainage lymphatique la neuveville": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"drainage lymphatique lausanne": {
+"vol": 590,
+"cpc": 2.59,
+"comp": "HIGH"
+},
+"drainage lymphatique lyss": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"drainage lymphatique mont-vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"drainage lymphatique morat": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"drainage lymphatique murten": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"drainage lymphatique neuchatel": {
+"vol": 170,
+"cpc": 1.87,
+"comp": "MEDIUM"
+},
+"drainage lymphatique neuchâtel": {
+"vol": 110,
+"cpc": 1.24,
+"comp": "LOW"
+},
+"drainage lymphatique payerne": {
+"vol": 50,
+"cpc": 0.95,
+"comp": "MEDIUM"
+},
+"drainage lymphatique sugiez": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"drainage lymphatique vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"drainage lymphatique yverdon": {
+"vol": 170,
+"cpc": 0.9,
+"comp": "MEDIUM"
+},
+"drainage lymphatique yverdon-les-bains": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"drainage lymphatique yvonand": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"dry needling anet": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"dry needling avenches": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"dry needling biel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"dry needling bienne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"dry needling chiètres": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"dry needling estavayer": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"dry needling estavayer-le-lac": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"dry needling freiburg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"dry needling fribourg": {
+"vol": 20,
+"cpc": 1.18,
+"comp": "MEDIUM"
+},
+"dry needling ins": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"dry needling kerzers": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"dry needling la neuveville": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"dry needling lausanne": {
+"vol": 40,
+"cpc": 1.78,
+"comp": "HIGH"
+},
+"dry needling lyss": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"dry needling mont-vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"dry needling morat": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"dry needling murten": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"dry needling neuchatel": {
+"vol": 10,
+"cpc": 1.66,
+"comp": "MEDIUM"
+},
+"dry needling neuchâtel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"dry needling payerne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"dry needling sugiez": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"dry needling vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"dry needling yverdon": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"dry needling yverdon-les-bains": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"dry needling yvonand": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"fitness médical anet": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"fitness médical avenches": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"fitness médical biel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"fitness médical bienne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"fitness médical chiètres": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"fitness médical estavayer": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"fitness médical estavayer-le-lac": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"fitness médical freiburg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"fitness médical fribourg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"fitness médical ins": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"fitness médical kerzers": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"fitness médical la neuveville": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"fitness médical lausanne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"fitness médical lyss": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"fitness médical mont-vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"fitness médical morat": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"fitness médical murten": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"fitness médical neuchatel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"fitness médical neuchâtel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"fitness médical payerne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"fitness médical sugiez": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"fitness médical vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"fitness médical yverdon": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"fitness médical yverdon-les-bains": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"fitness médical yvonand": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"kiné anet": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"kiné avenches": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"kiné biel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"kiné bienne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"kiné chiètres": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"kiné estavayer": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"kiné estavayer-le-lac": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"kiné freiburg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"kiné fribourg": {
+"vol": 50,
+"cpc": 1.54,
+"comp": "LOW"
+},
+"kiné ins": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"kiné kerzers": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"kiné la neuveville": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"kiné lausanne": {
+"vol": 140,
+"cpc": 2.7,
+"comp": "HIGH"
+},
+"kiné lyss": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"kiné mont-vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"kiné morat": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"kiné murten": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"kiné neuchatel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"kiné neuchâtel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"kiné payerne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"kiné sugiez": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"kiné vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"kiné yverdon": {
+"vol": 70,
+"cpc": 1.39,
+"comp": "LOW"
+},
+"kiné yverdon-les-bains": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"kiné yvonand": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"lymphdrainage anet": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"lymphdrainage avenches": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"lymphdrainage biel": {
+"vol": 70,
+"cpc": 1.31,
+"comp": "HIGH"
+},
+"lymphdrainage bienne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"lymphdrainage chiètres": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"lymphdrainage estavayer": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"lymphdrainage estavayer-le-lac": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"lymphdrainage freiburg": {
+"vol": 10,
+"cpc": null,
+"comp": "LOW"
+},
+"lymphdrainage fribourg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"lymphdrainage ins": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"lymphdrainage kerzers": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"lymphdrainage la neuveville": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"lymphdrainage lausanne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"lymphdrainage lyss": {
+"vol": 40,
+"cpc": 1.13,
+"comp": "HIGH"
+},
+"lymphdrainage mont-vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"lymphdrainage morat": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"lymphdrainage murten": {
+"vol": 10,
+"cpc": 1.43,
+"comp": "MEDIUM"
+},
+"lymphdrainage neuchatel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"lymphdrainage neuchâtel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"lymphdrainage payerne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"lymphdrainage sugiez": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"lymphdrainage vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"lymphdrainage yverdon": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"lymphdrainage yverdon-les-bains": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"lymphdrainage yvonand": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mal de dos anet": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mal de dos avenches": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mal de dos biel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mal de dos bienne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mal de dos chiètres": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mal de dos estavayer": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mal de dos estavayer-le-lac": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mal de dos freiburg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mal de dos fribourg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mal de dos ins": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mal de dos kerzers": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mal de dos la neuveville": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mal de dos lausanne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mal de dos lyss": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mal de dos mont-vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mal de dos morat": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mal de dos murten": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mal de dos neuchatel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mal de dos neuchâtel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mal de dos payerne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mal de dos sugiez": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mal de dos vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mal de dos yverdon": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mal de dos yverdon-les-bains": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mal de dos yvonand": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"massage thérapeutique anet": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"massage thérapeutique avenches": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"massage thérapeutique biel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"massage thérapeutique bienne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"massage thérapeutique chiètres": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"massage thérapeutique estavayer": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"massage thérapeutique estavayer-le-lac": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"massage thérapeutique freiburg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"massage thérapeutique fribourg": {
+"vol": 50,
+"cpc": 1.51,
+"comp": "MEDIUM"
+},
+"massage thérapeutique ins": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"massage thérapeutique kerzers": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"massage thérapeutique la neuveville": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"massage thérapeutique lausanne": {
+"vol": 90,
+"cpc": 2.34,
+"comp": "HIGH"
+},
+"massage thérapeutique lyss": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"massage thérapeutique mont-vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"massage thérapeutique morat": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"massage thérapeutique murten": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"massage thérapeutique neuchatel": {
+"vol": 20,
+"cpc": 0.6,
+"comp": "MEDIUM"
+},
+"massage thérapeutique neuchâtel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"massage thérapeutique payerne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"massage thérapeutique sugiez": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"massage thérapeutique vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"massage thérapeutique yverdon": {
+"vol": 10,
+"cpc": 1.49,
+"comp": "HIGH"
+},
+"massage thérapeutique yverdon-les-bains": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"massage thérapeutique yvonand": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"medizinische massage anet": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"medizinische massage avenches": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"medizinische massage biel": {
+"vol": 70,
+"cpc": 2.3,
+"comp": "MEDIUM"
+},
+"medizinische massage bienne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"medizinische massage chiètres": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"medizinische massage estavayer": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"medizinische massage estavayer-le-lac": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"medizinische massage freiburg": {
+"vol": 10,
+"cpc": null,
+"comp": "LOW"
+},
+"medizinische massage fribourg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"medizinische massage ins": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"medizinische massage kerzers": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"medizinische massage la neuveville": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"medizinische massage lausanne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"medizinische massage lyss": {
+"vol": 40,
+"cpc": 3.82,
+"comp": "MEDIUM"
+},
+"medizinische massage mont-vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"medizinische massage morat": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"medizinische massage murten": {
+"vol": 10,
+"cpc": 8.31,
+"comp": "MEDIUM"
+},
+"medizinische massage neuchatel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"medizinische massage neuchâtel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"medizinische massage payerne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"medizinische massage sugiez": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"medizinische massage vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"medizinische massage yverdon": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"medizinische massage yverdon-les-bains": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"medizinische massage yvonand": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mtt anet": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mtt avenches": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mtt biel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mtt bienne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mtt chiètres": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mtt estavayer": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mtt estavayer-le-lac": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mtt freiburg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mtt fribourg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mtt ins": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mtt kerzers": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mtt la neuveville": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mtt lausanne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mtt lyss": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mtt mont-vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mtt morat": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mtt murten": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mtt neuchatel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mtt neuchâtel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mtt payerne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mtt sugiez": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mtt vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mtt yverdon": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mtt yverdon-les-bains": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"mtt yvonand": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"ostéopathe anet": {
+"vol": 10,
+"cpc": null,
+"comp": null
+},
+"ostéopathe avenches": {
+"vol": 110,
+"cpc": 1.42,
+"comp": "LOW"
+},
+"ostéopathe biel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"ostéopathe bienne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"ostéopathe chiètres": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"ostéopathe estavayer": {
+"vol": 140,
+"cpc": 1.78,
+"comp": "LOW"
+},
+"ostéopathe estavayer-le-lac": {
+"vol": 50,
+"cpc": 0.07,
+"comp": "LOW"
+},
+"ostéopathe freiburg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"ostéopathe fribourg": {
+"vol": 720,
+"cpc": 1.65,
+"comp": "LOW"
+},
+"ostéopathe ins": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"ostéopathe kerzers": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"ostéopathe la neuveville": {
+"vol": 20,
+"cpc": null,
+"comp": "LOW"
+},
+"ostéopathe lausanne": {
+"vol": 1000,
+"cpc": 1.71,
+"comp": "HIGH"
+},
+"ostéopathe lyss": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"ostéopathe mont-vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"ostéopathe morat": {
+"vol": 140,
+"cpc": 14.98,
+"comp": "LOW"
+},
+"ostéopathe murten": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"ostéopathe neuchatel": {
+"vol": 720,
+"cpc": 1.6,
+"comp": "LOW"
+},
+"ostéopathe neuchâtel": {
+"vol": 320,
+"cpc": 1.23,
+"comp": "LOW"
+},
+"ostéopathe payerne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"ostéopathe sugiez": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"ostéopathe vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"ostéopathe yverdon": {
+"vol": 480,
+"cpc": 1.63,
+"comp": "MEDIUM"
+},
+"ostéopathe yverdon-les-bains": {
+"vol": 50,
+"cpc": 1.75,
+"comp": "MEDIUM"
+},
+"ostéopathe yvonand": {
+"vol": 30,
+"cpc": 2.15,
+"comp": "LOW"
+},
+"physio anet": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio avenches": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio biel": {
+"vol": 720,
+"cpc": 1.84,
+"comp": "MEDIUM"
+},
+"physio bienne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio chiètres": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio dos anet": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio dos avenches": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio dos biel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio dos bienne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio dos chiètres": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio dos estavayer": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio dos estavayer-le-lac": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio dos freiburg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio dos fribourg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio dos ins": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio dos kerzers": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio dos la neuveville": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio dos lausanne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio dos lyss": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio dos mont-vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio dos morat": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio dos murten": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio dos neuchatel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio dos neuchâtel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio dos payerne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio dos sugiez": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio dos vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio dos yverdon": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio dos yverdon-les-bains": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio dos yvonand": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio estavayer": {
+"vol": 170,
+"cpc": 1.83,
+"comp": "LOW"
+},
+"physio estavayer-le-lac": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio freiburg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio fribourg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio genou anet": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio genou avenches": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio genou biel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio genou bienne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio genou chiètres": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio genou estavayer": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio genou estavayer-le-lac": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio genou freiburg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio genou fribourg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio genou ins": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio genou kerzers": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio genou la neuveville": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio genou lausanne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio genou lyss": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio genou mont-vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio genou morat": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio genou murten": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio genou neuchatel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio genou neuchâtel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio genou payerne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio genou sugiez": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio genou vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio genou yverdon": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio genou yverdon-les-bains": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio genou yvonand": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio hausbesuch anet": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio hausbesuch avenches": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio hausbesuch biel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio hausbesuch bienne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio hausbesuch chiètres": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio hausbesuch estavayer": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio hausbesuch estavayer-le-lac": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio hausbesuch freiburg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio hausbesuch fribourg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio hausbesuch ins": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio hausbesuch kerzers": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio hausbesuch la neuveville": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio hausbesuch lausanne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio hausbesuch lyss": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio hausbesuch mont-vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio hausbesuch morat": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio hausbesuch murten": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio hausbesuch neuchatel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio hausbesuch neuchâtel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio hausbesuch payerne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio hausbesuch sugiez": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio hausbesuch vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio hausbesuch yverdon": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio hausbesuch yverdon-les-bains": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio hausbesuch yvonand": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio ins": {
+"vol": 140,
+"cpc": 2.3,
+"comp": "LOW"
+},
+"physio kerzers": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio la neuveville": {
+"vol": 50,
+"cpc": 0.9,
+"comp": "LOW"
+},
+"physio lausanne": {
+"vol": 880,
+"cpc": 2.73,
+"comp": "HIGH"
+},
+"physio lyss": {
+"vol": 390,
+"cpc": 1.6,
+"comp": "LOW"
+},
+"physio mont-vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio morat": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio murten": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio neuchatel": {
+"vol": 590,
+"cpc": 1.76,
+"comp": "LOW"
+},
+"physio neuchâtel": {
+"vol": 50,
+"cpc": 3.16,
+"comp": "LOW"
+},
+"physio payerne": {
+"vol": 320,
+"cpc": 1.96,
+"comp": "MEDIUM"
+},
+"physio sport anet": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio sport avenches": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio sport biel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio sport bienne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio sport chiètres": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio sport estavayer": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio sport estavayer-le-lac": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio sport freiburg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio sport fribourg": {
+"vol": 10,
+"cpc": 1.26,
+"comp": "MEDIUM"
+},
+"physio sport ins": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio sport kerzers": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio sport la neuveville": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio sport lausanne": {
+"vol": 50,
+"cpc": 2.75,
+"comp": "HIGH"
+},
+"physio sport lyss": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio sport mont-vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio sport morat": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio sport murten": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio sport neuchatel": {
+"vol": 10,
+"cpc": 1.37,
+"comp": "LOW"
+},
+"physio sport neuchâtel": {
+"vol": 20,
+"cpc": 4.19,
+"comp": "MEDIUM"
+},
+"physio sport payerne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio sport sugiez": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio sport vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio sport yverdon": {
+"vol": 30,
+"cpc": 0.97,
+"comp": "MEDIUM"
+},
+"physio sport yverdon-les-bains": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio sport yvonand": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio sugiez": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio vully": {
+"vol": 110,
+"cpc": null,
+"comp": "LOW"
+},
+"physio yverdon": {
+"vol": 480,
+"cpc": 1.27,
+"comp": "MEDIUM"
+},
+"physio yverdon-les-bains": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio yvonand": {
+"vol": 170,
+"cpc": 1.56,
+"comp": "LOW"
+},
+"physio à domicile anet": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio à domicile avenches": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio à domicile biel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio à domicile bienne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio à domicile chiètres": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio à domicile estavayer": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio à domicile estavayer-le-lac": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio à domicile freiburg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio à domicile fribourg": {
+"vol": 30,
+"cpc": 1.12,
+"comp": "MEDIUM"
+},
+"physio à domicile ins": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio à domicile kerzers": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio à domicile la neuveville": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio à domicile lausanne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio à domicile lyss": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio à domicile mont-vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio à domicile morat": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio à domicile murten": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio à domicile neuchatel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio à domicile neuchâtel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio à domicile payerne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio à domicile sugiez": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio à domicile vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio à domicile yverdon": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio à domicile yverdon-les-bains": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio à domicile yvonand": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio épaule anet": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio épaule avenches": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio épaule biel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio épaule bienne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio épaule chiètres": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio épaule estavayer": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio épaule estavayer-le-lac": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio épaule freiburg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio épaule fribourg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio épaule ins": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio épaule kerzers": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio épaule la neuveville": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio épaule lausanne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio épaule lyss": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio épaule mont-vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio épaule morat": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio épaule murten": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio épaule neuchatel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio épaule neuchâtel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio épaule payerne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio épaule sugiez": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio épaule vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio épaule yverdon": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio épaule yverdon-les-bains": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physio épaule yvonand": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapeut anet": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapeut avenches": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapeut biel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapeut bienne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapeut chiètres": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapeut estavayer": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapeut estavayer-le-lac": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapeut freiburg": {
+"vol": 20,
+"cpc": null,
+"comp": "LOW"
+},
+"physiotherapeut fribourg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapeut ins": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapeut kerzers": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapeut la neuveville": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapeut lausanne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapeut lyss": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapeut mont-vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapeut morat": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapeut murten": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapeut neuchatel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapeut neuchâtel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapeut payerne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapeut sugiez": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapeut vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapeut yverdon": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapeut yverdon-les-bains": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapeut yvonand": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapie anet": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapie avenches": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapie biel": {
+"vol": 720,
+"cpc": 1.67,
+"comp": "LOW"
+},
+"physiotherapie bienne": {
+"vol": 320,
+"cpc": 1.55,
+"comp": "LOW"
+},
+"physiotherapie chiètres": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapie estavayer": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapie estavayer-le-lac": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapie freiburg": {
+"vol": 20,
+"cpc": null,
+"comp": "LOW"
+},
+"physiotherapie fribourg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapie ins": {
+"vol": 50,
+"cpc": 3.46,
+"comp": "LOW"
+},
+"physiotherapie kerzers": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapie la neuveville": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapie lausanne": {
+"vol": 170,
+"cpc": 2.48,
+"comp": "HIGH"
+},
+"physiotherapie lyss": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapie mont-vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapie morat": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapie murten": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapie neuchatel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapie neuchâtel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapie payerne": {
+"vol": 20,
+"cpc": 5.11,
+"comp": "MEDIUM"
+},
+"physiotherapie sugiez": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapie vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapie yverdon": {
+"vol": 480,
+"cpc": 1.27,
+"comp": "MEDIUM"
+},
+"physiotherapie yverdon-les-bains": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiotherapie yvonand": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute anet": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute avenches": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute biel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute bienne": {
+"vol": 320,
+"cpc": 1.55,
+"comp": "LOW"
+},
+"physiothérapeute chiètres": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute estavayer": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute estavayer-le-lac": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute freiburg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute fribourg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute ins": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute kerzers": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute la neuveville": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute lausanne": {
+"vol": 480,
+"cpc": 2.37,
+"comp": "HIGH"
+},
+"physiothérapeute lyss": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute mont-vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute morat": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute murten": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute neuchatel": {
+"vol": 390,
+"cpc": 1.77,
+"comp": "LOW"
+},
+"physiothérapeute neuchâtel": {
+"vol": 90,
+"cpc": 1.15,
+"comp": "LOW"
+},
+"physiothérapeute payerne": {
+"vol": 140,
+"cpc": 2.55,
+"comp": "MEDIUM"
+},
+"physiothérapeute sugiez": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute yverdon": {
+"vol": 260,
+"cpc": 1.45,
+"comp": "MEDIUM"
+},
+"physiothérapeute yverdon-les-bains": {
+"vol": 50,
+"cpc": 1.37,
+"comp": "HIGH"
+},
+"physiothérapeute yvonand": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute à domicile anet": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute à domicile avenches": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute à domicile biel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute à domicile bienne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute à domicile chiètres": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute à domicile estavayer": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute à domicile estavayer-le-lac": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute à domicile freiburg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute à domicile fribourg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute à domicile ins": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute à domicile kerzers": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute à domicile la neuveville": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute à domicile lausanne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute à domicile lyss": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute à domicile mont-vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute à domicile morat": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute à domicile murten": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute à domicile neuchatel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute à domicile neuchâtel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute à domicile payerne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute à domicile sugiez": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute à domicile vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute à domicile yverdon": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute à domicile yverdon-les-bains": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapeute à domicile yvonand": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie anet": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie avenches": {
+"vol": 50,
+"cpc": 4.37,
+"comp": "MEDIUM"
+},
+"physiothérapie biel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie bienne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie chiètres": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie estavayer": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie estavayer-le-lac": {
+"vol": 40,
+"cpc": 1.58,
+"comp": "MEDIUM"
+},
+"physiothérapie freiburg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie fribourg": {
+"vol": 260,
+"cpc": 3.01,
+"comp": "MEDIUM"
+},
+"physiothérapie ins": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie kerzers": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie la neuveville": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie lausanne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie lyss": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie mont-vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie morat": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie murten": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie neuchatel": {
+"vol": 390,
+"cpc": 1.77,
+"comp": "LOW"
+},
+"physiothérapie neuchâtel": {
+"vol": 90,
+"cpc": 1.15,
+"comp": "LOW"
+},
+"physiothérapie payerne": {
+"vol": 140,
+"cpc": 2.55,
+"comp": "MEDIUM"
+},
+"physiothérapie sugiez": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie yverdon": {
+"vol": 260,
+"cpc": 1.45,
+"comp": "MEDIUM"
+},
+"physiothérapie yverdon-les-bains": {
+"vol": 50,
+"cpc": 1.37,
+"comp": "HIGH"
+},
+"physiothérapie yvonand": {
+"vol": 50,
+"cpc": 1.09,
+"comp": "MEDIUM"
+},
+"physiothérapie à domicile anet": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie à domicile avenches": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie à domicile biel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie à domicile bienne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie à domicile chiètres": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie à domicile estavayer": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie à domicile estavayer-le-lac": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie à domicile freiburg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie à domicile fribourg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie à domicile ins": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie à domicile kerzers": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie à domicile la neuveville": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie à domicile lausanne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie à domicile lyss": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie à domicile mont-vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie à domicile morat": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie à domicile murten": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie à domicile neuchatel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie à domicile neuchâtel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie à domicile payerne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie à domicile sugiez": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie à domicile vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie à domicile yverdon": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie à domicile yverdon-les-bains": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"physiothérapie à domicile yvonand": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"rééducation anet": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"rééducation avenches": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"rééducation biel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"rééducation bienne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"rééducation chiètres": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"rééducation estavayer": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"rééducation estavayer-le-lac": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"rééducation freiburg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"rééducation fribourg": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"rééducation ins": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"rééducation kerzers": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"rééducation la neuveville": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"rééducation lausanne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"rééducation lyss": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"rééducation mont-vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"rééducation morat": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"rééducation murten": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"rééducation neuchatel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"rééducation neuchâtel": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"rééducation payerne": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"rééducation sugiez": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"rééducation vully": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"rééducation yverdon": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"rééducation yverdon-les-bains": {
+"vol": null,
+"cpc": null,
+"comp": null
+},
+"rééducation yvonand": {
+"vol": null,
+"cpc": null,
+"comp": null
+}
+},
+"labs": {
+"angine de poitrine": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"bains de cressy": {
+"vol": 9900,
+"src": "keyword_ideas"
+},
+"clinique de genolier": {
+"vol": 6600,
+"src": "keyword_ideas"
+},
+"clinique de montchoisi": {
+"vol": 5400,
+"src": "keyword_ideas"
+},
+"maniere de voir": {
+"vol": 1600,
+"src": "keyword_ideas"
+},
+"maladie de lyme": {
+"vol": 2900,
+"src": "keyword_ideas"
+},
+"pharmacie lausanne": {
+"vol": 2900,
+"src": "keyword_ideas"
+},
+"hopital chaux de fonds": {
+"vol": 2400,
+"src": "keyword_ideas"
+},
+"massage fribourg": {
+"vol": 1600,
+"src": "keyword_ideas"
+},
+"bouton de fievre": {
+"vol": 2400,
+"src": "keyword_ideas"
+},
+"hôpital de sierre": {
+"vol": 3600,
+"src": "keyword_ideas"
+},
+"oeil de perdrix": {
+"vol": 1600,
+"src": "keyword_ideas"
+},
+"syndrome de diogène": {
+"vol": 2400,
+"src": "keyword_ideas"
+},
+"clinique le noirmont": {
+"vol": 2400,
+"src": "keyword_ideas"
+},
+"pharmacie fribourg": {
+"vol": 1300,
+"src": "keyword_ideas"
+},
+"qualité de l air": {
+"vol": 2900,
+"src": "keyword_ideas"
+},
+"réseau hospitalier neuchâtelois la chaux-de-fonds": {
+"vol": 1900,
+"src": "keyword_ideas"
+},
+"réseau hospitalier neuchâtelois la chaux de fonds": {
+"vol": 1900,
+"src": "keyword_ideas"
+},
+"table de massage": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"ayurvédique massage": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"syndrome de stockholm": {
+"vol": 880,
+"src": "keyword_ideas"
+},
+"clinique générale fribourg": {
+"vol": 1000,
+"src": "keyword_ideas"
+},
+"le noirmont clinique": {
+"vol": 2400,
+"src": "keyword_ideas"
+},
+"bouton de fièvre": {
+"vol": 2400,
+"src": "keyword_ideas"
+},
+"endocrinologue neuchâtel": {
+"vol": 170,
+"src": "keyword_ideas"
+},
+"osteo autour de moi": {
+"vol": 2400,
+"src": "keyword_ideas"
+},
+"centre médical de vésenaz": {
+"vol": 1300,
+"src": "keyword_ideas"
+},
+"lentilles de contact": {
+"vol": 1000,
+"src": "keyword_ideas"
+},
+"clinique de la main": {
+"vol": 1900,
+"src": "keyword_ideas"
+},
+"hôpital de la providence": {
+"vol": 1900,
+"src": "keyword_ideas"
+},
+"syndrome de noonan": {
+"vol": 1900,
+"src": "keyword_ideas"
+},
+"torsade de pointes": {
+"vol": 880,
+"src": "keyword_ideas"
+},
+"le coeur a ses raisons": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"maison de retraite du petit-saconnex": {
+"vol": 1300,
+"src": "keyword_ideas"
+},
+"hôpital de l île": {
+"vol": 1900,
+"src": "keyword_ideas"
+},
+"place de la planta": {
+"vol": 1900,
+"src": "keyword_ideas"
+},
+"combien de semaines dans une année": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"ligue pulmonaire fribourg": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"torsade de pointe": {
+"vol": 880,
+"src": "keyword_ideas"
+},
+"centre neuchâtelois de psychiatrie": {
+"vol": 170,
+"src": "keyword_ideas"
+},
+"hypnose pour arreter de fumer": {
+"vol": 210,
+"src": "keyword_ideas"
+},
+"hopital de bienne": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"syndrome de guillain-barré": {
+"vol": 720,
+"src": "keyword_ideas"
+},
+"clinique cecil lausanne": {
+"vol": 1600,
+"src": "keyword_ideas"
+},
+"clinique cecil a lausanne": {
+"vol": 1600,
+"src": "keyword_ideas"
+},
+"pharmacie payerne": {
+"vol": 1300,
+"src": "keyword_ideas"
+},
+"psychologue lausanne": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"hôpital de saint-imier": {
+"vol": 1600,
+"src": "keyword_ideas"
+},
+"urologue lausanne": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"musique relaxante massage": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"hôpital riviera-chablais site de vevey providence": {
+"vol": 1600,
+"src": "keyword_ideas"
+},
+"lausanne psychologie": {
+"vol": 1600,
+"src": "keyword_ideas"
+},
+"ou est le coeur": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"massage martigny": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"dentiste bulle": {
+"vol": 880,
+"src": "keyword_ideas"
+},
+"massage genève": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"la traque dans le sang": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"massage chaux de fonds": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"massage la chaux de fonds": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"hopital de lavaux": {
+"vol": 720,
+"src": "keyword_ideas"
+},
+"cru de l'hôpital": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"manus chirurgie de la main": {
+"vol": 140,
+"src": "keyword_ideas"
+},
+"syndrome de marfan": {
+"vol": 720,
+"src": "keyword_ideas"
+},
+"lymphome de hodgkin": {
+"vol": 720,
+"src": "keyword_ideas"
+},
+"sanitaire lausanne": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"pharmacie bienne": {
+"vol": 1000,
+"src": "keyword_ideas"
+},
+"historique de recherche": {
+"vol": 40,
+"src": "keyword_ideas"
+},
+"pharmacie bulle": {
+"vol": 1000,
+"src": "keyword_ideas"
+},
+"pharmacie neuchâtel": {
+"vol": 1300,
+"src": "keyword_ideas"
+},
+"déni de grossesse": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"lunettes de vue": {
+"vol": 1000,
+"src": "keyword_ideas"
+},
+"syndrome de klinefelter": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"massage lavey les bains": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"le foie": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"syndrome de l imposteur": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"syndrome de gilbert": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"physiothérapie": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"syndrome queue de cheval": {
+"vol": 260,
+"src": "keyword_ideas"
+},
+"ou et le coeur": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"hôpital de rolle": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"hopital de bellerive": {
+"vol": 260,
+"src": "keyword_ideas"
+},
+"hôpital de chamblon": {
+"vol": 880,
+"src": "keyword_ideas"
+},
+"musique de massage": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"fleurs de bach perte de poids": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"psychologue autour de moi": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"massage montreux": {
+"vol": 880,
+"src": "keyword_ideas"
+},
+"les bains de l'est": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"le patient anglais": {
+"vol": 210,
+"src": "keyword_ideas"
+},
+"croix blanche le mouret": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"dermatologue lausanne": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"pharmacie de la poterie": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"syndrome de münchhausen": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"la dent de vaulion": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"nombre de semaine par année": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"syndrome de reye": {
+"vol": 140,
+"src": "keyword_ideas"
+},
+"le bon psychologie der massen": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"musique massage": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"maladie de behçet": {
+"vol": 720,
+"src": "keyword_ideas"
+},
+"le tronc cérébral": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"centre médical lausanne ouest": {
+"vol": 720,
+"src": "keyword_ideas"
+},
+"maladie de behcet": {
+"vol": 720,
+"src": "keyword_ideas"
+},
+"technique de manutention d'un patient": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"le coeur a ses raisons betisier": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"clou de girofle bienfaits": {
+"vol": 720,
+"src": "keyword_ideas"
+},
+"clous de girofle bienfaits": {
+"vol": 720,
+"src": "keyword_ideas"
+},
+"urgence fribourg": {
+"vol": 720,
+"src": "keyword_ideas"
+},
+"syndrome de cockayne": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"maison de santé vétroz": {
+"vol": 880,
+"src": "keyword_ideas"
+},
+"psychiatre fribourg": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"ostéo bulle": {
+"vol": 1000,
+"src": "keyword_ideas"
+},
+"pharmacie de corminboeuf": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"trimestre combien de mois": {
+"vol": 40,
+"src": "keyword_ideas"
+},
+"dent de lys accident": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"prothese de hanche": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"prothèse de hanche": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"centre médical de la jonction": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"cœur de pirate mistral gagnant": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"massage thaï": {
+"vol": 880,
+"src": "keyword_ideas"
+},
+"massage sportif": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"os de la hanche et du bassin": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"syndrome de supériorité": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"centre de psychiatrie du nord vaudois": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"massage a domicile": {
+"vol": 170,
+"src": "keyword_ideas"
+},
+"massage a domicile geneve": {
+"vol": 170,
+"src": "keyword_ideas"
+},
+"médicentre la chaux-de-fonds": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"lunette de lecture": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"lunettes de lecture": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"physiothérapie autour de moi": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"oeil de tigre": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"le coup de coeur": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"massage autour de moi": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"dermatologue la chaux de fonds": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"rue du docteur coullery 5 la chaux de fonds": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"trouble de l'attention": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"gynecologue payerne": {
+"vol": 880,
+"src": "keyword_ideas"
+},
+"gynécologue payerne": {
+"vol": 880,
+"src": "keyword_ideas"
+},
+"maison de la santé": {
+"vol": 880,
+"src": "keyword_ideas"
+},
+"maison de la sante": {
+"vol": 880,
+"src": "keyword_ideas"
+},
+"dissection de l'aorte": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"combien de temps": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"endocrinologue chaux de fonds": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"col de l'utérus": {
+"vol": 260,
+"src": "keyword_ideas"
+},
+"le pied total": {
+"vol": 260,
+"src": "keyword_ideas"
+},
+"syndrome de peter pan": {
+"vol": 260,
+"src": "keyword_ideas"
+},
+"test de la vue": {
+"vol": 260,
+"src": "keyword_ideas"
+},
+"stade de la maladière": {
+"vol": 260,
+"src": "keyword_ideas"
+},
+"sources de protéines": {
+"vol": 260,
+"src": "keyword_ideas"
+},
+"manque de fer symptome": {
+"vol": 880,
+"src": "keyword_ideas"
+},
+"manque de fer : symptômes": {
+"vol": 880,
+"src": "keyword_ideas"
+},
+"symptômes manque de fer": {
+"vol": 880,
+"src": "keyword_ideas"
+},
+"torsades de pointes": {
+"vol": 880,
+"src": "keyword_ideas"
+},
+"gynécologie bulle": {
+"vol": 880,
+"src": "keyword_ideas"
+},
+"cnp centre neuchâtelois de psychiatrie site principal": {
+"vol": 880,
+"src": "keyword_ideas"
+},
+"symptôme manque de fer": {
+"vol": 880,
+"src": "keyword_ideas"
+},
+"manque de fer symptômes": {
+"vol": 880,
+"src": "keyword_ideas"
+},
+"la maison de la santé": {
+"vol": 880,
+"src": "keyword_ideas"
+},
+"œdème de quincke": {
+"vol": 880,
+"src": "keyword_ideas"
+},
+"croix-de-coeur": {
+"vol": 880,
+"src": "keyword_ideas"
+},
+"pharmacie centrale yverdon": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"manque de fer et symptomes": {
+"vol": 880,
+"src": "keyword_ideas"
+},
+"oedèmes de quincke": {
+"vol": 880,
+"src": "keyword_ideas"
+},
+"manque de ferritine symptômes": {
+"vol": 880,
+"src": "keyword_ideas"
+},
+"maladie de kawasaki": {
+"vol": 210,
+"src": "keyword_ideas"
+},
+"quinte de toux": {
+"vol": 210,
+"src": "keyword_ideas"
+},
+"osteo la chaux de fonds": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"hopital de la tour radiologie": {
+"vol": 170,
+"src": "keyword_ideas"
+},
+"le système nerveux": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"syndrome de tietze": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"doigt de la main": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"massage annemasse": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"pharmacie la tour de peilz": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"cours de premier secours": {
+"vol": 170,
+"src": "keyword_ideas"
+},
+"massage des pieds": {
+"vol": 170,
+"src": "keyword_ideas"
+},
+"le cerveau film": {
+"vol": 170,
+"src": "keyword_ideas"
+},
+"manque de fer": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"hopital fribourg emploi": {
+"vol": 140,
+"src": "keyword_ideas"
+},
+"saignements de nez": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"urgences autour de moi": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"centre médical de la chapelle": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"10000 pas par jour perte de poids": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"cabinet de pédiatrie du faubourg": {
+"vol": 140,
+"src": "keyword_ideas"
+},
+"centre médical yverdon": {
+"vol": 720,
+"src": "keyword_ideas"
+},
+"jambes sans repos remède de grand-mère": {
+"vol": 140,
+"src": "keyword_ideas"
+},
+"pharmacie de la gare neuchatel": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"ostéopathe fribourg beaumont": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"physiothérapie pédiatrique fribourg": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"centre medical de lancy": {
+"vol": 720,
+"src": "keyword_ideas"
+},
+"centre médical de lancy": {
+"vol": 720,
+"src": "keyword_ideas"
+},
+"centre médical le forum sion": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"foyer le pertuis": {
+"vol": 110,
+"src": "keyword_ideas"
+},
+"l'abordage repas à domicile": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"ecg bienne": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"ostéo la tour de trême": {
+"vol": 110,
+"src": "keyword_ideas"
+},
+"signe de hoffman": {
+"vol": 110,
+"src": "keyword_ideas"
+},
+"ligue pulmonaire neuchâtel": {
+"vol": 720,
+"src": "keyword_ideas"
+},
+"clinique de saint amé": {
+"vol": 720,
+"src": "keyword_ideas"
+},
+"comment diminuer le cortisol": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"médecin lausanne": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"muscle transverse de l'abdomen": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"protéine de pois": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"musique pour massage relaxant": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"clinique lausanne bois cerf": {
+"vol": 720,
+"src": "keyword_ideas"
+},
+"bienne dermatologue": {
+"vol": 720,
+"src": "keyword_ideas"
+},
+"hôpital de prangins chuv": {
+"vol": 720,
+"src": "keyword_ideas"
+},
+"bois-cerf clinique lausanne": {
+"vol": 720,
+"src": "keyword_ideas"
+},
+"clinique lausanne bois-cerf": {
+"vol": 720,
+"src": "keyword_ideas"
+},
+"ehc hôpital de gilly": {
+"vol": 720,
+"src": "keyword_ideas"
+},
+"coeur de loup": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"maladie de castleman": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"taches de rousseur": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"clinique de jolimont": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"courbe de croissance": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"le planning familial": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"la maladie de horton": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"le virus": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"physio sport k rouge": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"hôpital de fribourg": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"signe de blumberg": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"salon de massage lausanne": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"pharmacie gamma lausanne": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"dermatologue yverdon": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"pharmacie de la planchette aigle": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"nombre de semaines entre deux dates": {
+"vol": 40,
+"src": "keyword_ideas"
+},
+"signe de mcburney": {
+"vol": 40,
+"src": "keyword_ideas"
+},
+"au vue de": {
+"vol": 260,
+"src": "keyword_ideas"
+},
+"déviation de la cloison nasale": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"serrage de main": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"le stress": {
+"vol": 170,
+"src": "keyword_ideas"
+},
+"capteur de glycémie": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"creatine perte de cheveux": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"centre médical psychiatrique et psychothérapeutique de la gruyère": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"ligue genevoise contre le cancer": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"proctologue lausanne": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"orthopédiste la chaux-de-fonds": {
+"vol": 140,
+"src": "keyword_ideas"
+},
+"maladie de scheuermann": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"massage sierre": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"massage neuchâtel": {
+"vol": 170,
+"src": "keyword_ideas"
+},
+"centre de pneumologie": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"maladie de conn": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"incidence de schuss genou": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"types de globules blancs": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"anatomie de l'oeil": {
+"vol": 210,
+"src": "keyword_ideas"
+},
+"opération de la cataracte déroulement": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"plan de crise conjoint psychiatrie": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"les 4 temperaments de l'homme": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"hôpital de bienne": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"dermatologue canton fribourg": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"bouton de chaleur pied": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"cancer du pancréas chance de survie": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"sexologue fribourg": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"massage thai montreux": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"laboratoires de biarritz": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"physio plan-les-ouates": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"trouble de la personnalité narcissique dsm-5": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"gynecologue fattouche bulle": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"massage classique asca": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"quand faire un test de grossesse": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"centre médical de meyrin": {
+"vol": 260,
+"src": "keyword_ideas"
+},
+"massage thaï echallens": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"sexologue lausanne": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"physiothérapie vestibulaire": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"proteine pour le sport": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"urgence ostéopathe": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"obésité le poids de la souffrance": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"hôpital pourtalès neuchâtel": {
+"vol": 210,
+"src": "keyword_ideas"
+},
+"musique salon de massage": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"laboratoire bbv la chaux de fonds": {
+"vol": 110,
+"src": "keyword_ideas"
+},
+"maux de tête": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"echelle de traitement": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"maux de tete": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"hospice le pré-aux-boeufs": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"hospice le pré aux boeufs": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"cycle de la vie": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"massage suisse": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"medicentre chaux de fonds": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"psychologie autour de moi": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"psy bulle": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"ehc policlinique de la venoge": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"massages bienne": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"psychologie bulle": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"syndrome de cornelia de lange": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"syndrome de lange": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"hug clinique de crans-montana": {
+"vol": 590,
+"src": "keyword_ideas"
+},
+"médecin de garde bulle": {
+"vol": 170,
+"src": "keyword_ideas"
+},
+"test de grossesse précoce": {
+"vol": 260,
+"src": "keyword_ideas"
+},
+"herboristerie lausanne": {
+"vol": 260,
+"src": "keyword_ideas"
+},
+"le cou": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"oxymetre de pouls": {
+"vol": 260,
+"src": "keyword_ideas"
+},
+"groupe médical de versoix sa": {
+"vol": 260,
+"src": "keyword_ideas"
+},
+"massage relaxant la chaux de fonds": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"le coup de cœur": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"cabinet médical la tour de trême": {
+"vol": 210,
+"src": "keyword_ideas"
+},
+"aide à domicile": {
+"vol": 170,
+"src": "keyword_ideas"
+},
+"clinique volta chaux de fonds": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"physiothérapeute la chaux-de-fonds": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"medecin estavayer le lac": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"naturopathe lausanne": {
+"vol": 210,
+"src": "keyword_ideas"
+},
+"le mentaliste": {
+"vol": 210,
+"src": "keyword_ideas"
+},
+"massage des mains": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"aliment perte de poids": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"dieudonné le cancer": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"qu'est ce que le stress": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"gerer le stress": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"temps de sommeil ideal": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"pharmacie de la planchette": {
+"vol": 210,
+"src": "keyword_ideas"
+},
+"partie de l'intestin 5 lettres": {
+"vol": 210,
+"src": "keyword_ideas"
+},
+"centre médical de lavaux": {
+"vol": 210,
+"src": "keyword_ideas"
+},
+"combien de calories par jour": {
+"vol": 210,
+"src": "keyword_ideas"
+},
+"syndrome de gougerot": {
+"vol": 210,
+"src": "keyword_ideas"
+},
+"phénomène de raynaud": {
+"vol": 210,
+"src": "keyword_ideas"
+},
+"nekfeu le regard des gens": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"culture de la ciboulette": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"femme qui a peur de s'engager dans une relation": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"maladie homme de pierre": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"vomir de la mousse": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"grand corps malade jour de doute": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"prise de parole en public stress": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"kine ou ostéopathe": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"fonctionnement de l'oeil": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"coeur de la nuit": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"les visiteurs le bain": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"coeur de la nuit original": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"a consommer de préférence avant le": {
+"vol": 40,
+"src": "keyword_ideas"
+},
+"maison de la santé vouvry": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"start physio la tour de peilz": {
+"vol": 110,
+"src": "keyword_ideas"
+},
+"infiltration tendinite de quervain": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"tendinite de quervain test": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"centre d'orthophonie la chaux-de-fonds": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"réseau santé région lausanne": {
+"vol": 170,
+"src": "keyword_ideas"
+},
+"le gland": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"pharmacie de garde genève": {
+"vol": 170,
+"src": "keyword_ideas"
+},
+"hôpital yverdon-les-bains": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"pharmacie la tour-de-peilz": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"pédiatre payerne": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"zone proximale de développement": {
+"vol": 140,
+"src": "keyword_ideas"
+},
+"soins domicile": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"centre médical de la veveyse": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"gynécologue la chaux de fonds": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"medecine de la femme lausanne": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"massage biel bienne": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"le coccyx": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"pharmacie haut de cry": {
+"vol": 170,
+"src": "keyword_ideas"
+},
+"temps de prothrombine": {
+"vol": 170,
+"src": "keyword_ideas"
+},
+"pharmacie de roches": {
+"vol": 170,
+"src": "keyword_ideas"
+},
+"permanence pédiatrique yverdon": {
+"vol": 170,
+"src": "keyword_ideas"
+},
+"photos cancer de la peau": {
+"vol": 170,
+"src": "keyword_ideas"
+},
+"remède mal de gorge": {
+"vol": 170,
+"src": "keyword_ideas"
+},
+"groupe sanguin le plus rare": {
+"vol": 170,
+"src": "keyword_ideas"
+},
+"lentilles de nuit": {
+"vol": 170,
+"src": "keyword_ideas"
+},
+"signe de murphy": {
+"vol": 170,
+"src": "keyword_ideas"
+},
+"graines de chanvre bienfaits": {
+"vol": 170,
+"src": "keyword_ideas"
+},
+"ostéopathe de": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"centre medical de la source": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"graine de lin : bienfaits": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"graines de lin bienfaits": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"bienfaits des graines de lin": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"éruptions piton de la fournaise": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"therapeute de couple": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"pharmacieplus de saule": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"comment perdre le ventre": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"pharmacie de saules": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"cabinet médical de l'amandolier": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"cœur de bœuf": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"lentes de poux": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"symptôme coup de chaleur": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"thérapies de couple": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"graine de lin bienfaits": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"coup de chaleur : symptômes": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"graines de lin : bienfaits": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"thérapeutes de couple": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"physiotherapie martigny": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"symptome coup de chaleur": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"coup de chaleur symptômes": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"pharmacie de saule": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"réseau hospitalier neuchâtelois le locle": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"coup de chaleur symptôme": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"thérapeute de couple": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"centre médical de la source": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"pharmacie de grenus et vétérinaire": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"caap grand-pré service d'addictologie hôpitaux universitaires de genève": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"symptômes coup de chaleur": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"syndrome de silver russell": {
+"vol": 480,
+"src": "keyword_ideas"
+},
+"medi centre la chaux-de-fonds": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"psychologue la chaux de fonds": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"microneedling la chaux de fonds": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"medi-centre la chaux-de-fonds": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"syndrome de lyell": {
+"vol": 140,
+"src": "keyword_ideas"
+},
+"bains de rives": {
+"vol": 140,
+"src": "keyword_ideas"
+},
+"naturopathe fribourg": {
+"vol": 140,
+"src": "keyword_ideas"
+},
+"coarctation de l'aorte": {
+"vol": 140,
+"src": "keyword_ideas"
+},
+"grains de beauté rouge": {
+"vol": 140,
+"src": "keyword_ideas"
+},
+"oeil de tigre vertus": {
+"vol": 140,
+"src": "keyword_ideas"
+},
+"ostéopathe définition": {
+"vol": 140,
+"src": "keyword_ideas"
+},
+"dent de valère": {
+"vol": 140,
+"src": "keyword_ideas"
+},
+"bicarbonate de soude bain de pied": {
+"vol": 140,
+"src": "keyword_ideas"
+},
+"radiologie payerne": {
+"vol": 110,
+"src": "keyword_ideas"
+},
+"le mollet": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"centre médical de la servette": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"le spleen": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"le docteur": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"le souci": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"bon cadeau massage": {
+"vol": 110,
+"src": "keyword_ideas"
+},
+"de quel coté est le coeur": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"les dents de midi": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"le genou": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"ostéopathe neuchâtel": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"magasin de lunettes lausanne": {
+"vol": 40,
+"src": "keyword_ideas"
+},
+"glp-1 perte de poids": {
+"vol": 110,
+"src": "keyword_ideas"
+},
+"appareil massage nuque": {
+"vol": 110,
+"src": "keyword_ideas"
+},
+"avis sur les bains de cressy": {
+"vol": 110,
+"src": "keyword_ideas"
+},
+"sève de bouleau bienfaits": {
+"vol": 110,
+"src": "keyword_ideas"
+},
+"centre de vaccination": {
+"vol": 110,
+"src": "keyword_ideas"
+},
+"syndrome de widal": {
+"vol": 110,
+"src": "keyword_ideas"
+},
+"lunettes de vue celine": {
+"vol": 110,
+"src": "keyword_ideas"
+},
+"maladiere centre neuchâtel": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"quoi de neuf docteur": {
+"vol": 110,
+"src": "keyword_ideas"
+},
+"syndrome de sweet": {
+"vol": 110,
+"src": "keyword_ideas"
+},
+"massage cranien": {
+"vol": 110,
+"src": "keyword_ideas"
+},
+"qui devance le temps normal 5 lettres": {
+"vol": 110,
+"src": "keyword_ideas"
+},
+"ventre gonflé remède de grand-mère": {
+"vol": 110,
+"src": "keyword_ideas"
+},
+"crise de tétanie": {
+"vol": 110,
+"src": "keyword_ideas"
+},
+"feuille de ginkgo": {
+"vol": 110,
+"src": "keyword_ideas"
+},
+"syndrome de lemierre": {
+"vol": 110,
+"src": "keyword_ideas"
+},
+"clinique de la femme": {
+"vol": 110,
+"src": "keyword_ideas"
+},
+"cycle de l'azote": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"pneumologie de grancy": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"manque de fer quoi manger": {
+"vol": 110,
+"src": "keyword_ideas"
+},
+"maladie de gilbert": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"urgences hopital de la tour": {
+"vol": 110,
+"src": "keyword_ideas"
+},
+"tour de hanche": {
+"vol": 110,
+"src": "keyword_ideas"
+},
+"appareil de massage dos": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"clinique bois-cerf lausanne": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"endocrinologue lausanne": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"age de la ménopause": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"idée de repas pour le soir": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"lentilles de contact lausanne": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"tectake table de massage": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"hôpital de landeyeux": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"nom des doigts de pieds": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"centre médical de montbrillant": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"gangrena de fournier": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"bouton sur le nez": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"ou se trouve le coeur": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"wegovy perte de poids témoignage": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"ostéopathe à": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"centre de biométrie genève": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"quel numero de semaine sommes nous": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"traque dans le sang": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"phases de sommeil": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"phase de sommeil": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"massage carouge": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"tétralogie de fallot": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"médecin de garde vaud": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"soins à domicile vaud": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"polyclinique ostéopathique lausanne": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"ganglions de la base": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"réflexologie plantaire lausanne": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"ananda massage montreux": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"clinique de morges": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"remède gueule de bois": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"fauteuil massage électrique": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"tetralogie de fallot": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"hopital de l'enfance chuv": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"syndrome de protée": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"siège de douche": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"traitement bouton de fièvre": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"maison de santé meinier": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"polyclinique osteo lausanne": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"la croix de coeur": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"picotement dans le corps": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"pharmacie de nendaz": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"parties de l'oeil": {
+"vol": 90,
+"src": "keyword_ideas"
+},
+"abréviation analyse de sang": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"accompagnement de grossesse": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"maison de santé collombey": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"hôpital de riaz": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"maison de sante collombey": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"le sport et la santé mentale": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"perdre le sens de la vie": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"processeur avec le plus de coeur": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"le syndrome de takotsubo": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"pistolet de massage renpho": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"massage détente lausanne": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"dans le courant de la semaine": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"table de massage habys": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"bruleur de graisse sans sport": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"17 semaines de grossesse en mois": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"a quoi sert un ostéopathe": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"pharmacie de chavannes": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"centre médical bachet-de-pesay": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"où se trouve le foie": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"thérapie de la tourelle": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"massage du tissu conjonctif": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"massage bain des paquis": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"hôpital de morges visite": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"l'encre de tes yeux": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"cabinet de chirurgie plastique cherchel": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"femmes au bord de la crise de nerfs": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"service de pédiatrie": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"massage bains des paquis": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"massage pour homme geneve": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"bains des pâquis massage": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"cou de pied": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"trouble de personnalité histrionique": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"peur de la foule": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"emploi : infirmier fribourg": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"pharmacie des hauts de malagnou": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"clairance de la créatinine": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"lentilles de contact couleur": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"podologue la tour-de-peilz": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"le cancre": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"magasin lunettes lausanne": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"ems saint-loup espace de vie": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"dent de vampire": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"chaba massage genève": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"syndrome de mirizzi": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"gaine de myéline": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"avoir le coeur sur la main": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"ténosynovite de quervain": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"clinique de la famille": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"nom des doigt de la main": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"recette perte de poids": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"produit lentille de contact": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"bains des paquis massage": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"ou se trouve le foie": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"soin de bouche bichsel": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"gynécologie autour de moi": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"centre médical de champel": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"médecin fribourg": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"centre de santé blécherette": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"hopital de jour": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"ems saint loup espace de vie": {
+"vol": 390,
+"src": "keyword_ideas"
+},
+"cancer de la peau visage": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"centre médical de la lisière": {
+"vol": 70,
+"src": "keyword_ideas"
+},
+"théorie de l'évolution": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"clinique de saxon": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"médecin de garde fribourg": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"payerne massage": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"médecin de garde lausanne": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"physiothérapie dos lausanne": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"massage payerne": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"cas formateur dans le domaine des sciences de la santé": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"apprentissage dans le domaine de la santé": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"massage classique lausanne": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"podologue la chaux de fonds": {
+"vol": 260,
+"src": "keyword_ideas"
+},
+"psychiatre la chaux de fonds": {
+"vol": 260,
+"src": "keyword_ideas"
+},
+"psychiatre la chaux-de-fonds": {
+"vol": 260,
+"src": "keyword_ideas"
+},
+"podologue la chaux-de-fonds": {
+"vol": 260,
+"src": "keyword_ideas"
+},
+"hôpital estavayer-le-lac": {
+"vol": 210,
+"src": "keyword_ideas"
+},
+"hopital orthopédique lausanne": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"gynécologue lausanne": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"centre médical de renens": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"oncologue yverdon": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"centre de gastroentérologie beaulieu": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"boutons autour de la bouche": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"syndrome de wells": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"centre de vaccination sion": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"test de paternité suisse": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"dent de lion bienfaits": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"hopital de sion radiologie": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"visite des hospices de beaune": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"avoir le nez creux": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"le trèfle à 4 feuilles": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"la solution soins à domicile": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"institut médico chirurgical de champel": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"carton du coeur neuchâtel": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"maladie de sandhoff": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"hopital de la source": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"syndrome de fanconi": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"plante de moutarde": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"en cours de traitement": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"hopital de la cote": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"gainer prise de masse": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"centre de soins": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"dr boulanger fribourg": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"lunettes cartier de vue": {
+"vol": 50,
+"src": "keyword_ideas"
+},
+"rhumatologue lausanne": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"bio26 fribourg": {
+"vol": 40,
+"src": "keyword_ideas"
+},
+"ambulance yverdon": {
+"vol": 40,
+"src": "keyword_ideas"
+},
+"centre de thérapies": {
+"vol": 40,
+"src": "keyword_ideas"
+},
+"boiterie de duchenne": {
+"vol": 40,
+"src": "keyword_ideas"
+},
+"syndrome de cassandre": {
+"vol": 40,
+"src": "keyword_ideas"
+},
+"thérapie de conversion suisse": {
+"vol": 40,
+"src": "keyword_ideas"
+},
+"herbes de provence composition": {
+"vol": 40,
+"src": "keyword_ideas"
+},
+"massage lymphatique jambes": {
+"vol": 40,
+"src": "keyword_ideas"
+},
+"dentiste scolaire bulle": {
+"vol": 40,
+"src": "keyword_ideas"
+},
+"syndrome de kartagener": {
+"vol": 40,
+"src": "keyword_ideas"
+},
+"coup de rein": {
+"vol": 40,
+"src": "keyword_ideas"
+},
+"maison de la santé ayent": {
+"vol": 40,
+"src": "keyword_ideas"
+},
+"un physiothérapeute": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"rythme massage cardiaque": {
+"vol": 40,
+"src": "keyword_ideas"
+},
+"le plus petit os du corps humain": {
+"vol": 40,
+"src": "keyword_ideas"
+},
+"pharmacie de riddes": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"verre de lunette": {
+"vol": 40,
+"src": "keyword_ideas"
+},
+"œil de la providence": {
+"vol": 40,
+"src": "keyword_ideas"
+},
+"maison de retraite film 1": {
+"vol": 40,
+"src": "keyword_ideas"
+},
+"lac nervaux": {
+"vol": 40,
+"src": "keyword_ideas"
+},
+"complément alimentaire perte de poids": {
+"vol": 40,
+"src": "keyword_ideas"
+},
+"massage thérapeutiques": {
+"vol": 40,
+"src": "keyword_ideas"
+},
+"stock de sang suisse": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"bouton de fievre remede": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"aux vues de": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"clinique de la source urgences": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"complément alimentaire sport": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"chef de clinique suisse": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"attaque de panique symptome": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"urgence hopital fribourg": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"cycle de krebs simplifié": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"au contact de": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"syndrome de balint": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"à partir de quand lherpès n'est plus contagieux": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"formation massage classique": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"prise de sang annemasse": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"société suisse de radiologie": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"cartilage de conjugaison": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"maladie de huntington célébrité": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"anatomie de l'estomac": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"maison de retraite en suisse": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"kinésithérapie sport": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"petite boule dans le cou côté droit": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"syndrome de stockholm définition": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"syndrome de wartenberg": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"le bains d'ovronnaz": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"centre de podologie du nord vaudois": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"maison de retraite 3": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"examen de vue gratuit": {
+"vol": 30,
+"src": "keyword_ideas"
+},
+"medicentre la chaux-de-fonds": {
+"vol": 210,
+"src": "keyword_ideas"
+},
+"maladie de la peau": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"centre médical de charnot": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"massage des sinus": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"syndrome de turner visage": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"maladie de steinert": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"le cerveaux": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"études de genre": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"centre de transfusion sanguine hug": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"mal de tête": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"protection de la maternité": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"dieteticienne lausanne": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"hopital orthopédique chuv lausanne": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"méthylation de l'adn": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"la fièvre dans le sang": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"dermatologue bienne": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"piqure puce de canard traitement": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"syndrome de shwachman diamond": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"os de la machoire": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"massage thérapeutique formation": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"pneumonie contagieux combien de temps": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"étude de genre": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"marque de preservatif": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"prise de sang à jeun et café": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"psychothérapeute fribourg": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"syndrome de morvan": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"carnet de vaccination suisse perdu": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"graines de chanvre danger": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"pied de mouton confusion": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"le quotidien du médecin": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"syndrome de shwachman-diamond": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"massage du dos technique": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"ostéopathe chatel st denis": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"théorie de l'évolution darwin": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"massage annecy": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"prescription physiothérapie": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"avis sur pachara massage": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"médecin bulle": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"urgences neuchâtel": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"cœur de dragon": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"temps de guérison syndrome essuie-glace": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"santé publique fribourg": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"articulation de la hanche": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"biosanté editions lausanne": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"question de recherche": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"trouble de la vision soudain": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"tachycardie de bouveret": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"nez rouge bulle": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"test purificateur d'air 60 millions de consommateur": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"therapsys lausanne": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"gynécologue bienne": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"santé de la femme": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"pharmacie explorit yverdon": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"fleur de bach sans alcool": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"articulation de chopart": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"centre de vaccination hug": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"ordonnance physiothérapie suisse": {
+"vol": null,
+"src": "keyword_ideas"
+},
+"prise de poids creatine": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"pharmacie battenberg bienne": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"massage pour femme enceinte": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"incapacité de discernement": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"maladie de peau": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"magasin orthopédique lausanne": {
+"vol": 320,
+"src": "keyword_ideas"
+},
+"le coeur des hommes 2": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"citrate de magnésium bienfaits": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"combien de temps sans boire": {
+"vol": 20,
+"src": "keyword_ideas"
+},
+"élastique de jambe": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"irm hopital de la tour": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"société suisse de la spondylarthrite ankylosante": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"type de radiation": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"oeil de l'ender": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"coupe de la rétine": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"massage narbonne": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"cause de la dépression": {
+"vol": 10,
+"src": "keyword_ideas"
+},
+"physio du lac sugiez": {
+"vol": 40,
+"src": "keyword_suggestions"
+},
+"physio du parc sugiez": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio soins neuchâtel": {
+"vol": 50,
+"src": "keyword_suggestions"
+},
+"physio sport neuchâtel": {
+"vol": 20,
+"src": "keyword_suggestions"
+},
+"zénith physio neuchâtel": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio domicile neuchâtel": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio du sport neuchâtel": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio piscine neuchâtel": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio santé neuchâtel": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio drainage lymphatique neuchâtel": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio à domicile neuchâtel": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio neuchâtel": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"arnone physio neuchâtel": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio grossesse neuchâtel": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio ostéo neuchâtel": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio périnéale neuchâtel": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio la neuveville": {
+"vol": 50,
+"src": "keyword_suggestions"
+},
+"physio plus avenches": {
+"vol": 110,
+"src": "keyword_suggestions"
+},
+"physio vully avenches": {
+"vol": 20,
+"src": "keyword_suggestions"
+},
+"tombey physio avenches": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio orange lyss": {
+"vol": 140,
+"src": "keyword_suggestions"
+},
+"physio mondo lyss": {
+"vol": 10,
+"src": "keyword_suggestions"
+},
+"www physio alteziegelei lyss ch": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio lyss van driel": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio hummel lyss": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio hubacher lyss": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio balance biel": {
+"vol": 90,
+"src": "keyword_suggestions"
+},
+"physio flora biel": {
+"vol": 30,
+"src": "keyword_suggestions"
+},
+"physiotherapie biel bienne gmbh physio & fitness au lac": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio schulter biel": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio unique biel": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio 8 fitness 8 diagnostik 8 biel": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio 8 biel": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio fitness biel": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"chevalier physio biel": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio am lerchenweg biel": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"atlantik physio biel": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"mühlebrücke biel physio": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio soins fribourg": {
+"vol": 170,
+"src": "keyword_suggestions"
+},
+"physio à domicile fribourg": {
+"vol": 30,
+"src": "keyword_suggestions"
+},
+"physio fribourg formation": {
+"vol": 20,
+"src": "keyword_suggestions"
+},
+"physio sport fribourg": {
+"vol": 10,
+"src": "keyword_suggestions"
+},
+"formation physio fribourg": {
+"vol": 10,
+"src": "keyword_suggestions"
+},
+"physio périnéale fribourg": {
+"vol": 10,
+"src": "keyword_suggestions"
+},
+"association physio fribourg": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio parc hotel fribourg": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio bébé fribourg": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio pérolles fribourg": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio du sport fribourg": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio piscine fribourg": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"formation continue fribourg physio": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio fribourg pérolles": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio la roche fribourg": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio beaumont fribourg": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio ostéo fribourg": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio a domicile fribourg": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"the room physio fribourg": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio ergo fribourg": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio mâchoire fribourg": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio atm fribourg": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"fitness physio fribourg": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio fribourg formation 2019": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"devenir physio indépendant fribourg": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio kinesis fribourg": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio drainage lymphatique fribourg": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio mézières fribourg": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio vestibulaire fribourg": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio grand place fribourg": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"actif physio fribourg": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio dry needling fribourg": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio perinee fribourg": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio fribourg": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio clinics payerne": {
+"vol": 30,
+"src": "keyword_suggestions"
+},
+"physio broye payerne": {
+"vol": 10,
+"src": "keyword_suggestions"
+},
+"physio clinics payerne gare payerne": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio clinics payerne emploi": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio payerne cube": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio hib payerne": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"abs physio payerne": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio morat": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio estavayer": {
+"vol": 170,
+"src": "keyword_suggestions"
+},
+"hopital estavayer physio": {
+"vol": 10,
+"src": "keyword_suggestions"
+},
+"physio estavayer pochon": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio estavayer le lac": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"hib estavayer physio": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio estavayer-le-lac": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"proactive physio estavayer": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio yvonand": {
+"vol": 170,
+"src": "keyword_suggestions"
+},
+"centre physio sport yvonand": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio yverdon y parc": {
+"vol": 30,
+"src": "keyword_suggestions"
+},
+"physio-sport yverdon": {
+"vol": 30,
+"src": "keyword_suggestions"
+},
+"physio yverdon y-parc": {
+"vol": 30,
+"src": "keyword_suggestions"
+},
+"physio sport yverdon": {
+"vol": 30,
+"src": "keyword_suggestions"
+},
+"esprit sport physio yverdon": {
+"vol": 20,
+"src": "keyword_suggestions"
+},
+"physio sport et performance yverdon": {
+"vol": 20,
+"src": "keyword_suggestions"
+},
+"physio satellite yverdon": {
+"vol": 10,
+"src": "keyword_suggestions"
+},
+"physio yverdon centre thermal": {
+"vol": 10,
+"src": "keyword_suggestions"
+},
+"cabinet de physiothérapie y-physio yverdon-les-bains": {
+"vol": 10,
+"src": "keyword_suggestions"
+},
+"cabinet de physiothérapie y physio yverdon les bains": {
+"vol": 10,
+"src": "keyword_suggestions"
+},
+"centre thermal yverdon les bains physio": {
+"vol": 10,
+"src": "keyword_suggestions"
+},
+"physio du chateau yverdon": {
+"vol": 10,
+"src": "keyword_suggestions"
+},
+"cabinet physio yverdon": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio hopital yverdon": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio rue du valentin yverdon": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"la permanence physio yverdon": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio clinic yverdon": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio hôpital yverdon": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio yverdon chamard": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio yverdon haldimand": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"centre physio yverdon": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"esprit physio yverdon": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio clinics yverdon": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio a domicile yverdon": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"centre thermal yverdon physio": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"longchamp physio yverdon": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio du sport yverdon": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio yverdon remparts": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"urgence physio yverdon": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio périnéale yverdon": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"bains thermaux yverdon physio": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio à domicile yverdon": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio 7 centre physiothérapie lausanne": {
+"vol": 590,
+"src": "keyword_suggestions"
+},
+"physio 7 lausanne": {
+"vol": 320,
+"src": "keyword_suggestions"
+},
+"physio plus lausanne": {
+"vol": 260,
+"src": "keyword_suggestions"
+},
+"fox physio lausanne": {
+"vol": 70,
+"src": "keyword_suggestions"
+},
+"start physio lausanne": {
+"vol": 50,
+"src": "keyword_suggestions"
+},
+"physio le mont sur lausanne": {
+"vol": 50,
+"src": "keyword_suggestions"
+},
+"ecole physio lausanne": {
+"vol": 40,
+"src": "keyword_suggestions"
+},
+"ecole de physio lausanne": {
+"vol": 30,
+"src": "keyword_suggestions"
+},
+"physio vie lausanne": {
+"vol": 30,
+"src": "keyword_suggestions"
+},
+"physio énergie lausanne": {
+"vol": 20,
+"src": "keyword_suggestions"
+},
+"fox physio lausanne gare": {
+"vol": 20,
+"src": "keyword_suggestions"
+},
+"hes physio lausanne": {
+"vol": 20,
+"src": "keyword_suggestions"
+},
+"medifit physio lausanne": {
+"vol": 10,
+"src": "keyword_suggestions"
+},
+"physio excellence lausanne": {
+"vol": 10,
+"src": "keyword_suggestions"
+},
+"physio cecil lausanne": {
+"vol": 10,
+"src": "keyword_suggestions"
+},
+"physio pédiatrique lausanne": {
+"vol": 10,
+"src": "keyword_suggestions"
+},
+"inscription physio lausanne": {
+"vol": 10,
+"src": "keyword_suggestions"
+},
+"physio up lausanne": {
+"vol": 10,
+"src": "keyword_suggestions"
+},
+"physio drainage lymphatique lausanne": {
+"vol": 10,
+"src": "keyword_suggestions"
+},
+"en mouvement physio lausanne": {
+"vol": 10,
+"src": "keyword_suggestions"
+},
+"physio à domicile lausanne": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"job physio lausanne": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio neurologie lausanne": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio osteo lausanne": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio energie lausanne": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio lausanne sport": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"école physio lausanne": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio lausanne caroline": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio piscine lausanne": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio soins lausanne": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"permanence physio lausanne": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio périnéale lausanne": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"formation continue physio lausanne": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio a domicile lausanne": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio urgence lausanne": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio grancy boulevard de grancy lausanne": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"glatz physio lausanne": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio clinics lausanne riponne": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"bois cerf lausanne physio": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio lausanne bel air": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"cabinet physio lausanne": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio ostéo lausanne": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio sport lausanne": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"école de physio lausanne": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio domicile lausanne": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio lausanne bel-air": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio dans l'eau lausanne": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio mâchoire lausanne": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio plus lausanne sàrl": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio lausanne grancy": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"physio rittener ins": {
+"vol": null,
+"src": "keyword_suggestions"
+},
+"ins physio": {
+"vol": null,
+"src": "keyword_suggestions"
+}
+}
+}

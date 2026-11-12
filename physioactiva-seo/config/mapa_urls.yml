@@ -1,0 +1,35 @@
+# Correspondencia URL existente → tema (decisión editorial, ver decisiones.md). Ningún slug cambia sin 301.
+existentes:
+  /: {tema: local_generico, rol: home}
+  /mal-de-dos-lombaire/: {tema: lombalgie, rol: patologia}
+  /douleur-cervicale-au-cou/: {tema: cervicalgie, rol: patologia}
+  /lesions-de-lepaule/: {tema: epaule, rol: patologia}
+  /douleur-du-genou-lesions-de-la-cheville/: {tema: genou_lca, rol: patologia}
+  /drainage-lymphatique/: {tema: lymph, rol: servicio}
+  /physioactiva-puncture-seche/: {tema: dry_needling, rol: servicio}
+  /physioactiva-ondes-de-choc/: {tema: ondes_choc, rol: servicio}
+  /tecar-therapie/: {tema: tecar, rol: servicio}
+  /physioactiva-bandage-neuromusculaire/: {tema: taping, rol: servicio}
+  /medical-training-therapy-mtt/: {tema: mtt, rol: servicio}
+  /fitness-medical/: {tema: mtt, rol: servicio_duplicado, accion: "fusionar en /medical-training-therapy-mtt/ (301)"}
+  /massage-therapeutique/: {tema: massage, rol: servicio}
+  /physiotherapeute-a-domicile/: {tema: domicile, rol: servicio}
+  /physio-du-sport/: {tema: sport, rol: servicio}
+  /therapie-manuelle/: {tema: therapie_manuelle, rol: servicio}
+  /physiotherapie-du-plancher-pelvien/: {tema: plancher_pelvien, rol: patologia}
+  /physio-en-uro-gynecologie/: {tema: plancher_pelvien, rol: servicio_duplicado, accion: "diferenciar (uro-gyné = mujer/embarazo) o fusionar en plancher-pelvien (301) tras validar con el cliente"}
+  /physiotemporo-mandibulaire-atm/: {tema: atm, rol: patologia}
+  /physiotherapie-post-operatoire/: {tema: post_op, rol: servicio}
+  /physiotherapie-neurologique/: {tema: neuro, rol: servicio}
+  /physiotherapie-cardiorespiratoire/: {tema: null, rol: servicio_fuera_plan}
+  /physiotherapie-geriatrique/: {tema: null, rol: servicio_fuera_plan}
+  /physio-generale/: {tema: local_generico, rol: servicio}
+  /physio/: {tema: null, rol: hub_servicios}
+  /pour-les-patients/: {tema: null, rol: hub_patologias}
+  /physio-a-neuchatel/: {tema: local_generico, rol: zona, ciudad: Neuchâtel}
+  /physio-a-sugiez/: {tema: local_generico, rol: zona, ciudad: Sugiez}
+reserva:
+  canonica: /reservation-en-ligne/
+  redirigir: [/reserver-maintenant/, /rendez-vous-des-maintenant/, /reserve/, /rendez-vous-online/]
+  aleman: /online-termin-buchen/   # H1 en alemán: pasa a la versión /de/ o 301 a la canónica (decisión del cliente)
+noindex: [/merci/, /author/joel/, /category/domicile-sugiez/, /category/nos-soins/]

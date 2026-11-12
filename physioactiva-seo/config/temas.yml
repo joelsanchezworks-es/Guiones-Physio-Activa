@@ -1,0 +1,229 @@
+temas:
+  marca_competidor:
+    nombre: Marca de otra clínica
+    tipo: competencia
+    terminos: []
+  taping:
+    nombre: Taping / bandage neuromusculaire
+    tipo: servicio
+    terminos:
+    - taping
+    - tape
+    - k-tape
+    - bandage
+  dry_needling:
+    nombre: Dry needling / puncture sèche
+    tipo: servicio
+    terminos:
+    - needling
+    - puncture seche
+  ondes_choc:
+    nombre: Ondes de choc
+    tipo: servicio
+    terminos:
+    - ondes de choc
+    - onde de choc
+  tecar:
+    nombre: Tecar thérapie
+    tipo: servicio
+    terminos:
+    - tecar
+  lymph:
+    nombre: Drainage lymphatique / lymphœdème
+    tipo: servicio
+    terminos:
+    - drainage lymphatique
+    - lymph
+    - lymphoedeme
+    - lymphedeme
+  sciatique:
+    nombre: Sciatique / hernie discale
+    tipo: patologia
+    terminos:
+    - sciatique
+    - sciatalgie
+    - nerf sciatique
+    - hernie discale
+    - hernie
+    - l5
+    - l4
+  lombalgie:
+    nombre: Lombalgie / mal de dos
+    tipo: patologia
+    terminos:
+    - lombalgie
+    - lumbago
+    - mal de dos
+    - douleur dos
+    - douleur au dos
+    - douleur du dos
+    - bas du dos
+    - lombaire
+    - dorsalgie
+    - scoliose
+    - dos
+  cervicalgie:
+    nombre: Cervicalgie / douleur cervicale
+    tipo: patologia
+    terminos:
+    - cervical
+    - cervicale
+    - cervicalgie
+    - nuque
+    - cou
+    - torticolis
+    - coup du lapin
+    - cephalee
+  epaule:
+    nombre: Épaule (coiffe, capsulite, tendinite)
+    tipo: patologia
+    terminos:
+    - epaule
+    - coiffe des rotateurs
+    - capsulite
+    - rotateurs
+  coude_main:
+    nombre: Coude et main (épicondylite, canal carpien)
+    tipo: patologia
+    terminos:
+    - epicondylite
+    - tennis elbow
+    - elbow tennis
+    - coude
+    - canal carpien
+    - poignet
+    - main
+  genou_lca:
+    nombre: Genou (LCA, ménisque, arthrose, prothèse)
+    tipo: patologia
+    terminos:
+    - genou
+    - menisque
+    - ligament croise
+    - lca
+    - rotulien
+    - essuie glace
+    - rotule
+  hanche:
+    nombre: Hanche (prothèse, arthrose)
+    tipo: patologia
+    terminos:
+    - hanche
+    - pubalgie
+  cheville_pied:
+    nombre: Cheville et pied (entorse, fasciite, Achille, périostite)
+    tipo: patologia
+    terminos:
+    - cheville
+    - entorse
+    - fasciite
+    - aponevrosite
+    - talon
+    - epine calcaneenne
+    - achille
+    - periostite
+    - tibiale
+    - pied
+  plancher_pelvien:
+    nombre: Plancher pelvien / périnée / incontinence
+    tipo: patologia
+    terminos:
+    - plancher pelvien
+    - perinee
+    - perineal
+    - incontinence
+    - post-partum
+    - post partum
+    - pelvienne
+    - uro
+  atm:
+    nombre: ATM / mâchoire
+    tipo: patologia
+    terminos:
+    - atm
+    - machoire
+    - bruxisme
+    - temporo
+  vertiges:
+    nombre: Vertiges / rééducation vestibulaire
+    tipo: patologia
+    terminos:
+    - vertige
+    - vertiges
+    - vppb
+    - vestibulaire
+  neuro:
+    nombre: Neurologie (AVC, Parkinson, SEP)
+    tipo: patologia
+    terminos:
+    - avc
+    - parkinson
+    - sclerose
+    - neurolog
+  fibromyalgie:
+    nombre: Fibromyalgie
+    tipo: patologia
+    terminos:
+    - fibromyalgie
+  arthrose:
+    nombre: Arthrose (général)
+    tipo: patologia
+    terminos:
+    - arthrose
+  post_op:
+    nombre: Rééducation post-opératoire / fracture
+    tipo: patologia
+    terminos:
+    - post-operatoire
+    - post operatoire
+    - fracture
+    - prothese
+    - operation
+  mtt:
+    nombre: MTT / fitness médical
+    tipo: servicio
+    terminos:
+    - mtt
+    - fitness medical
+    - medical fitness
+    - fitness
+  therapie_manuelle:
+    nombre: Thérapie manuelle
+    tipo: servicio
+    terminos:
+    - therapie manuelle
+  massage_bienestar:
+    nombre: Massage + localidad (bienestar, fuera de foco)
+    tipo: fuera_foco
+    terminos: []
+  massage:
+    nombre: Massage thérapeutique
+    tipo: servicio
+    terminos:
+    - massage
+  domicile:
+    nombre: Physio à domicile
+    tipo: servicio
+    terminos:
+    - domicile
+    - home
+  sport:
+    nombre: Physio du sport
+    tipo: servicio
+    terminos:
+    - sport
+    - sportif
+    - claquage
+    - dechirure musculaire
+    - contracture
+  local_generico:
+    nombre: Physio + localidad / genérica
+    tipo: local
+    terminos:
+    - physio
+    - physiotherapeute
+    - physiotherapie
+    - kine
+    - kinesitherapeute
+    - reeducation
+    - cabinet

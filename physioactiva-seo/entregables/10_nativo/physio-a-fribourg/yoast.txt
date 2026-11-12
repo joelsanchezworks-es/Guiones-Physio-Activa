@@ -1,0 +1,13 @@
+SEO title (51/60): Physiothérapie Fribourg : drainage lymphatique, Ins
+Meta description (148/155): Physiothérapie pour Fribourg : drainage lymphatique, dry needling, massage et MTT au cabinet d'Ins, jusqu'à 20h. Domicile selon l'adresse. Réservez.
+Slug: /physio-a-fribourg/
+Focus keyphrase: physiothérapie fribourg
+H1: Physio à Fribourg : drainage lymphatique, rééducation et dry needling au cabinet d'Ins
+Indexación: index, follow
+
+IMÁGENES (la plantilla se importa SIN imágenes para no duplicarlas en la biblioteca; elígelas en Elementor):
+- Fondo del hero (sección › Estilo › Fondo): foto de la ciudad o del cabinet, 1920 px
+- Imagen 1 del artículo: alt: Physiothérapeute de Physio Activa en séance, physio pour les patients de Fribourg
+- Imagen 2 del artículo: alt: Salle de traitement du cabinet Physio Activa à Ins, proche de Fribourg
+- Fondo del CTA final (sección › Estilo › Fondo): foto del cabinet; la capa azul oscura ya está puesta
+- Imagen destacada / Open Graph de Yoast: la misma del hero.

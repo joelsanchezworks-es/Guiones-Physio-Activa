@@ -1,0 +1,1014 @@
+{
+ "indice_autoridad": 0.37,
+ "temas": [
+  {
+   "tema": "home",
+   "nombre": "Accueil — physio Ins (Anet) + à domicile",
+   "tipo": "home",
+   "url": "/",
+   "accion": "optimizar",
+   "kw_principal": "physio",
+   "vol_kw_principal": 12100,
+   "volumen_tema": 25100,
+   "n_clusters": 10,
+   "n_keywords": 29,
+   "intencion": "comercial",
+   "serp_tipo": "clínica local",
+   "serp_local": true,
+   "ai_overview": false,
+   "top3": [
+    "1. physio-7.ch",
+    "2. physioswiss.ch",
+    "3. physiosoins.ch"
+   ],
+   "paa": [],
+   "secciones_h2": [
+    "physio",
+    "physiothérapeute",
+    "physio autour de moi",
+    "kiné",
+    "physiothérapeute autour de moi",
+    "rééducation",
+    "centre de rééducation",
+    "physiothérapie suisse"
+   ],
+   "candidatas_fase2": [],
+   "kd_media": null,
+   "cpc_max_usd": null,
+   "impacto": 5.0,
+   "confianza": 3,
+   "esfuerzo_h": 2,
+   "prioridad": 7.5,
+   "fuente": "DataForSEO google_ads + SERP Ins 2026-11-06"
+  },
+  {
+   "tema": "dry_needling",
+   "nombre": "Dry needling / puncture sèche",
+   "tipo": "servicio",
+   "url": "/physioactiva-puncture-seche/",
+   "accion": "optimizar",
+   "kw_principal": "dry needling",
+   "vol_kw_principal": 4400,
+   "volumen_tema": 5700,
+   "n_clusters": 7,
+   "n_keywords": 63,
+   "intencion": "transaccional",
+   "serp_tipo": "clínica local",
+   "serp_local": true,
+   "ai_overview": true,
+   "top3": [
+    "1. en-equilibre.ch",
+    "2. physio-servette.ch",
+    "3. pros.training-therapie.fr"
+   ],
+   "paa": [
+    "Pourquoi faire du dry needling ?",
+    "Qu'est-ce qu'un trigger point ?",
+    "Le dry needling est-il remboursé par la Sécurité sociale ?",
+    "L'acupuncture peut-elle aider à soulager les contractures musculaires ?"
+   ],
+   "secciones_h2": [
+    "needling physio",
+    "acupuncture vs dry needling",
+    "dry needling lausanne",
+    "dry needling near me",
+    "dry needling risques",
+    "puncture sèche"
+   ],
+   "candidatas_fase2": [
+    "needling physio"
+   ],
+   "kd_media": 0.0,
+   "cpc_max_usd": 10.02,
+   "impacto": 4.75,
+   "confianza": 3,
+   "esfuerzo_h": 2,
+   "prioridad": 7.12,
+   "fuente": "DataForSEO google_ads/search_volume + Labs + SERP Ins 2026-11-06"
+  },
+  {
+   "tema": "lymph",
+   "nombre": "Drainage lymphatique / lymphœdème",
+   "tipo": "servicio",
+   "url": "/drainage-lymphatique/",
+   "accion": "optimizar",
+   "kw_principal": "drainage lymphatique",
+   "vol_kw_principal": 5400,
+   "volumen_tema": 8920,
+   "n_clusters": 33,
+   "n_keywords": 73,
+   "intencion": "informacional",
+   "serp_tipo": "clínica local",
+   "serp_local": true,
+   "ai_overview": false,
+   "top3": [
+    "1. physiocarenyon.ch",
+    "2. planetesante.ch",
+    "3. en-equilibre.ch"
+   ],
+   "paa": [
+    "Comment savoir si j'ai besoin d'un drainage lymphatique ?",
+    "Le drainage lymphatique est-il remboursé par la Sécurité sociale en Suisse ?",
+    "Quel est le prix d'une séance de drainage lymphatique ?",
+    "Est-ce qu'un kiné peut faire un drainage lymphatique ?",
+    "Qu'est-ce que la marche lymphatique ?",
+    "Quelles sont les contre-indications du drainage lymphatique en cas de cancer ?"
+   ],
+   "secciones_h2": [
+    "drainage lymphatique lausanne",
+    "lymphœdème",
+    "drainage lymphatique fribourg",
+    "drainage lymphatique massage",
+    "drainage lymphatique autour de moi",
+    "drainage lymphatique yverdon",
+    "drainage lymphatique goutte"
+   ],
+   "candidatas_fase2": [
+    "drainage lymphatique lausanne",
+    "lymphœdème"
+   ],
+   "kd_media": 0.0,
+   "cpc_max_usd": 1.72,
+   "impacto": 3.0,
+   "confianza": 3,
+   "esfuerzo_h": 2,
+   "prioridad": 4.5,
+   "fuente": "DataForSEO google_ads/search_volume + Labs + SERP Ins 2026-11-06"
+  },
+  {
+   "tema": "genou_lca",
+   "nombre": "Genou (LCA, ménisque, arthrose, prothèse)",
+   "tipo": "patologia",
+   "url": "/douleur-du-genou-lesions-de-la-cheville/",
+   "accion": "optimizar",
+   "kw_principal": "ménisque",
+   "vol_kw_principal": 1600,
+   "volumen_tema": 7830,
+   "n_clusters": 24,
+   "n_keywords": 199,
+   "intencion": "informacional",
+   "serp_tipo": "clínica local",
+   "serp_local": true,
+   "ai_overview": true,
+   "top3": [
+    "1. primomedico.com",
+    "2. medicol.ch",
+    "3. chirurgiedusport.com"
+   ],
+   "paa": [
+    "Quelle est la cause de la douleur au ménisque ?",
+    "Qu'est-ce qu'une méniscectomie ?",
+    "Est-ce qu'un ménisque fissuré peut se réparer tout seul ?",
+    "Qu'est-ce qu'une fissure horizontale du ménisque ?"
+   ],
+   "secciones_h2": [
+    "prothèse genou",
+    "ligament croisé",
+    "arthrose du genou",
+    "ligament croisé antérieur",
+    "tendinite du genou",
+    "déchirure du ménisque",
+    "ménisque douleur"
+   ],
+   "candidatas_fase2": [
+    "prothèse genou",
+    "ligament croisé",
+    "arthrose du genou",
+    "ligament croisé antérieur",
+    "tendinite du genou",
+    "déchirure du ménisque"
+   ],
+   "kd_media": 21.5,
+   "cpc_max_usd": 0.41,
+   "impacto": 2.96,
+   "confianza": 3,
+   "esfuerzo_h": 2,
+   "prioridad": 4.44,
+   "fuente": "DataForSEO google_ads/search_volume + Labs + SERP Ins 2026-11-06"
+  },
+  {
+   "tema": "massage",
+   "nombre": "Massage thérapeutique",
+   "tipo": "servicio",
+   "url": "/massage-therapeutique/",
+   "accion": "optimizar",
+   "kw_principal": "massage sportif",
+   "vol_kw_principal": 320,
+   "volumen_tema": 730,
+   "n_clusters": 3,
+   "n_keywords": 3,
+   "intencion": "comercial",
+   "serp_tipo": "clínica local",
+   "serp_local": true,
+   "ai_overview": false,
+   "top3": [
+    "1. enmouvement.ch",
+    "2. aurelienfaussurier.ch",
+    "3. salonkee.ch"
+   ],
+   "paa": [
+    "C'est quoi le massage sportif ?",
+    "Quel est le meilleur massage pour un sportif ?",
+    "Quelles sont les contre-indications du massage sportif ?",
+    "Quels sont les 10 massages les plus demandés ?"
+   ],
+   "secciones_h2": [
+    "massage thérapeutique",
+    "massage therapeutique lausanne"
+   ],
+   "candidatas_fase2": [
+    "massage thérapeutique"
+   ],
+   "kd_media": 0.0,
+   "cpc_max_usd": 2.88,
+   "impacto": 2.9,
+   "confianza": 3,
+   "esfuerzo_h": 2,
+   "prioridad": 4.35,
+   "fuente": "DataForSEO google_ads/search_volume + Labs + SERP Ins 2026-11-06"
+  },
+  {
+   "tema": "taping",
+   "nombre": "Taping / bandage neuromusculaire",
+   "tipo": "servicio",
+   "url": "/physioactiva-bandage-neuromusculaire/",
+   "accion": "optimizar",
+   "kw_principal": "k taping",
+   "vol_kw_principal": 1900,
+   "volumen_tema": 4900,
+   "n_clusters": 12,
+   "n_keywords": 99,
+   "intencion": "informacional",
+   "serp_tipo": "clínica local",
+   "serp_local": true,
+   "ai_overview": false,
+   "top3": [
+    "1. k-taping.com",
+    "2. k-taping.com",
+    "3. purephysio.ch"
+   ],
+   "paa": [
+    "Qu'est-ce que le kinésithérapie taping ?",
+    "Quelle est la différence entre un strap et un taping ?",
+    "Quelles sont les contre-indications du K-taping ?",
+    "Qui peut faire un taping ?",
+    "Comment faire un taping sur le genou et la rotule ?",
+    "Combien de temps peut-on garder un taping en place ?"
+   ],
+   "secciones_h2": [
+    "taping #genou",
+    "taping sport",
+    "physio taping",
+    "taping",
+    "taping cheville",
+    "taping poignet",
+    "kinesiologische taping"
+   ],
+   "candidatas_fase2": [
+    "taping #genou",
+    "taping sport",
+    "physio taping",
+    "taping"
+   ],
+   "kd_media": 0.0,
+   "cpc_max_usd": 6.4,
+   "impacto": 2.8,
+   "confianza": 3,
+   "esfuerzo_h": 2,
+   "prioridad": 4.2,
+   "fuente": "DataForSEO google_ads/search_volume + Labs + SERP Ins 2026-11-06"
+  },
+  {
+   "tema": "lombalgie",
+   "nombre": "Lombalgie / mal de dos",
+   "tipo": "patologia",
+   "url": "/mal-de-dos-lombaire/",
+   "accion": "optimizar",
+   "kw_principal": "lombalgie",
+   "vol_kw_principal": 880,
+   "volumen_tema": 4190,
+   "n_clusters": 17,
+   "n_keywords": 135,
+   "intencion": "informacional",
+   "serp_tipo": "portal médico",
+   "serp_local": true,
+   "ai_overview": true,
+   "top3": [
+    "1. qare.fr",
+    "2. observatoire-sante-probtp.com",
+    "3. chuv.ch"
+   ],
+   "paa": [
+    "Qu'est-ce qu'une lombalgie ?",
+    "Quelle est la cause d'une douleur au bas du dos gauche chez une femme ?",
+    "Qu'est-ce que la radiculalgie lombaire ?",
+    "Quels sont les symptômes du rachis ?"
+   ],
+   "secciones_h2": [
+    "douleur en bas du dos",
+    "dorsalgie",
+    "scoliose lombaire",
+    "lumbago symptômes",
+    "douleur bas du dos droit",
+    "douleur bas du dos gauche",
+    "douleur dos milieu"
+   ],
+   "candidatas_fase2": [
+    "douleur en bas du dos",
+    "dorsalgie"
+   ],
+   "kd_media": 6.0,
+   "cpc_max_usd": 1.39,
+   "impacto": 2.75,
+   "confianza": 3,
+   "esfuerzo_h": 2,
+   "prioridad": 4.12,
+   "fuente": "DataForSEO google_ads/search_volume + Labs + SERP Ins 2026-11-06"
+  },
+  {
+   "tema": "mtt",
+   "nombre": "MTT / fitness médical",
+   "tipo": "servicio",
+   "url": "/medical-training-therapy-mtt/",
+   "accion": "optimizar",
+   "kw_principal": "mtt",
+   "vol_kw_principal": 1600,
+   "volumen_tema": 2320,
+   "n_clusters": 3,
+   "n_keywords": 38,
+   "intencion": "informacional",
+   "serp_tipo": "clínica local",
+   "serp_local": true,
+   "ai_overview": false,
+   "top3": [
+    "1. physioswiss.ch",
+    "2. physio-obstgarten.ch",
+    "3. search.ch"
+   ],
+   "paa": [
+    "Qu'est-ce que le MTT ?",
+    "Qu'est-ce qu'un MTT poker ?",
+    "Qu'est-ce que le programme MTT ?",
+    "Quel est le principe du test MTT ?"
+   ],
+   "secciones_h2": [
+    "mtt training",
+    "fitness médical"
+   ],
+   "candidatas_fase2": [],
+   "kd_media": 0.0,
+   "cpc_max_usd": 5.5,
+   "impacto": 2.56,
+   "confianza": 3,
+   "esfuerzo_h": 2,
+   "prioridad": 3.84,
+   "fuente": "DataForSEO google_ads/search_volume + Labs + SERP Ins 2026-11-06"
+  },
+  {
+   "tema": "cervicalgie",
+   "nombre": "Cervicalgie / douleur cervicale",
+   "tipo": "patologia",
+   "url": "/douleur-cervicale-au-cou/",
+   "accion": "optimizar",
+   "kw_principal": "cervicalgie",
+   "vol_kw_principal": 320,
+   "volumen_tema": 1630,
+   "n_clusters": 7,
+   "n_keywords": 68,
+   "intencion": "informacional",
+   "serp_tipo": "portal médico",
+   "serp_local": true,
+   "ai_overview": true,
+   "top3": [
+    "1. primomedico.com",
+    "2. giphar.fr",
+    "3. Plus de 5,7 k vues  ·  il y a 6 ans"
+   ],
+   "paa": [
+    "Quelle est la douleur ressentie lors d'une cervicalgie ?",
+    "Pourquoi ai-je mal au cou quand je tousse ?",
+    "Quels sont les signes d'une atteinte du rachis cervical ?",
+    "Est-ce que les douleurs cervicales peuvent être un symptôme de migraine ?"
+   ],
+   "secciones_h2": [
+    "coup du lapin",
+    "douleur cervicale",
+    "douleur nuque",
+    "comment soigner un torticolis",
+    "torticolis soigner",
+    "céphalée de tension traitement"
+   ],
+   "candidatas_fase2": [
+    "coup du lapin"
+   ],
+   "kd_media": 0.0,
+   "cpc_max_usd": 1.68,
+   "impacto": 2.44,
+   "confianza": 3,
+   "esfuerzo_h": 2,
+   "prioridad": 3.66,
+   "fuente": "DataForSEO google_ads/search_volume + Labs + SERP Ins 2026-11-06"
+  },
+  {
+   "tema": "domicile",
+   "nombre": "Physio à domicile",
+   "tipo": "servicio",
+   "url": "/physiotherapeute-a-domicile/",
+   "accion": "optimizar",
+   "kw_principal": "physiothérapie à domicile",
+   "vol_kw_principal": 90,
+   "volumen_tema": 150,
+   "n_clusters": 3,
+   "n_keywords": 3,
+   "intencion": "comercial",
+   "serp_tipo": "clínica local",
+   "serp_local": true,
+   "ai_overview": false,
+   "top3": [
+    "1. physiod.ch",
+    "2. dynamiklab.ch",
+    "3. onedoc.ch"
+   ],
+   "paa": [],
+   "secciones_h2": [
+    "physio domicile",
+    "physio à domicile fribourg"
+   ],
+   "candidatas_fase2": [],
+   "kd_media": 38.0,
+   "cpc_max_usd": 3.79,
+   "impacto": 2.21,
+   "confianza": 3,
+   "esfuerzo_h": 2,
+   "prioridad": 3.31,
+   "fuente": "DataForSEO google_ads/search_volume + Labs + SERP Ins 2026-11-06"
+  },
+  {
+   "tema": "plancher_pelvien",
+   "nombre": "Plancher pelvien / périnée / incontinence",
+   "tipo": "patologia",
+   "url": "/physiotherapie-du-plancher-pelvien/",
+   "accion": "optimizar",
+   "kw_principal": "massage périnée",
+   "vol_kw_principal": 210,
+   "volumen_tema": 610,
+   "n_clusters": 8,
+   "n_keywords": 14,
+   "intencion": "informacional",
+   "serp_tipo": "clínica local",
+   "serp_local": true,
+   "ai_overview": true,
+   "top3": [
+    "1. dexeus.com",
+    "2. parents.fr",
+    "3. journaldesfemmes.fr"
+   ],
+   "paa": [],
+   "secciones_h2": [
+    "plancher pelvien femme",
+    "physiothérapeute pelvienne",
+    "exercices plancher pelvien",
+    "exercices plancher pelvien homme",
+    "physiothérapeute périnée",
+    "exercices plancher pelvien femme",
+    "rééducation plancher pelvien"
+   ],
+   "candidatas_fase2": [],
+   "kd_media": 0.0,
+   "cpc_max_usd": 3.23,
+   "impacto": 2.12,
+   "confianza": 3,
+   "esfuerzo_h": 2,
+   "prioridad": 3.18,
+   "fuente": "DataForSEO google_ads/search_volume + Labs + SERP Ins 2026-11-06"
+  },
+  {
+   "tema": "sport",
+   "nombre": "Physio du sport",
+   "tipo": "servicio",
+   "url": "/physio-du-sport/",
+   "accion": "optimizar",
+   "kw_principal": "physio sport",
+   "vol_kw_principal": 480,
+   "volumen_tema": 480,
+   "n_clusters": 1,
+   "n_keywords": 1,
+   "intencion": "informacional",
+   "serp_tipo": "clínica local",
+   "serp_local": true,
+   "ai_overview": false,
+   "top3": [
+    "1. physio8.ch",
+    "2. onedoc.ch",
+    "3. sportmed360.ch"
+   ],
+   "paa": [],
+   "secciones_h2": [],
+   "candidatas_fase2": [],
+   "kd_media": 11.0,
+   "cpc_max_usd": 3.69,
+   "impacto": 2.04,
+   "confianza": 3,
+   "esfuerzo_h": 2,
+   "prioridad": 3.06,
+   "fuente": "DataForSEO google_ads/search_volume + Labs + SERP Ins 2026-11-06"
+  },
+  {
+   "tema": "neuro",
+   "nombre": "Neurologie (AVC, Parkinson, SEP)",
+   "tipo": "patologia",
+   "url": "/physiotherapie-neurologique/",
+   "accion": "optimizar",
+   "kw_principal": "traitement parkinson",
+   "vol_kw_principal": 110,
+   "volumen_tema": 160,
+   "n_clusters": 3,
+   "n_keywords": 3,
+   "intencion": "informacional",
+   "serp_tipo": "portal médico",
+   "serp_local": true,
+   "ai_overview": true,
+   "top3": [
+    "1. franceparkinson.fr",
+    "2. parkinson.ch",
+    "3. hug.ch"
+   ],
+   "paa": [
+    "Qu'est-ce que le syndrome parkinsonien vasculaire ?",
+    "Quelle est la nouvelle pompe à dopamine utilisée pour traiter la maladie de Parkinson ?",
+    "Quels médicaments sont à éviter chez le Parkinsonien ?",
+    "Quelle espérance de vie avec la maladie de Parkinson ?"
+   ],
+   "secciones_h2": [
+    "avc traitement",
+    "rééducation neurologique après avc"
+   ],
+   "candidatas_fase2": [],
+   "kd_media": 0.0,
+   "cpc_max_usd": 1.82,
+   "impacto": 1.68,
+   "confianza": 3,
+   "esfuerzo_h": 2,
+   "prioridad": 2.52,
+   "fuente": "DataForSEO google_ads/search_volume + Labs + SERP Ins 2026-11-06"
+  },
+  {
+   "tema": "tecar",
+   "nombre": "Tecar thérapie",
+   "tipo": "servicio",
+   "url": "/tecar-therapie/",
+   "accion": "optimizar",
+   "kw_principal": "tecar therapie",
+   "vol_kw_principal": 110,
+   "volumen_tema": 150,
+   "n_clusters": 1,
+   "n_keywords": 5,
+   "intencion": "informacional",
+   "serp_tipo": "clínica local",
+   "serp_local": true,
+   "ai_overview": false,
+   "top3": [
+    "1. Plus de 5,4 k vues  ·  il y a 8 ans",
+    "2. ti-fisio.ch",
+    "3. merand.pro"
+   ],
+   "paa": [
+    "Qui peut pratiquer la técarthérapie ?",
+    "Comment se déroule une séance de physiothérapie ?",
+    "Quelle est l'efficacité de la técarthérapie ?",
+    "Qu'est-ce que la técarthérapie en gynécologie ?"
+   ],
+   "secciones_h2": [],
+   "candidatas_fase2": [],
+   "kd_media": 38.0,
+   "cpc_max_usd": 1.04,
+   "impacto": 1.65,
+   "confianza": 3,
+   "esfuerzo_h": 2,
+   "prioridad": 2.47,
+   "fuente": "DataForSEO google_ads/search_volume + Labs + SERP Ins 2026-11-06"
+  },
+  {
+   "tema": "ondes_choc",
+   "nombre": "Ondes de choc",
+   "tipo": "servicio",
+   "url": "/physioactiva-ondes-de-choc/",
+   "accion": "optimizar",
+   "kw_principal": "thérapie par ondes de choc",
+   "vol_kw_principal": 30,
+   "volumen_tema": 70,
+   "n_clusters": 2,
+   "n_keywords": 4,
+   "intencion": "informacional",
+   "serp_tipo": "clínica local",
+   "serp_local": true,
+   "ai_overview": true,
+   "top3": [
+    "1. physio-art-basel.ch",
+    "2. kinexpert.ch",
+    "3. jeromeaugerkine.com"
+   ],
+   "paa": [
+    "Pourquoi des ondes de choc ?",
+    "Quel est le tarif d'une séance d'ondes de choc ?",
+    "Est-ce que les ondes de choc cassent l'épine calcanéenne ?",
+    "Quels sont les avis sur les ondes de choc pour le tendon d'Achille ?",
+    "Est-il normal d'avoir mal après une séance d'ondes de choc ?",
+    "Les ondes de choc sont-elles efficaces pour traiter la tendinite du tendon d'Achille ?"
+   ],
+   "secciones_h2": [
+    "ondes de choc prix"
+   ],
+   "candidatas_fase2": [],
+   "kd_media": null,
+   "cpc_max_usd": 1.46,
+   "impacto": 1.41,
+   "confianza": 3,
+   "esfuerzo_h": 2,
+   "prioridad": 2.11,
+   "fuente": "DataForSEO google_ads/search_volume + Labs + SERP Ins 2026-11-06"
+  },
+  {
+   "tema": "cheville_pied",
+   "nombre": "Cheville et pied (entorse, fasciite, Achille, périostite)",
+   "tipo": "patologia",
+   "url": "/douleur-pied-cheville-fasciite-plantaire/",
+   "accion": "crear",
+   "kw_principal": "fasciite plantaire",
+   "vol_kw_principal": 2400,
+   "volumen_tema": 6360,
+   "n_clusters": 11,
+   "n_keywords": 141,
+   "intencion": "informacional",
+   "serp_tipo": "portal médico",
+   "serp_local": true,
+   "ai_overview": true,
+   "top3": [
+    "1. hirslanden.ch",
+    "2. chiroste-foy.com",
+    "3. orliman.fr"
+   ],
+   "paa": [
+    "Quelles chaussures sont recommandées pour les personnes souffrant de fasciite plantaire ?",
+    "Qu'est-ce que l'épine calcanéenne dorsale ?",
+    "Quels sont les symptômes de la fasciite plantaire ?",
+    "Quelle est la cause de la douleur au talon ?"
+   ],
+   "secciones_h2": [
+    "périostite",
+    "douleur au talon",
+    "périostite tibiale",
+    "traitement fasciite plantaire",
+    "entorse de la cheville",
+    "fasciite plantaire : exercices",
+    "tendinite d'achille"
+   ],
+   "candidatas_fase2": [
+    "périostite",
+    "douleur au talon",
+    "périostite tibiale"
+   ],
+   "kd_media": 0.0,
+   "cpc_max_usd": 2.88,
+   "impacto": 2.89,
+   "confianza": 3,
+   "esfuerzo_h": 5,
+   "prioridad": 1.73,
+   "fuente": "DataForSEO google_ads/search_volume + Labs + SERP Ins 2026-11-06"
+  },
+  {
+   "tema": "sciatique",
+   "nombre": "Sciatique / hernie discale",
+   "tipo": "patologia",
+   "url": "/sciatique-hernie-discale/",
+   "accion": "crear",
+   "kw_principal": "hernie discale l5-s1",
+   "vol_kw_principal": 90,
+   "volumen_tema": 4530,
+   "n_clusters": 28,
+   "n_keywords": 110,
+   "intencion": "informacional",
+   "serp_tipo": "portal médico",
+   "serp_local": true,
+   "ai_overview": true,
+   "top3": [
+    "1. hug.ch",
+    "2. compassana.ch",
+    "3. chuv.ch"
+   ],
+   "paa": [
+    "Quelle est la douleur ressentie par une hernie discale située dans le milieu du dos ?",
+    "Quelle est la cause de la douleur lombaire ?",
+    "Est-ce qu'une discopathie L5 S1 est grave ?",
+    "Combien de temps faut-il pour guérir d'une protrusion discale ?"
+   ],
+   "secciones_h2": [
+    "symptômes hernie discale",
+    "douleur nerf sciatique",
+    "sciatique soin",
+    "sciatique symptôme",
+    "exercice pour sciatique",
+    "lombaire hernie discale",
+    "sciatique : traitement"
+   ],
+   "candidatas_fase2": [
+    "symptômes hernie discale",
+    "douleur nerf sciatique"
+   ],
+   "kd_media": 0.0,
+   "cpc_max_usd": 5.15,
+   "impacto": 2.78,
+   "confianza": 3,
+   "esfuerzo_h": 5,
+   "prioridad": 1.67,
+   "fuente": "DataForSEO google_ads/search_volume + Labs + SERP Ins 2026-11-06"
+  },
+  {
+   "tema": "coude_main",
+   "nombre": "Coude et main (épicondylite, canal carpien)",
+   "tipo": "patologia",
+   "url": "/epicondylite-canal-carpien/",
+   "accion": "crear",
+   "kw_principal": "elbow tennis",
+   "vol_kw_principal": 590,
+   "volumen_tema": 2410,
+   "n_clusters": 10,
+   "n_keywords": 97,
+   "intencion": "informacional",
+   "serp_tipo": "clínica local",
+   "serp_local": true,
+   "ai_overview": true,
+   "top3": [
+    "1. physiotherapieuniverselle.com",
+    "2. ems-dolorclast.com",
+    "3. orthobullets.com"
+   ],
+   "paa": [
+    "Quelle attelle pour un tennis elbow ?",
+    "Comment guérir le tennis elbow ?",
+    "Quelle est la cause possible d'une douleur au coude droit ?",
+    "Comment appelle-t-on le tennis elbow en français ?"
+   ],
+   "secciones_h2": [
+    "opération canal carpien",
+    "canal carpien : symptômes",
+    "syndrome du canal carpien",
+    "traitement épicondylite",
+    "épicondylite : traitement",
+    "douleur canal carpien",
+    "bursite coude traitement"
+   ],
+   "candidatas_fase2": [
+    "opération canal carpien"
+   ],
+   "kd_media": 0.0,
+   "cpc_max_usd": 0.85,
+   "impacto": 2.57,
+   "confianza": 3,
+   "esfuerzo_h": 5,
+   "prioridad": 1.54,
+   "fuente": "DataForSEO google_ads/search_volume + Labs + SERP Ins 2026-11-06"
+  },
+  {
+   "tema": "hanche",
+   "nombre": "Hanche (prothèse, arthrose)",
+   "tipo": "patologia",
+   "url": "/douleur-de-hanche-protheses/",
+   "accion": "crear",
+   "kw_principal": "prothèse de hanche",
+   "vol_kw_principal": 590,
+   "volumen_tema": 2110,
+   "n_clusters": 7,
+   "n_keywords": 95,
+   "intencion": "informacional",
+   "serp_tipo": "portal médico",
+   "serp_local": true,
+   "ai_overview": true,
+   "top3": [
+    "1. hug.ch · 31 mars 2016",
+    "2. ehc-vd.ch",
+    "3. dr-meyer-orthopedie.fr"
+   ],
+   "paa": [
+    "Comment vivre avec une prothèse de hanche ?",
+    "Est-ce que ça fait mal de se faire opérer de la hanche ?",
+    "Qu'est-ce qu'on ne peut plus faire avec une prothèse de hanche ?",
+    "Combien de temps dure la convalescence après une chirurgie de la hanche ?"
+   ],
+   "secciones_h2": [
+    "douleur hanche",
+    "prothèse totale de hanche",
+    "délai de rétablissement après une prothèse de hanche",
+    "douleur hanche gauche",
+    "prothèse de hanche prix",
+    "rééducation hanche"
+   ],
+   "candidatas_fase2": [
+    "douleur hanche"
+   ],
+   "kd_media": 0.0,
+   "cpc_max_usd": 4.13,
+   "impacto": 2.52,
+   "confianza": 3,
+   "esfuerzo_h": 5,
+   "prioridad": 1.51,
+   "fuente": "DataForSEO google_ads/search_volume + Labs + SERP Ins 2026-11-06"
+  },
+  {
+   "tema": "epaule",
+   "nombre": "Épaule (coiffe, capsulite, tendinite)",
+   "tipo": "patologia",
+   "url": "/lesions-de-lepaule/",
+   "accion": "optimizar",
+   "kw_principal": "coiffe des rotateurs",
+   "vol_kw_principal": 590,
+   "volumen_tema": 2100,
+   "n_clusters": 9,
+   "n_keywords": 85,
+   "intencion": "informacional",
+   "serp_tipo": "portal médico",
+   "serp_local": false,
+   "ai_overview": true,
+   "top3": [
+    "1. medicol.ch",
+    "2. chirurgie-orthopedique-paris.com",
+    "3. chuv.ch"
+   ],
+   "paa": [
+    "Quels sont les symptômes de la coiffe des rotateurs ?",
+    "Comment guérir de la coiffe des rotateurs ?",
+    "Combien de temps faut-il pour récupérer d'une coiffe des rotateurs ?",
+    "Quels sont les 4 muscles de la coiffe des rotateurs ?"
+   ],
+   "secciones_h2": [
+    "douleur au epaule",
+    "coiffe des rotateurs muscles",
+    "douleur epaule gauche",
+    "douleur coiffe des rotateurs",
+    "coiffe des rotateurs exercices",
+    "tendinite coiffe des rotateurs",
+    "test coiffe des rotateurs"
+   ],
+   "candidatas_fase2": [],
+   "kd_media": 0.0,
+   "cpc_max_usd": null,
+   "impacto": 0.86,
+   "confianza": 3,
+   "esfuerzo_h": 2,
+   "prioridad": 1.29,
+   "fuente": "DataForSEO google_ads/search_volume + Labs + SERP Ins 2026-11-06"
+  },
+  {
+   "tema": "vertiges",
+   "nombre": "Vertiges / rééducation vestibulaire",
+   "tipo": "patologia",
+   "url": "/vertiges-reeducation-vestibulaire/",
+   "accion": "crear",
+   "kw_principal": "physio vestibulaire",
+   "vol_kw_principal": 320,
+   "volumen_tema": 480,
+   "n_clusters": 3,
+   "n_keywords": 5,
+   "intencion": "informacional",
+   "serp_tipo": "clínica local",
+   "serp_local": true,
+   "ai_overview": false,
+   "top3": [
+    "1. crr-suva.ch",
+    "2. onedoc.ch",
+    "3. kinetic-center.ch"
+   ],
+   "paa": [
+    "Qu'est-ce qui provoque les vertiges vestibulaires ?",
+    "Pourquoi voir un kiné vestibulaire ?",
+    "Quels sont les exercices de rééducation vestibulaire ?",
+    "Combien de séances de rééducation vestibulaire sont nécessaires pour obtenir un bon résultat ?"
+   ],
+   "secciones_h2": [
+    "rééducation vestibulaire",
+    "vppb traitement"
+   ],
+   "candidatas_fase2": [],
+   "kd_media": 0.0,
+   "cpc_max_usd": 2.66,
+   "impacto": 2.04,
+   "confianza": 3,
+   "esfuerzo_h": 5,
+   "prioridad": 1.22,
+   "fuente": "DataForSEO google_ads/search_volume + Labs + SERP Ins 2026-11-06"
+  },
+  {
+   "tema": "post_op",
+   "nombre": "Rééducation post-opératoire / fracture",
+   "tipo": "patologia",
+   "url": "/physiotherapie-post-operatoire/",
+   "accion": "optimizar",
+   "kw_principal": "rééducation post-opératoire",
+   "vol_kw_principal": 10,
+   "volumen_tema": 10,
+   "n_clusters": 1,
+   "n_keywords": 1,
+   "intencion": "informacional",
+   "serp_tipo": "clínica local",
+   "serp_local": true,
+   "ai_overview": true,
+   "top3": [
+    "1. cliniquecic.ch",
+    "2. bodylab.ch",
+    "3. kinenamur.com"
+   ],
+   "paa": [
+    "Comment se remettre d'une chirurgie ?",
+    "Quel est le rôle du kinésithérapeute post-opératoire en chirurgie abdominale ?",
+    "Combien de temps dure la rééducation du genou après une prothèse de genou ?",
+    "Où aller après une opération ?"
+   ],
+   "secciones_h2": [],
+   "candidatas_fase2": [],
+   "kd_media": null,
+   "cpc_max_usd": null,
+   "impacto": 0.79,
+   "confianza": 3,
+   "esfuerzo_h": 2,
+   "prioridad": 1.19,
+   "fuente": "DataForSEO google_ads/search_volume + Labs + SERP Ins 2026-11-06"
+  },
+  {
+   "tema": "atm",
+   "nombre": "ATM / mâchoire",
+   "tipo": "patologia",
+   "url": "/physiotemporo-mandibulaire-atm/",
+   "accion": "optimizar",
+   "kw_principal": "douleur machoire et oreille",
+   "vol_kw_principal": 90,
+   "volumen_tema": 150,
+   "n_clusters": 2,
+   "n_keywords": 3,
+   "intencion": "informacional",
+   "serp_tipo": "mixta/otros",
+   "serp_local": false,
+   "ai_overview": true,
+   "top3": [
+    "1. ardentis.ch",
+    "2. gatineaudentiste.ca",
+    "3. Plus de 5,3 k vues  ·  il y a 7 mois"
+   ],
+   "paa": [
+    "Pourquoi ai-je mal à la mâchoire droite quand je mange ?",
+    "Comment enlever la tension dans la mâchoire ?",
+    "Quand s'inquiéter d'une douleur à l'oreille ?",
+    "Quelle est la cause de la douleur à la gencive et à la mâchoire ?"
+   ],
+   "secciones_h2": [
+    "atm mâchoire"
+   ],
+   "candidatas_fase2": [],
+   "kd_media": 0.0,
+   "cpc_max_usd": null,
+   "impacto": 0.57,
+   "confianza": 3,
+   "esfuerzo_h": 2,
+   "prioridad": 0.85,
+   "fuente": "DataForSEO google_ads/search_volume + Labs + SERP Ins 2026-11-06"
+  },
+  {
+   "tema": "fibromyalgie",
+   "nombre": "Fibromyalgie",
+   "tipo": "patologia",
+   "url": "/fibromyalgie-physiotherapie/",
+   "accion": "crear",
+   "kw_principal": "traitement fibromyalgie",
+   "vol_kw_principal": 170,
+   "volumen_tema": 360,
+   "n_clusters": 3,
+   "n_keywords": 8,
+   "intencion": "informacional",
+   "serp_tipo": "portal médico",
+   "serp_local": false,
+   "ai_overview": true,
+   "top3": [
+    "1. has-sante.fr",
+    "2. migesplus.ch",
+    "3. remedeelabs.com"
+   ],
+   "paa": [
+    "Quels sont les médicaments pour une fibromyalgie ?",
+    "Où puis-je trouver un spécialiste en fibromyalgie dans le Grand Est ?",
+    "Quel est le lien entre la fibromyalgie et le magnésium ?",
+    "Quels sont les symptômes de la fibromyalgie et comment sont-ils testés ?"
+   ],
+   "secciones_h2": [
+    "fibromyalgie : symptômes",
+    "fibromyalgie en suisse"
+   ],
+   "candidatas_fase2": [],
+   "kd_media": 11.0,
+   "cpc_max_usd": 0.92,
+   "impacto": 0.67,
+   "confianza": 3,
+   "esfuerzo_h": 5,
+   "prioridad": 0.4,
+   "fuente": "DataForSEO google_ads/search_volume + Labs + SERP Ins 2026-11-06"
+  }
+ ]
+}

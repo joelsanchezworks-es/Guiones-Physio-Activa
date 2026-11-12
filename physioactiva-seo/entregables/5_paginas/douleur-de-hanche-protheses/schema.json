@@ -1,0 +1,175 @@
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "Physiotherapy",
+   "@id": "https://physioactiva.ch/#physiotherapy",
+   "name": "Physio Activa",
+   "url": "https://physioactiva.ch/",
+   "telephone": "+41766273838",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rämismatte 21",
+    "postalCode": "3232",
+    "addressLocality": "Ins",
+    "addressRegion": "BE",
+    "addressCountry": "CH"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.0058,
+    "longitude": 7.1063
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+     ],
+     "opens": "08:30",
+     "closes": "19:30"
+    }
+   ],
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Ins"
+    },
+    {
+     "@type": "City",
+     "name": "Anet"
+    },
+    {
+     "@type": "City",
+     "name": "Sugiez"
+    },
+    {
+     "@type": "City",
+     "name": "Mont-Vully"
+    },
+    {
+     "@type": "City",
+     "name": "Murten / Morat"
+    },
+    {
+     "@type": "City",
+     "name": "Kerzers / Chiètres"
+    },
+    {
+     "@type": "City",
+     "name": "Avenches"
+    },
+    {
+     "@type": "City",
+     "name": "La Neuveville"
+    },
+    {
+     "@type": "City",
+     "name": "Neuchâtel"
+    },
+    {
+     "@type": "City",
+     "name": "Biel/Bienne"
+    },
+    {
+     "@type": "City",
+     "name": "Lyss"
+    }
+   ],
+   "availableLanguage": [
+    "fr",
+    "es"
+   ],
+   "priceRange": "[POR CONFIRMAR]"
+  },
+  {
+   "@type": "MedicalWebPage",
+   "@id": "https://physioactiva.ch/douleur-de-hanche-protheses/#webpage",
+   "url": "https://physioactiva.ch/douleur-de-hanche-protheses/",
+   "name": "Prothèse de hanche : rééducation à Ins | Physio Activa",
+   "description": "Prothèse de hanche, arthrose ou douleur de hanche : rééducation en physiothérapie au cabinet à Ins ou à domicile dans le Seeland. Prenez rendez-vous.",
+   "inLanguage": "fr-CH",
+   "isPartOf": {
+    "@id": "https://physioactiva.ch/#website"
+   },
+   "about": {
+    "@type": "MedicalCondition",
+    "name": "Coxarthrose et prothèse totale de hanche"
+   },
+   "lastReviewed": "2026-11-06",
+   "reviewedBy": {
+    "@type": "Person",
+    "name": "[POR CONFIRMAR: physiothérapeute qui valide la page]"
+   },
+   "provider": {
+    "@id": "https://physioactiva.ch/#physiotherapy"
+   }
+  },
+  {
+   "@type": "FAQPage",
+   "@id": "https://physioactiva.ch/douleur-de-hanche-protheses/#faq",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Comment vivre avec une prothèse de hanche ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "La plupart des gestes du quotidien redeviennent possibles avec le temps, selon votre situation. Rester actif, marcher régulièrement et entretenir la force des jambes aide à protéger la hanche. Respectez les précautions indiquées par votre chirurgien, surtout au début."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Qu'est-ce qu'on ne peut plus faire avec une prothèse de hanche ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Cela dépend du type de prothèse et des consignes de votre chirurgien. Certains mouvements ou sports à fort impact, comme courir, sont à discuter avec lui. Le physiothérapeute vous aide à reprendre les activités autorisées en sécurité."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Combien de temps pour marcher normalement après une prothèse de hanche ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Il n'y a pas de durée valable pour tout le monde. La convalescence dépend de votre état avant l'opération et du protocole du chirurgien. Une boiterie peut persister un moment ; un travail ciblé de la force et de la marche vise à la réduire."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Comment monter en voiture après une prothèse de hanche ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "On s'assoit d'abord de côté, siège reculé, puis on fait pivoter les deux jambes ensemble vers l'intérieur. Nous entraînons ce geste avec vous, à domicile ou au cabinet, en respectant vos précautions."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Quel est le traitement de la coxarthrose ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Le médecin propose le traitement adapté : médicaments, infiltrations ou, à un stade avancé, prothèse. La physiothérapie et l'activité physique adaptée font partie de la prise en charge et peuvent aider à garder mobilité et force."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Pourquoi ai-je mal à la hanche couché sur le côté ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Cette douleur latérale peut être liée aux tendons ou aux tissus situés sur le côté de la hanche, mais d'autres causes existent. Un bilan permet de l'évaluer et de proposer des exercices et des conseils de positionnement."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Que faire si ma hanche est bloquée ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Évitez de forcer et consultez si le blocage persiste. Si cela survient après une chute ou avec une prothèse, contactez rapidement un médecin."
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,167 @@
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "Physiotherapy",
+   "@id": "https://physioactiva.ch/#physiotherapy",
+   "name": "Physio Activa",
+   "url": "https://physioactiva.ch/",
+   "telephone": "+41766273838",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rämismatte 21",
+    "postalCode": "3232",
+    "addressLocality": "Ins",
+    "addressRegion": "BE",
+    "addressCountry": "CH"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.0058,
+    "longitude": 7.1063
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+     ],
+     "opens": "08:30",
+     "closes": "19:30"
+    }
+   ],
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Ins"
+    },
+    {
+     "@type": "City",
+     "name": "Anet"
+    },
+    {
+     "@type": "City",
+     "name": "Sugiez"
+    },
+    {
+     "@type": "City",
+     "name": "Mont-Vully"
+    },
+    {
+     "@type": "City",
+     "name": "Murten / Morat"
+    },
+    {
+     "@type": "City",
+     "name": "Kerzers / Chiètres"
+    },
+    {
+     "@type": "City",
+     "name": "Avenches"
+    },
+    {
+     "@type": "City",
+     "name": "La Neuveville"
+    },
+    {
+     "@type": "City",
+     "name": "Neuchâtel"
+    },
+    {
+     "@type": "City",
+     "name": "Biel/Bienne"
+    },
+    {
+     "@type": "City",
+     "name": "Lyss"
+    }
+   ],
+   "availableLanguage": [
+    "fr",
+    "es"
+   ],
+   "priceRange": "[POR CONFIRMAR]"
+  },
+  {
+   "@type": "MedicalWebPage",
+   "@id": "https://physioactiva.ch/lesions-de-lepaule/#webpage",
+   "url": "https://physioactiva.ch/lesions-de-lepaule/",
+   "name": "Coiffe des rotateurs : physio à Ins | Physio Activa",
+   "description": "Coiffe des rotateurs, tendinite ou épaule gelée ? Physiothérapie à Ins et à domicile dans le Seeland, sur ordonnance. Prenez rendez-vous.",
+   "inLanguage": "fr-CH",
+   "isPartOf": {
+    "@id": "https://physioactiva.ch/#website"
+   },
+   "about": {
+    "@type": "MedicalCondition",
+    "name": "Lésion de la coiffe des rotateurs"
+   },
+   "lastReviewed": "2026-11-06",
+   "reviewedBy": {
+    "@type": "Person",
+    "name": "[POR CONFIRMAR: physiothérapeute qui valide la page]"
+   },
+   "provider": {
+    "@id": "https://physioactiva.ch/#physiotherapy"
+   }
+  },
+  {
+   "@type": "FAQPage",
+   "@id": "https://physioactiva.ch/lesions-de-lepaule/#faq",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Quels sont les symptômes d'une lésion de la coiffe des rotateurs ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Douleur sur le côté de l'épaule en levant le bras, douleur la nuit, difficulté à mettre une veste, parfois perte de force. Le médecin confirme le diagnostic, si besoin avec une imagerie."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Combien de temps faut-il pour récupérer d'une lésion de la coiffe des rotateurs ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Cela varie selon la lésion (tendinite, rupture, opération), l'âge et les activités. Aucun délai ne peut être donné sans évaluation."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Comment renforcer la coiffe des rotateurs ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Par des exercices progressifs de rotation, souvent avec élastique, et un travail des muscles de l'omoplate. Leur choix et leur charge dépendent de la douleur et de la lésion : mieux vaut les apprendre avec un physiothérapeute."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Quelle est la différence entre tendinite et arthrose de l'épaule ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "La tendinite touche les tendons et fait mal surtout lors de certains mouvements. L'arthrose est une usure du cartilage, avec raideur et douleur plus globales. Le diagnostic est médical."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Qu'est-ce que la capsulite rétractile ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "C'est une inflammation puis une rétraction de la capsule de l'épaule, qui limite fortement les mouvements et évolue par phases, souvent sur plusieurs mois. La physiothérapie vise à soulager la douleur et à récupérer la mobilité en respectant chaque phase."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Une douleur à l'épaule gauche est-elle grave ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Le plus souvent, elle vient des tendons, des muscles ou de l'articulation. Associée à une douleur dans la poitrine, un essoufflement ou des sueurs, elle impose d'appeler le 144."
+     }
+    }
+   ]
+  }
+ ]
+}

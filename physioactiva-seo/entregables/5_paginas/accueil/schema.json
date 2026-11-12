@@ -1,0 +1,155 @@
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "Physiotherapy",
+   "@id": "https://physioactiva.ch/#physiotherapy",
+   "name": "Physio Activa",
+   "url": "https://physioactiva.ch/",
+   "telephone": "+41766273838",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rämismatte 21",
+    "postalCode": "3232",
+    "addressLocality": "Ins",
+    "addressRegion": "BE",
+    "addressCountry": "CH"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 47.0058,
+    "longitude": 7.1063
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+     ],
+     "opens": "08:30",
+     "closes": "19:30"
+    }
+   ],
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Ins"
+    },
+    {
+     "@type": "City",
+     "name": "Anet"
+    },
+    {
+     "@type": "City",
+     "name": "Sugiez"
+    },
+    {
+     "@type": "City",
+     "name": "Mont-Vully"
+    },
+    {
+     "@type": "City",
+     "name": "Murten / Morat"
+    },
+    {
+     "@type": "City",
+     "name": "Kerzers / Chiètres"
+    },
+    {
+     "@type": "City",
+     "name": "Avenches"
+    },
+    {
+     "@type": "City",
+     "name": "La Neuveville"
+    },
+    {
+     "@type": "City",
+     "name": "Neuchâtel"
+    },
+    {
+     "@type": "City",
+     "name": "Biel/Bienne"
+    },
+    {
+     "@type": "City",
+     "name": "Lyss"
+    }
+   ],
+   "availableLanguage": [
+    "fr",
+    "es"
+   ],
+   "priceRange": "[POR CONFIRMAR]"
+  },
+  {
+   "@type": "WebPage",
+   "@id": "https://physioactiva.ch/#webpage",
+   "url": "https://physioactiva.ch/",
+   "name": "Physio à Ins (Anet) et à domicile | Physio Activa",
+   "description": "Physio à Ins (Anet) et physiothérapie à domicile dans le Seeland et les Trois-Lacs. Remboursé sur ordonnance (LAMal, LAA). Réservez en ligne.",
+   "inLanguage": "fr-CH",
+   "isPartOf": {
+    "@id": "https://physioactiva.ch/#website"
+   },
+   "about": {
+    "@id": "https://physioactiva.ch/#physiotherapy"
+   },
+   "lastReviewed": "2026-11-06",
+   "reviewedBy": {
+    "@type": "Person",
+    "name": "[POR CONFIRMAR: physiothérapeute qui valide la page]"
+   }
+  },
+  {
+   "@type": "FAQPage",
+   "@id": "https://physioactiva.ch/#faq",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Faut-il une ordonnance pour aller chez le physio ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Pour que les séances soient remboursées par la LAMal, la LAA, l'AI ou l'AM, une prescription médicale est nécessaire. Elle est établie par votre médecin, qui indique le nombre de séances prescrites. Sans ordonnance, les séances sont à votre charge."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Quelle est la différence entre un kiné et un physiothérapeute ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "En France et en Belgique, on parle souvent de « kiné » (kinésithérapeute). En Suisse, le terme officiel est physiothérapeute : c'est la même profession de santé, reconnue et réglementée. Le contenu exact de la formation varie d'un pays à l'autre."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Combien coûte une séance de physiothérapie en Suisse ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "En Suisse, les tarifs de physiothérapie sont fixés par une structure tarifaire nationale convenue avec les assureurs. Avec une ordonnance, l'assurance prend en charge les séances, sous réserve de votre franchise et de votre quote-part. Pour toute question sur le tarif appliqué : `[POR CONFIRMAR]`."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Venez-vous à domicile à Morat, Neuchâtel ou Bienne ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Oui, nous nous déplaçons dans le Seeland et la région des Trois-Lacs, notamment à Morat, Neuchâtel, Bienne, Lyss, La Neuveville, Avenches, Chiètres et dans le Vully. Contactez-nous pour vérifier votre adresse."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Comment prendre rendez-vous ?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Vous pouvez réserver directement en ligne, nous appeler au 076 627 38 38 ou nous écrire sur WhatsApp au +41 76 627 38 38."
+     }
+    }
+   ]
+  }
+ ]
+}

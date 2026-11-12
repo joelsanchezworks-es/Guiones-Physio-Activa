@@ -1,0 +1,456 @@
+{
+ "sugiez": {
+  "ville": "Sugiez (Mont-Vully)",
+  "lote": "A",
+  "url": "/physio-a-sugiez/",
+  "generiques": [
+   [
+    110,
+    "physio vully"
+   ]
+  ],
+  "services_locaux": [],
+  "volume_generique_total": 110,
+  "note_de": "Las keywords en alemán (physiotherapie, lymphdrainage, medizinische massage) son de la fase DE: no se usan en el texto francés, solo indican demanda."
+ },
+ "neuchatel": {
+  "ville": "Neuchâtel",
+  "lote": "A",
+  "url": "/physio-a-neuchatel/",
+  "generiques": [
+   [
+    590,
+    "physio neuchatel"
+   ],
+   [
+    390,
+    "physiothérapie neuchatel"
+   ],
+   [
+    390,
+    "physiothérapeute neuchatel"
+   ],
+   [
+    90,
+    "physiothérapie neuchâtel"
+   ],
+   [
+    90,
+    "physiothérapeute neuchâtel"
+   ],
+   [
+    50,
+    "physio neuchâtel"
+   ]
+  ],
+  "services_locaux": [
+   [
+    170,
+    "drainage lymphatique neuchatel",
+    "/drainage-lymphatique/"
+   ],
+   [
+    110,
+    "drainage lymphatique neuchâtel",
+    "/drainage-lymphatique/"
+   ],
+   [
+    20,
+    "physio sport neuchâtel",
+    "/physio-du-sport/"
+   ],
+   [
+    20,
+    "massage thérapeutique neuchatel",
+    "/massage-therapeutique/"
+   ],
+   [
+    10,
+    "physio sport neuchatel",
+    "/physio-du-sport/"
+   ],
+   [
+    10,
+    "dry needling neuchatel",
+    "/physioactiva-puncture-seche/"
+   ]
+  ],
+  "volume_generique_total": 1600,
+  "note_de": "Las keywords en alemán (physiotherapie, lymphdrainage, medizinische massage) son de la fase DE: no se usan en el texto francés, solo indican demanda."
+ },
+ "la-neuveville": {
+  "ville": "La Neuveville",
+  "lote": "A",
+  "url": "/physio-a-la-neuveville/",
+  "generiques": [
+   [
+    50,
+    "physio la neuveville"
+   ]
+  ],
+  "services_locaux": [],
+  "volume_generique_total": 50,
+  "note_de": "Las keywords en alemán (physiotherapie, lymphdrainage, medizinische massage) son de la fase DE: no se usan en el texto francés, solo indican demanda."
+ },
+ "avenches": {
+  "ville": "Avenches",
+  "lote": "A",
+  "url": "/physio-a-avenches/",
+  "generiques": [
+   [
+    50,
+    "physiothérapie avenches"
+   ]
+  ],
+  "services_locaux": [
+   [
+    10,
+    "drainage lymphatique avenches",
+    "/drainage-lymphatique/"
+   ]
+  ],
+  "volume_generique_total": 50,
+  "note_de": "Las keywords en alemán (physiotherapie, lymphdrainage, medizinische massage) son de la fase DE: no se usan en el texto francés, solo indican demanda."
+ },
+ "lyss": {
+  "ville": "Lyss",
+  "lote": "A",
+  "url": "/physio-a-lyss/",
+  "generiques": [
+   [
+    390,
+    "physio lyss"
+   ]
+  ],
+  "services_locaux": [
+   [
+    40,
+    "medizinische massage lyss",
+    "/massage-therapeutique/"
+   ],
+   [
+    40,
+    "lymphdrainage lyss",
+    "/drainage-lymphatique/"
+   ]
+  ],
+  "volume_generique_total": 390,
+  "note_de": "Las keywords en alemán (physiotherapie, lymphdrainage, medizinische massage) son de la fase DE: no se usan en el texto francés, solo indican demanda."
+ },
+ "bienne": {
+  "ville": "Bienne (Biel)",
+  "lote": "A",
+  "url": "/physio-a-bienne/",
+  "generiques": [
+   [
+    720,
+    "physiotherapie biel"
+   ],
+   [
+    720,
+    "physio biel"
+   ],
+   [
+    320,
+    "physiothérapeute bienne"
+   ],
+   [
+    320,
+    "physiotherapie bienne"
+   ]
+  ],
+  "services_locaux": [
+   [
+    90,
+    "drainage lymphatique bienne",
+    "/drainage-lymphatique/"
+   ],
+   [
+    70,
+    "medizinische massage biel",
+    "/massage-therapeutique/"
+   ],
+   [
+    70,
+    "lymphdrainage biel",
+    "/drainage-lymphatique/"
+   ]
+  ],
+  "volume_generique_total": 2080,
+  "note_de": "Las keywords en alemán (physiotherapie, lymphdrainage, medizinische massage) son de la fase DE: no se usan en el texto francés, solo indican demanda."
+ },
+ "fribourg": {
+  "ville": "Fribourg",
+  "lote": "A",
+  "url": "/physio-a-fribourg/",
+  "generiques": [
+   [
+    260,
+    "physiothérapie fribourg"
+   ],
+   [
+    50,
+    "kiné fribourg"
+   ],
+   [
+    20,
+    "physiotherapie freiburg"
+   ],
+   [
+    20,
+    "physiotherapeut freiburg"
+   ]
+  ],
+  "services_locaux": [
+   [
+    260,
+    "drainage lymphatique fribourg",
+    "/drainage-lymphatique/"
+   ],
+   [
+    50,
+    "massage thérapeutique fribourg",
+    "/massage-therapeutique/"
+   ],
+   [
+    30,
+    "physio à domicile fribourg",
+    "/physiotherapeute-a-domicile/"
+   ],
+   [
+    20,
+    "dry needling fribourg",
+    "/physioactiva-puncture-seche/"
+   ],
+   [
+    10,
+    "physio sport fribourg",
+    "/physio-du-sport/"
+   ],
+   [
+    10,
+    "medizinische massage freiburg",
+    "/massage-therapeutique/"
+   ],
+   [
+    10,
+    "lymphdrainage freiburg",
+    "/drainage-lymphatique/"
+   ]
+  ],
+  "volume_generique_total": 350,
+  "note_de": "Las keywords en alemán (physiotherapie, lymphdrainage, medizinische massage) son de la fase DE: no se usan en el texto francés, solo indican demanda."
+ },
+ "payerne": {
+  "ville": "Payerne",
+  "lote": "A",
+  "url": "/physio-a-payerne/",
+  "generiques": [
+   [
+    320,
+    "physio payerne"
+   ],
+   [
+    140,
+    "physiothérapie payerne"
+   ],
+   [
+    140,
+    "physiothérapeute payerne"
+   ],
+   [
+    20,
+    "physiotherapie payerne"
+   ]
+  ],
+  "services_locaux": [
+   [
+    50,
+    "drainage lymphatique payerne",
+    "/drainage-lymphatique/"
+   ]
+  ],
+  "volume_generique_total": 620,
+  "note_de": "Las keywords en alemán (physiotherapie, lymphdrainage, medizinische massage) son de la fase DE: no se usan en el texto francés, solo indican demanda."
+ },
+ "morat": {
+  "ville": "Morat (Murten)",
+  "lote": "B",
+  "url": "/physio-a-morat/",
+  "generiques": [],
+  "services_locaux": [
+   [
+    10,
+    "medizinische massage murten",
+    "/massage-therapeutique/"
+   ],
+   [
+    10,
+    "lymphdrainage murten",
+    "/drainage-lymphatique/"
+   ]
+  ],
+  "volume_generique_total": 0,
+  "note_de": "Las keywords en alemán (physiotherapie, lymphdrainage, medizinische massage) son de la fase DE: no se usan en el texto francés, solo indican demanda."
+ },
+ "chietres": {
+  "ville": "Chiètres (Kerzers)",
+  "lote": "B",
+  "url": "/physio-a-chietres/",
+  "generiques": [],
+  "services_locaux": [],
+  "volume_generique_total": 0,
+  "note_de": "Las keywords en alemán (physiotherapie, lymphdrainage, medizinische massage) son de la fase DE: no se usan en el texto francés, solo indican demanda."
+ },
+ "estavayer": {
+  "ville": "Estavayer-le-Lac",
+  "lote": "B",
+  "url": "/physio-a-estavayer/",
+  "generiques": [
+   [
+    170,
+    "physio estavayer"
+   ],
+   [
+    40,
+    "physiothérapie estavayer-le-lac"
+   ]
+  ],
+  "services_locaux": [
+   [
+    40,
+    "drainage lymphatique estavayer",
+    "/drainage-lymphatique/"
+   ]
+  ],
+  "volume_generique_total": 210,
+  "note_de": "Las keywords en alemán (physiotherapie, lymphdrainage, medizinische massage) son de la fase DE: no se usan en el texto francés, solo indican demanda."
+ },
+ "yvonand": {
+  "ville": "Yvonand",
+  "lote": "B",
+  "url": "/physio-a-yvonand/",
+  "generiques": [
+   [
+    170,
+    "physio yvonand"
+   ],
+   [
+    50,
+    "physiothérapie yvonand"
+   ]
+  ],
+  "services_locaux": [],
+  "volume_generique_total": 220,
+  "note_de": "Las keywords en alemán (physiotherapie, lymphdrainage, medizinische massage) son de la fase DE: no se usan en el texto francés, solo indican demanda."
+ },
+ "yverdon": {
+  "ville": "Yverdon-les-Bains",
+  "lote": "B",
+  "url": "/physio-a-yverdon/",
+  "generiques": [
+   [
+    480,
+    "physiotherapie yverdon"
+   ],
+   [
+    480,
+    "physio yverdon"
+   ],
+   [
+    260,
+    "physiothérapie yverdon"
+   ],
+   [
+    260,
+    "physiothérapeute yverdon"
+   ],
+   [
+    70,
+    "kiné yverdon"
+   ],
+   [
+    50,
+    "physiothérapie yverdon-les-bains"
+   ],
+   [
+    50,
+    "physiothérapeute yverdon-les-bains"
+   ]
+  ],
+  "services_locaux": [
+   [
+    170,
+    "drainage lymphatique yverdon",
+    "/drainage-lymphatique/"
+   ],
+   [
+    30,
+    "physio sport yverdon",
+    "/physio-du-sport/"
+   ],
+   [
+    10,
+    "massage thérapeutique yverdon",
+    "/massage-therapeutique/"
+   ]
+  ],
+  "volume_generique_total": 1650,
+  "note_de": "Las keywords en alemán (physiotherapie, lymphdrainage, medizinische massage) son de la fase DE: no se usan en el texto francés, solo indican demanda."
+ },
+ "lausanne": {
+  "ville": "Lausanne",
+  "lote": "B",
+  "url": "/physio-a-lausanne/",
+  "generiques": [
+   [
+    880,
+    "physio lausanne"
+   ],
+   [
+    480,
+    "physiothérapeute lausanne"
+   ],
+   [
+    170,
+    "physiotherapie lausanne"
+   ],
+   [
+    140,
+    "kiné lausanne"
+   ],
+   [
+    20,
+    "centre de physiothérapie lausanne"
+   ],
+   [
+    10,
+    "cabinet de physiothérapie lausanne"
+   ]
+  ],
+  "services_locaux": [
+   [
+    590,
+    "drainage lymphatique lausanne",
+    "/drainage-lymphatique/"
+   ],
+   [
+    90,
+    "massage thérapeutique lausanne",
+    "/massage-therapeutique/"
+   ],
+   [
+    50,
+    "physio sport lausanne",
+    "/physio-du-sport/"
+   ],
+   [
+    40,
+    "dry needling lausanne",
+    "/physioactiva-puncture-seche/"
+   ]
+  ],
+  "volume_generique_total": 1700,
+  "note_de": "Las keywords en alemán (physiotherapie, lymphdrainage, medizinische massage) son de la fase DE: no se usan en el texto francés, solo indican demanda."
+ }
+}

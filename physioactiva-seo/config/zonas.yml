@@ -1,0 +1,475 @@
+sugiez:
+  nom_fr: Sugiez
+  nom_titre: Sugiez (Mont-Vully)
+  url: /physio-a-sugiez/
+  lote: A
+  km_depuis_ins: 4.9
+  km_fuente: distance en ligne droite calculée depuis le centre d'Ins (investigación 2026-11-06)
+  keywords:
+    physio vully: 110
+  volumen_total: 110
+  maps_top3:
+  - Physio du Lac
+  - Côté Massage
+  - PhysiOptima
+  maps_pos_physioactiva: 9
+  commune: Mont-Vully
+  district: district du Lac
+  canton: Fribourg
+  langue_locale: francophone
+  hopital_reference: HFR Meyriez-Murten
+  hopital_source: https://www.h-fr.ch
+  localites_voisines:
+  - Praz
+  - Nant
+  - Môtier
+  - Lugnorre
+  - Salavaux
+  - Cudrefin
+  source_publique: https://fr.wikipedia.org/wiki/Mont-Vully
+  domicile_disponible: '[À CONFIRMER]'
+  jours_passage: '[À CONFIRMER]'
+  delai_premier_rdv: '[À CONFIRMER]'
+  faq_locales_serp: []
+  verif_note: 'Datos públicos (comuna, distrito, idioma, hospital, localidades vecinas) aportados con fuente; no se pudieron abrir en línea en esta sesión (red restringida): revisar antes de publicar.'
+neuchatel:
+  nom_fr: Neuchâtel
+  nom_titre: Neuchâtel
+  url: /physio-a-neuchatel/
+  lote: A
+  km_depuis_ins: 13.4
+  km_fuente: distance en ligne droite calculée depuis le centre d'Ins (investigación 2026-11-06)
+  keywords:
+    physio neuchâtel: 50
+    physiothérapeute neuchâtel: 90
+    physiothérapie neuchâtel: 90
+  volumen_total: 230
+  maps_top3:
+  - Physio & Training Neuchâtel
+  - Zénith Physio Sàrl
+  - Brigitte Faivre aes Terra Pi
+  maps_pos_physioactiva: null
+  commune: Neuchâtel
+  district: Littoral neuchâtelois
+  canton: Neuchâtel
+  langue_locale: francophone
+  hopital_reference: RHNe – site de Pourtalès
+  hopital_source: https://www.rhne.ch
+  localites_voisines:
+  - Hauterive
+  - Saint-Blaise
+  - La Tène (Marin-Epagnier)
+  - Auvernier
+  - Peseux
+  source_publique: https://fr.wikipedia.org/wiki/Neuchâtel
+  domicile_disponible: '[À CONFIRMER]'
+  jours_passage: '[À CONFIRMER]'
+  delai_premier_rdv: '[À CONFIRMER]'
+  faq_locales_serp:
+  - Quel est le tarif d'une séance de physiothérapie ?
+  - Est-ce que la physiothérapie est remboursée en Suisse ?
+  - Est-ce que la physiothérapie est remboursée ?
+  - Quel est le prix d'une séance de physiothérapie en Suisse ?
+  - Quel est le rôle d'un physiothérapeute ?
+  verif_note: 'Datos públicos (comuna, distrito, idioma, hospital, localidades vecinas) aportados con fuente; no se pudieron abrir en línea en esta sesión (red restringida): revisar antes de publicar.'
+la-neuveville:
+  nom_fr: La Neuveville
+  nom_titre: La Neuveville
+  url: /physio-a-la-neuveville/
+  lote: A
+  km_depuis_ins: 6.6
+  km_fuente: distance en ligne droite calculée depuis le centre d'Ins (investigación 2026-11-06)
+  keywords:
+    physio la neuveville: 50
+  volumen_total: 50
+  maps_top3:
+  - Physiothérapie Le Cab' des Pavés
+  - Physiothérapie Pédiatrique Lisiane Suter
+  - kinesab
+  maps_pos_physioactiva: null
+  commune: La Neuveville
+  district: arrondissement administratif du Jura bernois
+  canton: Berne
+  langue_locale: francophone
+  hopital_reference: Centre hospitalier Bienne
+  hopital_source: https://www.spitalzentrum-biel.ch
+  localites_voisines:
+  - Le Landeron
+  - Gléresse (Ligerz)
+  - Prêles
+  - Diesse
+  source_publique: https://fr.wikipedia.org/wiki/La_Neuveville
+  domicile_disponible: '[À CONFIRMER]'
+  jours_passage: '[À CONFIRMER]'
+  delai_premier_rdv: '[À CONFIRMER]'
+  faq_locales_serp: []
+  verif_note: 'Datos públicos (comuna, distrito, idioma, hospital, localidades vecinas) aportados con fuente; no se pudieron abrir en línea en esta sesión (red restringida): revisar antes de publicar.'
+avenches:
+  nom_fr: Avenches
+  nom_titre: Avenches
+  url: /physio-a-avenches/
+  lote: A
+  km_depuis_ins: 14.8
+  km_fuente: distance en ligne droite calculée depuis le centre d'Ins (investigación 2026-11-06)
+  keywords:
+    physiothérapie avenches: 50
+  volumen_total: 50
+  maps_top3:
+  - Jane Matthey
+  - Physio plus Avenches
+  - Physio Vully
+  maps_pos_physioactiva: null
+  commune: Avenches
+  district: district de la Broye-Vully
+  canton: Vaud
+  langue_locale: francophone
+  hopital_reference: HIB – Hôpital intercantonal de la Broye (Payerne)
+  hopital_source: https://fr.wikipedia.org/wiki/Hôpital_intercantonal_de_la_Broye
+  localites_voisines:
+  - Faoug
+  - Donatyre
+  - Oleyres
+  - Salavaux
+  - Domdidier
+  source_publique: https://fr.wikipedia.org/wiki/Avenches
+  domicile_disponible: '[À CONFIRMER]'
+  jours_passage: '[À CONFIRMER]'
+  delai_premier_rdv: '[À CONFIRMER]'
+  faq_locales_serp: []
+  verif_note: 'Datos públicos (comuna, distrito, idioma, hospital, localidades vecinas) aportados con fuente; no se pudieron abrir en línea en esta sesión (red restringida): revisar antes de publicar.'
+lyss:
+  nom_fr: Lyss
+  nom_titre: Lyss
+  url: /physio-a-lyss/
+  lote: A
+  km_depuis_ins: 17.0
+  km_fuente: distance en ligne droite calculée depuis le centre d'Ins (investigación 2026-11-06)
+  keywords:
+    physio lyss: 390
+  volumen_total: 390
+  maps_top3:
+  - Physio Orange
+  - Physio Hubacher
+  - Mr. Alexander Hammacher
+  maps_pos_physioactiva: null
+  commune: Lyss
+  district: arrondissement administratif du Seeland
+  canton: Berne
+  langue_locale: germanophone
+  hopital_reference: Spital Aarberg (Insel Gruppe)
+  hopital_source: https://www.insel.ch
+  localites_voisines:
+  - Aarberg
+  - Kappelen
+  - Worben
+  - Busswil
+  - Grossaffoltern
+  source_publique: https://fr.wikipedia.org/wiki/Lyss
+  domicile_disponible: '[À CONFIRMER]'
+  jours_passage: '[À CONFIRMER]'
+  delai_premier_rdv: '[À CONFIRMER]'
+  faq_locales_serp: []
+  verif_note: 'Datos públicos (comuna, distrito, idioma, hospital, localidades vecinas) aportados con fuente; no se pudieron abrir en línea en esta sesión (red restringida): revisar antes de publicar.'
+bienne:
+  nom_fr: Bienne
+  nom_titre: Bienne (Biel)
+  url: /physio-a-bienne/
+  lote: A
+  km_depuis_ins: 18.0
+  km_fuente: distance en ligne droite calculée depuis le centre d'Ins (investigación 2026-11-06)
+  keywords:
+    physio biel: 720
+    physiothérapeute bienne: 320
+  volumen_total: 1040
+  maps_top3:
+  - Physiotherapie
+  - Physio Quai37
+  - Physiothérapie Knutti
+  maps_pos_physioactiva: null
+  commune: Biel/Bienne
+  district: arrondissement administratif de Biel/Bienne
+  canton: Berne
+  langue_locale: bilingue (allemand et français)
+  hopital_reference: Centre hospitalier Bienne
+  hopital_source: https://www.spitalzentrum-biel.ch
+  localites_voisines:
+  - Nidau
+  - Brügg
+  - Port
+  - Ipsach
+  - Evilard
+  source_publique: https://fr.wikipedia.org/wiki/Bienne
+  domicile_disponible: '[À CONFIRMER]'
+  jours_passage: '[À CONFIRMER]'
+  delai_premier_rdv: '[À CONFIRMER]'
+  faq_locales_serp: []
+  verif_note: 'Datos públicos (comuna, distrito, idioma, hospital, localidades vecinas) aportados con fuente; no se pudieron abrir en línea en esta sesión (red restringida): revisar antes de publicar.'
+fribourg:
+  nom_fr: Fribourg
+  nom_titre: Fribourg
+  url: /physio-a-fribourg/
+  lote: A
+  km_depuis_ins: 22.6
+  km_fuente: distance en ligne droite calculée depuis le centre d'Ins (investigación 2026-11-06)
+  keywords:
+    physio à domicile fribourg: 30
+    physiothérapie fribourg: 260
+  volumen_total: 290
+  maps_top3:
+  - Physio Club Fribourg
+  - Guyot Nelly
+  - Nager Monnard Séverine
+  maps_pos_physioactiva: null
+  commune: Fribourg
+  district: district de la Sarine
+  canton: Fribourg
+  langue_locale: bilingue (majorité francophone)
+  hopital_reference: HFR Fribourg – Hôpital cantonal
+  hopital_source: https://www.h-fr.ch
+  localites_voisines:
+  - Villars-sur-Glâne
+  - Marly
+  - Givisiez
+  - Granges-Paccot
+  source_publique: https://fr.wikipedia.org/wiki/Fribourg_(Suisse)
+  domicile_disponible: '[À CONFIRMER]'
+  jours_passage: '[À CONFIRMER]'
+  delai_premier_rdv: '[À CONFIRMER]'
+  faq_locales_serp: []
+  verif_note: 'Datos públicos (comuna, distrito, idioma, hospital, localidades vecinas) aportados con fuente; no se pudieron abrir en línea en esta sesión (red restringida): revisar antes de publicar.'
+payerne:
+  nom_fr: Payerne
+  nom_titre: Payerne
+  url: /physio-a-payerne/
+  lote: A
+  km_depuis_ins: 24.1
+  km_fuente: distance en ligne droite calculée depuis le centre d'Ins (investigación 2026-11-06)
+  keywords:
+    physio payerne: 320
+    physiothérapeute payerne: 140
+    physiothérapie payerne: 140
+  volumen_total: 600
+  maps_top3:
+  - Physiothérapie Patricia Le Bec
+  - Physio de la Broye Sàrl
+  - Attenelle Van Puyenbroeck Katty
+  maps_pos_physioactiva: null
+  commune: Payerne
+  district: district de la Broye-Vully
+  canton: Vaud
+  langue_locale: francophone
+  hopital_reference: HIB – Hôpital intercantonal de la Broye (site de Payerne)
+  hopital_source: https://fr.wikipedia.org/wiki/Hôpital_intercantonal_de_la_Broye
+  localites_voisines:
+  - Corcelles-près-Payerne
+  - Grandcour
+  - Trey
+  - Valbroye
+  source_publique: https://fr.wikipedia.org/wiki/Payerne
+  domicile_disponible: '[À CONFIRMER]'
+  jours_passage: '[À CONFIRMER]'
+  delai_premier_rdv: '[À CONFIRMER]'
+  faq_locales_serp:
+  - Comment choisir son physiothérapeute ?
+  - Quel est le nouveau tarif pour la physiothérapie ?
+  - Comment se passe une séance de physiothérapie ?
+  - Quel est le tarif d'un physiothérapeute ?
+  verif_note: 'Datos públicos (comuna, distrito, idioma, hospital, localidades vecinas) aportados con fuente; no se pudieron abrir en línea en esta sesión (red restringida): revisar antes de publicar.'
+morat:
+  nom_fr: Morat
+  nom_titre: Morat (Murten)
+  url: /physio-a-morat/
+  lote: B
+  km_depuis_ins: 8.7
+  km_fuente: distance en ligne droite calculée depuis le centre d'Ins (investigación 2026-11-06)
+  keywords: {}
+  volumen_total: 0
+  maps_top3:
+  - Physio du Parc
+  - Physio Murten GmbH
+  - Physiotherapie Sigrid Schwab GmbH
+  maps_pos_physioactiva: null
+  commune: Murten/Morat
+  district: district du Lac
+  canton: Fribourg
+  langue_locale: majoritairement germanophone, avec une minorité francophone
+  hopital_reference: HFR Meyriez-Murten
+  hopital_source: https://www.h-fr.ch
+  localites_voisines:
+  - Meyriez
+  - Muntelier
+  - Greng
+  - Courgevaux
+  - Galmiz
+  source_publique: https://fr.wikipedia.org/wiki/Morat
+  domicile_disponible: '[À CONFIRMER]'
+  jours_passage: '[À CONFIRMER]'
+  delai_premier_rdv: '[À CONFIRMER]'
+  faq_locales_serp: []
+  verif_note: 'Datos públicos (comuna, distrito, idioma, hospital, localidades vecinas) aportados con fuente; no se pudieron abrir en línea en esta sesión (red restringida): revisar antes de publicar.'
+chietres:
+  nom_fr: Kerzers
+  nom_titre: Kerzers (Chiètres)
+  url: /physio-a-kerzers/
+  lote: B
+  km_depuis_ins: 7.6
+  km_fuente: distance en ligne droite calculée depuis le centre d'Ins (investigación 2026-11-06)
+  keywords: {}
+  volumen_total: 0
+  maps_top3:
+  - Physiotherapie Kerzers
+  - Mr. Albert Klinkenbergh Physiotherapie
+  - PhysiOptima
+  maps_pos_physioactiva: null
+  commune: Kerzers/Chiètres
+  district: district du Lac
+  canton: Fribourg
+  langue_locale: germanophone
+  hopital_reference: HFR Meyriez-Murten
+  hopital_source: https://www.h-fr.ch
+  localites_voisines:
+  - Fräschels
+  - Ried bei Kerzers
+  - Galmiz
+  - Agriswil
+  source_publique: https://fr.wikipedia.org/wiki/Chiètres
+  domicile_disponible: '[À CONFIRMER]'
+  jours_passage: '[À CONFIRMER]'
+  delai_premier_rdv: '[À CONFIRMER]'
+  faq_locales_serp: []
+  verif_note: 'Datos públicos (comuna, distrito, idioma, hospital, localidades vecinas) aportados con fuente; no se pudieron abrir en línea en esta sesión (red restringida): revisar antes de publicar.'
+estavayer:
+  nom_fr: Estavayer
+  nom_titre: Estavayer-le-Lac
+  url: /physio-a-estavayer/
+  lote: B
+  km_depuis_ins: 26.4
+  km_fuente: distance en ligne droite calculée depuis le centre d'Ins (investigación 2026-11-06)
+  keywords:
+    physio estavayer: 170
+    physiothérapie estavayer-le-lac: 40
+  volumen_total: 210
+  maps_top3:
+  - Proactive Physio
+  - Ōcab Physiothérapie
+  - Santé Performance - Physiothérapie - Estavayer-le-Lac
+  maps_pos_physioactiva: null
+  commune: Estavayer
+  district: district de la Broye
+  canton: Fribourg
+  langue_locale: francophone
+  hopital_reference: HIB – Hôpital intercantonal de la Broye (site d'Estavayer-le-Lac)
+  hopital_source: https://fr.wikipedia.org/wiki/Hôpital_intercantonal_de_la_Broye
+  localites_voisines:
+  - Font
+  - Cheyres-Châbles
+  - Sévaz
+  - Les Montets
+  source_publique: https://fr.wikipedia.org/wiki/Estavayer_(Fribourg)
+  domicile_disponible: '[À CONFIRMER]'
+  jours_passage: '[À CONFIRMER]'
+  delai_premier_rdv: '[À CONFIRMER]'
+  faq_locales_serp: []
+  verif_note: 'Datos públicos (comuna, distrito, idioma, hospital, localidades vecinas) aportados con fuente; no se pudieron abrir en línea en esta sesión (red restringida): revisar antes de publicar.'
+yvonand:
+  nom_fr: Yvonand
+  nom_titre: Yvonand
+  url: /physio-a-yvonand/
+  lote: B
+  km_depuis_ins: 35.9
+  km_fuente: distance en ligne droite calculée depuis le centre d'Ins (investigación 2026-11-06)
+  keywords:
+    physio yvonand: 170
+    physiothérapie yvonand: 50
+  volumen_total: 220
+  maps_top3:
+  - Cabinet du Parc
+  - Krystian Sobkowiak - Physiothérapeute
+  - Cabinet De Physiothérapie Des Vergers
+  maps_pos_physioactiva: null
+  commune: Yvonand
+  district: district du Jura-Nord vaudois
+  canton: Vaud
+  langue_locale: francophone
+  hopital_reference: eHnv – Yverdon-les-Bains
+  hopital_source: https://www.ehnv.ch
+  localites_voisines:
+  - Chêne-Pâquier
+  - Démoret
+  - Rovray
+  - Cheyres-Châbles
+  source_publique: https://fr.wikipedia.org/wiki/Yvonand
+  domicile_disponible: '[À CONFIRMER]'
+  jours_passage: '[À CONFIRMER]'
+  delai_premier_rdv: '[À CONFIRMER]'
+  faq_locales_serp: []
+  verif_note: 'Datos públicos (comuna, distrito, idioma, hospital, localidades vecinas) aportados con fuente; no se pudieron abrir en línea en esta sesión (red restringida): revisar antes de publicar.'
+yverdon:
+  nom_fr: Yverdon-les-Bains
+  nom_titre: Yverdon-les-Bains
+  url: /physio-a-yverdon/
+  lote: B
+  km_depuis_ins: 43.5
+  km_fuente: distance en ligne droite calculée depuis le centre d'Ins (investigación 2026-11-06)
+  keywords:
+    physio yverdon: 480
+    physiothérapeute yverdon: 260
+    physiothérapeute yverdon-les-bains: 50
+    physiothérapie yverdon: 260
+    physiothérapie yverdon-les-bains: 50
+  volumen_total: 1100
+  maps_top3:
+  - Physiothérapie Satellite
+  - SB PHYSIO Yverdon-les-bains _ Physiothérapie Ambulatoire & Domicile
+  - Physiothérapie Rute Estevao
+  maps_pos_physioactiva: null
+  commune: Yverdon-les-Bains
+  district: district du Jura-Nord vaudois
+  canton: Vaud
+  langue_locale: francophone
+  hopital_reference: eHnv – Yverdon-les-Bains
+  hopital_source: https://www.ehnv.ch
+  localites_voisines:
+  - Grandson
+  - Montagny-près-Yverdon
+  - Cheseaux-Noréaz
+  - Treycovagnes
+  source_publique: https://fr.wikipedia.org/wiki/Yverdon-les-Bains
+  domicile_disponible: '[À CONFIRMER]'
+  jours_passage: '[À CONFIRMER]'
+  delai_premier_rdv: '[À CONFIRMER]'
+  faq_locales_serp: []
+  verif_note: 'Datos públicos (comuna, distrito, idioma, hospital, localidades vecinas) aportados con fuente; no se pudieron abrir en línea en esta sesión (red restringida): revisar antes de publicar.'
+lausanne:
+  nom_fr: Lausanne
+  nom_titre: Lausanne
+  url: /physio-a-lausanne/
+  lote: B
+  km_depuis_ins: 65.0
+  km_fuente: distance en ligne droite calculée depuis le centre d'Ins (investigación 2026-11-06)
+  keywords:
+    physio lausanne: 880
+    physiothérapeute lausanne: 480
+  volumen_total: 1360
+  maps_top3:
+  - Esprit Sport Physiothérapie
+  - TD Physiothérapie - Thomas Dereme
+  - Ostéopathe Lausanne Boris Hueber
+  maps_pos_physioactiva: null
+  commune: Lausanne
+  district: district de Lausanne
+  canton: Vaud
+  langue_locale: francophone
+  hopital_reference: CHUV – Centre hospitalier universitaire vaudois
+  hopital_source: https://www.chuv.ch
+  localites_voisines:
+  - Pully
+  - Prilly
+  - Renens
+  - Épalinges
+  source_publique: https://fr.wikipedia.org/wiki/Lausanne
+  domicile_disponible: '[À CONFIRMER]'
+  jours_passage: '[À CONFIRMER]'
+  delai_premier_rdv: '[À CONFIRMER]'
+  faq_locales_serp: []
+  verif_note: 'Datos públicos (comuna, distrito, idioma, hospital, localidades vecinas) aportados con fuente; no se pudieron abrir en línea en esta sesión (red restringida): revisar antes de publicar.'
