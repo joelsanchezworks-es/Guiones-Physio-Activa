@@ -1,0 +1,1941 @@
+[
+ {
+  "url": "https://physioactiva.ch/",
+  "code": 200,
+  "t": 2.32,
+  "title": "Accueil - Physio Activa",
+  "meta": "Physiothérapie à Anet, au sein de l'InsGym. Rendez-vous disponibles la semaine même, jusqu'à 20h, et pris en charge par votre assurance sur présentation d'une ordonnance. Réservez en ligne.",
+  "canonical": "https://physioactiva.ch/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-Flavicon00001.png",
+  "h1": [
+   "Physio à Ins : rendez-vous dès cette semaine"
+  ],
+  "h2": [
+   "Nos soins de physiothérapie à Ins",
+   "Où avez-vous mal ?",
+   "Plus qu'un massage : un vrai plan de récupération",
+   "Un espace de soins et de mouvement à Ins",
+   "Vos physiothérapeutes à Ins",
+   "Votre physio dans le Seeland et les Trois-Lacs",
+   "Reconnus par toutes les assurances",
+   "Questions fréquentes sur la physio à Ins",
+   "Besoin d'un physio à Ins ou dans les environs ?",
+   "PATIENTS SATISFAITS"
+  ],
+  "h3n": 15,
+  "words": 2006,
+  "schema": [
+   "BreadcrumbList",
+   "FAQPage",
+   "ImageObject",
+   "Organization",
+   "Physiotherapy",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 10,
+  "imgs": 88,
+  "noalt": 0,
+  "internal": 29
+ },
+ {
+  "url": "https://physioactiva.ch/politique-de-donnees/",
+  "code": 200,
+  "t": 1.82,
+  "title": "Politique de données - Physio Activa",
+  "meta": null,
+  "canonical": "https://physioactiva.ch/politique-de-donnees/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": null,
+  "h1": [
+   "Mentions légales & conditions d'utilisation"
+  ],
+  "h2": [
+   "1. Éditeur du site",
+   "2. Hébergement",
+   "3. Propriété intellectuelle",
+   "4. Politique de protection des données",
+   "5. Cookies",
+   "6. Responsabilité",
+   "7. Liens externes",
+   "8. Droit applicable"
+  ],
+  "h3n": 4,
+  "words": 570,
+  "schema": [
+   "BreadcrumbList",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 0,
+  "imgs": 0,
+  "noalt": 0,
+  "internal": 0
+ },
+ {
+  "url": "https://physioactiva.ch/physio/",
+  "code": 200,
+  "t": 0.78,
+  "title": "Physio - Physio Activa",
+  "meta": "Physiothérapie générale, du sport, à domicile, MTT, neurologique, post-opératoire et plus, à Anet. Prise en charge personnalisée. Réservez en ligne.",
+  "canonical": "https://physioactiva.ch/physio/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/06/Physio-Activa-Flavicon00001.png",
+  "h1": [
+   "MTT et fitness médical à Ins"
+  ],
+  "h2": [
+   "Comment fonctionne le MTT",
+   "Entraînez-vous en confiance",
+   "Questions fréquentes"
+  ],
+  "h3n": 4,
+  "words": 445,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 3,
+  "imgs": 1,
+  "noalt": 0,
+  "internal": 0
+ },
+ {
+  "url": "https://physioactiva.ch/physiotherapeute-a-domicile/",
+  "code": 200,
+  "t": 1.13,
+  "title": "Physio à domicile - Physio Activa",
+  "meta": "Physiothérapie à domicile à Ins, Seeland, Vully et Avenches. Couverte par l'assurance (LAMal) avec prescription. Pour les personnes âgées et les suites opératoires. Prenez rendez-vous.",
+  "canonical": "https://physioactiva.ch/physiotherapeute-a-domicile/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/06/Physio-Activa-00031.jpg",
+  "h1": [
+   "Physiothérapie à domicile : des soins personnalisés et de qualité"
+  ],
+  "h2": [
+   "Pourquoi à domicile avec nous",
+   "Nous venons dans votre village, dans toute la région des Trois-Lacs",
+   "Expliquez-nous la situation et nous organisons la première visite cette semaine même.",
+   "Questions fréquentes"
+  ],
+  "h3n": 4,
+  "words": 739,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 5,
+  "imgs": 1,
+  "noalt": 0,
+  "internal": 0
+ },
+ {
+  "url": "https://physioactiva.ch/reservation-en-ligne/",
+  "code": 200,
+  "t": 1.98,
+  "title": "Réservation en ligne - Physio Activa",
+  "meta": "Réservez votre rendez-vous de physiothérapie en Suisse en ligne",
+  "canonical": "https://physioactiva.ch/reservation-en-ligne/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://flagcdn.com/w40/fr.png",
+  "h1": [
+   "Réservez votre rendez-vous de physiothérapie en Suisse"
+  ],
+  "h2": [
+   "Gardez ceci à l'esprit",
+   "Pourquoi choisir Physio Activa ?",
+   "Vous préférez d'abord parler avec nous ?"
+  ],
+  "h3n": 0,
+  "words": 297,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 2,
+  "imgs": 6,
+  "noalt": 0,
+  "internal": 0
+ },
+ {
+  "url": "https://physioactiva.ch/reserver-maintenant/",
+  "code": 200,
+  "t": 1.85,
+  "title": "Réserver maintenant - Physio Activa",
+  "meta": "Cabinet de physiothérapie à Ins (Seeland). Soins en cabinet et à domicile, couverts par la LAMal. Prenez rendez-vous cette semaine.",
+  "canonical": "https://physioactiva.ch/reserver-maintenant/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/06/Physio-Activa-Flavicon00001-1.png",
+  "h1": [
+   "Physiothérapie en cabinet et à domicile dès cette semaine ."
+  ],
+  "h2": [
+   "Une prise en charge qui règle le problème, pas juste le symptôme",
+   "Physiothérapie & fitness médical (MTT)",
+   "Des thérapeutes diplômés et proches",
+   "Joignez-nous comme vous préférez",
+   "Les avis de nos patients",
+   "Tout ce qu'il faut savoir avant de venir",
+   "Nous venons dans votre village, dans toute la région des Trois-Lacs",
+   "Physioactiva · Ins, Seeland"
+  ],
+  "h3n": 0,
+  "words": 1319,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 12,
+  "imgs": 13,
+  "noalt": 0,
+  "internal": 6
+ },
+ {
+  "url": "https://physioactiva.ch/reserve/",
+  "code": 200,
+  "t": 0.95,
+  "title": "Réserve - Physio Activa",
+  "meta": "Cabinet de physiothérapie à Ins (Seeland). Soins en cabinet et à domicile, couverts par la LAMal. Prenez rendez-vous cette semaine.",
+  "canonical": "https://physioactiva.ch/reserve/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/06/Physio-Activa-Flavicon00001-1.png",
+  "h1": [
+   "Physiothérapie en cabinet et à domicile dès cette semaine."
+  ],
+  "h2": [
+   "Une prise en charge qui règle le problème, pas juste le symptôme",
+   "Des thérapeutes diplômés et proches",
+   "Nous venons dans votre village, dans toute la région des Trois-Lacs",
+   "Physioactiva · Ins, Seeland"
+  ],
+  "h3n": 0,
+  "words": 491,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 0,
+  "imgs": 13,
+  "noalt": 0,
+  "internal": 0
+ },
+ {
+  "url": "https://physioactiva.ch/rendez-vous-online/",
+  "code": 200,
+  "t": 0.95,
+  "title": "rendez-vous-online - Physio Activa",
+  "meta": "Cabinet de physiothérapie à Ins (Seeland). Soins en cabinet et à domicile, couverts par la LAMal. Prenez rendez-vous cette semaine.",
+  "canonical": "https://physioactiva.ch/rendez-vous-online/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/06/Physio-Activa-Flavicon00001-1.png",
+  "h1": [
+   "Physiothérapie en cabinet et à domicile dès cette semaine."
+  ],
+  "h2": [
+   "Une prise en charge qui règle le problème, pas juste le symptôme",
+   "Des thérapeutes diplômés et proches",
+   "Nous venons dans votre village, dans toute la région des Trois-Lacs",
+   "Physioactiva · Ins, Seeland",
+   "Une prise en charge qui règle le problème, pas juste le symptôme",
+   "Des thérapeutes diplômés et proches",
+   "Nous venons dans votre village, dans toute la région des Trois-Lacs",
+   "Physioactiva · Ins, Seeland"
+  ],
+  "h3n": 0,
+  "words": 928,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 0,
+  "imgs": 28,
+  "noalt": 0,
+  "internal": 1
+ },
+ {
+  "url": "https://physioactiva.ch/nous-trouver/",
+  "code": 200,
+  "t": 2.31,
+  "title": "nous-trouver - Physio Activa",
+  "meta": "Comment nous trouver ? Physio Activa à Ins (Seeland) : adresse, plan d'accès, parking, transports publics et horaires d'ouverture de notre cabinet.",
+  "canonical": "https://physioactiva.ch/nous-trouver/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/06/Physio-Activa-Flavicon00001.png",
+  "h1": [
+   "Votre cabinet de physio à Ins"
+  ],
+  "h2": [
+   "Accès intérieur",
+   "Physio Activa · Ins, Seeland",
+   "Nous venons dans votre village, dans toute la région des Trois-Lacs"
+  ],
+  "h3n": 0,
+  "words": 334,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 0,
+  "imgs": 3,
+  "noalt": 0,
+  "internal": 1
+ },
+ {
+  "url": "https://physioactiva.ch/contact/",
+  "code": 200,
+  "t": 1.96,
+  "title": "Contact - Physio Activa",
+  "meta": "Contactez Physio Activa à Ins (Seeland, Suisse). Réponse en moins de 24h. WhatsApp, téléphone, e-mail et réservation en ligne.",
+  "canonical": "https://physioactiva.ch/contact/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/06/Physio-Activa-Flavicon00001.png",
+  "h1": [
+   "Contactez Physio Activa à Ins"
+  ],
+  "h2": [
+   "Formulaire de contact",
+   "Physio Activa · Ins, Seeland",
+   "Nous nous déplaçons chez vous, dans toute la région des Trois-Lacs",
+   "Vous avez votre ordonnance et souhaitez commencer dès maintenant ?",
+   "Accès intérieur"
+  ],
+  "h3n": 1,
+  "words": 577,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 0,
+  "imgs": 3,
+  "noalt": 0,
+  "internal": 2
+ },
+ {
+  "url": "https://physioactiva.ch/physioactiva-bandage-neuromusculaire/",
+  "code": 200,
+  "t": 0.81,
+  "title": "Bandage neuromusculaire - Physio Activa",
+  "meta": "Une technique de bandage élastique appliquée directement sur la peau pour soutenir les muscles et les articulations sans limiter le mouvement.",
+  "canonical": "https://physioactiva.ch/physioactiva-bandage-neuromusculaire/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/07/bandage-neuromusculaire.webp",
+  "h1": [
+   "Bandage neuromusculaire (tapping / kinésiotaping)"
+  ],
+  "h2": [
+   "Notre approche du bandage neuromusculaire",
+   "Besoin d'un avis ou d'un rendez-vous ?",
+   "Questions fréquentes"
+  ],
+  "h3n": 6,
+  "words": 379,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 4,
+  "imgs": 1,
+  "noalt": 0,
+  "internal": 0
+ },
+ {
+  "url": "https://physioactiva.ch/douleur-cervicale-au-cou/",
+  "code": 200,
+  "t": 0.92,
+  "title": "Douleur cervicale / au cou - Physio Activa",
+  "meta": "Traitement de physiothérapie pour la douleur au cou en Suisse. Contracture, hernie cervicale et arthrose couvertes par votre assurance maladie..",
+  "canonical": "https://physioactiva.ch/douleur-cervicale-au-cou/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00037.jpg",
+  "h1": [
+   "Douleur cervicale : traitement de physiothérapie à Ins"
+  ],
+  "h2": [
+   "Votre douleur cervicale a une origine. Et elle a une solution.",
+   "Reconnus par toutes les assurances maladie",
+   "Questions fréquentes",
+   "Votre cou peut cesser de vous faire mal. Commencez aujourd'hui."
+  ],
+  "h3n": 4,
+  "words": 578,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 4,
+  "imgs": 1,
+  "noalt": 0,
+  "internal": 0
+ },
+ {
+  "url": "https://physioactiva.ch/douleur-du-genou-lesions-de-la-cheville/",
+  "code": 200,
+  "t": 0.91,
+  "title": "Douleur du genou / lésions de la cheville - Physio Activa",
+  "meta": "Traitement de physiothérapie pour l'entorse, le ménisque, la gonarthrose et la cheville à Ins, Suisse. Réservez chez Physio Activa.",
+  "canonical": "https://physioactiva.ch/douleur-du-genou-lesions-de-la-cheville/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00038.jpg",
+  "h1": [
+   "Douleur du genou et lésions de la cheville : physiothérapie à Ins"
+  ],
+  "h2": [
+   "De la lésion aiguë au retour complet au mouvement",
+   "Reconnus par toutes les assurances maladie",
+   "Questions fréquentes",
+   "Remarchez, recourez et bougez sans crainte."
+  ],
+  "h3n": 4,
+  "words": 655,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 4,
+  "imgs": 1,
+  "noalt": 0,
+  "internal": 0
+ },
+ {
+  "url": "https://physioactiva.ch/drainage-lymphatique/",
+  "code": 200,
+  "t": 1.93,
+  "title": "Drainage lymphatique - Physio Activa",
+  "meta": "Drainage lymphatique manuel à Anet : réduction des œdèmes, jambes lourdes, récupération post-opératoire. Sur prescription. Réservez en ligne",
+  "canonical": "https://physioactiva.ch/drainage-lymphatique/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00040.jpg",
+  "h1": [
+   "Drainage lymphatique à Ins"
+  ],
+  "h2": [
+   "Ce que le drainage lymphatique vous apporte",
+   "Reconnus par toutes les assurances maladie",
+   "Vos questions, nos réponses",
+   "Retrouvez légèreté et confort."
+  ],
+  "h3n": 10,
+  "words": 388,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 0,
+  "imgs": 1,
+  "noalt": 0,
+  "internal": 0
+ },
+ {
+  "url": "https://physioactiva.ch/fitness-medical/",
+  "code": 200,
+  "t": 0.7,
+  "title": "Fitness Medical - Physio Activa",
+  "meta": "Entraînement médico-thérapeutique (MTT) à Ins, Seeland, Vully et Avenches et dans tous les villages autour du lac de Morat.",
+  "canonical": "https://physioactiva.ch/fitness-medical/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2025/05/4-2.jpg",
+  "h1": [
+   "Fitness médical (MTT):"
+  ],
+  "h2": [
+   "Un vrai plan de récupération, actif et personnalisé",
+   "Comment se déroule votre programme MTT",
+   "L'entraînement thérapeutique, encadré pas à pas",
+   "SensoPro : l'entraînement sensorimoteur",
+   "Un espace de fitness médical complet, au sein d'InsGym",
+   "Questions fréquentes sur la MTT",
+   "Reprenez le contrôle de votre récupération."
+  ],
+  "h3n": 4,
+  "words": 737,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 4,
+  "imgs": 7,
+  "noalt": 0,
+  "internal": 0
+ },
+ {
+  "url": "https://physioactiva.ch/lesions-de-lepaule/",
+  "code": 200,
+  "t": 0.85,
+  "title": "Lésions de l'épaule - Physio Activa",
+  "meta": "Traitement de physiothérapie pour la tendinite, la coiffe des rotateurs et l'épaule gelée à Ins, Suisse, et dans les villages proches du lac dans toute la région du lac de Morat.",
+  "canonical": "https://physioactiva.ch/lesions-de-lepaule/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00020.jpg",
+  "h1": [
+   "Lésions de l'épaule : physiothérapie et rééducation"
+  ],
+  "h2": [
+   "Une épaule sans douleur : diagnostic précis et traitement personnalisé",
+   "Reconnus par toutes les assurances maladie",
+   "Questions fréquentes",
+   "Votre épaule peut à nouveau bouger sans douleur."
+  ],
+  "h3n": 4,
+  "words": 610,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 4,
+  "imgs": 1,
+  "noalt": 0,
+  "internal": 0
+ },
+ {
+  "url": "https://physioactiva.ch/mal-de-dos-lombaire/",
+  "code": 200,
+  "t": 1.71,
+  "title": "Mal de dos / lombaire - Physio Activa",
+  "meta": "Traitement de physiothérapie pour la lombalgie, la hernie lombaire et la sciatique à Ins Suisse et ses régions. Couverte par la caisse maladie. Réservez chez Physio Activa.",
+  "canonical": "https://physioactiva.ch/mal-de-dos-lombaire/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2025/05/2-2.jpg",
+  "h1": [
+   "Mal de dos et lombalgie : physiothérapie à Ins"
+  ],
+  "h2": [
+   "De la douleur aiguë à la prévention des récidives",
+   "Reconnus par toutes les assurances maladie",
+   "Questions fréquentes",
+   "Votre dos peut cesser d'être un problème. Commencez aujourd'hui."
+  ],
+  "h3n": 4,
+  "words": 633,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 4,
+  "imgs": 1,
+  "noalt": 0,
+  "internal": 0
+ },
+ {
+  "url": "https://physioactiva.ch/massage-therapeutique/",
+  "code": 200,
+  "t": 0.9,
+  "title": "Massage thérapeutique - Physio Activa",
+  "meta": "Massage thérapeutique en Suisse avec des physiothérapeutes spécialisés. Réservez chez Physio Activa.",
+  "canonical": "https://physioactiva.ch/massage-therapeutique/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2025/05/5.jpg",
+  "h1": [
+   "Massage thérapeutique à Ins"
+  ],
+  "h2": [
+   "Bien plus qu'un massage de détente",
+   "Reconnus par toutes les assurances maladie",
+   "Questions fréquentes",
+   "Soulagez vos tensions avec un accompagnement professionnel."
+  ],
+  "h3n": 3,
+  "words": 351,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 3,
+  "imgs": 1,
+  "noalt": 0,
+  "internal": 0
+ },
+ {
+  "url": "https://physioactiva.ch/medical-training-therapy-mtt/",
+  "code": 200,
+  "t": 1.05,
+  "title": "Medical Training Therapy (MTT) - Physio Activa",
+  "meta": "Entraînement médico-thérapeutique (MTT) à Ins, Seeland, Vully et Avenches et dans tous les villages autour du lac de Morat.",
+  "canonical": "https://physioactiva.ch/medical-training-therapy-mtt/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2025/06/Centerbild_IMG_9184-scaled-1.jpg",
+  "h1": [
+   "MTT et fitness médical à Ins"
+  ],
+  "h2": [
+   "Comment fonctionne le MTT",
+   "Entraînez-vous en confiance",
+   "Questions fréquentes"
+  ],
+  "h3n": 4,
+  "words": 368,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 2,
+  "imgs": 1,
+  "noalt": 0,
+  "internal": 0
+ },
+ {
+  "url": "https://physioactiva.ch/merci/",
+  "code": 200,
+  "t": 0.87,
+  "title": "merci - Physio Activa",
+  "meta": null,
+  "canonical": "https://physioactiva.ch/merci/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physiodom.ch/wp-content/uploads/2025/03/2.png",
+  "h1": [
+   "Merci ! Votre demande est bien reçue."
+  ],
+  "h2": [],
+  "h3n": 0,
+  "words": 43,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 0,
+  "imgs": 1,
+  "noalt": 0,
+  "internal": 1
+ },
+ {
+  "url": "https://physioactiva.ch/online-termin-buchen/",
+  "code": 200,
+  "t": 2.03,
+  "title": "online termin buchen - Physio Activa",
+  "meta": "Physiotherapiepraxis in Ins (Seeland). Praxisbesuche und Hausbesuche, Kostenübernahme durch LAMal. Vereinbaren Sie noch diese Woche einen Termin.",
+  "canonical": "https://physioactiva.ch/online-termin-buchen/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/06/Physio-Activa-Flavicon00001-1.png",
+  "h1": [
+   "Physiotherapie in Ins, mit einem Termin noch diese Woche ."
+  ],
+  "h2": [
+   "Termin anfragen",
+   "Eine Behandlung, die das Problem löst – nicht nur das Symptom",
+   "Physiotherapie & medizinisches Fitness (MTT)",
+   "Mehr als eine Massage: ein echter Genesungsplan",
+   "Diplomierte Therapeuten, ganz in Ihrer Nähe",
+   "Übernimmt meine Krankenkasse die Kosten?",
+   "Kontaktieren Sie uns, wie es Ihnen am liebsten ist",
+   "Die Meinungen unserer Patientinnen und Patienten",
+   "Alles, was Sie vor Ihrem Besuch wissen sollten",
+   "Wir kommen in Ihr Dorf, in der ganzen Drei-Seen-Region",
+   "Physioactiva · Ins, Seeland"
+  ],
+  "h3n": 3,
+  "words": 1427,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 12,
+  "imgs": 13,
+  "noalt": 0,
+  "internal": 6
+ },
+ {
+  "url": "https://physioactiva.ch/physioactiva-ondes-de-choc/",
+  "code": 200,
+  "t": 1.03,
+  "title": "Ondes de choc - Physio Activa",
+  "meta": "La thérapie par ondes de choc est un traitement non invasif qui relance la guérison des tendinopathies chroniques et des douleurs persistantes.",
+  "canonical": "https://physioactiva.ch/physioactiva-ondes-de-choc/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/07/ondes-de-choc.jpg",
+  "h1": [
+   "Ondes de choc : soulager les douleurs tendineuses chroniques"
+  ],
+  "h2": [
+   "Une solution ciblée pour les douleurs tendineuses persistantes",
+   "Une douleur qui traîne malgré le repos ?",
+   "Questions fréquentes"
+  ],
+  "h3n": 6,
+  "words": 467,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 5,
+  "imgs": 1,
+  "noalt": 0,
+  "internal": 0
+ },
+ {
+  "url": "https://physioactiva.ch/physiotherapie-cardiorespiratoire/",
+  "code": 200,
+  "t": 2.05,
+  "title": "Physio cardiorespiratoire - Physio Activa",
+  "meta": "Physiothérapie respiratoire et cardiaque en Suisse. BPCO, asthme, post-COVID et rééducation cardiaque couverte par votre assurance maladie.",
+  "canonical": "https://physioactiva.ch/physiotherapie-cardiorespiratoire/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2025/05/2-1.jpg",
+  "h1": [
+   "Physiothérapie cardiorespiratoire à Ins"
+  ],
+  "h2": [
+   "Plus d'air, plus d'énergie, plus de vie au quotidien",
+   "Reconnus par toutes les assurances maladie",
+   "Questions fréquentes",
+   "Respirez mieux. Bougez mieux. Vivez mieux."
+  ],
+  "h3n": 4,
+  "words": 545,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 4,
+  "imgs": 1,
+  "noalt": 0,
+  "internal": 0
+ },
+ {
+  "url": "https://physioactiva.ch/physiotherapie-du-plancher-pelvien/",
+  "code": 200,
+  "t": 3.53,
+  "title": "Physio du plancher pelvien  - Physio Activa",
+  "meta": "Physiothérapie du plancher pelvien en Suisse : incontinence, post-partum, endométriose. , douleur pelvienne. Prise en charge bilingue (espagnol, portugais, français et allemand), couverte par votre assurance maladie. Réservez chez Physio Activa.",
+  "canonical": "https://physioactiva.ch/physiotherapie-du-plancher-pelvien/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2025/05/1-2.jpg",
+  "h1": [
+   "Physiothérapie du plancher pelvien en Suisse"
+  ],
+  "h2": [
+   "Votre plancher pelvien a une solution avec le bon traitement",
+   "Reconnus par toutes les assurances maladie",
+   "Questions fréquentes",
+   "Ce n'est pas normal. Il existe une solution. Commencez aujourd'hui."
+  ],
+  "h3n": 4,
+  "words": 628,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 4,
+  "imgs": 1,
+  "noalt": 0,
+  "internal": 0
+ },
+ {
+  "url": "https://physioactiva.ch/physio-du-sport/",
+  "code": 200,
+  "t": 1.99,
+  "title": "Physio du sport - Physio Activa",
+  "meta": "Physiothérapie du sport spécialisée à Ins (Seeland). Traitement et retour au sport, couverts par l'assurance de base avec prescription. Réservez en ligne.",
+  "canonical": "https://physioactiva.ch/physio-du-sport/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00036.jpg",
+  "h1": [
+   "Physiothérapie du sport à Ins"
+  ],
+  "h2": [
+   "Notre approche en physiothérapie du sport",
+   "Reconnus par toutes les assurances maladie",
+   "Questions fréquentes",
+   "Reprenez le sport en toute sécurité."
+  ],
+  "h3n": 3,
+  "words": 442,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 3,
+  "imgs": 1,
+  "noalt": 0,
+  "internal": 0
+ },
+ {
+  "url": "https://physioactiva.ch/physio-en-uro-gynecologie/",
+  "code": 200,
+  "t": 1.78,
+  "title": "Physio en uro-gynecologie - Physio Activa",
+  "meta": "Que ce soit pour des douleurs, de l’incontinence ou un prolapsus, nous vous accompagnons avec bienveillance vers un meilleur confort intime.",
+  "canonical": "https://physioactiva.ch/physio-en-uro-gynecologie/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2025/05/2-3.jpg",
+  "h1": [
+   "Physiothérapie uro-gynécologique à Ins"
+  ],
+  "h2": [
+   "Une prise en charge douce et personnalisée du périnée",
+   "Vos questions, nos réponses",
+   "Retrouvez votre confort intime, en toute confiance.",
+   "Questions fréquentes"
+  ],
+  "h3n": 9,
+  "words": 457,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 4,
+  "imgs": 1,
+  "noalt": 0,
+  "internal": 0
+ },
+ {
+  "url": "https://physioactiva.ch/physio-generale/",
+  "code": 200,
+  "t": 2.12,
+  "title": "Physio générale - Physio Activa",
+  "meta": "Douleurs, mobilité, rééducation après blessure ou chirurgie. Physiothérapie générale à Anet, sur ordonnance. Rendez-vous dans la semaine.",
+  "canonical": "https://physioactiva.ch/physio-generale/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2025/05/1.jpg",
+  "h1": [
+   "Retrouver confort et mobilité au quotidien"
+  ],
+  "h2": [
+   "Notre approche de la physiothérapie générale",
+   "Besoin d'un avis ou d'un rendez-vous ?",
+   "Questions fréquentes"
+  ],
+  "h3n": 6,
+  "words": 326,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 4,
+  "imgs": 1,
+  "noalt": 0,
+  "internal": 0
+ },
+ {
+  "url": "https://physioactiva.ch/pour-les-patients/",
+  "code": 200,
+  "t": 1.04,
+  "title": "Pour les patients - Physio Activa",
+  "meta": "Informations sur les douleurs cervicales, lombaires, de l’épaule, du genou et plus encore. Physiothérapie à Ins en Suisse, couverte par la caisse maladie. Physio Activa.",
+  "canonical": "https://physioactiva.ch/pour-les-patients/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00034.jpg",
+  "h1": [
+   "Où avez-vous mal ? Votre guide de physiothérapie"
+  ],
+  "h2": [
+   "Choisissez votre douleur",
+   "Vous ne trouvez pas votre pathologie ?"
+  ],
+  "h3n": 6,
+  "words": 166,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 0,
+  "imgs": 1,
+  "noalt": 0,
+  "internal": 6
+ },
+ {
+  "url": "https://physioactiva.ch/physiotherapie-neurologique/",
+  "code": 200,
+  "t": 1.78,
+  "title": "Physio neurologique   - Physio Activa",
+  "meta": "Rééducation neurologique en Suisse pour AVC, Parkinson, SEP et lésions médullaires. Prise en charge couverte par votre assurance maladie. Prenez rendez-vous chez Physio Activa.",
+  "canonical": "https://physioactiva.ch/physiotherapie-neurologique/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2025/05/4.jpg",
+  "h1": [
+   "Physiothérapie neurologique en Suisse pour adultes"
+  ],
+  "h2": [
+   "Une physiothérapie neurologique adaptée à chaque diagnostic",
+   "Reconnus par toutes les assurances maladie",
+   "Questions fréquentes",
+   "Retrouvez le mouvement. Retrouvez l'autonomie."
+  ],
+  "h3n": 4,
+  "words": 546,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 4,
+  "imgs": 1,
+  "noalt": 0,
+  "internal": 0
+ },
+ {
+  "url": "https://physioactiva.ch/therapie-manuelle/",
+  "code": 200,
+  "t": 2.28,
+  "title": "Thérapie manuelle - Physio Activa",
+  "meta": "La thérapie manuelle regroupe un ensemble de techniques réalisées à la main pour évaluer et traiter les troubles de l'appareil locomoteur.",
+  "canonical": "https://physioactiva.ch/therapie-manuelle/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/07/TERAPIA-MANUAL.png",
+  "h1": [
+   "Une prise en charge spécialisée et personnalisée"
+  ],
+  "h2": [
+   "Notre approche de la thérapie manuelle",
+   "Besoin d'un avis ou d'un rendez-vous ?",
+   "Questions fréquentes"
+  ],
+  "h3n": 6,
+  "words": 386,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 4,
+  "imgs": 1,
+  "noalt": 0,
+  "internal": 0
+ },
+ {
+  "url": "https://physioactiva.ch/tecar-therapie/",
+  "code": 200,
+  "t": 1.85,
+  "title": "Tecar thérapie - Physio Activa",
+  "meta": "La técar thérapie utilise la radiofréquence pour générer une chaleur profonde au cœur de vos tissus. Le résultat : moins de douleur, une meilleure circulation et une récupération nettement plus rapide.",
+  "canonical": "https://physioactiva.ch/tecar-therapie/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/07/tecar-therapie.png",
+  "h1": [
+   "Técar thérapie : récupérez plus vite, sans douleur"
+  ],
+  "h2": [
+   "La chaleur profonde qui relance votre récupération",
+   "Et si votre douleur disparaissait plus vite ?",
+   "Questions fréquentes"
+  ],
+  "h3n": 6,
+  "words": 431,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 5,
+  "imgs": 1,
+  "noalt": 0,
+  "internal": 0
+ },
+ {
+  "url": "https://physioactiva.ch/physiotherapie-post-operatoire/",
+  "code": 200,
+  "t": 1.84,
+  "title": "Physio post-opératoire - Physio Activa",
+  "meta": "Rééducation après une opération à Ins (Seeland). Plan personnalisé, couvert par l'assurance de base avec prescription. Réservez votre rendez-vous.",
+  "canonical": "https://physioactiva.ch/physiotherapie-post-operatoire/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2025/04/Physio-Activa-00031.jpg",
+  "h1": [
+   "Physiothérapie post-opératoire à Ins"
+  ],
+  "h2": [
+   "De la sortie d'hôpital à votre quotidien",
+   "Reconnus par toutes les assurances maladie",
+   "Questions fréquentes",
+   "Commencez votre récupération avec la bonne équipe."
+  ],
+  "h3n": 3,
+  "words": 400,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 3,
+  "imgs": 1,
+  "noalt": 0,
+  "internal": 1
+ },
+ {
+  "url": "https://physioactiva.ch/physioactiva-puncture-seche/",
+  "code": 200,
+  "t": 1.85,
+  "title": "Puncture sèche - Physio Activa",
+  "meta": "La puncture sèche, ou dry needling, cible les points gâchettes myofasciaux — ces nœuds musculaires responsables de douleurs et de raideurs.",
+  "canonical": "https://physioactiva.ch/physioactiva-puncture-seche/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/07/Dry-Needling.webp",
+  "h1": [
+   "Puncture sèche : libérer les tensions musculaires en profondeur"
+  ],
+  "h2": [
+   "Traiter la douleur musculaire à sa source",
+   "Une tension musculaire qui ne passe pas ?",
+   "Questions fréquentes"
+  ],
+  "h3n": 6,
+  "words": 458,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 5,
+  "imgs": 1,
+  "noalt": 0,
+  "internal": 0
+ },
+ {
+  "url": "https://physioactiva.ch/physiotemporo-mandibulaire-atm/",
+  "code": 200,
+  "t": 0.95,
+  "title": "Physio temporomandibulaire (ATM) - Physio Activa",
+  "meta": "Physiothérapie de la mâchoire (ATM) en Suisse : bruxisme, blocage, douleur articulaire. Réservez chez Physio Activa.",
+  "canonical": "https://physioactiva.ch/physiotemporo-mandibulaire-atm/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2025/05/therapeute-en-therapie-physique-avec-patiente-2.jpg",
+  "h1": [
+   "Physiothérapie temporo-mandibulaire (ATM) en Suisse"
+  ],
+  "h2": [
+   "Physiothérapie spécialisée pour la douleur de la mâchoire",
+   "Reconnus par toutes les assurances maladie",
+   "Questions fréquentes",
+   "La douleur de la mâchoire n'est pas normale. Elle a un traitement."
+  ],
+  "h3n": 4,
+  "words": 532,
+  "schema": [
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 3,
+  "imgs": 1,
+  "noalt": 0,
+  "internal": 0
+ },
+ {
+  "url": "https://physioactiva.ch/physio-a-neuchatel/",
+  "code": 200,
+  "t": 0.87,
+  "title": "Physio à Neuchâtel – à domicile ou à Ins | Physio Activa - Physio Activa",
+  "meta": "Physio à Neuchâtel : physiothérapie à domicile ou au cabinet d'Ins, drainage lymphatique, cabinet reconnu par toutes les assurances. Réservez en ligne.",
+  "canonical": "https://physioactiva.ch/physio-a-neuchatel/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/11/Vuevilledeneuchatel.jpg",
+  "h1": [
+   "Physio à Neuchâtel : au cabinet d'Ins ou à domicile"
+  ],
+  "h2": [
+   "Un physiothérapeute près de Neuchâtel",
+   "Physiothérapie à domicile à Neuchâtel et environs",
+   "Nos soins de physiothérapie pour les patients de Neuchâtel",
+   "Quand consulter un physio, et quand voir d'abord un médecin ?",
+   "Quelle prise en charge selon votre situation ?",
+   "Comment se déroule votre prise en charge ?",
+   "Venir au cabinet d'Ins depuis Neuchâtel",
+   "Assurances et horaires : physio à Neuchâtel",
+   "Pourquoi les patients de Neuchâtel choisissent Physio Activa",
+   "Questions fréquentes sur la physio à Neuchâtel",
+   "Besoin d'un physio à Neuchâtel ou dans les environs ?"
+  ],
+  "h3n": 21,
+  "words": 1596,
+  "schema": [
+   "BreadcrumbList",
+   "FAQPage",
+   "ImageObject",
+   "Organization",
+   "Physiotherapy",
+   "Service",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 9,
+  "imgs": 2,
+  "noalt": 0,
+  "internal": 14
+ },
+ {
+  "url": "https://physioactiva.ch/physio-a-ins/",
+  "code": 200,
+  "t": 0.99,
+  "title": "Physio Ins : physiothérapie à Ins (Anet) | Physio Activa - Physio Activa",
+  "meta": "Physio à Ins (Anet) : cabinet de physiothérapie Rämismatte 21 avec parking, MTT et soins à domicile dans le Seeland. Jusqu'à 20h. Rendez-vous en ligne.",
+  "canonical": "https://physioactiva.ch/physio-a-ins/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2025/05/ACCES-1-fleche-scaled.jpg",
+  "h1": [
+   "Physio à Ins : votre cabinet de physiothérapie au cœur du Seeland"
+  ],
+  "h2": [
+   "Un physiothérapeute à Ins, à deux pas de chez vous",
+   "Physiothérapie à domicile à Ins et environs",
+   "Nos soins de physiothérapie à Ins",
+   "Quand consulter un physio, et quand voir d'abord un médecin ?",
+   "Quelle prise en charge selon votre situation ?",
+   "Comment se déroule votre prise en charge ?",
+   "Venir au cabinet de physiothérapie d'Ins",
+   "Assurances et horaires : physio à Ins",
+   "Pourquoi les patients d'Ins choisissent Physio Activa",
+   "Questions fréquentes sur la physio à Ins",
+   "Besoin d'un physio à Ins ou dans les environs ?",
+   "PATIENTS SATISFAITS"
+  ],
+  "h3n": 21,
+  "words": 2298,
+  "schema": [
+   "BreadcrumbList",
+   "FAQPage",
+   "ImageObject",
+   "Organization",
+   "Physiotherapy",
+   "Service",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 9,
+  "imgs": 72,
+  "noalt": 2,
+  "internal": 20
+ },
+ {
+  "url": "https://physioactiva.ch/physio-a-bienne/",
+  "code": 200,
+  "t": 3.04,
+  "title": "Physio à Bienne (Biel) – à domicile ou à Ins | Physio Activa - Physio Activa",
+  "meta": "Physiothérapeute pour Bienne (Biel) et environs : cabinet à Ins ou séances à domicile, reconnu par toutes les assurances. Réservez en ligne ou WhatsApp.",
+  "canonical": "https://physioactiva.ch/physio-a-bienne/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/11/Biel-Bienne-Swissed-scaled.webp",
+  "h1": [
+   "Physio à Bienne : au cabinet d'Ins ou à domicile"
+  ],
+  "h2": [
+   "Un physiothérapeute près de Bienne",
+   "Physiothérapie à domicile à Bienne et environs",
+   "Nos soins de physiothérapie pour les patients de Bienne",
+   "Quand consulter un physio, et quand voir d'abord un médecin ?",
+   "Quelle prise en charge selon votre situation ?",
+   "Comment se déroule votre prise en charge ?",
+   "Venir au cabinet d'Ins depuis Bienne",
+   "Assurances et horaires : physio à Bienne",
+   "Pourquoi les patients de Bienne choisissent Physio Activa",
+   "Questions fréquentes sur la physio à Bienne",
+   "Besoin d'un physio à Bienne ou dans les environs ?"
+  ],
+  "h3n": 22,
+  "words": 1573,
+  "schema": [
+   "BreadcrumbList",
+   "FAQPage",
+   "ImageObject",
+   "Organization",
+   "Physiotherapy",
+   "Service",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 10,
+  "imgs": 2,
+  "noalt": 2,
+  "internal": 14
+ },
+ {
+  "url": "https://physioactiva.ch/physio-a-sugiez/",
+  "code": 200,
+  "t": 2.18,
+  "title": "Physio à Sugiez et Vully – domicile ou Ins | Physio Activa - Physio Activa",
+  "meta": "Physio à Sugiez et dans le Vully : à domicile dans tout le Mont-Vully ou au cabinet d'Ins, à 4,9 km. Rendez-vous en ligne, par téléphone ou WhatsApp.",
+  "canonical": "https://physioactiva.ch/physio-a-sugiez/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/09/sugiez.webp",
+  "h1": [
+   "Physio à Sugiez et dans le Vully : au cabinet d'Ins ou à domicile"
+  ],
+  "h2": [
+   "Un physiothérapeute près de Sugiez",
+   "Physiothérapie à domicile à Sugiez et environs",
+   "Nos soins de physiothérapie pour les patients de Sugiez",
+   "Quand consulter un physio, et quand voir d'abord un médecin ?",
+   "Quelle prise en charge selon votre situation ?",
+   "Comment se déroule votre prise en charge ?",
+   "Venir au cabinet d'Ins depuis Sugiez",
+   "Assurances et horaires : physio à Sugiez",
+   "Pourquoi les patients de Sugiez choisissent Physio Activa",
+   "Questions fréquentes sur la physio à Sugiez",
+   "Besoin d'un physio à Sugiez ou dans les environs ?",
+   "PATIENTS SATISFAITS"
+  ],
+  "h3n": 21,
+  "words": 2370,
+  "schema": [
+   "BreadcrumbList",
+   "FAQPage",
+   "ImageObject",
+   "Organization",
+   "Physiotherapy",
+   "Service",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 9,
+  "imgs": 72,
+  "noalt": 1,
+  "internal": 15
+ },
+ {
+  "url": "https://physioactiva.ch/physio-a-morat/",
+  "code": 200,
+  "t": 2.17,
+  "title": "Physio Morat (Murten) : à domicile ou à Ins | Physio Activa - Physio Activa",
+  "meta": "Physio à Morat (Murten) : séances à domicile à Morat, Meyriez ou Muntelier, ou au cabinet d'Ins à 8,7 km. En français ou en allemand, jusqu'à 20h.",
+  "canonical": "https://physioactiva.ch/physio-a-morat/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/11/morat-murten.jpg",
+  "h1": [
+   "Physio à Morat (Murten) : rééducation au cabinet d'Ins ou chez vous"
+  ],
+  "h2": [
+   "Un physiothérapeute près de Morat",
+   "Physiothérapie à domicile à Morat et environs",
+   "Physiothérapie à Morat : nos soins les plus demandés",
+   "Physio ou médecin d'abord ? Les signaux à connaître",
+   "Ce que nous traitons le plus souvent",
+   "Votre parcours, de la réservation à l'autonomie",
+   "Venir au cabinet d'Ins depuis Morat",
+   "Assurances et horaires : physio à Morat",
+   "Quatre raisons de choisir Physio Activa depuis Morat",
+   "Questions fréquentes sur la physio à Morat",
+   "Prêt à reprendre le mouvement à Morat ?",
+   "PATIENTS SATISFAITS"
+  ],
+  "h3n": 21,
+  "words": 2278,
+  "schema": [
+   "BreadcrumbList",
+   "FAQPage",
+   "ImageObject",
+   "Organization",
+   "Physiotherapy",
+   "Service",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 9,
+  "imgs": 72,
+  "noalt": 2,
+  "internal": 16
+ },
+ {
+  "url": "https://physioactiva.ch/physio-a-kerzers/",
+  "code": 200,
+  "t": 0.93,
+  "title": "Physio Kerzers : massage, domicile ou Ins | Physio Activa - Physio Activa",
+  "meta": "Physio à Kerzers (Chiètres) : physiothérapie, massage thérapeutique et séances à domicile, ou cabinet d'Ins à 7,6 km. Auf Deutsch, jusqu'à 20h.",
+  "canonical": "https://physioactiva.ch/physio-a-kerzers/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/11/Kerzers.webp",
+  "h1": [
+   "Physio à Kerzers (Chiètres) : soins à domicile ou au cabinet d'Ins, à 7,6 km"
+  ],
+  "h2": [
+   "Un physiothérapeute près de Kerzers",
+   "Massage thérapeutique pour les patients de Kerzers",
+   "Physiothérapie à domicile à Kerzers et environs",
+   "Physiothérapie à Kerzers : ce que nous proposons",
+   "Physio d'abord, ou médecin ?",
+   "Les situations que nous rencontrons le plus à Kerzers",
+   "Du premier contact à la fin du traitement",
+   "Venir au cabinet d'Ins depuis Kerzers",
+   "Assurances et horaires : physio à Kerzers",
+   "Physio Activa pour Kerzers, en quatre points",
+   "Questions fréquentes sur la physio à Kerzers",
+   "Votre physio à Kerzers, dès cette semaine",
+   "PATIENTS SATISFAITS"
+  ],
+  "h3n": 21,
+  "words": 2259,
+  "schema": [
+   "BreadcrumbList",
+   "FAQPage",
+   "ImageObject",
+   "Organization",
+   "Physiotherapy",
+   "Service",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 9,
+  "imgs": 72,
+  "noalt": 0,
+  "internal": 14
+ },
+ {
+  "url": "https://physioactiva.ch/physio-a-lyss/",
+  "code": 200,
+  "t": 1.01,
+  "title": "Physio Lyss : à domicile, drainage, massage | Physio Activa - Physio Activa",
+  "meta": "Physio à Lyss : physiothérapie à domicile à Lyss, Aarberg ou Busswil, drainage lymphatique et massage, ou cabinet d'Ins. Auf Deutsch, jusqu'à 20h.",
+  "canonical": "https://physioactiva.ch/physio-a-lyss/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/11/physio-lyss-scaled.jpg",
+  "h1": [
+   "Physio à Lyss : physiothérapie chez vous ou au cabinet d'Ins"
+  ],
+  "h2": [
+   "Un physiothérapeute près de Lyss",
+   "Physiothérapie à domicile à Lyss et environs",
+   "Physiothérapie à Lyss : nos soins",
+   "Drainage lymphatique et massage à Lyss",
+   "Physio ou médecin : par où commencer ?",
+   "Nos prises en charge les plus fréquentes à Lyss",
+   "Les étapes avec Physio Activa",
+   "Venir au cabinet d'Ins depuis Lyss",
+   "Assurances et horaires : physio à Lyss",
+   "Physio Activa à Lyss, en quatre points",
+   "Questions fréquentes sur la physio à Lyss",
+   "Un physio à Lyss, chez vous ou à Ins",
+   "PATIENTS SATISFAITS"
+  ],
+  "h3n": 21,
+  "words": 2211,
+  "schema": [
+   "BreadcrumbList",
+   "FAQPage",
+   "ImageObject",
+   "Organization",
+   "Physiotherapy",
+   "Service",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 9,
+  "imgs": 72,
+  "noalt": 1,
+  "internal": 14
+ },
+ {
+  "url": "https://physioactiva.ch/physio-a-fribourg/",
+  "code": 200,
+  "t": 0.78,
+  "title": "Physiothérapie Fribourg : drainage lymphatique, Ins - Physio Activa",
+  "meta": "Physiothérapie pour Fribourg : drainage lymphatique, dry needling, massage et MTT au cabinet d'Ins, jusqu'à 20h. Domicile selon l'adresse. Réservez.",
+  "canonical": "https://physioactiva.ch/physio-a-fribourg/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/11/physio-fribourg.jpg",
+  "h1": [
+   "Physio à Fribourg : drainage lymphatique, rééducation et dry needling au cabinet d'Ins"
+  ],
+  "h2": [
+   "Un physiothérapeute près de Fribourg, à Ins",
+   "Drainage lymphatique pour les patients de Fribourg",
+   "Physiothérapie à domicile à Fribourg et environs",
+   "Physiothérapie à Fribourg : tous nos soins",
+   "Faut-il voir un médecin avant le physio ?",
+   "Nos traitements pour les patients de Fribourg",
+   "Votre traitement, pas à pas",
+   "Venir au cabinet d'Ins depuis Fribourg",
+   "Assurances et horaires : physio à Fribourg",
+   "Pourquoi des patients de Fribourg viennent à Ins",
+   "Questions fréquentes sur la physio à Fribourg",
+   "Physiothérapie à Fribourg : prenez rendez-vous",
+   "PATIENTS SATISFAITS"
+  ],
+  "h3n": 21,
+  "words": 2139,
+  "schema": [
+   "BreadcrumbList",
+   "FAQPage",
+   "ImageObject",
+   "Organization",
+   "Physiotherapy",
+   "Service",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 9,
+  "imgs": 72,
+  "noalt": 0,
+  "internal": 15
+ },
+ {
+  "url": "https://physioactiva.ch/physio-a-payerne/",
+  "code": 200,
+  "t": 0.95,
+  "title": "Physio Payerne : physiothérapeute, Broye | Physio Activa - Physio Activa",
+  "meta": "Physio pour Payerne et la Broye : rééducation après le HIB, drainage lymphatique, équilibre, au cabinet d'Ins jusqu'à 20h. Domicile selon l'adresse",
+  "canonical": "https://physioactiva.ch/physio-a-payerne/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/11/payerne.webp",
+  "h1": [
+   "Physio à Payerne : un physiothérapeute pour la Broye, au cabinet d'Ins"
+  ],
+  "h2": [
+   "Comment choisir son physiothérapeute à Payerne ?",
+   "Un physiothérapeute près de Payerne",
+   "Physiothérapie à domicile à Payerne et environs",
+   "Physiothérapie à Payerne : nos soins",
+   "Avant de venir : physio ou médecin ?",
+   "Ce que nous soignons le plus chez les patients de Payerne",
+   "Votre rééducation en quatre temps",
+   "Venir au cabinet d'Ins depuis Payerne",
+   "Assurances et horaires : physio à Payerne",
+   "Physio Activa pour les patients de la Broye",
+   "Questions fréquentes sur la physio à Payerne",
+   "Physio à Payerne : on s'organise ensemble",
+   "PATIENTS SATISFAITS"
+  ],
+  "h3n": 21,
+  "words": 2101,
+  "schema": [
+   "BreadcrumbList",
+   "FAQPage",
+   "ImageObject",
+   "Organization",
+   "Physiotherapy",
+   "Service",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 9,
+  "imgs": 72,
+  "noalt": 2,
+  "internal": 15
+ },
+ {
+  "url": "https://physioactiva.ch/physio-a-yverdon/",
+  "code": 200,
+  "t": 2.17,
+  "title": "Physio Yverdon : drainage lymphatique | Physio Activa - Physio Activa",
+  "meta": "Physio pour Yverdon-les-Bains : drainage lymphatique médical par un physiothérapeute, fitness médical (MTT), physio du sport, au cabinet d'Ins jusqu'à 20h.",
+  "canonical": "https://physioactiva.ch/physio-a-yverdon/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/11/Physio-Yverdon-les-Bains.jpg",
+  "h1": [
+   "Physio à Yverdon-les-Bains : drainage lymphatique médical et rééducation au cabinet d'Ins"
+  ],
+  "h2": [
+   "Un physiothérapeute pour Yverdon, au cabinet d'Ins",
+   "Drainage lymphatique médical à Yverdon : ce qui le distingue d'un drainage esthétique",
+   "Fitness médical (MTT) pour les patients d'Yverdon",
+   "Physiothérapie à domicile à Yverdon-les-Bains et environs",
+   "Physiothérapie pour Yverdon : nos soins",
+   "Physio ou médecin : qui voir en premier ?",
+   "Autres soins pour les patients d'Yverdon",
+   "Comment se passe votre suivi",
+   "Venir au cabinet d'Ins depuis Yverdon-les-Bains",
+   "Assurances et horaires : physio à Yverdon-les-Bains",
+   "Pourquoi des patients d'Yverdon choisissent Physio Activa",
+   "Questions fréquentes sur la physio à Yverdon-les-Bains",
+   "Votre physiothérapie pour Yverdon, au cabinet d'Ins",
+   "PATIENTS SATISFAITS"
+  ],
+  "h3n": 22,
+  "words": 2262,
+  "schema": [
+   "BreadcrumbList",
+   "FAQPage",
+   "ImageObject",
+   "Organization",
+   "Physiotherapy",
+   "Service",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 10,
+  "imgs": 72,
+  "noalt": 2,
+  "internal": 14
+ },
+ {
+  "url": "https://physioactiva.ch/physio-a-lausanne/",
+  "code": 200,
+  "t": 0.95,
+  "title": "Physio à domicile Lausanne, drainage, kiné | Physio Activa - Physio Activa",
+  "meta": "Physio à domicile à Lausanne selon l'adresse, ou cabinet d'Ins jusqu'à 20h : physiothérapeute, drainage lymphatique, dry needling et MTT.",
+  "canonical": "https://physioactiva.ch/physio-a-lausanne/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/11/Physio-Lausanne-Switzerland.jpg",
+  "h1": [
+   "Physio à Lausanne : à domicile selon votre adresse ou au cabinet d'Ins"
+  ],
+  "h2": [
+   "Pour quels Lausannois le cabinet d'Ins a-t-il du sens ?",
+   "Drainage lymphatique : ce qu'il faut savoir avant de réserver",
+   "Physiothérapeute, kiné ou ostéopathe à Lausanne : qui fait quoi ?",
+   "Physio à domicile à Lausanne et environs",
+   "Physiothérapie pour Lausanne : nos soins",
+   "Médecin ou physio en premier ?",
+   "Les soins que les Lausannois viennent chercher",
+   "Votre suivi, de la réservation au programme maison",
+   "Venir au cabinet d'Ins depuis Lausanne",
+   "Assurances et horaires : physio à Lausanne",
+   "Ce que Physio Activa offre aux patients de Lausanne",
+   "Questions fréquentes sur la physio à Lausanne",
+   "Physio à domicile ou au cabinet, pour Lausanne",
+   "PATIENTS SATISFAITS"
+  ],
+  "h3n": 22,
+  "words": 2384,
+  "schema": [
+   "BreadcrumbList",
+   "FAQPage",
+   "ImageObject",
+   "Organization",
+   "Physiotherapy",
+   "Service",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 10,
+  "imgs": 72,
+  "noalt": 2,
+  "internal": 15
+ },
+ {
+  "url": "https://physioactiva.ch/physio-a-la-neuveville/",
+  "code": 200,
+  "t": 0.95,
+  "title": "Physio La Neuveville, Le Landeron : massage | Physio Activa - Physio Activa",
+  "meta": "Physio à La Neuveville et au Landeron : physiothérapie à domicile, massage thérapeutique et fitness médical au cabinet d'Ins, à 6,6 km. Jusqu'à 20h.",
+  "canonical": "https://physioactiva.ch/physio-a-la-neuveville/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/11/physio-La_Neuveville.jpg",
+  "h1": [
+   "Physio à La Neuveville et au Landeron : à domicile ou au cabinet d'Ins, à 6,6 km"
+  ],
+  "h2": [
+   "Un physiothérapeute près de La Neuveville et du Landeron",
+   "Physiothérapie à domicile à La Neuveville et environs",
+   "Physiothérapie à La Neuveville : nos soins",
+   "Massage thérapeutique à La Neuveville et au Landeron",
+   "Fitness médical près de La Neuveville",
+   "Physio ou médecin d'abord ?",
+   "Ce que nous traitons le plus à La Neuveville",
+   "Comment se passent vos séances",
+   "Venir au cabinet d'Ins depuis La Neuveville",
+   "Assurances et horaires : physio à La Neuveville",
+   "Physio Activa pour La Neuveville et Le Landeron",
+   "Questions fréquentes sur la physio à La Neuveville",
+   "Votre physio à La Neuveville et au Landeron",
+   "PATIENTS SATISFAITS"
+  ],
+  "h3n": 22,
+  "words": 2287,
+  "schema": [
+   "BreadcrumbList",
+   "FAQPage",
+   "ImageObject",
+   "Organization",
+   "Physiotherapy",
+   "Service",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 10,
+  "imgs": 72,
+  "noalt": 2,
+  "internal": 16
+ },
+ {
+  "url": "https://physioactiva.ch/physio-a-avenches/",
+  "code": 200,
+  "t": 0.91,
+  "title": "Physiothérapie Avenches : massage, fitness | Physio Activa - Physio Activa",
+  "meta": "Physiothérapie à Avenches, Domdidier et Salavaux : à domicile, massage thérapeutique et fitness médical au cabinet d'Ins, à 14,8 km. Jusqu'à 20h.",
+  "canonical": "https://physioactiva.ch/physio-a-avenches/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/11/physio-Avenches_VD.jpg",
+  "h1": [
+   "Physiothérapie à Avenches, Domdidier et Salavaux : à domicile ou au cabinet d'Ins"
+  ],
+  "h2": [
+   "Un physiothérapeute près d'Avenches",
+   "Fitness médical à Avenches : s'entraîner avec un physiothérapeute",
+   "Massage thérapeutique à Avenches, Domdidier et Salavaux",
+   "Physiothérapie à domicile à Avenches et environs",
+   "Physiothérapie à Avenches : nos soins",
+   "Physio ou ostéopathe à Avenches : comment choisir ?",
+   "Ce que nous traitons souvent pour Avenches",
+   "Quand passer d'abord chez le médecin ?",
+   "Votre suivi en quatre temps",
+   "Venir au cabinet d'Ins depuis Avenches",
+   "Assurances et horaires : physio à Avenches",
+   "Physio Activa pour Avenches et la Broye-Vully",
+   "Questions fréquentes sur la physio à Avenches",
+   "Votre physiothérapie à Avenches commence ici",
+   "PATIENTS SATISFAITS"
+  ],
+  "h3n": 23,
+  "words": 2306,
+  "schema": [
+   "BreadcrumbList",
+   "FAQPage",
+   "ImageObject",
+   "Organization",
+   "Physiotherapy",
+   "Service",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 10,
+  "imgs": 72,
+  "noalt": 2,
+  "internal": 15
+ },
+ {
+  "url": "https://physioactiva.ch/a-propos-de-nous/",
+  "code": 200,
+  "t": 0.74,
+  "title": "À propos de nous - Physio Activa",
+  "meta": "Découvrez l'équipe de Physio Activa, physiothérapeutes à Ins, Seeland (Suisse). Spécialistes dans de multiples domaines.",
+  "canonical": "https://physioactiva.ch/a-propos-de-nous/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/06/Physio-Activa-Flavicon00001.png",
+  "h1": [
+   "Physio Activa : vos physiothérapeutes à Ins, dans le Seeland"
+  ],
+  "h2": [
+   "Pourquoi nous avons créé Physio Activa à Ins",
+   "Nos physiothérapeutes à Ins",
+   "Notre approche de la physiothérapie",
+   "Ce que nous proposons",
+   "Notre cabinet de physiothérapie à Ins",
+   "Physio à Ins et dans la région des Trois-Lacs",
+   "Physio Activa en questions",
+   "Prêt à commencer votre récupération ?",
+   "PATIENTS SATISFAITS"
+  ],
+  "h3n": 10,
+  "words": 1544,
+  "schema": [
+   "AboutPage",
+   "BreadcrumbList",
+   "FAQPage",
+   "ImageObject",
+   "Organization",
+   "Physiotherapy",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 5,
+  "imgs": 82,
+  "noalt": 10,
+  "internal": 24
+ },
+ {
+  "url": "https://physioactiva.ch/physio-a-yvonand/",
+  "code": 200,
+  "t": 0.84,
+  "title": "Physio Yvonand : rééducation, MTT | Physio Activa - Physio Activa",
+  "meta": "Physio à Yvonand : un physio qui explique, rééducation, dos, genou et MTT au cabinet d'Ins, du lundi au vendredi jusqu'à 20h. Domicile selon l'adresse.",
+  "canonical": "https://physioactiva.ch/physio-a-yvonand/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/11/physio-Yvonand.webp",
+  "h1": [
+   "Physio à Yvonand : votre physiothérapeute au cabinet d'Ins, en semaine jusqu'à 20h"
+  ],
+  "h2": [
+   "Physio à Yvonand : réponse rapide",
+   "Un physiothérapeute près d'Yvonand, pour qui ?",
+   "Cinq situations qui amènent chez le physio à Yvonand",
+   "Physiothérapie à domicile à Yvonand et environs",
+   "Physio à Yvonand : nos soins",
+   "Avant le physio : quand passer par le médecin ?",
+   "Votre suivi en quatre étapes",
+   "Venir au cabinet d'Ins depuis Yvonand",
+   "Assurances et horaires : physio à Yvonand",
+   "Physio Activa pour les patients d'Yvonand",
+   "Questions fréquentes sur la physio à Yvonand",
+   "Votre physio pour Yvonand, dès cette semaine",
+   "PATIENTS SATISFAITS"
+  ],
+  "h3n": 22,
+  "words": 2020,
+  "schema": [
+   "BreadcrumbList",
+   "FAQPage",
+   "ImageObject",
+   "Organization",
+   "Physiotherapy",
+   "Service",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 9,
+  "imgs": 72,
+  "noalt": 0,
+  "internal": 15
+ },
+ {
+  "url": "https://physioactiva.ch/physio-a-estavayer/",
+  "code": 200,
+  "t": 0.89,
+  "title": "Physio Estavayer : sport, drainage | Physio Activa - Physio Activa",
+  "meta": "Physio pour Estavayer-le-Lac : rééducation, reprise du sport, drainage lymphatique, au cabinet d'Ins jusqu'à 20h. Domicile selon l'adresse. Réservez.",
+  "canonical": "https://physioactiva.ch/physio-a-estavayer/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/11/Physio-Estavayer-scaled.webp",
+  "h1": [
+   "Physio à Estavayer-le-Lac : rééducation et reprise du sport au cabinet d'Ins"
+  ],
+  "h2": [
+   "Un physiothérapeute près d'Estavayer, à Ins",
+   "Physio à Estavayer : sport, lac et reprise après une blessure",
+   "Drainage lymphatique pour les patients d'Estavayer",
+   "Physiothérapie à domicile à Estavayer-le-Lac et environs",
+   "Physiothérapie pour Estavayer : nos soins",
+   "Préparer votre première séance",
+   "Ce que nous traitons souvent pour Estavayer",
+   "Venir au cabinet d'Ins depuis Estavayer",
+   "Assurances et horaires : physio à Estavayer",
+   "Physio Activa pour les patients d'Estavayer",
+   "Questions fréquentes sur la physio à Estavayer",
+   "Votre physio pour Estavayer, à Ins",
+   "PATIENTS SATISFAITS"
+  ],
+  "h3n": 17,
+  "words": 2111,
+  "schema": [
+   "BreadcrumbList",
+   "FAQPage",
+   "ImageObject",
+   "Organization",
+   "Physiotherapy",
+   "Service",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 9,
+  "imgs": 72,
+  "noalt": 1,
+  "internal": 16
+ },
+ {
+  "url": "https://physioactiva.ch/2026/06/27/perte-de-poids-et-sante-musculaire/",
+  "code": 200,
+  "t": 0.9,
+  "title": "Perte de poids et santé musculaire - Physio Activa",
+  "meta": "Après une forte perte de poids, on perd aussi du muscle. Nous vous expliquons comment le récupérer et éviter l'effet rebond avec la physiothérapie à Ins.",
+  "canonical": "https://physioactiva.ch/2026/06/27/perte-de-poids-et-sante-musculaire/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/06/3-1.jpg",
+  "h1": [
+   "Drainage lymphatique manuel : ce que c'est et à quoi ça sert"
+  ],
+  "h2": [
+   "Qu'est-ce que le drainage lymphatique et comment fonctionne-t-il ?",
+   "Principales indications : jambes lourdes, post-opératoire, grossesse",
+   "Combien de séances me faut-il et à quelle fréquence ?",
+   "Est-ce couvert par l'assurance suisse LAMal ?",
+   "Prêt à passer à l'action ?"
+  ],
+  "h3n": 0,
+  "words": 317,
+  "schema": [
+   "Article",
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "Person",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 0,
+  "imgs": 0,
+  "noalt": 0,
+  "internal": 2
+ },
+ {
+  "url": "https://physioactiva.ch/2026/06/27/sante-musculo-squelettique/",
+  "code": 200,
+  "t": 0.84,
+  "title": "Santé musculo-squelettique - Physio Activa",
+  "meta": "Vous avez mal au dos en travaillant ? Chez Physio Activa, nous vous évaluons à Ins ou à votre domicile en Suisse",
+  "canonical": "https://physioactiva.ch/2026/06/27/sante-musculo-squelettique/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2025/05/2-4.jpg",
+  "h1": [
+   "Drainage lymphatique manuel : ce que c'est et à quoi ça sert"
+  ],
+  "h2": [
+   "Qu'est-ce que le drainage lymphatique et comment fonctionne-t-il ?",
+   "Principales indications : jambes lourdes, post-opératoire, grossesse",
+   "Combien de séances me faut-il et à quelle fréquence ?",
+   "Est-ce couvert par l'assurance suisse LAMal ?",
+   "Prêt à passer à l'action ?"
+  ],
+  "h3n": 0,
+  "words": 317,
+  "schema": [
+   "Article",
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "Person",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 0,
+  "imgs": 0,
+  "noalt": 0,
+  "internal": 2
+ },
+ {
+  "url": "https://physioactiva.ch/2026/06/27/physiotherapie-a-domicile/",
+  "code": 200,
+  "t": 1.92,
+  "title": "Physiothérapie à domicile  - Physio Activa",
+  "meta": "Vous avez besoin de physiothérapie à domicile dans la région d’Ins ? Chez Physio Activa, nous vous évaluons en Suisse. → Demandez une visite à domicile.",
+  "canonical": "https://physioactiva.ch/2026/06/27/physiotherapie-a-domicile/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/06/Physio-Activa-00031.jpg",
+  "h1": [
+   "Drainage lymphatique manuel : ce que c'est et à quoi ça sert"
+  ],
+  "h2": [
+   "Qu'est-ce que le drainage lymphatique et comment fonctionne-t-il ?",
+   "Principales indications : jambes lourdes, post-opératoire, grossesse",
+   "Combien de séances me faut-il et à quelle fréquence ?",
+   "Est-ce couvert par l'assurance suisse LAMal ?",
+   "Prêt à passer à l'action ?"
+  ],
+  "h3n": 0,
+  "words": 317,
+  "schema": [
+   "Article",
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "Person",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 0,
+  "imgs": 0,
+  "noalt": 0,
+  "internal": 2
+ },
+ {
+  "url": "https://physioactiva.ch/2026/09/11/physiotherapie-a-sugiez/",
+  "code": 200,
+  "t": 2.15,
+  "title": "Physiothérapie à Sugiez - Physio Activa",
+  "meta": "Physiothérapie à domicile à Sugiez : après une opération, une chute ou pour un proche âgé, nous venons chez vous. Rendez-vous cette semaine.",
+  "canonical": "https://physioactiva.ch/2026/09/11/physiotherapie-a-sugiez/",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "ogimg": "https://physioactiva.ch/wp-content/uploads/2026/09/sugiez.webp",
+  "h1": [
+   "Drainage lymphatique manuel : ce que c'est et à quoi ça sert"
+  ],
+  "h2": [
+   "Qu'est-ce que le drainage lymphatique et comment fonctionne-t-il ?",
+   "Principales indications : jambes lourdes, post-opératoire, grossesse",
+   "Combien de séances me faut-il et à quelle fréquence ?",
+   "Est-ce couvert par l'assurance suisse LAMal ?",
+   "Prêt à passer à l'action ?"
+  ],
+  "h3n": 0,
+  "words": 317,
+  "schema": [
+   "Article",
+   "BreadcrumbList",
+   "ImageObject",
+   "Organization",
+   "Person",
+   "WebPage",
+   "WebSite"
+  ],
+  "faq_vis": 0,
+  "imgs": 0,
+  "noalt": 0,
+  "internal": 2
+ }
+]
