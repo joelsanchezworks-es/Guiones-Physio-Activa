@@ -1,0 +1,17 @@
+Página: Accueil (portada; slug interno «accueil», URL pública https://physioactiva.ch/)
+SEO title (49/60): Physio à Ins (Anet) et à domicile | Physio Activa
+Meta description (142/155): Physio à Ins (Anet) : cabinet de physiothérapie et soins à domicile dans le Seeland et les Trois-Lacs. Ouvert jusqu'à 20h. Prenez rendez-vous.
+Focus keyphrase: physio Ins
+Indexación: index, follow
+Importante: en el campo de título de Yoast, borra las variables «Séparateur» y «Titre du site».
+
+IMÁGENES (la plantilla se importa SIN imágenes para no duplicarlas; elígelas en Elementor):
+- Imagen 1 del artículo: alt: Salle de traitement du cabinet Physio Activa à Ins
+- Imagen 2 del artículo: alt: Physiothérapeute de Physio Activa en séance à Ins
+- Imagen 3 del artículo: alt: Espace de fitness médical (MTT) à l'InsGym, Ins
+- Imagen 4 del artículo: alt: Entrée du cabinet Physio Activa, Rämismatte 21 à Ins
+- Imagen 5 del artículo: alt: Lucile Combes, physiothérapeute diplômée chez Physio Activa à Ins
+- Imagen 6 del artículo: alt: Francisco Díaz, physiothérapeute diplômé chez Physio Activa à Ins
+- Vídeo del hero: ya enlazado (https://physioactiva.ch/wp-content/uploads/2026/06/Physioactiva.mp4); no se importa a la biblioteca.
+- Fondo del CTA final: https://physioactiva.ch/wp-content/uploads/2026/11/Centerbild_IMG_9184-scaled-1.jpg (por CSS).
+- Imagen destacada / Open Graph de Yoast: foto del cabinet.
